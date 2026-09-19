@@ -1,0 +1,412 @@
+{
+ "generatedAt": "2026-09-19T08:46:39+00:00",
+ "ok": false,
+ "live_items": 0,
+ "sites": {
+  "netmall": {
+   "items": 0,
+   "ok": 0,
+   "failed": 29
+  },
+  "komehyo": {
+   "items": 0,
+   "ok": 0,
+   "failed": 27
+  }
+ },
+ "queries": [
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "https://netmall.hardoff.co.jp/search/?q=SONY%20%E3%83%98%E3%83%83%E3%83%89%E3%83%9B%E3%83%B3",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "https://netmall.hardoff.co.jp/search/?q=SONY%20%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "https://netmall.hardoff.co.jp/search/?q=SONY%20%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "https://netmall.hardoff.co.jp/search/?q=BOSE%20%E3%83%98%E3%83%83%E3%83%89%E3%83%9B%E3%83%B3",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "https://netmall.hardoff.co.jp/search/?q=BOSE%20%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "https://netmall.hardoff.co.jp/search/?q=BOSE%20%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "https://netmall.hardoff.co.jp/search/?q=DENON%20%E3%83%98%E3%83%83%E3%83%89%E3%83%9B%E3%83%B3",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "https://netmall.hardoff.co.jp/search/?q=DENON%20%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "https://netmall.hardoff.co.jp/search/?q=DENON%20%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "https://netmall.hardoff.co.jp/search/?q=ONKYO%20%E3%83%98%E3%83%83%E3%83%89%E3%83%9B%E3%83%B3",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "https://netmall.hardoff.co.jp/search/?q=ONKYO%20%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "https://netmall.hardoff.co.jp/search/?q=ONKYO%20%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "https://netmall.hardoff.co.jp/search/?q=Pioneer%20%E3%83%98%E3%83%83%E3%83%89%E3%83%9B%E3%83%B3",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "https://netmall.hardoff.co.jp/search/?q=Pioneer%20%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "https://netmall.hardoff.co.jp/search/?q=Pioneer%20%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "url": "https://netmall.hardoff.co.jp/search/?q=SONY%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%9E%E3%83%B3",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "url": "https://netmall.hardoff.co.jp/search/?q=DENON%20%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "url": "https://netmall.hardoff.co.jp/search/?q=ONKYO%20%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "url": "https://netmall.hardoff.co.jp/search/?q=Pioneer%20%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "url": "https://netmall.hardoff.co.jp/search/?q=SONY%20CD%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "camera",
+   "url": "https://netmall.hardoff.co.jp/search/?q=Canon%20EOS",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "camera",
+   "url": "https://netmall.hardoff.co.jp/search/?q=SONY%20%CE%B1",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "camera",
+   "url": "https://netmall.hardoff.co.jp/search/?q=FUJIFILM%20X",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "camera",
+   "url": "https://netmall.hardoff.co.jp/search/?q=Nikon%20%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%AC%E3%82%B9",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "camera",
+   "url": "https://netmall.hardoff.co.jp/search/?q=RICOH%20GR",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "lens",
+   "url": "https://netmall.hardoff.co.jp/search/?q=Canon%20%E3%83%AC%E3%83%B3%E3%82%BA",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "lens",
+   "url": "https://netmall.hardoff.co.jp/search/?q=SONY%20%E3%83%AC%E3%83%B3%E3%82%BA",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "lens",
+   "url": "https://netmall.hardoff.co.jp/search/?q=Nikon%20%E3%83%AC%E3%83%B3%E3%82%BA",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "netmall",
+   "cat": "lens",
+   "url": "https://netmall.hardoff.co.jp/search/?q=SIGMA%20%E3%83%AC%E3%83%B3%E3%82%BA",
+   "found": 0,
+   "note": "HTTP 403"
+  },
+  {
+   "site": "komehyo",
+   "cat": "watch",
+   "url": "https://komehyo.jp/watch-mens/?q=%E3%82%BB%E3%82%A4%E3%82%B3%E3%83%BC",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "watch",
+   "url": "https://komehyo.jp/watch-mens/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%BB%E3%82%A4%E3%82%B3%E3%83%BC",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "watch",
+   "url": "https://komehyo.jp/watch-mens/?q=%E3%82%AA%E3%83%A1%E3%82%AC",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "watch",
+   "url": "https://komehyo.jp/watch-mens/?q=%E3%82%BF%E3%82%B0%E3%83%BB%E3%83%9B%E3%82%A4%E3%83%A4%E3%83%BC",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "watch",
+   "url": "https://komehyo.jp/watch-mens/?q=%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%A8",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "watch",
+   "url": "https://komehyo.jp/watch-mens/?q=%E3%83%AD%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "watch",
+   "url": "https://komehyo.jp/watch-ladies/?q=%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%A8",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "bag",
+   "url": "https://komehyo.jp/brandbag/?q=%E3%82%B7%E3%83%A3%E3%83%8D%E3%83%AB",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "bag",
+   "url": "https://komehyo.jp/brandbag/?q=%E3%83%AB%E3%82%A4%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%88%E3%83%B3",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "bag",
+   "url": "https://komehyo.jp/brandbag/?q=%E3%82%B0%E3%83%83%E3%83%81",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "bag",
+   "url": "https://komehyo.jp/brandbag/?q=%E3%83%97%E3%83%A9%E3%83%80",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "bag",
+   "url": "https://komehyo.jp/brandbag/?q=%E3%82%BB%E3%83%AA%E3%83%BC%E3%83%8C",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "bag",
+   "url": "https://komehyo.jp/brandbag/?q=%E3%83%95%E3%82%A7%E3%83%B3%E3%83%87%E3%82%A3",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "ring",
+   "url": "https://komehyo.jp/brandjewelry_ring/?q=%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%A8",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "ring",
+   "url": "https://komehyo.jp/brandjewelry_ring/?q=%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%83%8B%E3%83%BC",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "ring",
+   "url": "https://komehyo.jp/brandjewelry_ring/?q=%E3%83%96%E3%83%AB%E3%82%AC%E3%83%AA",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "ring",
+   "url": "https://komehyo.jp/brandjewelry_ring/?q=%E3%82%B7%E3%83%A3%E3%83%8D%E3%83%AB",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "ring",
+   "url": "https://komehyo.jp/brandjewelry_ring/?q=%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%95",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "camera",
+   "url": "https://komehyo.jp/camera/?q=%E3%83%A9%E3%82%A4%E3%82%AB",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "camera",
+   "url": "https://komehyo.jp/camera/?q=%E3%82%AD%E3%83%A4%E3%83%8E%E3%83%B3",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "camera",
+   "url": "https://komehyo.jp/camera/?q=%E3%83%8B%E3%82%B3%E3%83%B3",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "camera",
+   "url": "https://komehyo.jp/camera/?q=%E3%82%BD%E3%83%8B%E3%83%BC",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "camera",
+   "url": "https://komehyo.jp/camera/?q=%E5%AF%8C%E5%A3%AB%E3%83%95%E3%82%A4%E3%83%AB%E3%83%A0",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "camera",
+   "url": "https://komehyo.jp/camera/?q=%E3%83%AA%E3%82%B3%E3%83%BC",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "lens",
+   "url": "https://komehyo.jp/camera/?q=%E3%82%AD%E3%83%A4%E3%83%8E%E3%83%B3%20%E3%83%AC%E3%83%B3%E3%82%BA",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "lens",
+   "url": "https://komehyo.jp/camera/?q=%E3%83%8B%E3%82%B3%E3%83%B3%20%E3%83%AC%E3%83%B3%E3%82%BA",
+   "found": 0,
+   "note": "HTTP 500"
+  },
+  {
+   "site": "komehyo",
+   "cat": "lens",
+   "url": "https://komehyo.jp/camera/?q=%E3%82%BD%E3%83%8B%E3%83%BC%20%E3%83%AC%E3%83%B3%E3%82%BA",
+   "found": 0,
+   "note": "HTTP 500"
+  }
+ ],
+ "message": "Only 0 listings parsed (need 15); products.json left unchanged. See queries[].note for HTTP errors or robots.txt blocks, then run scrape.py --probe on a listing URL."
+}
