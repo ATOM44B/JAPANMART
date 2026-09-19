@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-19T11:48:58+00:00",
+ "generatedAt": "2026-09-19T11:54:01+00:00",
  "ok": true,
  "live_items": 1648,
  "sites": {
@@ -13,6 +13,16 @@
    "ok": 53,
    "failed": 0
   }
+ },
+ "photos": {
+  "listings_with_photo": 576,
+  "listings_without_photo": 1072,
+  "from_product_pages": 80,
+  "examples_without_photo": [
+   "https://komehyo.jp/product/230-000-819-7831/",
+   "https://komehyo.jp/product/270-004-257-2357/",
+   "https://komehyo.jp/product/230-000-509-1354/"
+  ]
  },
  "refused_by": {
   "netmall.hardoff.co.jp": {
