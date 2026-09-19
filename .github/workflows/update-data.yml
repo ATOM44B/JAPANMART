@@ -129,6 +129,7 @@ jobs:
           python3 scraper/embed.py index.html data/products.json _site/index.html
           cp data/products.json _site/data/
           cp data/scrape_status.json _site/data/ 2>/dev/null || true
+          cp data/app.json _site/data/ 2>/dev/null || true
 
       - uses: actions/upload-pages-artifact@v5
         with:
