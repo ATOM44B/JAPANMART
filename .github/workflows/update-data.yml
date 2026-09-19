@@ -21,6 +21,19 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.ref }}        # always start from the newest commit, also when a run is repeated
+
+      - name: Check the upload is complete
+        run: |
+          missing=""
+          for f in index.html data/products.json scraper/scrape.py scraper/config.json scraper/requirements.txt; do
+            if [ ! -f "$f" ]; then
+              echo "::error title=A file is missing from the repository::$f was not found. index.html, data/ and scraper/ must be at the top level of the repository, not inside another folder. Upload them again."
+              missing=1
+            fi
+          done
+          [ -z "$missing" ]
 
       - uses: actions/setup-python@v7
         with:
@@ -30,19 +43,41 @@ jobs:
         run: pip install -r scraper/requirements.txt
 
       - name: Fetch listings from Komehyo and Netmall
-        continue-on-error: true
         run: python scraper/scrape.py
 
       - name: Save refreshed data to the repository
         run: |
+          BRANCH="${GITHUB_REF_NAME}"
           git config user.name "scout-bot"
           git config user.email "scout-bot@users.noreply.github.com"
-          git add -A data
-          git diff --cached --quiet || (git commit -m "data: update $(date -u +%F' '%H:%M) UTC" && git push)
+          mkdir -p /tmp/keep
+          stage() {
+            for f in data/products.json data/scrape_status.json; do
+              [ -f "$f" ] && cp "$f" /tmp/keep/ && git add -- "$f"
+            done
+            return 0
+          }
+          stage
+          if git diff --cached --quiet; then echo "No data changes to save."; exit 0; fi
+          git commit -m "data: update $(date -u +'%F %H:%M') UTC"
+          for attempt in 1 2 3; do
+            if git push origin "HEAD:${BRANCH}"; then exit 0; fi
+            echo "Push rejected because the repository has newer commits. Refreshing and trying again (attempt ${attempt} of 3)."
+            git fetch origin "${BRANCH}"
+            git reset --hard "origin/${BRANCH}"
+            cp /tmp/keep/* data/
+            stage
+            if git diff --cached --quiet; then echo "Data is already up to date."; exit 0; fi
+            git commit -m "data: update $(date -u +'%F %H:%M') UTC"
+          done
+          echo "::error title=Could not save the data::GitHub kept rejecting the push. Run the workflow again with Actions > Update data and deploy > Run workflow."
+          exit 1
 
-  # Job 2: publish the site. This is a separate job, so the data above is saved even if Pages is not set up yet.
+  # Job 2: publish the site. It is a separate job, so the data above is saved even if Pages is not set up yet,
+  # and the site is still published (with the last good data) if the data job had a problem.
   deploy:
     needs: update
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-24.04
     permissions:
       contents: read
