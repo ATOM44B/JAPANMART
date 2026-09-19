@@ -1,0 +1,63 @@
+name: Update data and deploy
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"      # every 3 hours (GitHub may start it a few minutes late)
+  workflow_dispatch:            # the "Run workflow" button
+  push:
+    branches: [main]            # also runs when you upload or edit files
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: scout
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install scraper dependencies
+        run: pip install -r scraper/requirements.txt
+
+      # A scraping problem never blocks the deploy: if too little comes back,
+      # data/products.json keeps its last good version and the reason goes to data/scrape_status.json.
+      - name: Fetch listings from Komehyo and Netmall
+        continue-on-error: true
+        run: python scraper/scrape.py
+
+      - name: Save refreshed data to the repository
+        run: |
+          git config user.name "scout-bot"
+          git config user.email "scout-bot@users.noreply.github.com"
+          git add -A data
+          git diff --cached --quiet || (git commit -m "data: update $(date -u +%F' '%H:%M) UTC" && git push)
+
+      - name: Build the site
+        run: |
+          mkdir -p _site/data
+          cp index.html _site/
+          cp data/products.json _site/data/
+          cp data/scrape_status.json _site/data/ 2>/dev/null || true
+          touch _site/.nojekyll
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
