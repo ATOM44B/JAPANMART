@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-09-19",
- "generatedAt": "2026-09-19T15:18:17+00:00",
+ "generatedAt": "2026-09-19T15:20:08+00:00",
  "fx": 0.21222,
  "fxDate": "2026-09-19",
  "counts": {
@@ -4064,27 +4064,6 @@
    "comps": []
   },
   {
-   "id": "k2700043401496",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "CARTIER",
-   "model": "W31005H3",
-   "desc": "【ノーメンテナンス還元価格】カルティエ パシャ W31005H3 SS 自動巻 Cartier",
-   "cond": "B",
-   "jpy": 380000,
-   "kg": 0.4,
-   "sq": "W31005H3",
-   "store": "梅田店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/a87/2700043401496_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-340-1496/",
-   "mkt": 380000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "k2300006573613",
    "cat": "ring",
    "src": "komehyo",
@@ -7357,6 +7336,27 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-352-1064/",
    "mkt": 95000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2300003040316",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "LOUIS VUITTON",
+   "model": "N60008",
+   "desc": "値下げ 10％引き ルイヴィトン ダミエ ドゥオモ N60008 バッグ LOUIS VUITTON",
+   "cond": "B",
+   "jpy": 90000,
+   "kg": 1.2,
+   "sq": "N60008",
+   "store": "名古屋本店BAG＋",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/78c/2300003040316_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-304-0316/",
+   "mkt": 90000,
    "mktN": 1,
    "comps": []
   },
