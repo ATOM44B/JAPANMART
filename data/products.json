@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-09-19",
- "generatedAt": "2026-09-19T15:21:52+00:00",
+ "generatedAt": "2026-09-19T15:37:19+00:00",
  "fx": 0.21222,
  "fxDate": "2026-09-19",
  "counts": {
@@ -26,8 +26,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-172-3167/",
-   "mkt": 51000,
-   "mktN": 66,
+   "mkt": 53000,
+   "mktN": 67,
    "comps": []
   },
   {
@@ -47,8 +47,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-397-1487/",
-   "mkt": 63500,
-   "mktN": 34,
+   "mkt": 67000,
+   "mktN": 33,
    "comps": []
   },
   {
@@ -68,8 +68,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-531-1650/",
-   "mkt": 51000,
-   "mktN": 66,
+   "mkt": 53000,
+   "mktN": 67,
    "comps": []
   },
   {
@@ -89,8 +89,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-386-2563/",
-   "mkt": 51000,
-   "mktN": 66,
+   "mkt": 53000,
+   "mktN": 67,
    "comps": []
   },
   {
@@ -110,8 +110,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-532-4537/",
-   "mkt": 51000,
-   "mktN": 66,
+   "mkt": 53000,
+   "mktN": 67,
    "comps": []
   },
   {
@@ -178,6 +178,27 @@
    "comps": []
   },
   {
+   "id": "k2600075326432",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "NIKON",
+   "model": "新入荷 ＡＦ－Ｓ５０ｍｍ Ｆ１．８Ｇ",
+   "desc": "新入荷 ＡＦ－Ｓ５０ｍｍ Ｆ１．８Ｇ NIKON",
+   "cond": "Ａ",
+   "jpy": 18000,
+   "kg": 1.2,
+   "sq": "新入荷 ＡＦ－Ｓ５０ｍｍ Ｆ１．８Ｇ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/795/2600075326432s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-532-6432/",
+   "mkt": 67000,
+   "mktN": 33,
+   "comps": []
+  },
+  {
    "id": "k2700043175847",
    "cat": "camera",
    "src": "komehyo",
@@ -199,27 +220,6 @@
    "comps": []
   },
   {
-   "id": "k2600075326432",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "NIKON",
-   "model": "新入荷 ＡＦ－Ｓ５０ｍｍ Ｆ１．８Ｇ",
-   "desc": "新入荷 ＡＦ－Ｓ５０ｍｍ Ｆ１．８Ｇ NIKON",
-   "cond": "Ａ",
-   "jpy": 18000,
-   "kg": 1.2,
-   "sq": "新入荷 ＡＦ－Ｓ５０ｍｍ Ｆ１．８Ｇ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/795/2600075326432s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-007-532-6432/",
-   "mkt": 63500,
-   "mktN": 34,
-   "comps": []
-  },
-  {
    "id": "k2600075322083",
    "cat": "camera",
    "src": "komehyo",
@@ -236,8 +236,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-532-2083/",
-   "mkt": 51000,
-   "mktN": 66,
+   "mkt": 53000,
+   "mktN": 67,
    "comps": []
   },
   {
@@ -257,8 +257,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-355-2648/",
-   "mkt": 51000,
-   "mktN": 66,
+   "mkt": 53000,
+   "mktN": 67,
    "comps": []
   },
   {
@@ -278,8 +278,29 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-314-7589/",
-   "mkt": 51000,
-   "mktN": 66,
+   "mkt": 53000,
+   "mktN": 67,
+   "comps": []
+  },
+  {
+   "id": "k2600083809248",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "CELINE",
+   "model": "バッグ",
+   "desc": "【ヴィンテージ】セリーヌ バッグ CELINE",
+   "cond": "A",
+   "jpy": 35000,
+   "kg": 1.2,
+   "sq": "バッグ",
+   "store": "KOMEHYO SHIBUYA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/15c/2600083809248_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-008-380-9248/",
+   "mkt": 120000,
+   "mktN": 17,
    "comps": []
   },
   {
@@ -343,6 +364,90 @@
    "url": "https://komehyo.jp/product/260-007-532-9938/",
    "mkt": 57950,
    "mktN": 44,
+   "comps": []
+  },
+  {
+   "id": "k2300005478056",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "CELINE",
+   "model": "バッグ",
+   "desc": "【ヴィンテージ】セリーヌ バッグ CELINE",
+   "cond": "B",
+   "jpy": 40000,
+   "kg": 1.2,
+   "sq": "バッグ",
+   "store": "KOMEHYO SHIBUYA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/21a/2300005478056_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-547-8056/",
+   "mkt": 120000,
+   "mktN": 17,
+   "comps": []
+  },
+  {
+   "id": "k2700043463548",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "SONY",
+   "model": "Ｅ５５－２１０ｍｍ Ｆ４．５－６．３ＯＳＳ",
+   "desc": "Ｅ５５－２１０ｍｍ Ｆ４．５－６．３ＯＳＳ（ＳＥＬ５５２１０） SONY",
+   "cond": "Ａ",
+   "jpy": 18000,
+   "kg": 1.2,
+   "sq": "Ｅ５５－２１０ｍｍ Ｆ４．５－６．３ＯＳＳ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/c5b/2700043463548s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-346-3548/",
+   "mkt": 53000,
+   "mktN": 67,
+   "comps": []
+  },
+  {
+   "id": "k2700043510204",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "FUJIFILM",
+   "model": "ＦＩＮＥＰＩＸ ＨＳ５０ＥＸＲ",
+   "desc": "ＦＩＮＥＰＩＸ ＨＳ５０ＥＸＲ FUJIFILM",
+   "cond": "Ｃ",
+   "jpy": 18000,
+   "kg": 1.2,
+   "sq": "ＦＩＮＥＰＩＸ ＨＳ５０ＥＸＲ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/600/2700043510204s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-351-0204/",
+   "mkt": 53000,
+   "mktN": 67,
+   "comps": []
+  },
+  {
+   "id": "k2600073150817",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "NIKON",
+   "model": "ＶＲ３０－１１０ｍｍ Ｆ３．８－５．６",
+   "desc": "ＶＲ３０－１１０ｍｍ Ｆ３．８－５．６ NIKON",
+   "cond": "Ｂ",
+   "jpy": 18000,
+   "kg": 1.2,
+   "sq": "ＶＲ３０－１１０ｍｍ Ｆ３．８－５．６",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/29f/2600073150817s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-315-0817/",
+   "mkt": 53000,
+   "mktN": 67,
    "comps": []
   },
   {
@@ -430,69 +535,6 @@
    "comps": []
   },
   {
-   "id": "k2700043463548",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "SONY",
-   "model": "Ｅ５５－２１０ｍｍ Ｆ４．５－６．３ＯＳＳ",
-   "desc": "Ｅ５５－２１０ｍｍ Ｆ４．５－６．３ＯＳＳ（ＳＥＬ５５２１０） SONY",
-   "cond": "Ａ",
-   "jpy": 18000,
-   "kg": 1.2,
-   "sq": "Ｅ５５－２１０ｍｍ Ｆ４．５－６．３ＯＳＳ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/c5b/2700043463548s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-346-3548/",
-   "mkt": 51000,
-   "mktN": 66,
-   "comps": []
-  },
-  {
-   "id": "k2700043510204",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "FUJIFILM",
-   "model": "ＦＩＮＥＰＩＸ ＨＳ５０ＥＸＲ",
-   "desc": "ＦＩＮＥＰＩＸ ＨＳ５０ＥＸＲ FUJIFILM",
-   "cond": "Ｃ",
-   "jpy": 18000,
-   "kg": 1.2,
-   "sq": "ＦＩＮＥＰＩＸ ＨＳ５０ＥＸＲ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/600/2700043510204s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-351-0204/",
-   "mkt": 51000,
-   "mktN": 66,
-   "comps": []
-  },
-  {
-   "id": "k2600073150817",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "NIKON",
-   "model": "ＶＲ３０－１１０ｍｍ Ｆ３．８－５．６",
-   "desc": "ＶＲ３０－１１０ｍｍ Ｆ３．８－５．６ NIKON",
-   "cond": "Ｂ",
-   "jpy": 18000,
-   "kg": 1.2,
-   "sq": "ＶＲ３０－１１０ｍｍ Ｆ３．８－５．６",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/29f/2600073150817s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-007-315-0817/",
-   "mkt": 51000,
-   "mktN": 66,
-   "comps": []
-  },
-  {
    "id": "k2300003980902",
    "cat": "bag",
    "src": "komehyo",
@@ -511,6 +553,27 @@
    "url": "https://komehyo.jp/product/230-000-398-0902/",
    "mkt": 66500,
    "mktN": 5,
+   "comps": []
+  },
+  {
+   "id": "k2600075326449",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "NIKON",
+   "model": "新入荷 ３０ｍｍ Ｆ１．４ＤＣ",
+   "desc": "新入荷 ニコン３０ｍｍ Ｆ１．４ＤＣ ＨＳＭ（Ａ） 09月17日入荷 SIGMA",
+   "cond": "Ｂ",
+   "jpy": 24000,
+   "kg": 1.2,
+   "sq": "新入荷 ３０ｍｍ Ｆ１．４ＤＣ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/3af/2600075326449s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-532-6449/",
+   "mkt": 67000,
+   "mktN": 33,
    "comps": []
   },
   {
@@ -556,45 +619,24 @@
    "comps": []
   },
   {
-   "id": "k2700043612502",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "CELINE",
-   "model": "バッグ",
-   "desc": "セリーヌ バッグ CELINE",
-   "cond": "B",
-   "jpy": 30000,
-   "kg": 1.2,
-   "sq": "バッグ",
-   "store": "【新店】KOMEHYO VINTAGE TOKYO atelier",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/87a/2700043612502_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-361-2502/",
-   "mkt": 80000,
-   "mktN": 17,
-   "comps": []
-  },
-  {
-   "id": "k2600075326449",
+   "id": "k2700043880017",
    "cat": "camera",
    "src": "komehyo",
    "brand": "NIKON",
-   "model": "新入荷 ３０ｍｍ Ｆ１．４ＤＣ",
-   "desc": "新入荷 ニコン３０ｍｍ Ｆ１．４ＤＣ ＨＳＭ（Ａ） 09月17日入荷 SIGMA",
+   "model": "新入荷 ８－１６ｍｍ Ｆ４．５－５．６ＤＣＨＳ",
+   "desc": "新入荷 ニコン８－１６ｍｍ Ｆ４．５－５．６ＤＣＨＳ SIGMA",
    "cond": "Ｂ",
-   "jpy": 24000,
+   "jpy": 25000,
    "kg": 1.2,
-   "sq": "新入荷 ３０ｍｍ Ｆ１．４ＤＣ",
+   "sq": "新入荷 ８－１６ｍｍ Ｆ４．５－５．６ＤＣＨＳ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/3af/2600075326449s.jpg"
+    "https://img.komehyo.jp/contents/images/goods/b46/2700043880017s.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/260-007-532-6449/",
-   "mkt": 63500,
-   "mktN": 34,
+   "url": "https://komehyo.jp/product/270-004-388-0017/",
+   "mkt": 67000,
+   "mktN": 33,
    "comps": []
   },
   {
@@ -614,29 +656,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-314-4793/",
-   "mkt": 51000,
-   "mktN": 66,
-   "comps": []
-  },
-  {
-   "id": "k2700043880017",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "NIKON",
-   "model": "新入荷 ８－１６ｍｍ Ｆ４．５－５．６ＤＣＨＳ",
-   "desc": "新入荷 ニコン８－１６ｍｍ Ｆ４．５－５．６ＤＣＨＳ SIGMA",
-   "cond": "Ｂ",
-   "jpy": 25000,
-   "kg": 1.2,
-   "sq": "新入荷 ８－１６ｍｍ Ｆ４．５－５．６ＤＣＨＳ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/b46/2700043880017s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-388-0017/",
-   "mkt": 63500,
-   "mktN": 34,
+   "mkt": 53000,
+   "mktN": 67,
    "comps": []
   },
   {
@@ -656,8 +677,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-391-7485/",
-   "mkt": 63500,
-   "mktN": 34,
+   "mkt": 67000,
+   "mktN": 33,
    "comps": []
   },
   {
@@ -682,27 +703,6 @@
    "comps": []
   },
   {
-   "id": "k2600073144809",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "CANON",
-   "model": "Ｉ６０Ａ 用",
-   "desc": "Ｉ６０Ａ キヤノン用",
-   "cond": "Ａ",
-   "jpy": 18000,
-   "kg": 1.2,
-   "sq": "Ｉ６０Ａ 用",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/9d4/2600073144809s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-007-314-4809/",
-   "mkt": 43000,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "k2700043862549",
    "cat": "camera",
    "src": "komehyo",
@@ -719,8 +719,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-386-2549/",
-   "mkt": 51000,
-   "mktN": 66,
+   "mkt": 53000,
+   "mktN": 67,
    "comps": []
   },
   {
@@ -740,8 +740,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-368-6091/",
-   "mkt": 51000,
-   "mktN": 66,
+   "mkt": 53000,
+   "mktN": 67,
    "comps": []
   },
   {
@@ -761,8 +761,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-377-7119/",
-   "mkt": 51000,
-   "mktN": 66,
+   "mkt": 53000,
+   "mktN": 67,
    "comps": []
   },
   {
@@ -782,8 +782,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-386-1405/",
-   "mkt": 51000,
-   "mktN": 66,
+   "mkt": 53000,
+   "mktN": 67,
    "comps": []
   },
   {
@@ -803,29 +803,29 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-361-1956/",
-   "mkt": 51000,
-   "mktN": 66,
+   "mkt": 53000,
+   "mktN": 67,
    "comps": []
   },
   {
-   "id": "k2600083809248",
-   "cat": "bag",
+   "id": "k2600073144809",
+   "cat": "camera",
    "src": "komehyo",
-   "brand": "CELINE",
-   "model": "バッグ",
-   "desc": "【ヴィンテージ】セリーヌ バッグ CELINE",
-   "cond": "A",
-   "jpy": 35000,
+   "brand": "CANON",
+   "model": "Ｉ６０Ａ 用",
+   "desc": "Ｉ６０Ａ キヤノン用",
+   "cond": "Ａ",
+   "jpy": 18000,
    "kg": 1.2,
-   "sq": "バッグ",
-   "store": "KOMEHYO SHIBUYA",
+   "sq": "Ｉ６０Ａ 用",
+   "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/15c/2600083809248_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/9d4/2600073144809s.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/260-008-380-9248/",
-   "mkt": 80000,
-   "mktN": 17,
+   "url": "https://komehyo.jp/product/260-007-314-4809/",
+   "mkt": 43000,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -850,6 +850,48 @@
    "comps": []
   },
   {
+   "id": "k2600075323721",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "CANON",
+   "model": "ＥＯＳ ＫＩＳＳ Ｘ７",
+   "desc": "ＥＯＳ ＫＩＳＳ Ｘ７ CANON",
+   "cond": "Ｂ",
+   "jpy": 25000,
+   "kg": 1.2,
+   "sq": "ＥＯＳ ＫＩＳＳ Ｘ７",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/de4/2600075323721s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-532-3721/",
+   "mkt": 53000,
+   "mktN": 67,
+   "comps": []
+  },
+  {
+   "id": "k2700043879738",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "NIKON",
+   "model": "５０ｍｍ Ｆ１．４ＥＸ ＤＧ",
+   "desc": "ニコン５０ｍｍ Ｆ１．４ＥＸ ＤＧ ＨＳＭ SIGMA",
+   "cond": "Ｂ",
+   "jpy": 25000,
+   "kg": 1.2,
+   "sq": "５０ｍｍ Ｆ１．４ＥＸ ＤＧ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/a1b/2700043879738s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-387-9738/",
+   "mkt": 53000,
+   "mktN": 67,
+   "comps": []
+  },
+  {
    "id": "k2600073145127",
    "cat": "camera",
    "src": "komehyo",
@@ -871,66 +913,24 @@
    "comps": []
   },
   {
-   "id": "k2600075323721",
+   "id": "k2700044013445",
    "cat": "camera",
    "src": "komehyo",
    "brand": "CANON",
-   "model": "ＥＯＳ ＫＩＳＳ Ｘ７",
-   "desc": "ＥＯＳ ＫＩＳＳ Ｘ７ CANON",
-   "cond": "Ｂ",
-   "jpy": 25000,
+   "model": "新入荷 ＥＦ８５ｍｍ Ｆ１．８ＵＳＭ",
+   "desc": "新入荷 ＥＦ８５ｍｍ Ｆ１．８ＵＳＭ CANON",
+   "cond": "Ｃ",
+   "jpy": 35000,
    "kg": 1.2,
-   "sq": "ＥＯＳ ＫＩＳＳ Ｘ７",
+   "sq": "新入荷 ＥＦ８５ｍｍ Ｆ１．８ＵＳＭ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/de4/2600075323721s.jpg"
+    "https://img.komehyo.jp/contents/images/goods/775/2700044013445s.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/260-007-532-3721/",
-   "mkt": 51000,
-   "mktN": 66,
-   "comps": []
-  },
-  {
-   "id": "k2700043879738",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "NIKON",
-   "model": "５０ｍｍ Ｆ１．４ＥＸ ＤＧ",
-   "desc": "ニコン５０ｍｍ Ｆ１．４ＥＸ ＤＧ ＨＳＭ SIGMA",
-   "cond": "Ｂ",
-   "jpy": 25000,
-   "kg": 1.2,
-   "sq": "５０ｍｍ Ｆ１．４ＥＸ ＤＧ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/a1b/2700043879738s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-387-9738/",
-   "mkt": 51000,
-   "mktN": 66,
-   "comps": []
-  },
-  {
-   "id": "k2300005478056",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "CELINE",
-   "model": "バッグ",
-   "desc": "【ヴィンテージ】セリーヌ バッグ CELINE",
-   "cond": "B",
-   "jpy": 40000,
-   "kg": 1.2,
-   "sq": "バッグ",
-   "store": "KOMEHYO SHIBUYA",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/21a/2300005478056_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-547-8056/",
-   "mkt": 80000,
-   "mktN": 17,
+   "url": "https://komehyo.jp/product/270-004-401-3445/",
+   "mkt": 67000,
+   "mktN": 33,
    "comps": []
   },
   {
@@ -955,24 +955,45 @@
    "comps": []
   },
   {
-   "id": "k2700044013445",
+   "id": "k2700043940940",
    "cat": "camera",
    "src": "komehyo",
    "brand": "CANON",
    "model": "新入荷 ＥＦ８５ｍｍ Ｆ１．８ＵＳＭ",
    "desc": "新入荷 ＥＦ８５ｍｍ Ｆ１．８ＵＳＭ CANON",
-   "cond": "Ｃ",
-   "jpy": 35000,
+   "cond": "Ａ",
+   "jpy": 37000,
    "kg": 1.2,
    "sq": "新入荷 ＥＦ８５ｍｍ Ｆ１．８ＵＳＭ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/775/2700044013445s.jpg"
+    "https://img.komehyo.jp/contents/images/goods/d6f/2700043940940s.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/270-004-401-3445/",
-   "mkt": 63500,
-   "mktN": 34,
+   "url": "https://komehyo.jp/product/270-004-394-0940/",
+   "mkt": 67000,
+   "mktN": 33,
+   "comps": []
+  },
+  {
+   "id": "k2600075325718",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "NIKON",
+   "model": "新入荷 ２８－３００ｍｍ Ｆ３．５－６．３ＤＩ",
+   "desc": "新入荷 ニコン２８－３００ｍｍ Ｆ３．５－６．３ＤＩ Ａ０１０ TAMRON",
+   "cond": "Ｂ",
+   "jpy": 37000,
+   "kg": 1.2,
+   "sq": "新入荷 ２８－３００ｍｍ Ｆ３．５－６．３ＤＩ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/b05/2600075325718s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-532-5718/",
+   "mkt": 67000,
+   "mktN": 33,
    "comps": []
   },
   {
@@ -1039,6 +1060,48 @@
    "comps": []
   },
   {
+   "id": "k2700043879684",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "SONY",
+   "model": "新入荷 Ｅ３０ｍｍ Ｆ１．４ＤＣ",
+   "desc": "新入荷 ソニーＥ３０ｍｍ Ｆ１．４ＤＣ ＤＮ（Ｃ） 09月17日入荷 SIGMA",
+   "cond": "Ｂ",
+   "jpy": 38000,
+   "kg": 1.2,
+   "sq": "新入荷 Ｅ３０ｍｍ Ｆ１．４ＤＣ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/107/2700043879684s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-387-9684/",
+   "mkt": 67000,
+   "mktN": 33,
+   "comps": []
+  },
+  {
+   "id": "k2700044013766",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "SONY",
+   "model": "新入荷 Ｅ３０ｍｍ Ｆ１．４ＤＣ",
+   "desc": "新入荷 ソニーＥ３０ｍｍ Ｆ１．４ＤＣ ＤＮ（Ｃ） SIGMA",
+   "cond": "Ｂ",
+   "jpy": 38000,
+   "kg": 1.2,
+   "sq": "新入荷 Ｅ３０ｍｍ Ｆ１．４ＤＣ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/669/2700044013766s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-401-3766/",
+   "mkt": 67000,
+   "mktN": 33,
+   "comps": []
+  },
+  {
    "id": "k2700042633843",
    "cat": "bag",
    "src": "komehyo",
@@ -1060,87 +1123,109 @@
    "comps": []
   },
   {
-   "id": "k2700043940940",
-   "cat": "camera",
+   "id": "k2700043820853",
+   "cat": "bag",
    "src": "komehyo",
-   "brand": "CANON",
-   "model": "新入荷 ＥＦ８５ｍｍ Ｆ１．８ＵＳＭ",
-   "desc": "新入荷 ＥＦ８５ｍｍ Ｆ１．８ＵＳＭ CANON",
-   "cond": "Ａ",
-   "jpy": 37000,
+   "brand": "CELINE",
+   "model": "バッグ",
+   "desc": "セリーヌ バッグ CELINE",
+   "cond": "A",
+   "jpy": 70000,
    "kg": 1.2,
-   "sq": "新入荷 ＥＦ８５ｍｍ Ｆ１．８ＵＳＭ",
-   "store": "名古屋本館",
+   "sq": "バッグ",
+   "store": "KOMEHYO VINTAGE TOKYO",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/d6f/2700043940940s.jpg"
+    "https://img.komehyo.jp/contents/images/goods/c33/2700043820853_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/270-004-394-0940/",
-   "mkt": 63500,
-   "mktN": 34,
+   "url": "https://komehyo.jp/product/270-004-382-0853/",
+   "mkt": 120000,
+   "mktN": 17,
    "comps": []
   },
   {
-   "id": "k2600075325718",
-   "cat": "camera",
+   "id": "k2700043336835",
+   "cat": "bag",
    "src": "komehyo",
-   "brand": "NIKON",
-   "model": "新入荷 ２８－３００ｍｍ Ｆ３．５－６．３ＤＩ",
-   "desc": "新入荷 ニコン２８－３００ｍｍ Ｆ３．５－６．３ＤＩ Ａ０１０ TAMRON",
-   "cond": "Ｂ",
-   "jpy": 37000,
+   "brand": "CELINE",
+   "model": "バッグ",
+   "desc": "セリーヌ バッグ CELINE",
+   "cond": "A",
+   "jpy": 70000,
    "kg": 1.2,
-   "sq": "新入荷 ２８－３００ｍｍ Ｆ３．５－６．３ＤＩ",
-   "store": "名古屋本館",
+   "sq": "バッグ",
+   "store": "KOMEHYO VINTAGE TOKYO",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/b05/2600075325718s.jpg"
+    "https://img.komehyo.jp/contents/images/goods/2c9/2700043336835_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/260-007-532-5718/",
-   "mkt": 63500,
-   "mktN": 34,
+   "url": "https://komehyo.jp/product/270-004-333-6835/",
+   "mkt": 120000,
+   "mktN": 17,
    "comps": []
   },
   {
-   "id": "k2700043879684",
-   "cat": "camera",
+   "id": "k2300005230630",
+   "cat": "bag",
    "src": "komehyo",
-   "brand": "SONY",
-   "model": "新入荷 Ｅ３０ｍｍ Ｆ１．４ＤＣ",
-   "desc": "新入荷 ソニーＥ３０ｍｍ Ｆ１．４ＤＣ ＤＮ（Ｃ） 09月17日入荷 SIGMA",
-   "cond": "Ｂ",
-   "jpy": 38000,
+   "brand": "CELINE",
+   "model": "バッグ",
+   "desc": "セリーヌ バッグ CELINE",
+   "cond": "A",
+   "jpy": 70000,
    "kg": 1.2,
-   "sq": "新入荷 Ｅ３０ｍｍ Ｆ１．４ＤＣ",
-   "store": "名古屋本館",
+   "sq": "バッグ",
+   "store": "【新店】KOMEHYO VINTAGE TOKYO atelier",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/107/2700043879684s.jpg"
+    "https://img.komehyo.jp/contents/images/goods/508/2300005230630_1_b.jpg",
+    "https://img.komehyo.jp/contents/images/goods/508/2300005230630_7_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/270-004-387-9684/",
-   "mkt": 63500,
-   "mktN": 34,
+   "url": "https://komehyo.jp/product/230-000-523-0630/",
+   "mkt": 120000,
+   "mktN": 17,
    "comps": []
   },
   {
-   "id": "k2700044013766",
-   "cat": "camera",
+   "id": "k2700041983987",
+   "cat": "bag",
    "src": "komehyo",
-   "brand": "SONY",
-   "model": "新入荷 Ｅ３０ｍｍ Ｆ１．４ＤＣ",
-   "desc": "新入荷 ソニーＥ３０ｍｍ Ｆ１．４ＤＣ ＤＮ（Ｃ） SIGMA",
-   "cond": "Ｂ",
-   "jpy": 38000,
+   "brand": "CELINE",
+   "model": "バッグ",
+   "desc": "セリーヌ バッグ CELINE",
+   "cond": "A",
+   "jpy": 70000,
    "kg": 1.2,
-   "sq": "新入荷 Ｅ３０ｍｍ Ｆ１．４ＤＣ",
-   "store": "名古屋本館",
+   "sq": "バッグ",
+   "store": "KOMEHYO VINTAGE TOKYO",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/669/2700044013766s.jpg"
+    "https://img.komehyo.jp/contents/images/goods/0d0/2700041983987_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/270-004-401-3766/",
-   "mkt": 63500,
-   "mktN": 34,
+   "url": "https://komehyo.jp/product/270-004-198-3987/",
+   "mkt": 120000,
+   "mktN": 17,
+   "comps": []
+  },
+  {
+   "id": "k2700043810526",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "CELINE",
+   "model": "バッグ",
+   "desc": "【ヴィンテージ】セリーヌ バッグ CELINE",
+   "cond": "A",
+   "jpy": 70000,
+   "kg": 1.2,
+   "sq": "バッグ",
+   "store": "KOMEHYO VINTAGE TOKYO",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/695/2700043810526_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-381-0526/",
+   "mkt": 120000,
+   "mktN": 17,
    "comps": []
   },
   {
@@ -1207,6 +1292,69 @@
    "comps": []
   },
   {
+   "id": "k2600075323882",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "CANON",
+   "model": "ＥＯＳ７０Ｄ",
+   "desc": "ＥＯＳ７０Ｄ CANON",
+   "cond": "Ｃ",
+   "jpy": 35000,
+   "kg": 1.2,
+   "sq": "ＥＯＳ７０Ｄ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/c1d/2600075323882s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-532-3882/",
+   "mkt": 53000,
+   "mktN": 67,
+   "comps": []
+  },
+  {
+   "id": "k2700043721303",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "CANON",
+   "model": "ＥＦ８５ｍｍ Ｆ１．８",
+   "desc": "ＥＦ８５ｍｍ Ｆ１．８ CANON",
+   "cond": "Ｂ",
+   "jpy": 35000,
+   "kg": 1.2,
+   "sq": "ＥＦ８５ｍｍ Ｆ１．８",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/f66/2700043721303s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-372-1303/",
+   "mkt": 53000,
+   "mktN": 67,
+   "comps": []
+  },
+  {
+   "id": "k2700043971425",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "SONY",
+   "model": "ａｔｘ－ｍ２３ｍｍ Ｆ１．４ Ｅ",
+   "desc": "ａｔｘ－ｍ２３ｍｍ Ｆ１．４ ソニーＥ TOKINA",
+   "cond": "Ａ",
+   "jpy": 35000,
+   "kg": 1.2,
+   "sq": "ａｔｘ－ｍ２３ｍｍ Ｆ１．４ Ｅ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/14a/2700043971425s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-397-1425/",
+   "mkt": 53000,
+   "mktN": 67,
+   "comps": []
+  },
+  {
    "id": "k2700042439513",
    "cat": "camera",
    "src": "komehyo",
@@ -1249,6 +1397,27 @@
    "comps": []
   },
   {
+   "id": "k2700043742148",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "CELINE",
+   "model": "バッグ",
+   "desc": "【ヴィンテージ】セリーヌ バッグ CELINE",
+   "cond": "A",
+   "jpy": 80000,
+   "kg": 1.2,
+   "sq": "バッグ",
+   "store": "KOMEHYO VINTAGE TOKYO",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/8bc/2700043742148_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-374-2148/",
+   "mkt": 120000,
+   "mktN": 17,
+   "comps": []
+  },
+  {
    "id": "k2700043125927",
    "cat": "bag",
    "src": "komehyo",
@@ -1270,66 +1439,45 @@
    "comps": []
   },
   {
-   "id": "k2600075323882",
+   "id": "k2600073148203",
    "cat": "camera",
    "src": "komehyo",
-   "brand": "CANON",
-   "model": "ＥＯＳ７０Ｄ",
-   "desc": "ＥＯＳ７０Ｄ CANON",
+   "brand": "FUJIFILM",
+   "model": "新入荷 ＸＦ１８－５５ｍｍ Ｆ２．８－４Ｒ",
+   "desc": "新入荷 ＸＦ１８－５５ｍｍ Ｆ２．８－４Ｒ ＬＭ ＯＩＳ 09月18日入荷 FUJIFILM",
    "cond": "Ｃ",
-   "jpy": 35000,
+   "jpy": 45000,
    "kg": 1.2,
-   "sq": "ＥＯＳ７０Ｄ",
+   "sq": "新入荷 ＸＦ１８－５５ｍｍ Ｆ２．８－４Ｒ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/c1d/2600075323882s.jpg"
+    "https://img.komehyo.jp/contents/images/goods/492/2600073148203s.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/260-007-532-3882/",
-   "mkt": 51000,
-   "mktN": 66,
+   "url": "https://komehyo.jp/product/260-007-314-8203/",
+   "mkt": 67000,
+   "mktN": 33,
    "comps": []
   },
   {
-   "id": "k2700043721303",
+   "id": "k2600073148395",
    "cat": "camera",
    "src": "komehyo",
-   "brand": "CANON",
-   "model": "ＥＦ８５ｍｍ Ｆ１．８",
-   "desc": "ＥＦ８５ｍｍ Ｆ１．８ CANON",
-   "cond": "Ｂ",
-   "jpy": 35000,
+   "brand": "FUJIFILM",
+   "model": "新入荷 ＸＦ１８－５５ｍｍ Ｆ２．８－４Ｒ",
+   "desc": "新入荷 ＸＦ１８－５５ｍｍ Ｆ２．８－４Ｒ ＬＭ ＯＩＳ 09月18日入荷 FUJIFILM",
+   "cond": "Ｃ",
+   "jpy": 45000,
    "kg": 1.2,
-   "sq": "ＥＦ８５ｍｍ Ｆ１．８",
+   "sq": "新入荷 ＸＦ１８－５５ｍｍ Ｆ２．８－４Ｒ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/f66/2700043721303s.jpg"
+    "https://img.komehyo.jp/contents/images/goods/4ec/2600073148395s.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/270-004-372-1303/",
-   "mkt": 51000,
-   "mktN": 66,
-   "comps": []
-  },
-  {
-   "id": "k2700043971425",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "SONY",
-   "model": "ａｔｘ－ｍ２３ｍｍ Ｆ１．４ Ｅ",
-   "desc": "ａｔｘ－ｍ２３ｍｍ Ｆ１．４ ソニーＥ TOKINA",
-   "cond": "Ａ",
-   "jpy": 35000,
-   "kg": 1.2,
-   "sq": "ａｔｘ－ｍ２３ｍｍ Ｆ１．４ Ｅ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/14a/2700043971425s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-397-1425/",
-   "mkt": 51000,
-   "mktN": 66,
+   "url": "https://komehyo.jp/product/260-007-314-8395/",
+   "mkt": 67000,
+   "mktN": 33,
    "comps": []
   },
   {
@@ -1393,6 +1541,27 @@
    "url": "https://komehyo.jp/product/230-000-461-0600/",
    "mkt": 230000,
    "mktN": 7,
+   "comps": []
+  },
+  {
+   "id": "k2700043940933",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "CANON",
+   "model": "ＥＦ８５ｍｍ Ｆ１．８",
+   "desc": "ＥＦ８５ｍｍ Ｆ１．８ CANON",
+   "cond": "Ｂ",
+   "jpy": 37000,
+   "kg": 1.2,
+   "sq": "ＥＦ８５ｍｍ Ｆ１．８",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/1b3/2700043940933s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-394-0933/",
+   "mkt": 53000,
+   "mktN": 67,
    "comps": []
   },
   {
@@ -1501,45 +1670,45 @@
    "comps": []
   },
   {
-   "id": "k2600073148203",
+   "id": "k2700043611475",
    "cat": "camera",
    "src": "komehyo",
-   "brand": "FUJIFILM",
-   "model": "新入荷 ＸＦ１８－５５ｍｍ Ｆ２．８－４Ｒ",
-   "desc": "新入荷 ＸＦ１８－５５ｍｍ Ｆ２．８－４Ｒ ＬＭ ＯＩＳ 09月18日入荷 FUJIFILM",
-   "cond": "Ｃ",
-   "jpy": 45000,
+   "brand": "CANON",
+   "model": "ＥＯＳ７０Ｄ",
+   "desc": "ＥＯＳ７０Ｄ CANON",
+   "cond": "Ａ",
+   "jpy": 38000,
    "kg": 1.2,
-   "sq": "新入荷 ＸＦ１８－５５ｍｍ Ｆ２．８－４Ｒ",
+   "sq": "ＥＯＳ７０Ｄ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/492/2600073148203s.jpg"
+    "https://img.komehyo.jp/contents/images/goods/65a/2700043611475s.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/260-007-314-8203/",
-   "mkt": 63500,
-   "mktN": 34,
+   "url": "https://komehyo.jp/product/270-004-361-1475/",
+   "mkt": 53000,
+   "mktN": 67,
    "comps": []
   },
   {
-   "id": "k2600073148395",
+   "id": "k2700043552693",
    "cat": "camera",
    "src": "komehyo",
-   "brand": "FUJIFILM",
-   "model": "新入荷 ＸＦ１８－５５ｍｍ Ｆ２．８－４Ｒ",
-   "desc": "新入荷 ＸＦ１８－５５ｍｍ Ｆ２．８－４Ｒ ＬＭ ＯＩＳ 09月18日入荷 FUJIFILM",
-   "cond": "Ｃ",
-   "jpy": 45000,
+   "brand": "CANON",
+   "model": "ＥＯＳ７０Ｄ",
+   "desc": "ＥＯＳ７０Ｄ CANON",
+   "cond": "Ｂ",
+   "jpy": 38000,
    "kg": 1.2,
-   "sq": "新入荷 ＸＦ１８－５５ｍｍ Ｆ２．８－４Ｒ",
+   "sq": "ＥＯＳ７０Ｄ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/4ec/2600073148395s.jpg"
+    "https://img.komehyo.jp/contents/images/goods/f92/2700043552693s.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/260-007-314-8395/",
-   "mkt": 63500,
-   "mktN": 34,
+   "url": "https://komehyo.jp/product/270-004-355-2693/",
+   "mkt": 53000,
+   "mktN": 67,
    "comps": []
   },
   {
@@ -1606,48 +1775,6 @@
    "comps": []
   },
   {
-   "id": "k2700043940933",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "CANON",
-   "model": "ＥＦ８５ｍｍ Ｆ１．８",
-   "desc": "ＥＦ８５ｍｍ Ｆ１．８ CANON",
-   "cond": "Ｂ",
-   "jpy": 37000,
-   "kg": 1.2,
-   "sq": "ＥＦ８５ｍｍ Ｆ１．８",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/1b3/2700043940933s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-394-0933/",
-   "mkt": 51000,
-   "mktN": 66,
-   "comps": []
-  },
-  {
-   "id": "k2300007977687",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CARTIER",
-   "model": "新入荷 ルイ ヴァンドーム",
-   "desc": "新入荷 カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
-   "cond": "A",
-   "jpy": 160000,
-   "kg": 0.1,
-   "sq": "新入荷 ルイ ヴァンドーム",
-   "store": "名駅店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/9a3/2300007977687_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-797-7687/",
-   "mkt": 215000,
-   "mktN": 6,
-   "comps": []
-  },
-  {
    "id": "k2300008345805",
    "cat": "ring",
    "src": "komehyo",
@@ -1664,50 +1791,29 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-834-5805/",
-   "mkt": 215000,
-   "mktN": 6,
+   "mkt": 220000,
+   "mktN": 4,
    "comps": []
   },
   {
-   "id": "k2700043611475",
+   "id": "k2700043879936",
    "cat": "camera",
    "src": "komehyo",
    "brand": "CANON",
-   "model": "ＥＯＳ７０Ｄ",
-   "desc": "ＥＯＳ７０Ｄ CANON",
-   "cond": "Ａ",
-   "jpy": 38000,
-   "kg": 1.2,
-   "sq": "ＥＯＳ７０Ｄ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/65a/2700043611475s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-361-1475/",
-   "mkt": 51000,
-   "mktN": 66,
-   "comps": []
-  },
-  {
-   "id": "k2700043552693",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "CANON",
-   "model": "ＥＯＳ７０Ｄ",
-   "desc": "ＥＯＳ７０Ｄ CANON",
+   "model": "ＥＦ１７－４０ｍｍ Ｆ４Ｌ ＵＳＭ",
+   "desc": "ＥＦ１７－４０ｍｍ Ｆ４Ｌ ＵＳＭ CANON",
    "cond": "Ｂ",
-   "jpy": 38000,
+   "jpy": 40000,
    "kg": 1.2,
-   "sq": "ＥＯＳ７０Ｄ",
+   "sq": "ＥＦ１７－４０ｍｍ Ｆ４Ｌ ＵＳＭ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/f92/2700043552693s.jpg"
+    "https://img.komehyo.jp/contents/images/goods/44b/2700043879936s.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/270-004-355-2693/",
-   "mkt": 51000,
-   "mktN": 66,
+   "url": "https://komehyo.jp/product/270-004-387-9936/",
+   "mkt": 53000,
+   "mktN": 67,
    "comps": []
   },
   {
@@ -1795,27 +1901,6 @@
    "comps": []
   },
   {
-   "id": "k2700043879936",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "CANON",
-   "model": "ＥＦ１７－４０ｍｍ Ｆ４Ｌ ＵＳＭ",
-   "desc": "ＥＦ１７－４０ｍｍ Ｆ４Ｌ ＵＳＭ CANON",
-   "cond": "Ｂ",
-   "jpy": 40000,
-   "kg": 1.2,
-   "sq": "ＥＦ１７－４０ｍｍ Ｆ４Ｌ ＵＳＭ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/44b/2700043879936s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-387-9936/",
-   "mkt": 51000,
-   "mktN": 66,
-   "comps": []
-  },
-  {
    "id": "k2600073188056",
    "cat": "camera",
    "src": "komehyo",
@@ -1896,7 +1981,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-482-6278/",
    "mkt": 190000,
-   "mktN": 13,
+   "mktN": 15,
    "comps": []
   },
   {
@@ -2026,6 +2111,27 @@
    "comps": []
   },
   {
+   "id": "k2700043607188",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "CANON",
+   "model": "ＥＦ１００ｍｍ Ｆ２ＵＳＭ",
+   "desc": "ＥＦ１００ｍｍ Ｆ２ＵＳＭ CANON",
+   "cond": "Ｂ",
+   "jpy": 43000,
+   "kg": 1.2,
+   "sq": "ＥＦ１００ｍｍ Ｆ２ＵＳＭ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/ab2/2700043607188s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-360-7188/",
+   "mkt": 53000,
+   "mktN": 67,
+   "comps": []
+  },
+  {
    "id": "k2300008279353",
    "cat": "watch",
    "src": "komehyo",
@@ -2068,24 +2174,24 @@
    "comps": []
   },
   {
-   "id": "k2700043880086",
+   "id": "k2700044013551",
    "cat": "camera",
    "src": "komehyo",
-   "brand": "NIKON",
-   "model": "新入荷 ＡＦ８０－４００ｍｍ Ｆ４．５－５．６Ｄ",
-   "desc": "新入荷 ＡＦ８０－４００ｍｍ Ｆ４．５－５．６Ｄ ＥＤ ＶＲ NIKON",
-   "cond": "Ｂ",
-   "jpy": 53000,
+   "brand": "LEICA",
+   "model": "新入荷 ９０ｍｍ Ｆ２．８ＤＧ",
+   "desc": "新入荷 ９０ｍｍ Ｆ２．８ＤＧ ＤＮ（Ｃ）ライカＬ 09月17日入荷 SIGMA",
+   "cond": "Ａ",
+   "jpy": 55000,
    "kg": 1.2,
-   "sq": "新入荷 ＡＦ８０－４００ｍｍ Ｆ４．５－５．６Ｄ",
+   "sq": "新入荷 ９０ｍｍ Ｆ２．８ＤＧ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/3c0/2700043880086s.jpg"
+    "https://img.komehyo.jp/contents/images/goods/548/2700044013551s.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/270-004-388-0086/",
-   "mkt": 63500,
-   "mktN": 34,
+   "url": "https://komehyo.jp/product/270-004-401-3551/",
+   "mkt": 67000,
+   "mktN": 33,
    "comps": []
   },
   {
@@ -2131,6 +2237,27 @@
    "comps": []
   },
   {
+   "id": "k2300007977687",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CARTIER",
+   "model": "ルイ ヴァンドーム リング",
+   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
+   "cond": "A",
+   "jpy": 160000,
+   "kg": 0.1,
+   "sq": "ルイ ヴァンドーム リング",
+   "store": "名駅店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/9a3/2300007977687_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-797-7687/",
+   "mkt": 190000,
+   "mktN": 15,
+   "comps": []
+  },
+  {
    "id": "k2600073673859",
    "cat": "ring",
    "src": "komehyo",
@@ -2148,7 +2275,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-367-3859/",
    "mkt": 190000,
-   "mktN": 13,
+   "mktN": 15,
    "comps": []
   },
   {
@@ -2169,7 +2296,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-369-1828/",
    "mkt": 190000,
-   "mktN": 13,
+   "mktN": 15,
    "comps": []
   },
   {
@@ -2190,7 +2317,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-744-9276/",
    "mkt": 190000,
-   "mktN": 13,
+   "mktN": 15,
    "comps": []
   },
   {
@@ -2211,28 +2338,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-681-8103/",
    "mkt": 190000,
-   "mktN": 13,
-   "comps": []
-  },
-  {
-   "id": "k2700043607188",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "CANON",
-   "model": "ＥＦ１００ｍｍ Ｆ２ＵＳＭ",
-   "desc": "ＥＦ１００ｍｍ Ｆ２ＵＳＭ CANON",
-   "cond": "Ｂ",
-   "jpy": 43000,
-   "kg": 1.2,
-   "sq": "ＥＦ１００ｍｍ Ｆ２ＵＳＭ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/ab2/2700043607188s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-360-7188/",
-   "mkt": 51000,
-   "mktN": 66,
+   "mktN": 15,
    "comps": []
   },
   {
@@ -2257,6 +2363,111 @@
    "comps": []
   },
   {
+   "id": "k2700043941527",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "SONY",
+   "model": "Ｅ２４ｍｍ Ｆ３．５ＤＧ ＤＮ",
+   "desc": "ソニーＥ２４ｍｍ Ｆ３．５ＤＧ ＤＮ（Ｃ） SIGMA",
+   "cond": "Ｂ",
+   "jpy": 45000,
+   "kg": 1.2,
+   "sq": "Ｅ２４ｍｍ Ｆ３．５ＤＧ ＤＮ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/766/2700043941527s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-394-1527/",
+   "mkt": 53000,
+   "mktN": 67,
+   "comps": []
+  },
+  {
+   "id": "k2700043917904",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "FUJIFILM",
+   "model": "ＦＩＮＥＰＩＸ Ｓ５ＰＲＯ",
+   "desc": "ＦＩＮＥＰＩＸ Ｓ５ＰＲＯ FUJIFILM",
+   "cond": "Ｃ",
+   "jpy": 45000,
+   "kg": 1.2,
+   "sq": "ＦＩＮＥＰＩＸ Ｓ５ＰＲＯ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/f96/2700043917904s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-391-7904/",
+   "mkt": 53000,
+   "mktN": 67,
+   "comps": []
+  },
+  {
+   "id": "k2700043611505",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "FUJIFILM",
+   "model": "ＸＣ１３－３３ｍｍ Ｆ３．５－６．３ＯＩＳ",
+   "desc": "ＸＣ１３－３３ｍｍ Ｆ３．５－６．３ＯＩＳ FUJIFILM",
+   "cond": "Ａ",
+   "jpy": 45000,
+   "kg": 1.2,
+   "sq": "ＸＣ１３－３３ｍｍ Ｆ３．５－６．３ＯＩＳ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/940/2700043611505s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-361-1505/",
+   "mkt": 53000,
+   "mktN": 67,
+   "comps": []
+  },
+  {
+   "id": "k2700043463319",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "FUJIFILM",
+   "model": "ＸＦ３５ｍｍ Ｆ２Ｒ ＷＲ",
+   "desc": "ＸＦ３５ｍｍ Ｆ２Ｒ ＷＲ ブラック FUJIFILM",
+   "cond": "Ｃ",
+   "jpy": 45000,
+   "kg": 1.2,
+   "sq": "ＸＦ３５ｍｍ Ｆ２Ｒ ＷＲ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/209/2700043463319s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-346-3319/",
+   "mkt": 53000,
+   "mktN": 67,
+   "comps": []
+  },
+  {
+   "id": "k2700043776693",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "CANON",
+   "model": "ＥＦ１５ｍｍ Ｆ２．８ＦＩＳＨＥＹＥ",
+   "desc": "ＥＦ１５ｍｍ Ｆ２．８ＦＩＳＨＥＹＥ CANON",
+   "cond": "Ｂ",
+   "jpy": 45000,
+   "kg": 1.2,
+   "sq": "ＥＦ１５ｍｍ Ｆ２．８ＦＩＳＨＥＹＥ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/8d2/2700043776693s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-377-6693/",
+   "mkt": 53000,
+   "mktN": 67,
+   "comps": []
+  },
+  {
    "id": "k2300007978349",
    "cat": "bag",
    "src": "komehyo",
@@ -2278,24 +2489,45 @@
    "comps": []
   },
   {
-   "id": "k2700044013551",
-   "cat": "camera",
+   "id": "k2300008323179",
+   "cat": "ring",
    "src": "komehyo",
-   "brand": "LEICA",
-   "model": "新入荷 ９０ｍｍ Ｆ２．８ＤＧ",
-   "desc": "新入荷 ９０ｍｍ Ｆ２．８ＤＧ ＤＮ（Ｃ）ライカＬ 09月17日入荷 SIGMA",
-   "cond": "Ａ",
-   "jpy": 55000,
-   "kg": 1.2,
-   "sq": "新入荷 ９０ｍｍ Ｆ２．８ＤＧ",
-   "store": "名古屋本館",
+   "brand": "CARTIER",
+   "model": "新入荷 ルイ ヴァンドーム",
+   "desc": "新入荷 カルティエ ルイ カルティエ ヴァンドーム リング 09月17日入荷 Cartier",
+   "cond": "A",
+   "jpy": 190000,
+   "kg": 0.1,
+   "sq": "新入荷 ルイ ヴァンドーム",
+   "store": "KOMEHYO SHINJUKU WOMEN",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/548/2700044013551s.jpg"
+    "https://img.komehyo.jp/contents/images/goods/6f6/2300008323179_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/270-004-401-3551/",
-   "mkt": 63500,
-   "mktN": 34,
+   "url": "https://komehyo.jp/product/230-000-832-3179/",
+   "mkt": 220000,
+   "mktN": 4,
+   "comps": []
+  },
+  {
+   "id": "k2700043861511",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "FUJIFILM",
+   "model": "新入荷 ＸＦ５５－２００ｍｍ Ｆ３．５－４．８Ｒ",
+   "desc": "新入荷 ＸＦ５５－２００ｍｍ Ｆ３．５－４．８Ｒ ＬＭ ＯＩＳ 09月19日入荷 FUJIFILM",
+   "cond": "Ｃ",
+   "jpy": 58000,
+   "kg": 1.2,
+   "sq": "新入荷 ＸＦ５５－２００ｍｍ Ｆ３．５－４．８Ｒ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/d14/2700043861511s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-386-1511/",
+   "mkt": 67000,
+   "mktN": 33,
    "comps": []
   },
   {
@@ -2362,112 +2594,6 @@
    "comps": []
   },
   {
-   "id": "k2700043820853",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "CELINE",
-   "model": "バッグ",
-   "desc": "セリーヌ バッグ CELINE",
-   "cond": "A",
-   "jpy": 70000,
-   "kg": 1.2,
-   "sq": "バッグ",
-   "store": "KOMEHYO VINTAGE TOKYO",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/c33/2700043820853_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-382-0853/",
-   "mkt": 80000,
-   "mktN": 17,
-   "comps": []
-  },
-  {
-   "id": "k2700043336835",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "CELINE",
-   "model": "バッグ",
-   "desc": "セリーヌ バッグ CELINE",
-   "cond": "A",
-   "jpy": 70000,
-   "kg": 1.2,
-   "sq": "バッグ",
-   "store": "KOMEHYO VINTAGE TOKYO",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/2c9/2700043336835_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-333-6835/",
-   "mkt": 80000,
-   "mktN": 17,
-   "comps": []
-  },
-  {
-   "id": "k2300005230630",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "CELINE",
-   "model": "バッグ",
-   "desc": "セリーヌ バッグ CELINE",
-   "cond": "A",
-   "jpy": 70000,
-   "kg": 1.2,
-   "sq": "バッグ",
-   "store": "【新店】KOMEHYO VINTAGE TOKYO atelier",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/508/2300005230630_1_b.jpg",
-    "https://img.komehyo.jp/contents/images/goods/508/2300005230630_7_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-523-0630/",
-   "mkt": 80000,
-   "mktN": 17,
-   "comps": []
-  },
-  {
-   "id": "k2700041983987",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "CELINE",
-   "model": "バッグ",
-   "desc": "セリーヌ バッグ CELINE",
-   "cond": "A",
-   "jpy": 70000,
-   "kg": 1.2,
-   "sq": "バッグ",
-   "store": "KOMEHYO VINTAGE TOKYO",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/0d0/2700041983987_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-198-3987/",
-   "mkt": 80000,
-   "mktN": 17,
-   "comps": []
-  },
-  {
-   "id": "k2700043810526",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "CELINE",
-   "model": "バッグ",
-   "desc": "【ヴィンテージ】セリーヌ バッグ CELINE",
-   "cond": "A",
-   "jpy": 70000,
-   "kg": 1.2,
-   "sq": "バッグ",
-   "store": "KOMEHYO VINTAGE TOKYO",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/695/2700043810526_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-381-0526/",
-   "mkt": 80000,
-   "mktN": 17,
-   "comps": []
-  },
-  {
    "id": "k2300005152154",
    "cat": "bag",
    "src": "komehyo",
@@ -2486,132 +2612,6 @@
    "url": "https://komehyo.jp/product/230-000-515-2154/",
    "mkt": 205000,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "k2700043941527",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "SONY",
-   "model": "Ｅ２４ｍｍ Ｆ３．５ＤＧ ＤＮ",
-   "desc": "ソニーＥ２４ｍｍ Ｆ３．５ＤＧ ＤＮ（Ｃ） SIGMA",
-   "cond": "Ｂ",
-   "jpy": 45000,
-   "kg": 1.2,
-   "sq": "Ｅ２４ｍｍ Ｆ３．５ＤＧ ＤＮ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/766/2700043941527s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-394-1527/",
-   "mkt": 51000,
-   "mktN": 66,
-   "comps": []
-  },
-  {
-   "id": "k2700043917904",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "FUJIFILM",
-   "model": "ＦＩＮＥＰＩＸ Ｓ５ＰＲＯ",
-   "desc": "ＦＩＮＥＰＩＸ Ｓ５ＰＲＯ FUJIFILM",
-   "cond": "Ｃ",
-   "jpy": 45000,
-   "kg": 1.2,
-   "sq": "ＦＩＮＥＰＩＸ Ｓ５ＰＲＯ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/f96/2700043917904s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-391-7904/",
-   "mkt": 51000,
-   "mktN": 66,
-   "comps": []
-  },
-  {
-   "id": "k2700043611505",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "FUJIFILM",
-   "model": "ＸＣ１３－３３ｍｍ Ｆ３．５－６．３ＯＩＳ",
-   "desc": "ＸＣ１３－３３ｍｍ Ｆ３．５－６．３ＯＩＳ FUJIFILM",
-   "cond": "Ａ",
-   "jpy": 45000,
-   "kg": 1.2,
-   "sq": "ＸＣ１３－３３ｍｍ Ｆ３．５－６．３ＯＩＳ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/940/2700043611505s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-361-1505/",
-   "mkt": 51000,
-   "mktN": 66,
-   "comps": []
-  },
-  {
-   "id": "k2700043463319",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "FUJIFILM",
-   "model": "ＸＦ３５ｍｍ Ｆ２Ｒ ＷＲ",
-   "desc": "ＸＦ３５ｍｍ Ｆ２Ｒ ＷＲ ブラック FUJIFILM",
-   "cond": "Ｃ",
-   "jpy": 45000,
-   "kg": 1.2,
-   "sq": "ＸＦ３５ｍｍ Ｆ２Ｒ ＷＲ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/209/2700043463319s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-346-3319/",
-   "mkt": 51000,
-   "mktN": 66,
-   "comps": []
-  },
-  {
-   "id": "k2700043776693",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "CANON",
-   "model": "ＥＦ１５ｍｍ Ｆ２．８ＦＩＳＨＥＹＥ",
-   "desc": "ＥＦ１５ｍｍ Ｆ２．８ＦＩＳＨＥＹＥ CANON",
-   "cond": "Ｂ",
-   "jpy": 45000,
-   "kg": 1.2,
-   "sq": "ＥＦ１５ｍｍ Ｆ２．８ＦＩＳＨＥＹＥ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/8d2/2700043776693s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-377-6693/",
-   "mkt": 51000,
-   "mktN": 66,
-   "comps": []
-  },
-  {
-   "id": "k2300008323179",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CARTIER",
-   "model": "新入荷 ルイ ヴァンドーム",
-   "desc": "新入荷 カルティエ ルイ カルティエ ヴァンドーム リング 09月17日入荷 Cartier",
-   "cond": "A",
-   "jpy": 190000,
-   "kg": 0.1,
-   "sq": "新入荷 ルイ ヴァンドーム",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/6f6/2300008323179_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-832-3179/",
-   "mkt": 215000,
-   "mktN": 6,
    "comps": []
   },
   {
@@ -2678,6 +2678,48 @@
    "comps": []
   },
   {
+   "id": "k2600073148210",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "FUJIFILM",
+   "model": "新入荷 ＸＦ５５－２００ｍｍ Ｆ３．５－４．８Ｒ",
+   "desc": "新入荷 ＸＦ５５－２００ｍｍ Ｆ３．５－４．８Ｒ ＬＭ ＯＩＳ 09月19日入荷 FUJIFILM",
+   "cond": "Ａ",
+   "jpy": 60000,
+   "kg": 1.2,
+   "sq": "新入荷 ＸＦ５５－２００ｍｍ Ｆ３．５－４．８Ｒ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/8c4/2600073148210s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-314-8210/",
+   "mkt": 67000,
+   "mktN": 33,
+   "comps": []
+  },
+  {
+   "id": "k2600073148401",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "FUJIFILM",
+   "model": "新入荷 ＸＦ５５－２００ｍｍ Ｆ３．５－４．８Ｒ",
+   "desc": "新入荷 ＸＦ５５－２００ｍｍ Ｆ３．５－４．８Ｒ ＬＭ ＯＩＳ 09月19日入荷 FUJIFILM",
+   "cond": "Ｃ",
+   "jpy": 60000,
+   "kg": 1.2,
+   "sq": "新入荷 ＸＦ５５－２００ｍｍ Ｆ３．５－４．８Ｒ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/aee/2600073148401s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-314-8401/",
+   "mkt": 67000,
+   "mktN": 33,
+   "comps": []
+  },
+  {
    "id": "k2300006503559",
    "cat": "ring",
    "src": "komehyo",
@@ -2741,6 +2783,27 @@
    "comps": []
   },
   {
+   "id": "k2700043767554",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "CANON",
+   "model": "ＥＯＳ６Ｄ",
+   "desc": "ＥＯＳ６Ｄ CANON",
+   "cond": "Ｂ",
+   "jpy": 48000,
+   "kg": 1.2,
+   "sq": "ＥＯＳ６Ｄ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/5fa/2700043767554s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-376-7554/",
+   "mkt": 53000,
+   "mktN": 67,
+   "comps": []
+  },
+  {
    "id": "k2700042676963",
    "cat": "camera",
    "src": "komehyo",
@@ -2780,27 +2843,6 @@
    "url": "https://komehyo.jp/product/270-004-274-6437/",
    "mkt": 110000,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "k2700043861511",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "FUJIFILM",
-   "model": "新入荷 ＸＦ５５－２００ｍｍ Ｆ３．５－４．８Ｒ",
-   "desc": "新入荷 ＸＦ５５－２００ｍｍ Ｆ３．５－４．８Ｒ ＬＭ ＯＩＳ 09月19日入荷 FUJIFILM",
-   "cond": "Ｃ",
-   "jpy": 58000,
-   "kg": 1.2,
-   "sq": "新入荷 ＸＦ５５－２００ｍｍ Ｆ３．５－４．８Ｒ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/d14/2700043861511s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-386-1511/",
-   "mkt": 63500,
-   "mktN": 34,
    "comps": []
   },
   {
@@ -2909,24 +2951,24 @@
    "comps": []
   },
   {
-   "id": "k2700043287625",
-   "cat": "bag",
+   "id": "k2700039412307",
+   "cat": "camera",
    "src": "komehyo",
-   "brand": "GUCCI",
-   "model": "112526",
-   "desc": "グッチ 112526 バッグ GUCCI",
-   "cond": "A",
-   "jpy": 65000,
+   "brand": "CANON",
+   "model": "ＣＡＮＯＮ ＥＯＳ ＫＩＳＳ",
+   "desc": "ＣＡＮＯＮ ＥＯＳ ＫＩＳＳ Ｘ８ｉ CANON",
+   "cond": "Ｂ",
+   "jpy": 49000,
    "kg": 1.2,
-   "sq": "112526",
-   "store": "KOMEHYO VINTAGE TOKYO",
+   "sq": "ＣＡＮＯＮ ＥＯＳ ＫＩＳＳ",
+   "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/4f7/2700043287625_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/762/2700039412307s.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/270-004-328-7625/",
-   "mkt": 70000,
-   "mktN": 2,
+   "url": "https://komehyo.jp/product/270-003-941-2307/",
+   "mkt": 53000,
+   "mktN": 67,
    "comps": []
   },
   {
@@ -3035,27 +3077,6 @@
    "comps": []
   },
   {
-   "id": "k2700043767554",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "CANON",
-   "model": "ＥＯＳ６Ｄ",
-   "desc": "ＥＯＳ６Ｄ CANON",
-   "cond": "Ｂ",
-   "jpy": 48000,
-   "kg": 1.2,
-   "sq": "ＥＯＳ６Ｄ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/5fa/2700043767554s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-376-7554/",
-   "mkt": 51000,
-   "mktN": 66,
-   "comps": []
-  },
-  {
    "id": "k2700042487798",
    "cat": "camera",
    "src": "komehyo",
@@ -3077,48 +3098,6 @@
    "comps": []
   },
   {
-   "id": "k2600073148210",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "FUJIFILM",
-   "model": "新入荷 ＸＦ５５－２００ｍｍ Ｆ３．５－４．８Ｒ",
-   "desc": "新入荷 ＸＦ５５－２００ｍｍ Ｆ３．５－４．８Ｒ ＬＭ ＯＩＳ 09月19日入荷 FUJIFILM",
-   "cond": "Ａ",
-   "jpy": 60000,
-   "kg": 1.2,
-   "sq": "新入荷 ＸＦ５５－２００ｍｍ Ｆ３．５－４．８Ｒ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/8c4/2600073148210s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-007-314-8210/",
-   "mkt": 63500,
-   "mktN": 34,
-   "comps": []
-  },
-  {
-   "id": "k2600073148401",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "FUJIFILM",
-   "model": "新入荷 ＸＦ５５－２００ｍｍ Ｆ３．５－４．８Ｒ",
-   "desc": "新入荷 ＸＦ５５－２００ｍｍ Ｆ３．５－４．８Ｒ ＬＭ ＯＩＳ 09月19日入荷 FUJIFILM",
-   "cond": "Ｃ",
-   "jpy": 60000,
-   "kg": 1.2,
-   "sq": "新入荷 ＸＦ５５－２００ｍｍ Ｆ３．５－４．８Ｒ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/aee/2600073148401s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-007-314-8401/",
-   "mkt": 63500,
-   "mktN": 34,
-   "comps": []
-  },
-  {
    "id": "k2300006078842",
    "cat": "watch",
    "src": "komehyo",
@@ -3137,27 +3116,6 @@
    "url": "https://komehyo.jp/product/230-000-607-8842/",
    "mkt": 450000,
    "mktN": 9,
-   "comps": []
-  },
-  {
-   "id": "k2700039412307",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "CANON",
-   "model": "ＣＡＮＯＮ ＥＯＳ ＫＩＳＳ",
-   "desc": "ＣＡＮＯＮ ＥＯＳ ＫＩＳＳ Ｘ８ｉ CANON",
-   "cond": "Ｂ",
-   "jpy": 49000,
-   "kg": 1.2,
-   "sq": "ＣＡＮＯＮ ＥＯＳ ＫＩＳＳ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/762/2700039412307s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-003-941-2307/",
-   "mkt": 51000,
-   "mktN": 66,
    "comps": []
   },
   {
@@ -4195,7 +4153,7 @@
    "src": "komehyo",
    "brand": "LOUIS VUITTON",
    "model": "M28029",
-   "desc": "新入荷 ルイヴィトン ミュルティパス M28029 バッグ LOUIS VUITTON",
+   "desc": "ルイヴィトン ミュルティパス M28029 バッグ LOUIS VUITTON",
    "cond": "A",
    "jpy": 350000,
    "kg": 1.2,
@@ -5614,7 +5572,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-759-5393/",
    "mkt": 190000,
-   "mktN": 13,
+   "mktN": 15,
    "comps": []
   },
   {
@@ -5635,7 +5593,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-776-4195/",
    "mkt": 190000,
-   "mktN": 13,
+   "mktN": 15,
    "comps": []
   },
   {
@@ -6794,6 +6752,27 @@
    "comps": []
   },
   {
+   "id": "k2700043626684",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "FENDI",
+   "model": "バッグ",
+   "desc": "【ヴィンテージ】フェンディ バッグ FENDI",
+   "cond": "A",
+   "jpy": 120000,
+   "kg": 1.2,
+   "sq": "バッグ",
+   "store": "KOMEHYO VINTAGE TOKYO",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/ade/2700043626684_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-362-6684/",
+   "mkt": 120000,
+   "mktN": 17,
+   "comps": []
+  },
+  {
    "id": "k2300006887789",
    "cat": "ring",
    "src": "komehyo",
@@ -7356,6 +7335,27 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-304-0316/",
+   "mkt": 90000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2700043072337",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "GUCCI",
+   "model": "163805",
+   "desc": "グッチ 163805 バッグ GUCCI",
+   "cond": "A",
+   "jpy": 90000,
+   "kg": 1.2,
+   "sq": "163805",
+   "store": "名駅店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/af8/2700043072337_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-307-2337/",
    "mkt": 90000,
    "mktN": 1,
    "comps": []
