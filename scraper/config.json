@@ -1,0 +1,1000 @@
+{
+ "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+ "delay_seconds": 2.0,
+ "timeout_seconds": 25,
+ "respect_robots": true,
+ "use_browser": false,
+ "pages": 2,
+ "min_total_live": 15,
+ "min_jpy": 1000,
+ "max_jpy": 480000,
+ "sites": {
+  "netmall": {
+   "label": "Netmall",
+   "search_url": "https://netmall.hardoff.co.jp/search/?q={q}",
+   "link_re": "/product/(\\d+)",
+   "page_param": [
+    "p",
+    "page"
+   ]
+  },
+  "komehyo": {
+   "label": "Komehyo",
+   "search_url": "https://komehyo.jp/search/?q={q}",
+   "link_re": "/product/([0-9A-Za-z-]+)",
+   "page_param": "page"
+  },
+  "eearphone": {
+   "label": "e☆イヤホン",
+   "type": "shopify",
+   "base": "https://www.e-earphone.jp",
+   "search_url": "https://www.e-earphone.jp/search?q={q}",
+   "link_re": "/products/([^/?#]+)",
+   "page_param": "page",
+   "price_pick": "first"
+  }
+ },
+ "brand_alias": {
+  "ソニー": "SONY",
+  "ボーズ": "BOSE",
+  "デノン": "DENON",
+  "オンキヨー": "ONKYO",
+  "パイオニア": "PIONEER",
+  "ゼンハイザー": "SENNHEISER",
+  "ロレックス": "ROLEX",
+  "オメガ": "OMEGA",
+  "グランドセイコー": "GRAND SEIKO",
+  "セイコー": "SEIKO",
+  "タグ・ホイヤー": "TAG HEUER",
+  "タグホイヤー": "TAG HEUER",
+  "シャネル": "CHANEL",
+  "カルティエ": "CARTIER",
+  "ルイ・ヴィトン": "LOUIS VUITTON",
+  "ルイヴィトン": "LOUIS VUITTON",
+  "エルメス": "HERMES",
+  "グッチ": "GUCCI",
+  "ブルガリ": "BVLGARI",
+  "ティファニー": "TIFFANY",
+  "ヴァンクリーフ&アーペル": "VAN CLEEF & ARPELS",
+  "ヴァンクリーフ": "VAN CLEEF & ARPELS",
+  "プラダ": "PRADA",
+  "セリーヌ": "CELINE",
+  "フェンディ": "FENDI",
+  "キヤノン": "CANON",
+  "ニコン": "NIKON",
+  "富士フイルム": "FUJIFILM",
+  "ライカ": "LEICA",
+  "リコー": "RICOH",
+  "シュア": "SHURE",
+  "ヤマハ": "YAMAHA",
+  "マランツ": "MARANTZ",
+  "ティアック": "TEAC",
+  "テクニクス": "TECHNICS",
+  "ビクター": "VICTOR",
+  "ケンウッド": "KENWOOD",
+  "パナソニック": "PANASONIC",
+  "オーディオテクニカ": "audio-technica"
+ },
+ "queries": [
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "SONY",
+   "q": "SONY ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "SONY",
+   "q": "SONY イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "SONY",
+   "q": "SONY スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "BOSE",
+   "q": "BOSE ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "BOSE",
+   "q": "BOSE イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "BOSE",
+   "q": "BOSE スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "DENON",
+   "q": "DENON ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "DENON",
+   "q": "DENON イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "DENON",
+   "q": "DENON スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "ONKYO",
+   "q": "ONKYO ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "ONKYO",
+   "q": "ONKYO イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "ONKYO",
+   "q": "ONKYO スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "PIONEER",
+   "q": "Pioneer ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "PIONEER",
+   "q": "Pioneer イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "PIONEER",
+   "q": "Pioneer スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "audio-technica",
+   "q": "audio-technica ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "audio-technica",
+   "q": "audio-technica イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "audio-technica",
+   "q": "audio-technica スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "SENNHEISER",
+   "q": "SENNHEISER ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "SENNHEISER",
+   "q": "SENNHEISER イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "SENNHEISER",
+   "q": "SENNHEISER スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "SHURE",
+   "q": "SHURE ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "SHURE",
+   "q": "SHURE イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "SHURE",
+   "q": "SHURE スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "JBL",
+   "q": "JBL ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "JBL",
+   "q": "JBL イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "JBL",
+   "q": "JBL スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "JVC",
+   "q": "JVC ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "JVC",
+   "q": "JVC イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "JVC",
+   "q": "JVC スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "KENWOOD",
+   "q": "KENWOOD ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "KENWOOD",
+   "q": "KENWOOD イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "KENWOOD",
+   "q": "KENWOOD スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "MARANTZ",
+   "q": "Marantz ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "MARANTZ",
+   "q": "Marantz イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "MARANTZ",
+   "q": "Marantz スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "YAMAHA",
+   "q": "YAMAHA ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "YAMAHA",
+   "q": "YAMAHA イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "YAMAHA",
+   "q": "YAMAHA スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "TEAC",
+   "q": "TEAC ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "TEAC",
+   "q": "TEAC イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "TEAC",
+   "q": "TEAC スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "TECHNICS",
+   "q": "Technics ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "TECHNICS",
+   "q": "Technics イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "TECHNICS",
+   "q": "Technics スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "beyerdynamic",
+   "q": "beyerdynamic ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "beyerdynamic",
+   "q": "beyerdynamic イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "beyerdynamic",
+   "q": "beyerdynamic スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "AKG",
+   "q": "AKG ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "AKG",
+   "q": "AKG イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "AKG",
+   "q": "AKG スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "Harman Kardon",
+   "q": "Harman Kardon ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "Harman Kardon",
+   "q": "Harman Kardon イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "Harman Kardon",
+   "q": "Harman Kardon スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "B&W",
+   "q": "B&W ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "B&W",
+   "q": "B&W イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "B&W",
+   "q": "B&W スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "KLIPSCH",
+   "q": "Klipsch ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "KLIPSCH",
+   "q": "Klipsch イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "KLIPSCH",
+   "q": "Klipsch スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "FOSTEX",
+   "q": "FOSTEX ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "FOSTEX",
+   "q": "FOSTEX イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "FOSTEX",
+   "q": "FOSTEX スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "VICTOR",
+   "q": "Victor ヘッドホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "brand": "VICTOR",
+   "q": "Victor イヤホン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "brand": "VICTOR",
+   "q": "Victor スピーカー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "brand": "SONY",
+   "q": "SONY ウォークマン",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "brand": "SONY",
+   "q": "SONY CDプレーヤー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "brand": "DENON",
+   "q": "DENON CDプレーヤー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "brand": "ONKYO",
+   "q": "ONKYO CDプレーヤー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "brand": "PIONEER",
+   "q": "Pioneer CDプレーヤー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "brand": "MARANTZ",
+   "q": "Marantz CDプレーヤー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "brand": "TEAC",
+   "q": "TEAC CDプレーヤー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "brand": "YAMAHA",
+   "q": "YAMAHA CDプレーヤー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "brand": "TECHNICS",
+   "q": "Technics レコードプレーヤー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "brand": "PIONEER",
+   "q": "Pioneer デジタルオーディオプレーヤー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "brand": "Astell&Kern",
+   "q": "Astell&Kern",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "brand": "FiiO",
+   "q": "FiiO プレーヤー",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "brand": "iBasso",
+   "q": "iBasso",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "brand": "SHANLING",
+   "q": "SHANLING",
+   "max_items": 40
+  },
+  {
+   "site": "netmall",
+   "cat": "camera",
+   "brand": "CANON",
+   "q": "Canon EOS",
+   "max_items": 30
+  },
+  {
+   "site": "netmall",
+   "cat": "camera",
+   "brand": "SONY",
+   "q": "SONY α ミラーレス",
+   "max_items": 30
+  },
+  {
+   "site": "netmall",
+   "cat": "camera",
+   "brand": "FUJIFILM",
+   "q": "FUJIFILM X",
+   "max_items": 30
+  },
+  {
+   "site": "netmall",
+   "cat": "camera",
+   "brand": "NIKON",
+   "q": "Nikon ミラーレス",
+   "max_items": 30
+  },
+  {
+   "site": "netmall",
+   "cat": "camera",
+   "brand": "RICOH",
+   "q": "RICOH GR",
+   "max_items": 30
+  },
+  {
+   "site": "netmall",
+   "cat": "lens",
+   "brand": "CANON",
+   "q": "Canon レンズ",
+   "max_items": 30
+  },
+  {
+   "site": "netmall",
+   "cat": "lens",
+   "brand": "SONY",
+   "q": "SONY レンズ",
+   "max_items": 30
+  },
+  {
+   "site": "netmall",
+   "cat": "lens",
+   "brand": "NIKON",
+   "q": "Nikon レンズ",
+   "max_items": 30
+  },
+  {
+   "site": "netmall",
+   "cat": "lens",
+   "brand": "SIGMA",
+   "q": "SIGMA レンズ",
+   "max_items": 30
+  },
+  {
+   "site": "netmall",
+   "cat": "lens",
+   "brand": "TAMRON",
+   "q": "TAMRON レンズ",
+   "max_items": 30
+  },
+  {
+   "site": "eearphone",
+   "cat": "earphones",
+   "discover": "https://www.e-earphone.jp/pages/used-top",
+   "max_items": 90,
+   "pages": 2,
+   "min_jpy": 4000,
+   "map": {
+    "中古有線イヤホン": "earphones",
+    "中古完全ワイヤレスイヤホン": "earphones",
+    "中古左右一体型ワイヤレスイヤホン": "earphones",
+    "中古Airpodsシリーズ": "earphones",
+    "中古AirPodsシリーズ": "earphones",
+    "中古ワイヤレスヘッドホン": "earphones",
+    "中古有線ヘッドホン": "earphones",
+    "中古プレイヤー": "player",
+    "中古スピーカー": "speakers"
+   },
+   "fallback": [
+    {
+     "url": "https://www.e-earphone.jp/collections/45",
+     "cat": "earphones",
+     "q": "中古有線イヤホン"
+    },
+    {
+     "url": "https://www.e-earphone.jp/collections/46",
+     "cat": "earphones",
+     "q": "中古ワイヤレスヘッドホン"
+    },
+    {
+     "url": "https://www.e-earphone.jp/collections/47",
+     "cat": "earphones",
+     "q": "中古有線ヘッドホン"
+    },
+    {
+     "url": "https://www.e-earphone.jp/collections/48",
+     "cat": "player",
+     "q": "中古プレイヤー"
+    }
+   ]
+  },
+  {
+   "site": "komehyo",
+   "cat": "watch",
+   "brand": "セイコー",
+   "q": "セイコー",
+   "url_tpl": "https://komehyo.jp/watch-mens/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "watch",
+   "brand": "グランドセイコー",
+   "q": "グランドセイコー",
+   "url_tpl": "https://komehyo.jp/watch-mens/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "watch",
+   "brand": "オメガ",
+   "q": "オメガ",
+   "url_tpl": "https://komehyo.jp/watch-mens/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "watch",
+   "brand": "タグ・ホイヤー",
+   "q": "タグ・ホイヤー",
+   "url_tpl": "https://komehyo.jp/watch-mens/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "watch",
+   "brand": "カルティエ",
+   "q": "カルティエ",
+   "url_tpl": "https://komehyo.jp/watch-mens/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "watch",
+   "brand": "ロレックス",
+   "q": "ロレックス",
+   "url_tpl": "https://komehyo.jp/watch-mens/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "watch",
+   "brand": "CARTIER",
+   "q": "カルティエ",
+   "url_tpl": "https://komehyo.jp/watch-ladies/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "bag",
+   "brand": "シャネル",
+   "q": "シャネル",
+   "url_tpl": "https://komehyo.jp/brandbag/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "bag",
+   "brand": "ルイ・ヴィトン",
+   "q": "ルイ・ヴィトン",
+   "url_tpl": "https://komehyo.jp/brandbag/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "bag",
+   "brand": "グッチ",
+   "q": "グッチ",
+   "url_tpl": "https://komehyo.jp/brandbag/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "bag",
+   "brand": "プラダ",
+   "q": "プラダ",
+   "url_tpl": "https://komehyo.jp/brandbag/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "bag",
+   "brand": "セリーヌ",
+   "q": "セリーヌ",
+   "url_tpl": "https://komehyo.jp/brandbag/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "bag",
+   "brand": "フェンディ",
+   "q": "フェンディ",
+   "url_tpl": "https://komehyo.jp/brandbag/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "ring",
+   "brand": "カルティエ",
+   "q": "カルティエ",
+   "url_tpl": "https://komehyo.jp/brandjewelry_ring/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "ring",
+   "brand": "ティファニー",
+   "q": "ティファニー",
+   "url_tpl": "https://komehyo.jp/brandjewelry_ring/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "ring",
+   "brand": "ブルガリ",
+   "q": "ブルガリ",
+   "url_tpl": "https://komehyo.jp/brandjewelry_ring/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "ring",
+   "brand": "シャネル",
+   "q": "シャネル",
+   "url_tpl": "https://komehyo.jp/brandjewelry_ring/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "ring",
+   "brand": "ヴァンクリーフ",
+   "q": "ヴァンクリーフ",
+   "url_tpl": "https://komehyo.jp/brandjewelry_ring/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "camera",
+   "brand": "LEICA",
+   "q": "ライカ",
+   "url_tpl": "https://komehyo.jp/camera/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "camera",
+   "brand": "CANON",
+   "q": "キヤノン",
+   "url_tpl": "https://komehyo.jp/camera/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "camera",
+   "brand": "NIKON",
+   "q": "ニコン",
+   "url_tpl": "https://komehyo.jp/camera/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "camera",
+   "brand": "SONY",
+   "q": "ソニー",
+   "url_tpl": "https://komehyo.jp/camera/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "camera",
+   "brand": "FUJIFILM",
+   "q": "富士フイルム",
+   "url_tpl": "https://komehyo.jp/camera/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "camera",
+   "brand": "RICOH",
+   "q": "リコー",
+   "url_tpl": "https://komehyo.jp/camera/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "lens",
+   "brand": "CANON",
+   "q": "キヤノン レンズ",
+   "url_tpl": "https://komehyo.jp/camera/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "lens",
+   "brand": "NIKON",
+   "q": "ニコン レンズ",
+   "url_tpl": "https://komehyo.jp/camera/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  },
+  {
+   "site": "komehyo",
+   "cat": "lens",
+   "brand": "SONY",
+   "q": "ソニー レンズ",
+   "url_tpl": "https://komehyo.jp/camera/?q={q}",
+   "pages": 1,
+   "max_items": 30
+  }
+ ],
+ "detail_pages": 80,
+ "source_caps": {
+  "netmall": 600,
+  "komehyo": 350,
+  "eearphone": 300
+ }
+}
