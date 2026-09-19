@@ -8,7 +8,7 @@ on:
     branches: [main]            # also runs when you upload or edit files
 
 concurrency:
-  group: scout
+  group: japanmart
   cancel-in-progress: false
 
 jobs:
@@ -48,8 +48,8 @@ jobs:
       - name: Save refreshed data to the repository
         run: |
           BRANCH="${GITHUB_REF_NAME}"
-          git config user.name "scout-bot"
-          git config user.email "scout-bot@users.noreply.github.com"
+          git config user.name "japanmart-bot"
+          git config user.email "japanmart-bot@users.noreply.github.com"
           mkdir -p /tmp/keep
           stage() {
             for f in data/products.json data/scrape_status.json; do
@@ -104,10 +104,10 @@ jobs:
             exit 1
           fi
 
-      - name: Build the site
+      - name: Build the site (the data is baked into the page)
         run: |
           mkdir -p _site/data
-          cp index.html _site/
+          python3 scraper/embed.py index.html data/products.json _site/index.html
           cp data/products.json _site/data/
           cp data/scrape_status.json _site/data/ 2>/dev/null || true
 
