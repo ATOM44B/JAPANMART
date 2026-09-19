@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-19T12:42:09+00:00",
+ "generatedAt": "2026-09-19T12:46:35+00:00",
  "ok": true,
- "live_items": 1656,
+ "live_items": 650,
  "sites": {
   "netmall": {
    "items": 0,
@@ -9,19 +9,24 @@
    "failed": 3
   },
   "komehyo": {
-   "items": 1656,
-   "ok": 53,
+   "items": 350,
+   "ok": 27,
+   "failed": 0
+  },
+  "eearphone": {
+   "items": 300,
+   "ok": 9,
    "failed": 0
   }
  },
  "photos": {
-  "listings_with_photo": 661,
-  "listings_without_photo": 995,
+  "listings_with_photo": 526,
+  "listings_without_photo": 124,
   "from_product_pages": 80,
   "examples_without_photo": [
-   "https://komehyo.jp/product/230-000-819-7831/",
-   "https://komehyo.jp/product/270-004-257-2357/",
-   "https://komehyo.jp/product/230-000-509-1354/"
+   "https://komehyo.jp/product/270-004-387-5990/",
+   "https://komehyo.jp/product/270-003-954-2172/",
+   "https://komehyo.jp/product/270-003-954-2165/"
   ]
  },
  "refused_by": {
@@ -33,6 +38,13 @@
   }
  },
  "queries": [
+  {
+   "site": "eearphone",
+   "cat": "discover",
+   "url": "https://www.e-earphone.jp/pages/used-top",
+   "found": 9,
+   "note": ""
+  },
   {
    "site": "netmall",
    "cat": "earphones",
@@ -140,6 +152,426 @@
   },
   {
    "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "earphones",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "speakers",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
+   "cat": "player",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "netmall",
    "cat": "player",
    "url": "",
    "found": 0,
@@ -237,16 +669,79 @@
    "note": "skipped: this site refused the first 3 requests"
   },
   {
-   "site": "komehyo",
-   "cat": "watch",
-   "url": "https://komehyo.jp/watch-mens/?q=%E3%82%BB%E3%82%A4%E3%82%B3%E3%83%BC",
-   "found": 50,
+   "site": "netmall",
+   "cat": "lens",
+   "url": "",
+   "found": 0,
+   "note": "skipped: this site refused the first 3 requests"
+  },
+  {
+   "site": "eearphone",
+   "cat": "earphones",
+   "url": "https://www.e-earphone.jp/collections/43/products.json?limit=250&page=1",
+   "found": 250,
+   "note": ""
+  },
+  {
+   "site": "eearphone",
+   "cat": "earphones",
+   "url": "https://www.e-earphone.jp/collections/54/products.json?limit=250&page=1",
+   "found": 250,
+   "note": ""
+  },
+  {
+   "site": "eearphone",
+   "cat": "earphones",
+   "url": "https://www.e-earphone.jp/collections/44/products.json?limit=250&page=1",
+   "found": 213,
+   "note": ""
+  },
+  {
+   "site": "eearphone",
+   "cat": "earphones",
+   "url": "https://www.e-earphone.jp/collections/used-airpods/products.json?limit=250&page=1",
+   "found": 250,
+   "note": ""
+  },
+  {
+   "site": "eearphone",
+   "cat": "earphones",
+   "url": "https://www.e-earphone.jp/collections/45/products.json?limit=250&page=1",
+   "found": 250,
+   "note": ""
+  },
+  {
+   "site": "eearphone",
+   "cat": "earphones",
+   "url": "https://www.e-earphone.jp/collections/46/products.json?limit=250&page=1",
+   "found": 250,
+   "note": ""
+  },
+  {
+   "site": "eearphone",
+   "cat": "earphones",
+   "url": "https://www.e-earphone.jp/collections/47/products.json?limit=250&page=1",
+   "found": 250,
+   "note": ""
+  },
+  {
+   "site": "eearphone",
+   "cat": "player",
+   "url": "https://www.e-earphone.jp/collections/48/products.json?limit=250&page=1",
+   "found": 250,
+   "note": ""
+  },
+  {
+   "site": "eearphone",
+   "cat": "speakers",
+   "url": "https://www.e-earphone.jp/collections/51/products.json?limit=250&page=1",
+   "found": 175,
    "note": ""
   },
   {
    "site": "komehyo",
    "cat": "watch",
-   "url": "https://komehyo.jp/watch-mens/?q=%E3%82%BB%E3%82%A4%E3%82%B3%E3%83%BC&page=2",
+   "url": "https://komehyo.jp/watch-mens/?q=%E3%82%BB%E3%82%A4%E3%82%B3%E3%83%BC",
    "found": 50,
    "note": ""
   },
@@ -260,21 +755,7 @@
   {
    "site": "komehyo",
    "cat": "watch",
-   "url": "https://komehyo.jp/watch-mens/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%BB%E3%82%A4%E3%82%B3%E3%83%BC&page=2",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "watch",
    "url": "https://komehyo.jp/watch-mens/?q=%E3%82%AA%E3%83%A1%E3%82%AC",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "watch",
-   "url": "https://komehyo.jp/watch-mens/?q=%E3%82%AA%E3%83%A1%E3%82%AC&page=2",
    "found": 50,
    "note": ""
   },
@@ -288,21 +769,7 @@
   {
    "site": "komehyo",
    "cat": "watch",
-   "url": "https://komehyo.jp/watch-mens/?q=%E3%82%BF%E3%82%B0%E3%83%BB%E3%83%9B%E3%82%A4%E3%83%A4%E3%83%BC&page=2",
-   "found": 30,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "watch",
    "url": "https://komehyo.jp/watch-mens/?q=%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%A8",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "watch",
-   "url": "https://komehyo.jp/watch-mens/?q=%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%A8&page=2",
    "found": 50,
    "note": ""
   },
@@ -316,21 +783,7 @@
   {
    "site": "komehyo",
    "cat": "watch",
-   "url": "https://komehyo.jp/watch-mens/?q=%E3%83%AD%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9&page=2",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "watch",
    "url": "https://komehyo.jp/watch-ladies/?q=%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%A8",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "watch",
-   "url": "https://komehyo.jp/watch-ladies/?q=%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%A8&page=2",
    "found": 50,
    "note": ""
   },
@@ -344,21 +797,7 @@
   {
    "site": "komehyo",
    "cat": "bag",
-   "url": "https://komehyo.jp/brandbag/?q=%E3%82%B7%E3%83%A3%E3%83%8D%E3%83%AB&page=2",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "bag",
    "url": "https://komehyo.jp/brandbag/?q=%E3%83%AB%E3%82%A4%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%88%E3%83%B3",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "bag",
-   "url": "https://komehyo.jp/brandbag/?q=%E3%83%AB%E3%82%A4%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%88%E3%83%B3&page=2",
    "found": 50,
    "note": ""
   },
@@ -372,21 +811,7 @@
   {
    "site": "komehyo",
    "cat": "bag",
-   "url": "https://komehyo.jp/brandbag/?q=%E3%82%B0%E3%83%83%E3%83%81&page=2",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "bag",
    "url": "https://komehyo.jp/brandbag/?q=%E3%83%97%E3%83%A9%E3%83%80",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "bag",
-   "url": "https://komehyo.jp/brandbag/?q=%E3%83%97%E3%83%A9%E3%83%80&page=2",
    "found": 50,
    "note": ""
   },
@@ -400,21 +825,7 @@
   {
    "site": "komehyo",
    "cat": "bag",
-   "url": "https://komehyo.jp/brandbag/?q=%E3%82%BB%E3%83%AA%E3%83%BC%E3%83%8C&page=2",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "bag",
    "url": "https://komehyo.jp/brandbag/?q=%E3%83%95%E3%82%A7%E3%83%B3%E3%83%87%E3%82%A3",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "bag",
-   "url": "https://komehyo.jp/brandbag/?q=%E3%83%95%E3%82%A7%E3%83%B3%E3%83%87%E3%82%A3&page=2",
    "found": 50,
    "note": ""
   },
@@ -428,21 +839,7 @@
   {
    "site": "komehyo",
    "cat": "ring",
-   "url": "https://komehyo.jp/brandjewelry_ring/?q=%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%A8&page=2",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "ring",
    "url": "https://komehyo.jp/brandjewelry_ring/?q=%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%83%8B%E3%83%BC",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "ring",
-   "url": "https://komehyo.jp/brandjewelry_ring/?q=%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%83%8B%E3%83%BC&page=2",
    "found": 50,
    "note": ""
   },
@@ -456,13 +853,6 @@
   {
    "site": "komehyo",
    "cat": "ring",
-   "url": "https://komehyo.jp/brandjewelry_ring/?q=%E3%83%96%E3%83%AB%E3%82%AC%E3%83%AA&page=2",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "ring",
    "url": "https://komehyo.jp/brandjewelry_ring/?q=%E3%82%B7%E3%83%A3%E3%83%8D%E3%83%AB",
    "found": 50,
    "note": ""
@@ -470,21 +860,7 @@
   {
    "site": "komehyo",
    "cat": "ring",
-   "url": "https://komehyo.jp/brandjewelry_ring/?q=%E3%82%B7%E3%83%A3%E3%83%8D%E3%83%AB&page=2",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "ring",
    "url": "https://komehyo.jp/brandjewelry_ring/?q=%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%95",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "ring",
-   "url": "https://komehyo.jp/brandjewelry_ring/?q=%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%95&page=2",
    "found": 50,
    "note": ""
   },
@@ -498,21 +874,7 @@
   {
    "site": "komehyo",
    "cat": "camera",
-   "url": "https://komehyo.jp/camera/?q=%E3%83%A9%E3%82%A4%E3%82%AB&page=2",
-   "found": 6,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "camera",
    "url": "https://komehyo.jp/camera/?q=%E3%82%AD%E3%83%A4%E3%83%8E%E3%83%B3",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "camera",
-   "url": "https://komehyo.jp/camera/?q=%E3%82%AD%E3%83%A4%E3%83%8E%E3%83%B3&page=2",
    "found": 50,
    "note": ""
   },
@@ -526,21 +888,7 @@
   {
    "site": "komehyo",
    "cat": "camera",
-   "url": "https://komehyo.jp/camera/?q=%E3%83%8B%E3%82%B3%E3%83%B3&page=2",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "camera",
    "url": "https://komehyo.jp/camera/?q=%E3%82%BD%E3%83%8B%E3%83%BC",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "camera",
-   "url": "https://komehyo.jp/camera/?q=%E3%82%BD%E3%83%8B%E3%83%BC&page=2",
    "found": 50,
    "note": ""
   },
@@ -549,13 +897,6 @@
    "cat": "camera",
    "url": "https://komehyo.jp/camera/?q=%E5%AF%8C%E5%A3%AB%E3%83%95%E3%82%A4%E3%83%AB%E3%83%A0",
    "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "camera",
-   "url": "https://komehyo.jp/camera/?q=%E5%AF%8C%E5%A3%AB%E3%83%95%E3%82%A4%E3%83%AB%E3%83%A0&page=2",
-   "found": 30,
    "note": ""
   },
   {
@@ -575,21 +916,7 @@
   {
    "site": "komehyo",
    "cat": "lens",
-   "url": "https://komehyo.jp/camera/?q=%E3%82%AD%E3%83%A4%E3%83%8E%E3%83%B3%20%E3%83%AC%E3%83%B3%E3%82%BA&page=2",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "lens",
    "url": "https://komehyo.jp/camera/?q=%E3%83%8B%E3%82%B3%E3%83%B3%20%E3%83%AC%E3%83%B3%E3%82%BA",
-   "found": 50,
-   "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "lens",
-   "url": "https://komehyo.jp/camera/?q=%E3%83%8B%E3%82%B3%E3%83%B3%20%E3%83%AC%E3%83%B3%E3%82%BA&page=2",
    "found": 50,
    "note": ""
   },
@@ -599,14 +926,7 @@
    "url": "https://komehyo.jp/camera/?q=%E3%82%BD%E3%83%8B%E3%83%BC%20%E3%83%AC%E3%83%B3%E3%82%BA",
    "found": 50,
    "note": ""
-  },
-  {
-   "site": "komehyo",
-   "cat": "lens",
-   "url": "https://komehyo.jp/camera/?q=%E3%82%BD%E3%83%8B%E3%83%BC%20%E3%83%AC%E3%83%B3%E3%82%BA&page=2",
-   "found": 50,
-   "note": ""
   }
  ],
- "message": "Wrote 1656 listings."
+ "message": "Wrote 650 listings."
 }
