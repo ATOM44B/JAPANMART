@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-09-19",
- "generatedAt": "2026-09-19T15:39:11+00:00",
+ "generatedAt": "2026-09-19T17:34:47+00:00",
  "fx": 0.21222,
  "fxDate": "2026-09-19",
  "counts": {
@@ -8319,30 +8319,6 @@
    "comps": []
   },
   {
-   "id": "e9802616307953",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "Astell&Kern",
-   "model": "KANN ULTRA",
-   "desc": "KANN ULTRA",
-   "cond": "",
-   "jpy": 79200,
-   "kg": 0.4,
-   "sq": "KANN ULTRA",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002891_3267361.jpg?v=1789546456&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002891_3267362.jpg?v=1789546456&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002891_3267363.jpg?v=1789546456&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002891_3267364.jpg?v=1789546456&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/775568",
-   "mkt": 89050,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e9801287958769",
    "cat": "earphones",
    "src": "eearphone",
@@ -10046,6 +10022,54 @@
    "comps": []
   },
   {
+   "id": "e9800587215089",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "Astell&Kern",
+   "model": "SP3000T",
+   "desc": "A&ultima SP3000T Copper",
+   "cond": "",
+   "jpy": 259000,
+   "kg": 0.4,
+   "sq": "SP3000T",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001870_3246789.jpg?v=1788670045&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001870_3246790.jpg?v=1788670045&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001870_3246791.jpg?v=1788670045&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001870_3246792.jpg?v=1788670045&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/774565",
+   "mkt": 263200,
+   "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e9792755171569",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "iBasso Audio",
+   "model": "DX180",
+   "desc": "DX180 Black",
+   "cond": "",
+   "jpy": 53200,
+   "kg": 0.4,
+   "sq": "DX180",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000775_3248138.jpg?v=1788688218&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000775_3248139.jpg?v=1788688218&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000775_3248140.jpg?v=1788688218&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000775_3248141.jpg?v=1788688218&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/773499",
+   "mkt": 54050,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "e9802681221361",
    "cat": "earphones",
    "src": "eearphone",
@@ -10258,30 +10282,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/752555",
    "mkt": 23500,
-   "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e9804819923185",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "FIIO",
-   "model": "M21",
-   "desc": "M21 Titanium Gold",
-   "cond": "",
-   "jpy": 41900,
-   "kg": 0.4,
-   "sq": "M21",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003220_3263463.jpg?v=1789373950&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003220_3263464.jpg?v=1789373950&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003220_3263465.jpg?v=1789373950&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003220_3263466.jpg?v=1789373950&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/775886",
-   "mkt": 42400,
    "mktN": 2,
    "comps": []
   },
@@ -10909,6 +10909,30 @@
    "comps": []
   },
   {
+   "id": "e9812889567473",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "Cayin",
+   "model": "N6iii/R202",
+   "desc": "N6iii/R202",
+   "cond": "",
+   "jpy": 167900,
+   "kg": 0.4,
+   "sq": "N6iii/R202",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004954_3267069.jpg?v=1789540526&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004954_3267070.jpg?v=1789540526&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004954_3267071.jpg?v=1789540526&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004954_3267072.jpg?v=1789540526&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/777608",
+   "mkt": 168450,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "e9813657813233",
    "cat": "earphones",
    "src": "eearphone",
@@ -11025,30 +11049,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/778631",
    "mkt": 307900,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e9813516550385",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "Astell&Kern",
-   "model": "SP3000T",
-   "desc": "A&ultima SP3000T Copper",
-   "cond": "",
-   "jpy": 267400,
-   "kg": 0.4,
-   "sq": "SP3000T",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004981_3268649.jpg?v=1789616004&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004981_3268650.jpg?v=1789616004&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004981_3268651.jpg?v=1789616004&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004981_3268652.jpg?v=1789616004&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/777635",
-   "mkt": 267400,
    "mktN": 1,
    "comps": []
   },
@@ -11241,30 +11241,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/775005",
    "mkt": 168400,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e9812889567473",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "Cayin",
-   "model": "N6iii/R202",
-   "desc": "N6iii/R202",
-   "cond": "",
-   "jpy": 167900,
-   "kg": 0.4,
-   "sq": "N6iii/R202",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004954_3267069.jpg?v=1789540526&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004954_3267070.jpg?v=1789540526&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004954_3267071.jpg?v=1789540526&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004954_3267072.jpg?v=1789540526&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/777608",
-   "mkt": 167900,
    "mktN": 1,
    "comps": []
   },
@@ -11745,6 +11721,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/776477",
    "mkt": 79900,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e9802616307953",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "Astell&Kern",
+   "model": "KANN ULTRA",
+   "desc": "KANN ULTRA",
+   "cond": "",
+   "jpy": 79200,
+   "kg": 0.4,
+   "sq": "KANN ULTRA",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002891_3267361.jpg?v=1789546456&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002891_3267362.jpg?v=1789546456&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002891_3267363.jpg?v=1789546456&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002891_3267364.jpg?v=1789546456&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/775568",
+   "mkt": 79200,
    "mktN": 1,
    "comps": []
   },
@@ -12269,30 +12269,6 @@
    "comps": []
   },
   {
-   "id": "e9813680685297",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "iBasso Audio",
-   "model": "DX180",
-   "desc": "DX180 Green",
-   "cond": "",
-   "jpy": 54900,
-   "kg": 0.4,
-   "sq": "DX180",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1005090_3268137.jpg?v=1789556955&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1005090_3268138.jpg?v=1789556955&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1005090_3268139.jpg?v=1789556955&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1005090_3268140.jpg?v=1789556955&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/777733",
-   "mkt": 54900,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e9779134497009",
    "cat": "player",
    "src": "eearphone",
@@ -12577,6 +12553,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/775680",
    "mkt": 42900,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e9804819923185",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "FIIO",
+   "model": "M21",
+   "desc": "M21 Titanium Gold",
+   "cond": "",
+   "jpy": 41900,
+   "kg": 0.4,
+   "sq": "M21",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003220_3263463.jpg?v=1789373950&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003220_3263464.jpg?v=1789373950&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003220_3263465.jpg?v=1789373950&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003220_3263466.jpg?v=1789373950&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/775886",
+   "mkt": 41900,
    "mktN": 1,
    "comps": []
   },
