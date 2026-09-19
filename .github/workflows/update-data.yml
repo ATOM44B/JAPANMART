@@ -7,33 +7,28 @@ on:
   push:
     branches: [main]            # also runs when you upload or edit files
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
-
 concurrency:
   group: scout
   cancel-in-progress: false
 
 jobs:
+  # Job 1: read Komehyo and Netmall, save data/products.json in the repository.
+  # A scraping problem never fails the run: if too little comes back, the last good data is kept
+  # and the reason is written to data/scrape_status.json.
   update:
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
       - name: Install scraper dependencies
         run: pip install -r scraper/requirements.txt
 
-      # A scraping problem never blocks the deploy: if too little comes back,
-      # data/products.json keeps its last good version and the reason goes to data/scrape_status.json.
       - name: Fetch listings from Komehyo and Netmall
         continue-on-error: true
         run: python scraper/scrape.py
@@ -45,19 +40,45 @@ jobs:
           git add -A data
           git diff --cached --quiet || (git commit -m "data: update $(date -u +%F' '%H:%M) UTC" && git push)
 
+  # Job 2: publish the site. This is a separate job, so the data above is saved even if Pages is not set up yet.
+  deploy:
+    needs: update
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.ref }}        # newest commit, including the data saved by the job above
+
+      - name: Check that GitHub Pages is switched on
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if ! source=$(gh api "repos/${GITHUB_REPOSITORY}/pages" --jq .build_type 2>/dev/null); then
+            echo "::error title=GitHub Pages is not turned on::Open the repository Settings > Pages, set Source to 'GitHub Actions', then run this workflow again (Actions > Update data and deploy > Run workflow). The repository must be Public on a free account."
+            exit 1
+          fi
+          if [ "$source" != "workflow" ]; then
+            echo "::error title=GitHub Pages source is wrong::Settings > Pages > Source is '$source'. Change it to 'GitHub Actions', then run this workflow again."
+            exit 1
+          fi
+
       - name: Build the site
         run: |
           mkdir -p _site/data
           cp index.html _site/
           cp data/products.json _site/data/
           cp data/scrape_status.json _site/data/ 2>/dev/null || true
-          touch _site/.nojekyll
 
-      - uses: actions/configure-pages@v5
-
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: _site
 
       - id: deploy
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
