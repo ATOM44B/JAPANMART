@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-19T11:54:01+00:00",
+ "generatedAt": "2026-09-19T12:42:09+00:00",
  "ok": true,
- "live_items": 1648,
+ "live_items": 1656,
  "sites": {
   "netmall": {
    "items": 0,
@@ -9,14 +9,14 @@
    "failed": 3
   },
   "komehyo": {
-   "items": 1648,
+   "items": 1656,
    "ok": 53,
    "failed": 0
   }
  },
  "photos": {
-  "listings_with_photo": 576,
-  "listings_without_photo": 1072,
+  "listings_with_photo": 661,
+  "listings_without_photo": 995,
   "from_product_pages": 80,
   "examples_without_photo": [
    "https://komehyo.jp/product/230-000-819-7831/",
@@ -289,7 +289,7 @@
    "site": "komehyo",
    "cat": "watch",
    "url": "https://komehyo.jp/watch-mens/?q=%E3%82%BF%E3%82%B0%E3%83%BB%E3%83%9B%E3%82%A4%E3%83%A4%E3%83%BC&page=2",
-   "found": 29,
+   "found": 30,
    "note": ""
   },
   {
@@ -499,7 +499,7 @@
    "site": "komehyo",
    "cat": "camera",
    "url": "https://komehyo.jp/camera/?q=%E3%83%A9%E3%82%A4%E3%82%AB&page=2",
-   "found": 4,
+   "found": 6,
    "note": ""
   },
   {
@@ -555,7 +555,7 @@
    "site": "komehyo",
    "cat": "camera",
    "url": "https://komehyo.jp/camera/?q=%E5%AF%8C%E5%A3%AB%E3%83%95%E3%82%A4%E3%83%AB%E3%83%A0&page=2",
-   "found": 26,
+   "found": 30,
    "note": ""
   },
   {
@@ -608,5 +608,5 @@
    "note": ""
   }
  ],
- "message": "Wrote 1648 listings."
+ "message": "Wrote 1656 listings."
 }
