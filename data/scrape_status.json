@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-19T14:46:28+00:00",
+ "generatedAt": "2026-09-19T15:18:17+00:00",
  "ok": true,
  "live_items": 650,
  "sites": {
@@ -22,7 +22,7 @@
  "photos": {
   "listings_with_photo": 650,
   "listings_without_photo": 0,
-  "from_product_pages": 0,
+  "from_product_pages": 1,
   "examples_without_photo": []
  },
  "refused_by": {

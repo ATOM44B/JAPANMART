@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-09-19",
- "generatedAt": "2026-09-19T14:46:28+00:00",
+ "generatedAt": "2026-09-19T15:18:17+00:00",
  "fx": 0.21222,
  "fxDate": "2026-09-19",
  "counts": {
@@ -204,7 +204,7 @@
    "src": "komehyo",
    "brand": "NIKON",
    "model": "新入荷 ＡＦ－Ｓ５０ｍｍ Ｆ１．８Ｇ",
-   "desc": "新入荷 ＡＦ－Ｓ５０ｍｍ Ｆ１．８Ｇ 09月16日入荷 NIKON",
+   "desc": "新入荷 ＡＦ－Ｓ５０ｍｍ Ｆ１．８Ｇ NIKON",
    "cond": "Ａ",
    "jpy": 18000,
    "kg": 1.2,
@@ -960,7 +960,7 @@
    "src": "komehyo",
    "brand": "CANON",
    "model": "新入荷 ＥＦ８５ｍｍ Ｆ１．８ＵＳＭ",
-   "desc": "新入荷 ＥＦ８５ｍｍ Ｆ１．８ＵＳＭ 09月16日入荷 CANON",
+   "desc": "新入荷 ＥＦ８５ｍｍ Ｆ１．８ＵＳＭ CANON",
    "cond": "Ｃ",
    "jpy": 35000,
    "kg": 1.2,
@@ -4064,6 +4064,27 @@
    "comps": []
   },
   {
+   "id": "k2700043401496",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "CARTIER",
+   "model": "W31005H3",
+   "desc": "【ノーメンテナンス還元価格】カルティエ パシャ W31005H3 SS 自動巻 Cartier",
+   "cond": "B",
+   "jpy": 380000,
+   "kg": 0.4,
+   "sq": "W31005H3",
+   "store": "梅田店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/a87/2700043401496_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-340-1496/",
+   "mkt": 380000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2300006573613",
    "cat": "ring",
    "src": "komehyo",
@@ -4132,7 +4153,7 @@
    "src": "komehyo",
    "brand": "BVLGARI",
    "model": "新入荷 アストラーレ リング",
-   "desc": "新入荷 ブルガリ アストラーレ リング 09月16日入荷 BVLGARI",
+   "desc": "新入荷 ブルガリ アストラーレ リング BVLGARI",
    "cond": "A",
    "jpy": 360000,
    "kg": 0.1,
@@ -6631,7 +6652,7 @@
    "src": "komehyo",
    "brand": "SONY",
    "model": "新入荷 ＶＬＯＧＣＡＭ ＺＶ－Ｅ１０",
-   "desc": "新入荷 ＶＬＯＧＣＡＭ ＺＶ－Ｅ１０ ＩＩ レンズキット 09月16日入荷 SONY",
+   "desc": "新入荷 ＶＬＯＧＣＡＭ ＺＶ－Ｅ１０ ＩＩ レンズキット SONY",
    "cond": "Ａ",
    "jpy": 128000,
    "kg": 0.9,
@@ -7336,27 +7357,6 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-352-1064/",
    "mkt": 95000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2300003040316",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "LOUIS VUITTON",
-   "model": "N60008",
-   "desc": "値下げ 10％引き ルイヴィトン ダミエ ドゥオモ N60008 バッグ LOUIS VUITTON",
-   "cond": "B",
-   "jpy": 90000,
-   "kg": 1.2,
-   "sq": "N60008",
-   "store": "名古屋本店BAG＋",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/78c/2300003040316_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-304-0316/",
-   "mkt": 90000,
    "mktN": 1,
    "comps": []
   },
@@ -10929,7 +10929,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/777718",
    "mkt": 30700,
-   "mktN": 5,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -13177,7 +13177,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/777689",
    "mkt": 30700,
-   "mktN": 5,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -13201,7 +13201,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/777055",
    "mkt": 30700,
-   "mktN": 5,
+   "mktN": 4,
    "comps": []
   },
   {
