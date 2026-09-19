@@ -1,0 +1,5 @@
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+# only for: python scraper/scrape.py --browser
+# playwright>=1.45
