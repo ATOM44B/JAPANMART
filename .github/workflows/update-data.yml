@@ -16,7 +16,13 @@ jobs:
   # A scraping problem never fails the run: if too little comes back, the last good data is kept
   # and the reason is written to data/scrape_status.json.
   update:
-    runs-on: ubuntu-24.04
+    # Runs on GitHub's servers by default. If Komehyo or Netmall refuse those (HTTP 403 or 500 in data/scrape_status.json),
+    # set the repository variable SCRAPER_RUNNER to self-hosted to run this job on your own computer. See README.md.
+    runs-on: ${{ vars.SCRAPER_RUNNER || 'ubuntu-24.04' }}
+    timeout-minutes: 30
+    defaults:
+      run:
+        shell: bash
     permissions:
       contents: write
     steps:
@@ -44,6 +50,19 @@ jobs:
 
       - name: Fetch listings from Komehyo and Netmall
         run: python scraper/scrape.py
+
+      # If the plain fetch found nothing, try once more the way a browser loads pages.
+      # This step never fails the run. What happened is written to data/scrape_status.json.
+      - name: Try again with a real browser if the first fetch found nothing
+        continue-on-error: true
+        run: |
+          if python -c "import json,sys; sys.exit(0 if json.load(open('data/scrape_status.json')).get('ok') else 1)"; then
+            echo "The first fetch worked, no retry needed."
+            exit 0
+          fi
+          pip install playwright
+          if [ "$RUNNER_OS" = "Linux" ]; then python -m playwright install --with-deps chromium; else python -m playwright install chromium; fi
+          python scraper/scrape.py --browser
 
       - name: Save refreshed data to the repository
         run: |
