@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-09-20",
- "generatedAt": "2026-09-20T17:47:27+00:00",
+ "generatedAt": "2026-09-20T19:55:55+00:00",
  "fx": 0.21209,
  "fxDate": "2026-09-20",
  "counts": {
@@ -4085,6 +4085,27 @@
    "comps": []
   },
   {
+   "id": "k2700043401496",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "CARTIER",
+   "model": "W31005H3",
+   "desc": "【ノーメンテナンス還元価格】カルティエ パシャ W31005H3 SS 自動巻 Cartier",
+   "cond": "B",
+   "jpy": 380000,
+   "kg": 0.4,
+   "sq": "W31005H3",
+   "store": "梅田店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/a87/2700043401496_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-340-1496/",
+   "mkt": 380000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2700043762177",
    "cat": "watch",
    "src": "komehyo",
@@ -7335,27 +7356,6 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-734-0825/",
-   "mkt": 95000,
-   "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "k2300007340818",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "GUCCI",
-   "model": "113014",
-   "desc": "グッチ 113014 バッグ GUCCI",
-   "cond": "A",
-   "jpy": 95000,
-   "kg": 1.2,
-   "sq": "113014",
-   "store": "KOMEHYO VINTAGE TOKYO",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/7bd/2300007340818_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-734-0818/",
    "mkt": 95000,
    "mktN": 2,
    "comps": []
