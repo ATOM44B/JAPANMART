@@ -1,9 +1,9 @@
 {
  "source": "live",
- "generated": "2026-09-19",
- "generatedAt": "2026-09-19T22:34:48+00:00",
- "fx": 0.21222,
- "fxDate": "2026-09-19",
+ "generated": "2026-09-20",
+ "generatedAt": "2026-09-20T02:04:49+00:00",
+ "fx": 0.21209,
+ "fxDate": "2026-09-20",
  "counts": {
   "live": 650,
   "seed": 0
@@ -7667,8 +7667,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/776022",
-   "mkt": 28400,
-   "mktN": 33,
+   "mkt": 28450,
+   "mktN": 32,
    "comps": []
   },
   {
@@ -7984,6 +7984,30 @@
    "comps": []
   },
   {
+   "id": "e9783815438577",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MWW43ZA/A",
+   "desc": "AirPods Max(USB-C) MWW43ZA/A ミッドナイト",
+   "cond": "",
+   "jpy": 35700,
+   "kg": 0.5,
+   "sq": "MWW43ZA/A",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/998273_3241455.jpg?v=1788422186&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/998273_3241456.jpg?v=1788422186&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/998273_3241457.jpg?v=1788422186&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/998273_3241458.jpg?v=1788422186&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/771102",
+   "mkt": 43900,
+   "mktN": 5,
+   "comps": []
+  },
+  {
    "id": "e9799194149105",
    "cat": "earphones",
    "src": "eearphone",
@@ -8003,8 +8027,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/774134",
-   "mkt": 28400,
-   "mktN": 33,
+   "mkt": 28450,
+   "mktN": 32,
    "comps": []
   },
   {
@@ -8220,7 +8244,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/774607",
    "mkt": 43900,
-   "mktN": 4,
+   "mktN": 5,
    "comps": []
   },
   {
@@ -8410,8 +8434,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/774741",
-   "mkt": 28400,
-   "mktN": 33,
+   "mkt": 28450,
+   "mktN": 32,
    "comps": []
   },
   {
@@ -8648,8 +8672,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/776234",
-   "mkt": 28400,
-   "mktN": 33,
+   "mkt": 28450,
+   "mktN": 32,
    "comps": []
   },
   {
@@ -8724,6 +8748,30 @@
    "comps": []
   },
   {
+   "id": "e9807249277169",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MFHP4J/A",
+   "desc": "AirPods Pro 3 MFHP4J/A",
+   "cond": "",
+   "jpy": 26500,
+   "kg": 0.5,
+   "sq": "MFHP4J/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003533_3263058.jpg?v=1789365465&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003533_3263059.jpg?v=1789365465&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003533_3263060.jpg?v=1789365465&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003533_3263061.jpg?v=1789365465&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/776196",
+   "mkt": 28450,
+   "mktN": 32,
+   "comps": []
+  },
+  {
    "id": "e9790804492529",
    "cat": "player",
    "src": "eearphone",
@@ -8772,27 +8820,27 @@
    "comps": []
   },
   {
-   "id": "e9807249277169",
+   "id": "e9802103652593",
    "cat": "earphones",
    "src": "eearphone",
    "brand": "Apple",
    "model": "MFHP4J/A",
    "desc": "AirPods Pro 3 MFHP4J/A",
    "cond": "",
-   "jpy": 26500,
+   "jpy": 26600,
    "kg": 0.5,
    "sq": "MFHP4J/A",
-   "store": "秋葉原",
+   "store": "名古屋",
    "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003533_3263058.jpg?v=1789365465&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003533_3263059.jpg?v=1789365465&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003533_3263060.jpg?v=1789365465&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003533_3263061.jpg?v=1789365465&width=700"
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002457_3253657.jpg?v=1788942013&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002457_3253658.jpg?v=1788942013&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002457_3253659.jpg?v=1788942013&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002457_3253660.jpg?v=1788942013&width=700"
    ],
    "snap": false,
-   "url": "https://www.e-earphone.jp/products/776196",
-   "mkt": 28400,
-   "mktN": 33,
+   "url": "https://www.e-earphone.jp/products/775144",
+   "mkt": 28450,
+   "mktN": 32,
    "comps": []
   },
   {
@@ -8841,30 +8889,6 @@
    "url": "https://www.e-earphone.jp/products/778625",
    "mkt": 23400,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e9802103652593",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MFHP4J/A",
-   "desc": "AirPods Pro 3 MFHP4J/A",
-   "cond": "",
-   "jpy": 26600,
-   "kg": 0.5,
-   "sq": "MFHP4J/A",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002457_3253657.jpg?v=1788942013&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002457_3253658.jpg?v=1788942013&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002457_3253659.jpg?v=1788942013&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002457_3253660.jpg?v=1788942013&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/775144",
-   "mkt": 28400,
-   "mktN": 33,
    "comps": []
   },
   {
@@ -9248,6 +9272,30 @@
    "comps": []
   },
   {
+   "id": "e9790887723249",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MFHP4J/A",
+   "desc": "AirPods Pro 3 MFHP4J/A",
+   "cond": "",
+   "jpy": 27200,
+   "kg": 0.5,
+   "sq": "MFHP4J/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000504_3249528.jpg?v=1788771433&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000504_3249531.jpg?v=1788771433&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000504_3249532.jpg?v=1788771433&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000504_3249533.jpg?v=1788771433&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/773222",
+   "mkt": 28450,
+   "mktN": 32,
+   "comps": []
+  },
+  {
    "id": "e9808705716465",
    "cat": "earphones",
    "src": "eearphone",
@@ -9301,30 +9349,6 @@
      "note": "Older post, used, warranty to Mar 2024"
     }
    ]
-  },
-  {
-   "id": "e9790887723249",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MFHP4J/A",
-   "desc": "AirPods Pro 3 MFHP4J/A",
-   "cond": "",
-   "jpy": 27200,
-   "kg": 0.5,
-   "sq": "MFHP4J/A",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000504_3249528.jpg?v=1788771433&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000504_3249531.jpg?v=1788771433&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000504_3249532.jpg?v=1788771433&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000504_3249533.jpg?v=1788771433&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/773222",
-   "mkt": 28400,
-   "mktN": 33,
-   "comps": []
   },
   {
    "id": "e9802108109041",
@@ -9519,30 +9543,6 @@
    "comps": []
   },
   {
-   "id": "e9802001678577",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "WF-1000XM5",
-   "desc": "WF-1000XM5 B ブラック",
-   "cond": "",
-   "jpy": 14800,
-   "kg": 0.5,
-   "sq": "WF-1000XM5",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002334_3268190.jpg?v=1789557736&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002334_3268191.jpg?v=1789557736&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002334_3268192.jpg?v=1789557736&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002334_3268193.jpg?v=1789557736&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/775027",
-   "mkt": 15300,
-   "mktN": 5,
-   "comps": []
-  },
-  {
    "id": "e9794746679537",
    "cat": "earphones",
    "src": "eearphone",
@@ -9562,32 +9562,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/773581",
-   "mkt": 28400,
-   "mktN": 33,
-   "comps": []
-  },
-  {
-   "id": "e9797389451505",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MFHP4J/A",
-   "desc": "AirPods Pro 3 MFHP4J/A",
-   "cond": "",
-   "jpy": 27500,
-   "kg": 0.5,
-   "sq": "MFHP4J/A",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001281_3249826.jpg?v=1788774734&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001281_3249827.jpg?v=1788774734&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001281_3249828.jpg?v=1788774734&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001281_3249829.jpg?v=1788774734&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/773983",
-   "mkt": 28400,
-   "mktN": 33,
+   "mkt": 28450,
+   "mktN": 32,
    "comps": []
   },
   {
@@ -9610,8 +9586,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/773752",
-   "mkt": 28400,
-   "mktN": 33,
+   "mkt": 28450,
+   "mktN": 32,
    "comps": []
   },
   {
@@ -9634,8 +9610,32 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/773664",
-   "mkt": 28400,
-   "mktN": 33,
+   "mkt": 28450,
+   "mktN": 32,
+   "comps": []
+  },
+  {
+   "id": "e9802001678577",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "WF-1000XM5",
+   "desc": "WF-1000XM5 B ブラック",
+   "cond": "",
+   "jpy": 14800,
+   "kg": 0.5,
+   "sq": "WF-1000XM5",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002334_3268190.jpg?v=1789557736&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002334_3268191.jpg?v=1789557736&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002334_3268192.jpg?v=1789557736&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002334_3268193.jpg?v=1789557736&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/775027",
+   "mkt": 15300,
+   "mktN": 5,
    "comps": []
   },
   {
@@ -9926,6 +9926,30 @@
    "comps": []
   },
   {
+   "id": "e9787213906161",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MFHP4J/A",
+   "desc": "AirPods Pro 3 MFHP4J/A",
+   "cond": "",
+   "jpy": 27900,
+   "kg": 0.5,
+   "sq": "MFHP4J/A",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/999503_3246657.jpg?v=1788668595&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/999503_3246659.jpg?v=1788668595&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/999503_3246660.jpg?v=1788668595&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/999503_3246662.jpg?v=1788668595&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/772258",
+   "mkt": 28450,
+   "mktN": 32,
+   "comps": []
+  },
+  {
    "id": "e9810948653297",
    "cat": "earphones",
    "src": "eearphone",
@@ -9947,30 +9971,6 @@
    "url": "https://www.e-earphone.jp/products/777182",
    "mkt": 15900,
    "mktN": 5,
-   "comps": []
-  },
-  {
-   "id": "e9787213906161",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MFHP4J/A",
-   "desc": "AirPods Pro 3 MFHP4J/A",
-   "cond": "",
-   "jpy": 27900,
-   "kg": 0.5,
-   "sq": "MFHP4J/A",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/999503_3246657.jpg?v=1788668595&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/999503_3246659.jpg?v=1788668595&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/999503_3246660.jpg?v=1788668595&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/999503_3246662.jpg?v=1788668595&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/772258",
-   "mkt": 28400,
-   "mktN": 33,
    "comps": []
   },
   {
@@ -10043,6 +10043,30 @@
    "url": "https://www.e-earphone.jp/products/774565",
    "mkt": 263200,
    "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e9797384470769",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MFHP4J/A",
+   "desc": "AirPods Pro 3 MFHP4J/A",
+   "cond": "",
+   "jpy": 28000,
+   "kg": 0.5,
+   "sq": "MFHP4J/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001237_3247556.jpg?v=1788682851&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001237_3247557.jpg?v=1788682851&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001237_3247558.jpg?v=1788682851&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001237_3247559.jpg?v=1788682851&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/773939",
+   "mkt": 28450,
+   "mktN": 32,
    "comps": []
   },
   {
@@ -10139,30 +10163,6 @@
    "url": "https://www.e-earphone.jp/products/774386",
    "mkt": 68900,
    "mktN": 5,
-   "comps": []
-  },
-  {
-   "id": "e9797384470769",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MFHP4J/A",
-   "desc": "AirPods Pro 3 MFHP4J/A",
-   "cond": "",
-   "jpy": 28000,
-   "kg": 0.5,
-   "sq": "MFHP4J/A",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001237_3247556.jpg?v=1788682851&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001237_3247557.jpg?v=1788682851&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001237_3247558.jpg?v=1788682851&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001237_3247559.jpg?v=1788682851&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/773939",
-   "mkt": 28400,
-   "mktN": 33,
    "comps": []
   },
   {
@@ -10286,6 +10286,30 @@
    "comps": []
   },
   {
+   "id": "e9807247507697",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MFHP4J/A",
+   "desc": "AirPods Pro 3 MFHP4J/A",
+   "cond": "",
+   "jpy": 28100,
+   "kg": 0.5,
+   "sq": "MFHP4J/A",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003526_3269076.jpg?v=1789623936&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003526_3269077.jpg?v=1789623936&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003526_3269078.jpg?v=1789623936&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003526_3269079.jpg?v=1789623936&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/776189",
+   "mkt": 28450,
+   "mktN": 32,
+   "comps": []
+  },
+  {
    "id": "e9804602507505",
    "cat": "player",
    "src": "eearphone",
@@ -10403,30 +10427,6 @@
    "url": "https://www.e-earphone.jp/products/777350",
    "mkt": 18700,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e9807247507697",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MFHP4J/A",
-   "desc": "AirPods Pro 3 MFHP4J/A",
-   "cond": "",
-   "jpy": 28100,
-   "kg": 0.5,
-   "sq": "MFHP4J/A",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003526_3269076.jpg?v=1789623936&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003526_3269077.jpg?v=1789623936&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003526_3269078.jpg?v=1789623936&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003526_3269079.jpg?v=1789623936&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/776189",
-   "mkt": 28400,
-   "mktN": 33,
    "comps": []
   },
   {
@@ -10765,6 +10765,54 @@
    "comps": []
   },
   {
+   "id": "e9812891730161",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MFHP4J/A",
+   "desc": "AirPods Pro 3 MFHP4J/A",
+   "cond": "",
+   "jpy": 28300,
+   "kg": 0.5,
+   "sq": "MFHP4J/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004960_3268828.jpg?v=1789617815&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004960_3268829.jpg?v=1789617815&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004960_3268830.jpg?v=1789617815&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004960_3268831.jpg?v=1789617815&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/777614",
+   "mkt": 28450,
+   "mktN": 32,
+   "comps": []
+  },
+  {
+   "id": "e9788798959857",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MFHP4J/A",
+   "desc": "AirPods Pro 3 MFHP4J/A",
+   "cond": "",
+   "jpy": 28300,
+   "kg": 0.5,
+   "sq": "MFHP4J/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000061_3255688.jpg?v=1789032434&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000061_3255689.jpg?v=1789032434&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000061_3255690.jpg?v=1789032434&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000061_3255691.jpg?v=1789032434&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/772801",
+   "mkt": 28450,
+   "mktN": 32,
+   "comps": []
+  },
+  {
    "id": "e9801193128177",
    "cat": "speakers",
    "src": "eearphone",
@@ -10834,54 +10882,6 @@
    "url": "https://www.e-earphone.jp/products/768605",
    "mkt": 9835,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e9812891730161",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MFHP4J/A",
-   "desc": "AirPods Pro 3 MFHP4J/A",
-   "cond": "",
-   "jpy": 28300,
-   "kg": 0.5,
-   "sq": "MFHP4J/A",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004960_3268828.jpg?v=1789617815&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004960_3268829.jpg?v=1789617815&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004960_3268830.jpg?v=1789617815&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004960_3268831.jpg?v=1789617815&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/777614",
-   "mkt": 28400,
-   "mktN": 33,
-   "comps": []
-  },
-  {
-   "id": "e9788798959857",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MFHP4J/A",
-   "desc": "AirPods Pro 3 MFHP4J/A",
-   "cond": "",
-   "jpy": 28300,
-   "kg": 0.5,
-   "sq": "MFHP4J/A",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000061_3255688.jpg?v=1789032434&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000061_3255689.jpg?v=1789032434&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000061_3255690.jpg?v=1789032434&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000061_3255691.jpg?v=1789032434&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/772801",
-   "mkt": 28400,
-   "mktN": 33,
    "comps": []
   },
   {
@@ -11002,6 +11002,30 @@
    "url": "https://www.e-earphone.jp/products/776896",
    "mkt": 41000,
    "mktN": 8,
+   "comps": []
+  },
+  {
+   "id": "e9807226208497",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MFHP4J/A",
+   "desc": "AirPods Pro 3 MFHP4J/A",
+   "cond": "",
+   "jpy": 28400,
+   "kg": 0.5,
+   "sq": "MFHP4J/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003510_3263047.jpg?v=1789365143&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003510_3263048.jpg?v=1789365143&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003510_3263049.jpg?v=1789365143&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003510_3263050.jpg?v=1789365143&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/776174",
+   "mkt": 28450,
+   "mktN": 32,
    "comps": []
   },
   {
@@ -11289,30 +11313,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/631390",
    "mkt": 158000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e9810045796593",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "FIIO",
-   "model": "R9",
-   "desc": "R9",
-   "cond": "",
-   "jpy": 154100,
-   "kg": 0.4,
-   "sq": "R9",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004298_3261413.jpg?v=1789287568&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004298_3261414.jpg?v=1789287568&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004298_3261415.jpg?v=1789287568&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004298_3261416.jpg?v=1789287569&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/776953",
-   "mkt": 154100,
    "mktN": 1,
    "comps": []
   },
@@ -12365,6 +12365,30 @@
    "comps": []
   },
   {
+   "id": "e9812804632817",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "Cayin",
+   "model": "N3Ultra",
+   "desc": "N3Ultra",
+   "cond": "",
+   "jpy": 46900,
+   "kg": 0.4,
+   "sq": "N3Ultra",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004646_3266585.jpg?v=1789530382&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004646_3266586.jpg?v=1789530382&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004646_3266587.jpg?v=1789530382&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004646_3266588.jpg?v=1789530382&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/777300",
+   "mkt": 46900,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e9809652351217",
    "cat": "earphones",
    "src": "eearphone",
@@ -12457,7 +12481,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/776650",
    "mkt": 43900,
-   "mktN": 4,
+   "mktN": 5,
    "comps": []
   },
   {
@@ -12481,7 +12505,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/773225",
    "mkt": 43900,
-   "mktN": 4,
+   "mktN": 5,
    "comps": []
   },
   {
@@ -13298,30 +13322,6 @@
    "url": "https://www.e-earphone.jp/products/778243",
    "mkt": 28500,
    "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e9807226208497",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MFHP4J/A",
-   "desc": "AirPods Pro 3 MFHP4J/A",
-   "cond": "",
-   "jpy": 28400,
-   "kg": 0.5,
-   "sq": "MFHP4J/A",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003510_3263047.jpg?v=1789365143&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003510_3263048.jpg?v=1789365143&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003510_3263049.jpg?v=1789365143&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003510_3263050.jpg?v=1789365143&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/776174",
-   "mkt": 28400,
-   "mktN": 33,
    "comps": []
   },
   {
