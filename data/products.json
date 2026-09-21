@@ -1,9 +1,9 @@
 {
  "source": "live",
- "generated": "2026-09-20",
- "generatedAt": "2026-09-20T22:47:57+00:00",
- "fx": 0.21209,
- "fxDate": "2026-09-20",
+ "generated": "2026-09-21",
+ "generatedAt": "2026-09-21T02:05:33+00:00",
+ "fx": 0.21215,
+ "fxDate": "2026-09-21",
  "counts": {
   "live": 650,
   "seed": 0
@@ -7456,30 +7456,6 @@
    "comps": []
   },
   {
-   "id": "e9661717348593",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Shokz",
-   "model": "AEROPEX Cosmic Black",
-   "desc": "AEROPEX Cosmic Black",
-   "cond": "",
-   "jpy": 4700,
-   "kg": 0.5,
-   "sq": "AEROPEX Cosmic Black",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/980023_3134077.jpg?v=1783663630&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/980023_3134078.jpg?v=1783663630&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/980023_3134079.jpg?v=1783663630&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/980023_3134080.jpg?v=1783663630&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/753205",
-   "mkt": 8000,
-   "mktN": 4,
-   "comps": []
-  },
-  {
    "id": "e9813645754609",
    "cat": "earphones",
    "src": "eearphone",
@@ -7501,6 +7477,30 @@
    "url": "https://www.e-earphone.jp/products/777712",
    "mkt": 12950,
    "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e9661717348593",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Shokz",
+   "model": "AEROPEX Cosmic Black",
+   "desc": "AEROPEX Cosmic Black",
+   "cond": "",
+   "jpy": 4700,
+   "kg": 0.5,
+   "sq": "AEROPEX Cosmic Black",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/980023_3134077.jpg?v=1783663630&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/980023_3134078.jpg?v=1783663630&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/980023_3134079.jpg?v=1783663630&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/980023_3134080.jpg?v=1783663630&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/753205",
+   "mkt": 7182,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -7941,30 +7941,6 @@
    "comps": []
   },
   {
-   "id": "e9690713194737",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Shokz",
-   "model": "OpenMeet UC USB-C",
-   "desc": "OpenMeet UC USB-C",
-   "cond": "",
-   "jpy": 16700,
-   "kg": 0.5,
-   "sq": "OpenMeet UC USB-C",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/988549_3182046.jpg?v=1785749780&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/988549_3182047.jpg?v=1785749780&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/988549_3182048.jpg?v=1785749780&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/988549_3182049.jpg?v=1785749780&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/761574",
-   "mkt": 20300,
-   "mktN": 3,
-   "comps": []
-  },
-  {
    "id": "e9797385191665",
    "cat": "earphones",
    "src": "eearphone",
@@ -8033,6 +8009,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/710679",
    "mkt": 8925,
+   "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e9634237612273",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "AVIOT",
+   "model": "Openpiece Elite ＋",
+   "desc": "Openpiece Elite ＋ ブームマイク チタニウムシルバー",
+   "cond": "",
+   "jpy": 7412,
+   "kg": 0.5,
+   "sq": "Openpiece Elite ＋",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/970450_3082740.jpg?v=1781586626&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/970450_3082741.jpg?v=1781586626&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/970450_3082742.jpg?v=1781586626&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/970450_3082743.jpg?v=1781586626&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/743840",
+   "mkt": 8756,
    "mktN": 2,
    "comps": []
   },
@@ -8132,6 +8132,29 @@
    "comps": []
   },
   {
+   "id": "e9808705716465",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "nwm",
+   "model": "MBN001",
+   "desc": "MBN001 ワイヤレスパーソナルイヤースピーカー ホワイトベージュ",
+   "cond": "",
+   "jpy": 4140,
+   "kg": 0.5,
+   "sq": "MBN001",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003818_3265549.jpg?v=1789458613&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003818_3265550.jpg?v=1789458613&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003818_3265551.jpg?v=1789458613&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/776476",
+   "mkt": 4740,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "e9629342040305",
    "cat": "earphones",
    "src": "eearphone",
@@ -8139,7 +8162,7 @@
    "model": "AEROPEX Blue Eclipse",
    "desc": "AEROPEX Blue Eclipse",
    "cond": "",
-   "jpy": 6680,
+   "jpy": 5678,
    "kg": 0.5,
    "sq": "AEROPEX Blue Eclipse",
    "store": "名古屋",
@@ -8151,7 +8174,7 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/743343",
-   "mkt": 7630,
+   "mkt": 6485,
    "mktN": 2,
    "comps": []
   },
@@ -8513,30 +8536,6 @@
    "comps": []
   },
   {
-   "id": "e9794778628337",
-   "cat": "speakers",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "LinkBuds Speaker ブラック",
-   "desc": "LinkBuds Speaker ブラック",
-   "cond": "",
-   "jpy": 15900,
-   "kg": 3.0,
-   "sq": "LinkBuds Speaker ブラック",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000869_3252411.jpg?v=1788860808&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000869_3252412.jpg?v=1788860808&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000869_3252413.jpg?v=1788860808&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000869_3252414.jpg?v=1788860809&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/773586",
-   "mkt": 17400,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e9807288500465",
    "cat": "earphones",
    "src": "eearphone",
@@ -8657,30 +8656,6 @@
    "comps": []
   },
   {
-   "id": "e9634237612273",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "AVIOT",
-   "model": "Openpiece Elite ＋",
-   "desc": "Openpiece Elite ＋ ブームマイク チタニウムシルバー",
-   "cond": "",
-   "jpy": 8720,
-   "kg": 0.5,
-   "sq": "Openpiece Elite ＋",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/970450_3082740.jpg?v=1781586626&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/970450_3082741.jpg?v=1781586626&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/970450_3082742.jpg?v=1781586626&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/970450_3082743.jpg?v=1781586626&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/743840",
-   "mkt": 9410,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e9807249277169",
    "cat": "earphones",
    "src": "eearphone",
@@ -8702,6 +8677,30 @@
    "url": "https://www.e-earphone.jp/products/776196",
    "mkt": 28500,
    "mktN": 29,
+   "comps": []
+  },
+  {
+   "id": "e9515818582257",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "EPOS JAPAN",
+   "model": "EPOS H6PRO",
+   "desc": "EPOS H6PRO 開放型 セブリングブラック",
+   "cond": "",
+   "jpy": 7650,
+   "kg": 0.5,
+   "sq": "EPOS H6PRO",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/934997_3264259.jpg?v=1789439131&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/934997_3264260.jpg?v=1789439131&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/934997_3264261.jpg?v=1789439131&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/934997_3264264.jpg?v=1789439131&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/708981",
+   "mkt": 8225,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -9014,30 +9013,6 @@
    "comps": []
   },
   {
-   "id": "e9798994428145",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Shokz",
-   "model": "AEROPEX Cosmic Black",
-   "desc": "AEROPEX Cosmic Black",
-   "cond": "",
-   "jpy": 7600,
-   "kg": 0.5,
-   "sq": "AEROPEX Cosmic Black",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001359_3249800.jpg?v=1788774375&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001359_3249801.jpg?v=1788774375&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001359_3249802.jpg?v=1788774375&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001359_3249803.jpg?v=1788774375&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/774061",
-   "mkt": 8000,
-   "mktN": 4,
-   "comps": []
-  },
-  {
    "id": "e9801293168881",
    "cat": "earphones",
    "src": "eearphone",
@@ -9180,29 +9155,6 @@
    "comps": []
   },
   {
-   "id": "e9808705716465",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "nwm",
-   "model": "MBN001",
-   "desc": "MBN001 ワイヤレスパーソナルイヤースピーカー ホワイトベージュ",
-   "cond": "",
-   "jpy": 4140,
-   "kg": 0.5,
-   "sq": "MBN001",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003818_3265549.jpg?v=1789458613&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003818_3265550.jpg?v=1789458613&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003818_3265551.jpg?v=1789458613&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/776476",
-   "mkt": 4330,
-   "mktN": 3,
-   "comps": []
-  },
-  {
    "id": "e9809662214385",
    "cat": "earphones",
    "src": "eearphone",
@@ -9233,30 +9185,6 @@
      "note": "Older post, used, warranty to Mar 2024"
     }
    ]
-  },
-  {
-   "id": "e9807102214385",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bose",
-   "model": "QuietComfort Ultra Headphones",
-   "desc": "QuietComfort Ultra Headphones LUNAR BLUE",
-   "cond": "",
-   "jpy": 27900,
-   "kg": 0.5,
-   "sq": "QuietComfort Ultra Headphones",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003436_3262105.jpg?v=1789296495&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003436_3262106.jpg?v=1789296495&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003436_3262107.jpg?v=1789296495&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003436_3262108.jpg?v=1789296495&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/776098",
-   "mkt": 29150,
-   "mktN": 2,
-   "comps": []
   },
   {
    "id": "e9813634285809",
@@ -9496,6 +9424,30 @@
    "url": "https://www.e-earphone.jp/products/755087",
    "mkt": 28900,
    "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e9690713194737",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Shokz",
+   "model": "OpenMeet UC USB-C",
+   "desc": "OpenMeet UC USB-C",
+   "cond": "",
+   "jpy": 16700,
+   "kg": 0.5,
+   "sq": "OpenMeet UC USB-C",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/988549_3182046.jpg?v=1785749780&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/988549_3182047.jpg?v=1785749780&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/988549_3182048.jpg?v=1785749780&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/988549_3182049.jpg?v=1785749780&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/761574",
+   "mkt": 17255,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -9954,30 +9906,6 @@
    "comps": []
   },
   {
-   "id": "e9810948653297",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "JBL",
-   "model": "LIVE780NC",
-   "desc": "LIVE780NC ブルー",
-   "cond": "",
-   "jpy": 15600,
-   "kg": 0.5,
-   "sq": "LIVE780NC",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004527_3264554.jpg?v=1789442477&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004527_3264555.jpg?v=1789442477&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004527_3264556.jpg?v=1789442477&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004527_3264557.jpg?v=1789442477&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/777182",
-   "mkt": 15900,
-   "mktN": 5,
-   "comps": []
-  },
-  {
    "id": "e9802108403953",
    "cat": "earphones",
    "src": "eearphone",
@@ -10023,6 +9951,30 @@
    "url": "https://www.e-earphone.jp/products/777870",
    "mkt": 19250,
    "mktN": 4,
+   "comps": []
+  },
+  {
+   "id": "e9807102214385",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Bose",
+   "model": "QuietComfort Ultra Headphones",
+   "desc": "QuietComfort Ultra Headphones LUNAR BLUE",
+   "cond": "",
+   "jpy": 27900,
+   "kg": 0.5,
+   "sq": "QuietComfort Ultra Headphones",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003436_3262105.jpg?v=1789296495&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003436_3262106.jpg?v=1789296495&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003436_3262107.jpg?v=1789296495&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003436_3262108.jpg?v=1789296495&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/776098",
+   "mkt": 28400,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -10167,6 +10119,30 @@
    "url": "https://www.e-earphone.jp/products/774123",
    "mkt": 68900,
    "mktN": 3,
+   "comps": []
+  },
+  {
+   "id": "e9810948653297",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "JBL",
+   "model": "LIVE780NC",
+   "desc": "LIVE780NC ブルー",
+   "cond": "",
+   "jpy": 15600,
+   "kg": 0.5,
+   "sq": "LIVE780NC",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004527_3264554.jpg?v=1789442477&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004527_3264555.jpg?v=1789442477&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004527_3264556.jpg?v=1789442477&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004527_3264557.jpg?v=1789442477&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/777182",
+   "mkt": 15850,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -10506,30 +10482,6 @@
    "comps": []
   },
   {
-   "id": "e9812856701169",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "EPOS JAPAN",
-   "model": "EPOS H6PRO",
-   "desc": "EPOS H6PRO 密閉型 セブリングブラック",
-   "cond": "",
-   "jpy": 8800,
-   "kg": 0.5,
-   "sq": "EPOS H6PRO",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004897_3266950.jpg?v=1789539201&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004897_3266951.jpg?v=1789539201&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004897_3266952.jpg?v=1789539202&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004897_3266953.jpg?v=1789539202&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/777551",
-   "mkt": 8900,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e9648000925937",
    "cat": "speakers",
    "src": "eearphone",
@@ -10794,30 +10746,6 @@
    "comps": []
   },
   {
-   "id": "e9812008272113",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "JBL",
-   "model": "LIVE780NC",
-   "desc": "LIVE780NC シャンパン",
-   "cond": "",
-   "jpy": 15800,
-   "kg": 0.5,
-   "sq": "LIVE780NC",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004606_3264604.jpg?v=1789442978&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004606_3264605.jpg?v=1789442978&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004606_3264606.jpg?v=1789442978&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004606_3264607.jpg?v=1789442978&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/777261",
-   "mkt": 15900,
-   "mktN": 5,
-   "comps": []
-  },
-  {
    "id": "e9667952017649",
    "cat": "earphones",
    "src": "eearphone",
@@ -10861,6 +10789,30 @@
    "url": "https://www.e-earphone.jp/products/776695",
    "mkt": 4215,
    "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e9629175775473",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Shokz",
+   "model": "AEROPEX Cosmic Black",
+   "desc": "AEROPEX Cosmic Black",
+   "cond": "",
+   "jpy": 7140,
+   "kg": 0.5,
+   "sq": "AEROPEX Cosmic Black",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/969869_3079200.jpg?v=1781425449&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/969869_3079201.jpg?v=1781425449&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/969869_3079202.jpg?v=1781425449&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/969869_3079203.jpg?v=1781425449&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/743272",
+   "mkt": 7182,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -10908,6 +10860,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/777582",
    "mkt": 18700,
+   "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e9794778628337",
+   "cat": "speakers",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "LinkBuds Speaker ブラック",
+   "desc": "LinkBuds Speaker ブラック",
+   "cond": "",
+   "jpy": 15900,
+   "kg": 3.0,
+   "sq": "LinkBuds Speaker ブラック",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000869_3252411.jpg?v=1788860808&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000869_3252412.jpg?v=1788860808&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000869_3252413.jpg?v=1788860808&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000869_3252414.jpg?v=1788860809&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/773586",
+   "mkt": 15982,
    "mktN": 2,
    "comps": []
   },
@@ -11029,6 +11005,30 @@
    "url": "https://www.e-earphone.jp/products/764173",
    "mkt": 9100,
    "mktN": 5,
+   "comps": []
+  },
+  {
+   "id": "e9812008272113",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "JBL",
+   "model": "LIVE780NC",
+   "desc": "LIVE780NC シャンパン",
+   "cond": "",
+   "jpy": 15800,
+   "kg": 0.5,
+   "sq": "LIVE780NC",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004606_3264604.jpg?v=1789442978&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004606_3264605.jpg?v=1789442978&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004606_3264606.jpg?v=1789442978&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004606_3264607.jpg?v=1789442978&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/777261",
+   "mkt": 15850,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -11629,30 +11629,6 @@
    "url": "https://www.e-earphone.jp/products/775405",
    "mkt": 116400,
    "mktN": 3,
-   "comps": []
-  },
-  {
-   "id": "e9804820152561",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Pioneer",
-   "model": "SE-MASTER1",
-   "desc": "SE-MASTER1",
-   "cond": "",
-   "jpy": 111300,
-   "kg": 0.5,
-   "sq": "SE-MASTER1",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003223_3261278.jpg?v=1789284385&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003223_3261279.jpg?v=1789284385&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003223_3261280.jpg?v=1789284385&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003223_3261281.jpg?v=1789284385&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/775889",
-   "mkt": 111300,
-   "mktN": 1,
    "comps": []
   },
   {
@@ -12568,30 +12544,6 @@
    "comps": []
   },
   {
-   "id": "e9448769356017",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SIVGA",
-   "model": "PENG",
-   "desc": "PENG(鵬)",
-   "cond": "",
-   "jpy": 49900,
-   "kg": 0.5,
-   "sq": "PENG",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/914545_2823213.jpg?v=1770191949&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/914545_2823214.jpg?v=1770191949&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/914545_2823215.jpg?v=1770191949&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/914545_2823216.jpg?v=1770191949&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/688902",
-   "mkt": 49900,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e9813447704817",
    "cat": "earphones",
    "src": "eearphone",
@@ -12828,6 +12780,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/775680",
    "mkt": 42900,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e9448769356017",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SIVGA",
+   "model": "PENG",
+   "desc": "PENG(鵬)",
+   "cond": "",
+   "jpy": 42415,
+   "kg": 0.5,
+   "sq": "PENG",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/914545_2823213.jpg?v=1770191949&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/914545_2823214.jpg?v=1770191949&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/914545_2823215.jpg?v=1770191949&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/914545_2823216.jpg?v=1770191949&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/688902",
+   "mkt": 42415,
    "mktN": 1,
    "comps": []
   },
@@ -13624,6 +13600,30 @@
    "comps": []
   },
   {
+   "id": "e9802113057009",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Bose",
+   "model": "QuietComfort Ultra Headphones",
+   "desc": "QuietComfort Ultra Headphones (2nd Gen) DESERT GOLD",
+   "cond": "",
+   "jpy": 28400,
+   "kg": 0.5,
+   "sq": "QuietComfort Ultra Headphones",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002534_3262394.jpg?v=1789355175&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002534_3262395.jpg?v=1789355175&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002534_3262396.jpg?v=1789355175&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1002534_3262398.jpg?v=1789355175&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/775221",
+   "mkt": 28400,
+   "mktN": 3,
+   "comps": []
+  },
+  {
    "id": "e9810042781937",
    "cat": "earphones",
    "src": "eearphone",
@@ -14416,30 +14416,6 @@
    "comps": []
   },
   {
-   "id": "e9790752391409",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Marshall",
-   "model": "Milton A.N.C. Black",
-   "desc": "Milton A.N.C. Black",
-   "cond": "",
-   "jpy": 22000,
-   "kg": 0.5,
-   "sq": "Milton A.N.C. Black",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000472_3252910.jpg?v=1788923075&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000472_3252911.jpg?v=1788923075&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000472_3252912.jpg?v=1788923075&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000472_3252913.jpg?v=1788923075&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/773190",
-   "mkt": 22000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e9812627259633",
    "cat": "earphones",
    "src": "eearphone",
@@ -14580,6 +14556,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/776920",
    "mkt": 21400,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e9810924470513",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SIVGA",
+   "model": "Oriole ブラウン",
+   "desc": "Oriole ブラウン",
+   "cond": "",
+   "jpy": 21300,
+   "kg": 0.5,
+   "sq": "Oriole ブラウン",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004408_3264151.jpg?v=1789383568&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004408_3264152.jpg?v=1789383568&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004408_3264153.jpg?v=1789383568&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004408_3264154.jpg?v=1789383568&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/2462912216494",
+   "mkt": 21300,
    "mktN": 1,
    "comps": []
   }
