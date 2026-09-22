@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-09-22",
- "generatedAt": "2026-09-22T18:25:04+00:00",
+ "generatedAt": "2026-09-22T23:22:35+00:00",
  "fx": 0.21138,
  "fxDate": "2026-09-22",
  "counts": {
@@ -468,7 +468,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-764-1137/",
    "mkt": 250000,
-   "mktN": 14,
+   "mktN": 15,
    "comps": []
   },
   {
@@ -489,7 +489,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-582-2019/",
    "mkt": 250000,
-   "mktN": 14,
+   "mktN": 15,
    "comps": []
   },
   {
@@ -1207,6 +1207,27 @@
    "comps": []
   },
   {
+   "id": "k2600074679355",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "BVLGARI",
+   "model": "リング",
+   "desc": "ブルガリ ブルガリブルガリ リング BVLGARI",
+   "cond": "A",
+   "jpy": 142500,
+   "kg": 0.1,
+   "sq": "リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/a47/2600074679355_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-467-9355/",
+   "mkt": 250000,
+   "mktN": 15,
+   "comps": []
+  },
+  {
    "id": "k2700042872136",
    "cat": "camera",
    "src": "komehyo",
@@ -1581,7 +1602,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-818-5852/",
    "mkt": 250000,
-   "mktN": 14,
+   "mktN": 15,
    "comps": []
   },
   {
@@ -1707,7 +1728,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-750-8539/",
    "mkt": 250000,
-   "mktN": 14,
+   "mktN": 15,
    "comps": []
   },
   {
@@ -1750,6 +1771,48 @@
    "url": "https://komehyo.jp/product/230-000-482-6278/",
    "mkt": 195000,
    "mktN": 14,
+   "comps": []
+  },
+  {
+   "id": "k2300007585134",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "ペルレ スモール リング",
+   "desc": "ヴァンクリーフ&アーペル ペルレ スモール リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 170000,
+   "kg": 0.1,
+   "sq": "ペルレ スモール リング",
+   "store": "名駅店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/e86/2300007585134_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-758-5134/",
+   "mkt": 220000,
+   "mktN": 4,
+   "comps": []
+  },
+  {
+   "id": "k2300006811081",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "タンドルモン リング",
+   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 70000,
+   "kg": 0.1,
+   "sq": "タンドルモン リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/05c/2300006811081_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-681-1081/",
+   "mkt": 90000,
+   "mktN": 7,
    "comps": []
   },
   {
@@ -2107,27 +2170,6 @@
    "url": "https://komehyo.jp/product/260-007-532-5718/",
    "mkt": 45000,
    "mktN": 60,
-   "comps": []
-  },
-  {
-   "id": "k2300006811081",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "タンドルモン リング",
-   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 70000,
-   "kg": 0.1,
-   "sq": "タンドルモン リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/05c/2300006811081_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-681-1081/",
-   "mkt": 85000,
-   "mktN": 6,
    "comps": []
   },
   {
@@ -2615,6 +2657,48 @@
    "comps": []
   },
   {
+   "id": "k2300006811098",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "タンドルモン リング",
+   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 80000,
+   "kg": 0.1,
+   "sq": "タンドルモン リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/9d9/2300006811098_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-681-1098/",
+   "mkt": 90000,
+   "mktN": 7,
+   "comps": []
+  },
+  {
+   "id": "k2300005192266",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "タンドルモン リング",
+   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 80000,
+   "kg": 0.1,
+   "sq": "タンドルモン リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/705/2300005192266_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-519-2266/",
+   "mkt": 90000,
+   "mktN": 7,
+   "comps": []
+  },
+  {
    "id": "k2700043879936",
    "cat": "camera",
    "src": "komehyo",
@@ -2690,7 +2774,6 @@
    "sq": "値下げ 10％引き ＥＦ－Ｘ２０",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/ea4/2700042487798_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/1a0/2700042487798s.jpg"
    ],
    "snap": false,
@@ -2717,7 +2800,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/246-000-459-4123/",
    "mkt": 250000,
-   "mktN": 14,
+   "mktN": 15,
    "comps": []
   },
   {
@@ -2738,7 +2821,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-138-0656/",
    "mkt": 250000,
-   "mktN": 14,
+   "mktN": 15,
    "comps": []
   },
   {
@@ -2801,48 +2884,6 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-250-3887/",
    "mkt": 75000,
-   "mktN": 6,
-   "comps": []
-  },
-  {
-   "id": "k2300006811098",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "タンドルモン リング",
-   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 80000,
-   "kg": 0.1,
-   "sq": "タンドルモン リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/9d9/2300006811098_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-681-1098/",
-   "mkt": 85000,
-   "mktN": 6,
-   "comps": []
-  },
-  {
-   "id": "k2300005192266",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "タンドルモン リング",
-   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 80000,
-   "kg": 0.1,
-   "sq": "タンドルモン リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/705/2300005192266_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-519-2266/",
-   "mkt": 85000,
    "mktN": 6,
    "comps": []
   },
@@ -3157,27 +3198,6 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-275-6416/",
-   "mkt": 410000,
-   "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "k2300006562860",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "フェリシテ リング",
-   "desc": "ヴァンクリーフ&アーペル フェリシテ リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 400000,
-   "kg": 0.1,
-   "sq": "フェリシテ リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/90a/2300006562860_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-656-2860/",
    "mkt": 410000,
    "mktN": 2,
    "comps": []
@@ -3666,6 +3686,27 @@
    "comps": []
   },
   {
+   "id": "k2700043432988",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "OMEGA",
+   "model": "2265.80",
+   "desc": "オメガ シーマスタープロ 2265.80 SS クォーツ OMEGA",
+   "cond": "A",
+   "jpy": 430000,
+   "kg": 0.4,
+   "sq": "2265.80",
+   "store": "【新店】KOMEHYO FUKUOKA TENJIN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/eae/2700043432988_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-343-2988/",
+   "mkt": 430000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2300005347246",
    "cat": "bag",
    "src": "komehyo",
@@ -3939,27 +3980,6 @@
    "comps": []
   },
   {
-   "id": "k2300006573613",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "BVLGARI",
-   "model": "チクラディ リング",
-   "desc": "ブルガリ チクラディ リング BVLGARI",
-   "cond": "A",
-   "jpy": 380000,
-   "kg": 0.1,
-   "sq": "チクラディ リング",
-   "store": "【新店】KOMEHYO OSAKA SHINSAIBASHI",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/8fb/2300006573613_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-657-3613/",
-   "mkt": 380000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "k2300007565730",
    "cat": "watch",
    "src": "komehyo",
@@ -4103,6 +4123,27 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-714-4447/",
    "mkt": 350000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2700041489595",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "値下げ 20％引き カメリア",
+   "desc": "値下げ 20％引き シャネル カメリア リング CHANEL",
+   "cond": "A",
+   "jpy": 344000,
+   "kg": 0.1,
+   "sq": "値下げ 20％引き カメリア",
+   "store": "名駅店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/aab/2700041489595_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-148-9595/",
+   "mkt": 344000,
    "mktN": 1,
    "comps": []
   },
@@ -4838,7 +4879,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-491-8324/",
    "mkt": 250000,
-   "mktN": 14,
+   "mktN": 15,
    "comps": []
   },
   {
@@ -4859,7 +4900,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-552-1653/",
    "mkt": 250000,
-   "mktN": 14,
+   "mktN": 15,
    "comps": []
   },
   {
@@ -4875,7 +4916,6 @@
    "sq": "新入荷 ０型復刻 ＡＮＡＳＴＩＧＭＡＴ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/67a/2700044081710_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/0dd/2700044081710s.jpg"
    ],
    "snap": false,
@@ -5221,27 +5261,6 @@
    "comps": []
   },
   {
-   "id": "k2300004838981",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "C シグニチャー リング",
-   "desc": "シャネル C シグニチャー リング CHANEL",
-   "cond": "A",
-   "jpy": 230000,
-   "kg": 0.1,
-   "sq": "C シグニチャー リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/ea4/2300004838981_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-483-8981/",
-   "mkt": 230000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "k2700044070554",
    "cat": "bag",
    "src": "komehyo",
@@ -5252,7 +5271,7 @@
    "jpy": 225500,
    "kg": 1.2,
    "sq": "7VA658",
-   "store": "名駅店",
+   "store": "KOMEHYO SHIBUYA 名駅店",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/78a/2700044070554_1_b.jpg"
    ],
@@ -5343,7 +5362,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-778-6333/",
    "mkt": 220000,
-   "mktN": 3,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -5364,7 +5383,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-725-3040/",
    "mkt": 220000,
-   "mktN": 3,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -5385,7 +5404,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-717-8152/",
    "mkt": 220000,
-   "mktN": 3,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -7342,27 +7361,6 @@
    "comps": []
   },
   {
-   "id": "k2300007340825",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "GUCCI",
-   "model": "113014",
-   "desc": "グッチ 113014 バッグ GUCCI",
-   "cond": "A",
-   "jpy": 95000,
-   "kg": 1.2,
-   "sq": "113014",
-   "store": "KOMEHYO VINTAGE TOKYO",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/093/2300007340825_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-734-0825/",
-   "mkt": 95000,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e9787796947185",
    "cat": "speakers",
    "src": "eearphone",
@@ -8513,6 +8511,30 @@
    "url": "https://www.e-earphone.jp/products/777603",
    "mkt": 15900,
    "mktN": 10,
+   "comps": []
+  },
+  {
+   "id": "e9652669743345",
+   "cat": "speakers",
+   "src": "eearphone",
+   "brand": "HUAWEI",
+   "model": "Eyewear 2 Black",
+   "desc": "Eyewear 2 Black",
+   "cond": "",
+   "jpy": 13900,
+   "kg": 3.0,
+   "sq": "Eyewear 2 Black",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/977292_3133360.jpg?v=1783650496&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/977292_3133361.jpg?v=1783650496&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/977292_3133362.jpg?v=1783650496&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/977292_3133363.jpg?v=1783650496&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/750557",
+   "mkt": 15407,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -10613,6 +10635,30 @@
    "comps": []
   },
   {
+   "id": "e9799453343985",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "Astell&Kern",
+   "model": "SP2000",
+   "desc": "A&ultima SP2000 Copper",
+   "cond": "",
+   "jpy": 142700,
+   "kg": 0.4,
+   "sq": "SP2000",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001606_3250998.jpg?v=1788843272&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001606_3250999.jpg?v=1788843272&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001606_3251000.jpg?v=1788843272&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001606_3251001.jpg?v=1788843272&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/774304",
+   "mkt": 143750,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "e9791253020913",
    "cat": "earphones",
    "src": "eearphone",
@@ -10823,30 +10869,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/777140",
    "mkt": 9110,
-   "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e9801193128177",
-   "cat": "speakers",
-   "src": "eearphone",
-   "brand": "JBL",
-   "model": "FLIP7",
-   "desc": "FLIP7 レッド",
-   "cond": "",
-   "jpy": 11400,
-   "kg": 3.0,
-   "sq": "FLIP7",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001978_3262416.jpg?v=1789355447&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001978_3262417.jpg?v=1789355447&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001978_3262418.jpg?v=1789355447&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001978_3262419.jpg?v=1789355447&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/774672",
-   "mkt": 11450,
    "mktN": 2,
    "comps": []
   },
@@ -11279,30 +11301,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/2462913399219",
    "mkt": 149100,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e9808666657009",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "Astell&Kern",
-   "model": "SP2000",
-   "desc": "A&ultima SP2000 Stainless Steel",
-   "cond": "",
-   "jpy": 144800,
-   "kg": 0.4,
-   "sq": "SP2000",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003773_3258333.jpg?v=1789190676&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003773_3258334.jpg?v=1789190676&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003773_3258335.jpg?v=1789190676&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1003773_3258336.jpg?v=1789190676&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/776429",
-   "mkt": 144800,
    "mktN": 1,
    "comps": []
   },
@@ -13419,30 +13417,6 @@
    "comps": []
   },
   {
-   "id": "e9827637395697",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "NW-A306",
-   "desc": "NW-A306 BC ブラック",
-   "cond": "",
-   "jpy": 29400,
-   "kg": 0.4,
-   "sq": "NW-A306",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007330_3278129.jpg?v=1789966692&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007330_3278130.jpg?v=1789966692&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007330_3278131.jpg?v=1789966692&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007330_3278132.jpg?v=1789966692&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/779959",
-   "mkt": 29400,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e9823209423089",
    "cat": "earphones",
    "src": "eearphone",
@@ -14586,6 +14560,30 @@
    "url": "https://www.e-earphone.jp/products/776630",
    "mkt": 19800,
    "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e9809693442289",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Shokz",
+   "model": "OpenRun Pro 2",
+   "desc": "OpenRun Pro 2 Black",
+   "cond": "",
+   "jpy": 19800,
+   "kg": 0.5,
+   "sq": "OpenRun Pro 2",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004183_3262500.jpg?v=1789356547&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004183_3262501.jpg?v=1789356547&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004183_3262502.jpg?v=1789356547&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004183_3262503.jpg?v=1789356547&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/776839",
+   "mkt": 19800,
+   "mktN": 5,
    "comps": []
   }
  ]
