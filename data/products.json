@@ -1,9 +1,9 @@
 {
  "source": "live",
- "generated": "2026-09-28",
- "generatedAt": "2026-09-28T18:53:55+00:00",
+ "generated": "2026-09-29",
+ "generatedAt": "2026-09-29T00:43:39+00:00",
  "fx": 0.21227,
- "fxDate": "2026-09-28",
+ "fxDate": "2026-09-29",
  "counts": {
   "live": 650,
   "seed": 0
@@ -337,7 +337,6 @@
    "sq": "ＥＯＳ ＫＩＳＳ Ｘ５０",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/0b8/2600075329839_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/a9b/2600075329839s.jpg"
    ],
    "snap": false,
@@ -2024,7 +2023,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-681-1081/",
    "mkt": 92500,
-   "mktN": 10,
+   "mktN": 8,
    "comps": []
   },
   {
@@ -2149,6 +2148,27 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-344-0266/",
+   "mkt": 125000,
+   "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "k2300002902257",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "PT950",
+   "desc": "ヴァンクリーフ&アーペル PT950 リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 100000,
+   "kg": 0.1,
+   "sq": "PT950",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/863/2300002902257_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-290-2257/",
    "mkt": 125000,
    "mktN": 2,
    "comps": []
@@ -2654,7 +2674,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-681-1098/",
    "mkt": 92500,
-   "mktN": 10,
+   "mktN": 8,
    "comps": []
   },
   {
@@ -2675,7 +2695,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-519-2266/",
    "mkt": 92500,
-   "mktN": 10,
+   "mktN": 8,
    "comps": []
   },
   {
@@ -3263,28 +3283,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-738-4737/",
    "mkt": 92500,
-   "mktN": 10,
-   "comps": []
-  },
-  {
-   "id": "k2300006102783",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "タンドルモン リング",
-   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 90000,
-   "kg": 0.1,
-   "sq": "タンドルモン リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/bce/2300006102783_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-610-2783/",
-   "mkt": 92500,
-   "mktN": 10,
+   "mktN": 8,
    "comps": []
   },
   {
@@ -4884,6 +4883,27 @@
    "comps": []
   },
   {
+   "id": "k2300007004529",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "エステル リング",
+   "desc": "ヴァンクリーフ&アーペル エステル リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 260000,
+   "kg": 0.1,
+   "sq": "エステル リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/182/2300007004529_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-700-4529/",
+   "mkt": 260000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2700038748247",
    "cat": "watch",
    "src": "komehyo",
@@ -4901,27 +4921,6 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-003-874-8247/",
    "mkt": 255000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2700039584790",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "SEIKO",
-   "model": "6R54-00F0/SARH001",
-   "desc": "セイコー プレザージュ 6R54-00F0/SARH001 SS 自動巻 SEIKO",
-   "cond": "New",
-   "jpy": 250800,
-   "kg": 0.4,
-   "sq": "6R54-00F0/SARH001",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/c5d/2700039584790_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-003-958-4790/",
-   "mkt": 250800,
    "mktN": 1,
    "comps": []
   },
@@ -5280,6 +5279,27 @@
    "url": "https://komehyo.jp/product/270-004-138-0656/",
    "mkt": 230000,
    "mktN": 17,
+   "comps": []
+  },
+  {
+   "id": "k2300006841798",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "SEIKO",
+   "model": "6R54-00P0/SBEJ029",
+   "desc": "セイコー プロスペックス 6R54-00P0/SBEJ029 SS 自動巻 SEIKO",
+   "cond": "A",
+   "jpy": 220000,
+   "kg": 0.4,
+   "sq": "6R54-00P0/SBEJ029",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/933/2300006841798_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-684-1798/",
+   "mkt": 220000,
+   "mktN": 1,
    "comps": []
   },
   {
@@ -7338,27 +7358,6 @@
    "url": "https://komehyo.jp/product/230-000-835-8379/",
    "mkt": 100000,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "k2600077189899",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "マリッジ リング",
-   "desc": "シャネル マリッジ リング CHANEL",
-   "cond": "A",
-   "jpy": 100000,
-   "kg": 0.1,
-   "sq": "マリッジ リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/aa4/2600077189899_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-007-718-9899/",
-   "mkt": 100000,
-   "mktN": 3,
    "comps": []
   },
   {
@@ -14415,6 +14414,30 @@
    "comps": []
   },
   {
+   "id": "e9809810653425",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SteelSeries",
+   "model": "Arctis Nova Pro",
+   "desc": "Arctis Nova Pro Wireless",
+   "cond": "",
+   "jpy": 23800,
+   "kg": 0.5,
+   "sq": "Arctis Nova Pro",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004218_3280144.jpg?v=1790047699&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004218_3280145.jpg?v=1790047699&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004218_3280146.jpg?v=1790047699&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004218_3280147.jpg?v=1790047699&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/776874",
+   "mkt": 23800,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e9813775089905",
    "cat": "earphones",
    "src": "eearphone",
@@ -14555,30 +14578,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/772545",
    "mkt": 22700,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e9826867151089",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Mr.Speakers",
-   "model": "AEON FLOW",
-   "desc": "AEON FLOW",
-   "cond": "",
-   "jpy": 22300,
-   "kg": 0.5,
-   "sq": "AEON FLOW",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007110_3287604.jpg?v=1790322620&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007110_3287605.jpg?v=1790322620&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007110_3287606.jpg?v=1790322620&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007110_3287607.jpg?v=1790322620&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/779742",
-   "mkt": 22300,
    "mktN": 1,
    "comps": []
   }
