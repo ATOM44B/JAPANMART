@@ -1,9 +1,9 @@
 {
  "source": "live",
- "generated": "2026-09-29",
- "generatedAt": "2026-09-29T21:37:30+00:00",
- "fx": 0.21367,
- "fxDate": "2026-09-29",
+ "generated": "2026-09-30",
+ "generatedAt": "2026-09-30T02:45:49+00:00",
+ "fx": 0.21328,
+ "fxDate": "2026-09-30",
  "counts": {
   "live": 650,
   "seed": 0
@@ -3119,6 +3119,27 @@
    "comps": []
   },
   {
+   "id": "k2300004340187",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "PRADA",
+   "model": "1BZ677",
+   "desc": "プラダ 1BZ677 リュックサック PRADA",
+   "cond": "A",
+   "jpy": 220000,
+   "kg": 1.2,
+   "sq": "1BZ677",
+   "store": "名駅店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/ed0/2300004340187_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-434-0187/",
+   "mkt": 235000,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "k2700044070554",
    "cat": "bag",
    "src": "komehyo",
@@ -3451,27 +3472,6 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-753-7096/",
    "mkt": 295000,
-   "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "k2300004163939",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "OMEGA",
-   "model": "3513.30",
-   "desc": "オメガ スピードマスターデイト 3513.30 SS 自動巻 OMEGA",
-   "cond": "B",
-   "jpy": 370000,
-   "kg": 0.4,
-   "sq": "3513.30",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/09c/2300004163939_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-416-3939/",
-   "mkt": 375000,
    "mktN": 2,
    "comps": []
   },
@@ -4127,6 +4127,48 @@
    "comps": []
   },
   {
+   "id": "k2300004163939",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "OMEGA",
+   "model": "3513.30",
+   "desc": "オメガ スピードマスターデイト 3513.30 SS 自動巻 OMEGA",
+   "cond": "B",
+   "jpy": 370000,
+   "kg": 0.4,
+   "sq": "3513.30",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/09c/2300004163939_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-416-3939/",
+   "mkt": 370000,
+   "mktN": 3,
+   "comps": []
+  },
+  {
+   "id": "k2300006798580",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "OMEGA",
+   "model": "3513.30",
+   "desc": "オメガ スピードマスターデイト 3513.30 SS 自動巻 OMEGA",
+   "cond": "A",
+   "jpy": 370000,
+   "kg": 0.4,
+   "sq": "3513.30",
+   "store": "【新店】KOMEHYO YOKOHAMA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/bba/2300006798580_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-679-8580/",
+   "mkt": 370000,
+   "mktN": 3,
+   "comps": []
+  },
+  {
    "id": "k2300007565730",
    "cat": "watch",
    "src": "komehyo",
@@ -4334,27 +4376,6 @@
    "url": "https://komehyo.jp/product/230-000-741-6728/",
    "mkt": 320000,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "k2300008109124",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "PRADA",
-   "model": "2VZ101",
-   "desc": "プラダ 2VZ101 リュックサック PRADA",
-   "cond": "A",
-   "jpy": 320000,
-   "kg": 1.2,
-   "sq": "2VZ101",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/012/2300008109124_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-810-9124/",
-   "mkt": 320000,
-   "mktN": 1,
    "comps": []
   },
   {
@@ -5319,27 +5340,6 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-268-2179/",
-   "mkt": 220000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2300004340187",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "PRADA",
-   "model": "1BZ677",
-   "desc": "プラダ 1BZ677 リュックサック PRADA",
-   "cond": "A",
-   "jpy": 220000,
-   "kg": 1.2,
-   "sq": "1BZ677",
-   "store": "名駅店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/ed0/2300004340187_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-434-0187/",
    "mkt": 220000,
    "mktN": 1,
    "comps": []
@@ -8040,30 +8040,6 @@
    "comps": []
   },
   {
-   "id": "e9829156061425",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "WF-1000XM6",
-   "desc": "WF-1000XM6 BZ ブラック",
-   "cond": "",
-   "jpy": 27200,
-   "kg": 0.5,
-   "sq": "WF-1000XM6",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007815_3288371.jpg?v=1790389275&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007815_3288372.jpg?v=1790389275&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007815_3288373.jpg?v=1790389275&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007815_3288374.jpg?v=1790389275&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/780434",
-   "mkt": 32400,
-   "mktN": 8,
-   "comps": []
-  },
-  {
    "id": "e9816865702129",
    "cat": "earphones",
    "src": "eearphone",
@@ -8801,6 +8777,30 @@
    "comps": []
   },
   {
+   "id": "e9827850223857",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "WF-1000XM6",
+   "desc": "WF-1000XM6 BZ ブラック",
+   "cond": "",
+   "jpy": 30300,
+   "kg": 0.5,
+   "sq": "WF-1000XM6",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007409_3289063.jpg?v=1790399054&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007409_3289064.jpg?v=1790399054&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007409_3289065.jpg?v=1790399054&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007409_3289066.jpg?v=1790399054&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/780038",
+   "mkt": 32500,
+   "mktN": 7,
+   "comps": []
+  },
+  {
    "id": "e9813562523889",
    "cat": "earphones",
    "src": "eearphone",
@@ -8846,30 +8846,6 @@
    "url": "https://www.e-earphone.jp/products/775767",
    "mkt": 47450,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e9827850223857",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "WF-1000XM6",
-   "desc": "WF-1000XM6 BZ ブラック",
-   "cond": "",
-   "jpy": 30300,
-   "kg": 0.5,
-   "sq": "WF-1000XM6",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007409_3289063.jpg?v=1790399054&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007409_3289064.jpg?v=1790399054&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007409_3289065.jpg?v=1790399054&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007409_3289066.jpg?v=1790399054&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/780038",
-   "mkt": 32400,
-   "mktN": 8,
    "comps": []
   },
   {
@@ -9372,6 +9348,30 @@
    "comps": []
   },
   {
+   "id": "e9827865198833",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "WF-1000XM6",
+   "desc": "WF-1000XM6 BZ ブラック",
+   "cond": "",
+   "jpy": 30900,
+   "kg": 0.5,
+   "sq": "WF-1000XM6",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007428_3288589.jpg?v=1790392347&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007428_3288590.jpg?v=1790392347&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007428_3288591.jpg?v=1790392347&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007428_3288592.jpg?v=1790392347&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/780057",
+   "mkt": 32500,
+   "mktN": 7,
+   "comps": []
+  },
+  {
    "id": "e9732863426801",
    "cat": "speakers",
    "src": "eearphone",
@@ -9416,30 +9416,6 @@
    "url": "https://www.e-earphone.jp/products/741289",
    "mkt": 4930,
    "mktN": 5,
-   "comps": []
-  },
-  {
-   "id": "e9827865198833",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "WF-1000XM6",
-   "desc": "WF-1000XM6 BZ ブラック",
-   "cond": "",
-   "jpy": 30900,
-   "kg": 0.5,
-   "sq": "WF-1000XM6",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007428_3288589.jpg?v=1790392347&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007428_3288590.jpg?v=1790392347&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007428_3288591.jpg?v=1790392347&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007428_3288592.jpg?v=1790392347&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/780057",
-   "mkt": 32400,
-   "mktN": 8,
    "comps": []
   },
   {
@@ -10313,30 +10289,6 @@
    "comps": []
   },
   {
-   "id": "e9825774502129",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "NW-WM1AM2",
-   "desc": "NW-WM1AM2",
-   "cond": "",
-   "jpy": 90200,
-   "kg": 0.4,
-   "sq": "NW-WM1AM2",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1006989_3283644.jpg?v=1790156180&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1006989_3283645.jpg?v=1790156180&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1006989_3283646.jpg?v=1790156180&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1006989_3283647.jpg?v=1790156180&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/779622",
-   "mkt": 91850,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e10303891669233",
    "cat": "earphones",
    "src": "eearphone",
@@ -10934,6 +10886,30 @@
    "comps": []
   },
   {
+   "id": "e10306597814513",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "WF-1000XM6",
+   "desc": "WF-1000XM6 BZ ブラック",
+   "cond": "",
+   "jpy": 32300,
+   "kg": 0.5,
+   "sq": "WF-1000XM6",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009559_3290568.jpg?v=1790477473&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009559_3290569.jpg?v=1790477473&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009559_3290570.jpg?v=1790477473&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009559_3290571.jpg?v=1790477473&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/782147",
+   "mkt": 32500,
+   "mktN": 7,
+   "comps": []
+  },
+  {
    "id": "e10303522668785",
    "cat": "earphones",
    "src": "eearphone",
@@ -11171,30 +11147,6 @@
    "url": "https://www.e-earphone.jp/products/779785",
    "mkt": 31500,
    "mktN": 19,
-   "comps": []
-  },
-  {
-   "id": "e10306597814513",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "WF-1000XM6",
-   "desc": "WF-1000XM6 BZ ブラック",
-   "cond": "",
-   "jpy": 32300,
-   "kg": 0.5,
-   "sq": "WF-1000XM6",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009559_3290568.jpg?v=1790477473&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009559_3290569.jpg?v=1790477473&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009559_3290570.jpg?v=1790477473&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009559_3290571.jpg?v=1790477473&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/782147",
-   "mkt": 32400,
-   "mktN": 8,
    "comps": []
   },
   {
@@ -11966,6 +11918,30 @@
    "comps": []
   },
   {
+   "id": "e9825774502129",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "NW-WM1AM2",
+   "desc": "NW-WM1AM2",
+   "cond": "",
+   "jpy": 90200,
+   "kg": 0.4,
+   "sq": "NW-WM1AM2",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1006989_3283644.jpg?v=1790156180&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1006989_3283645.jpg?v=1790156180&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1006989_3283646.jpg?v=1790156180&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1006989_3283647.jpg?v=1790156180&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/779622",
+   "mkt": 90200,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e9830329057521",
    "cat": "earphones",
    "src": "eearphone",
@@ -12610,30 +12586,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/780828",
    "mkt": 53400,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e9809646125297",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "FOSTEX",
-   "model": "T60RPmk2Q",
-   "desc": "T60RPmk2Q",
-   "cond": "",
-   "jpy": 52900,
-   "kg": 0.5,
-   "sq": "T60RPmk2Q",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004092_3283662.jpg?v=1790156318&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004092_3283663.jpg?v=1790156318&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004092_3283664.jpg?v=1790156318&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004092_3283665.jpg?v=1790156318&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/776748",
-   "mkt": 52900,
    "mktN": 1,
    "comps": []
   },
@@ -13669,6 +13621,30 @@
    "comps": []
   },
   {
+   "id": "e9830374342897",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "WF-1000XM6",
+   "desc": "WF-1000XM6 BZ ブラック",
+   "cond": "",
+   "jpy": 32500,
+   "kg": 0.5,
+   "sq": "WF-1000XM6",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008062_3288597.jpg?v=1790392407&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008062_3288598.jpg?v=1790392407&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008062_3288599.jpg?v=1790392407&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008062_3288600.jpg?v=1790392407&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/780681",
+   "mkt": 32500,
+   "mktN": 7,
+   "comps": []
+  },
+  {
    "id": "e10302946246897",
    "cat": "earphones",
    "src": "eearphone",
@@ -14413,30 +14389,6 @@
    "comps": []
   },
   {
-   "id": "e9809787060465",
-   "cat": "speakers",
-   "src": "eearphone",
-   "brand": "Panasonic",
-   "model": "SC GNW30",
-   "desc": "SCｰGNW30 ゲーミングネックスピーカー",
-   "cond": "",
-   "jpy": 24900,
-   "kg": 3.0,
-   "sq": "SC GNW30",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004212_3268289.jpg?v=1789611015&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004212_3268290.jpg?v=1789611016&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004212_3268291.jpg?v=1789611016&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004212_3268292.jpg?v=1789611016&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/776868",
-   "mkt": 24900,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e9786403094769",
    "cat": "speakers",
    "src": "eearphone",
@@ -14577,6 +14529,54 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/780666",
    "mkt": 23300,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e9827853402353",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Victor",
+   "model": "HA-FW5000T-B",
+   "desc": "WOOD master HA-FW5000T-B ピアノブラック",
+   "cond": "",
+   "jpy": 23100,
+   "kg": 0.5,
+   "sq": "HA-FW5000T-B",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007411_3288431.jpg?v=1790390354&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007411_3288432.jpg?v=1790390354&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007411_3288433.jpg?v=1790390354&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007411_3288434.jpg?v=1790390354&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/780040",
+   "mkt": 23100,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e10302931992817",
+   "cat": "speakers",
+   "src": "eearphone",
+   "brand": "Kanto Audio",
+   "model": "YU2",
+   "desc": "YU2 マットホワイト",
+   "cond": "",
+   "jpy": 23000,
+   "kg": 3.0,
+   "sq": "YU2",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008755_3285713.jpg?v=1790238501&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008755_3285714.jpg?v=1790238501&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008755_3285715.jpg?v=1790238501&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008755_3285716.jpg?v=1790238501&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/781371",
+   "mkt": 23000,
    "mktN": 1,
    "comps": []
   }
