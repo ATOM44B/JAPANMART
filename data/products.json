@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-10-01",
- "generatedAt": "2026-10-01T17:39:19+00:00",
+ "generatedAt": "2026-10-01T22:06:40+00:00",
  "fx": 0.21365,
  "fxDate": "2026-10-01",
  "counts": {
@@ -262,6 +262,27 @@
    "comps": []
   },
   {
+   "id": "k2700043357014",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "FENDI",
+   "model": "フェンディ",
+   "desc": "フェンディ",
+   "cond": "A",
+   "jpy": 65000,
+   "kg": 1.2,
+   "sq": "フェンディ",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/e65/2700043357014_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-335-7014/",
+   "mkt": 230000,
+   "mktN": 19,
+   "comps": []
+  },
+  {
    "id": "k2600083809248",
    "cat": "bag",
    "src": "komehyo",
@@ -322,6 +343,27 @@
    "url": "https://komehyo.jp/product/260-007-314-5387/",
    "mkt": 57000,
    "mktN": 148,
+   "comps": []
+  },
+  {
+   "id": "k2300008114128",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
+   "cond": "A",
+   "jpy": 100000,
+   "kg": 0.1,
+   "sq": "カメリア リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/102/2300008114128_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-811-4128/",
+   "mkt": 320000,
+   "mktN": 9,
    "comps": []
   },
   {
@@ -703,24 +745,24 @@
    "comps": []
   },
   {
-   "id": "k2700042119224",
-   "cat": "bag",
+   "id": "k2300002991879",
+   "cat": "ring",
    "src": "komehyo",
-   "brand": "FENDI",
-   "model": "フェンディ",
-   "desc": "フェンディ",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
    "cond": "A",
-   "jpy": 100000,
-   "kg": 1.2,
-   "sq": "フェンディ",
-   "store": "KOMEHYO SHIBUYA",
+   "jpy": 130000,
+   "kg": 0.1,
+   "sq": "カメリア リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/5fe/2700042119224_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/748/2300002991879_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/270-004-211-9224/",
-   "mkt": 250000,
-   "mktN": 17,
+   "url": "https://komehyo.jp/product/230-000-299-1879/",
+   "mkt": 320000,
+   "mktN": 9,
    "comps": []
   },
   {
@@ -787,24 +829,24 @@
    "comps": []
   },
   {
-   "id": "k2300008114128",
-   "cat": "ring",
+   "id": "k2700042119224",
+   "cat": "bag",
    "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
+   "brand": "FENDI",
+   "model": "フェンディ",
+   "desc": "フェンディ",
    "cond": "A",
    "jpy": 100000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "名古屋本館",
+   "kg": 1.2,
+   "sq": "フェンディ",
+   "store": "KOMEHYO SHIBUYA",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/102/2300008114128_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/5fe/2700042119224_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/230-000-811-4128/",
+   "url": "https://komehyo.jp/product/270-004-211-9224/",
    "mkt": 230000,
-   "mktN": 9,
+   "mktN": 19,
    "comps": []
   },
   {
@@ -997,6 +1039,27 @@
    "comps": []
   },
   {
+   "id": "k2300004610600",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
+   "cond": "A",
+   "jpy": 160000,
+   "kg": 0.1,
+   "sq": "カメリア リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/eb6/2300004610600_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-461-0600/",
+   "mkt": 320000,
+   "mktN": 9,
+   "comps": []
+  },
+  {
    "id": "k2300007420794",
    "cat": "ring",
    "src": "komehyo",
@@ -1014,27 +1077,6 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-742-0794/",
    "mkt": 170000,
-   "mktN": 9,
-   "comps": []
-  },
-  {
-   "id": "k2300002991879",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 130000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/748/2300002991879_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-299-1879/",
-   "mkt": 230000,
    "mktN": 9,
    "comps": []
   },
@@ -1565,27 +1607,6 @@
    "comps": []
   },
   {
-   "id": "k2300004125227",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "FENDI",
-   "model": "フェンディ",
-   "desc": "フェンディ",
-   "cond": "A",
-   "jpy": 170000,
-   "kg": 1.2,
-   "sq": "フェンディ",
-   "store": "【新店】KOMEHYO OSAKA SHINSAIBASHI",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/9b4/2300004125227_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-412-5227/",
-   "mkt": 250000,
-   "mktN": 17,
-   "comps": []
-  },
-  {
    "id": "k2300007676221",
    "cat": "bag",
    "src": "komehyo",
@@ -1691,27 +1712,6 @@
    "comps": []
   },
   {
-   "id": "k2300004610600",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 160000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/eb6/2300004610600_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-461-0600/",
-   "mkt": 230000,
-   "mktN": 9,
-   "comps": []
-  },
-  {
    "id": "k2700042477522",
    "cat": "camera",
    "src": "komehyo",
@@ -1775,45 +1775,66 @@
    "comps": []
   },
   {
-   "id": "k2300006941221",
-   "cat": "bag",
+   "id": "k2300007543820",
+   "cat": "ring",
    "src": "komehyo",
-   "brand": "FENDI",
-   "model": "フェンディ",
-   "desc": "フェンディ",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
    "cond": "A",
-   "jpy": 180000,
-   "kg": 1.2,
-   "sq": "フェンディ",
-   "store": "京都新京極店",
+   "jpy": 230000,
+   "kg": 0.1,
+   "sq": "カメリア リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/e28/2300006941221_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/0fc/2300007543820_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/230-000-694-1221/",
-   "mkt": 250000,
-   "mktN": 17,
+   "url": "https://komehyo.jp/product/230-000-754-3820/",
+   "mkt": 320000,
+   "mktN": 9,
    "comps": []
   },
   {
-   "id": "k2300006077678",
+   "id": "k2300006811081",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "タンドルモン リング",
+   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 70000,
+   "kg": 0.1,
+   "sq": "タンドルモン リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/05c/2300006811081_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-681-1081/",
+   "mkt": 95000,
+   "mktN": 9,
+   "comps": []
+  },
+  {
+   "id": "k2300004125227",
    "cat": "bag",
    "src": "komehyo",
    "brand": "FENDI",
    "model": "フェンディ",
    "desc": "フェンディ",
    "cond": "A",
-   "jpy": 180000,
+   "jpy": 170000,
    "kg": 1.2,
    "sq": "フェンディ",
-   "store": "心斎橋店",
+   "store": "【新店】KOMEHYO OSAKA SHINSAIBASHI",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/386/2300006077678_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/9b4/2300004125227_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/230-000-607-7678/",
-   "mkt": 250000,
-   "mktN": 17,
+   "url": "https://komehyo.jp/product/230-000-412-5227/",
+   "mkt": 230000,
+   "mktN": 19,
    "comps": []
   },
   {
@@ -1964,27 +1985,6 @@
    "comps": []
   },
   {
-   "id": "k2300006811081",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "タンドルモン リング",
-   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 70000,
-   "kg": 0.1,
-   "sq": "タンドルモン リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/05c/2300006811081_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-681-1081/",
-   "mkt": 92500,
-   "mktN": 10,
-   "comps": []
-  },
-  {
    "id": "k2600068741082",
    "cat": "ring",
    "src": "komehyo",
@@ -2045,6 +2045,69 @@
    "url": "https://komehyo.jp/product/270-004-308-7324/",
    "mkt": 57000,
    "mktN": 148,
+   "comps": []
+  },
+  {
+   "id": "k2300006941221",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "FENDI",
+   "model": "フェンディ",
+   "desc": "フェンディ",
+   "cond": "A",
+   "jpy": 180000,
+   "kg": 1.2,
+   "sq": "フェンディ",
+   "store": "京都新京極店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/e28/2300006941221_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-694-1221/",
+   "mkt": 230000,
+   "mktN": 19,
+   "comps": []
+  },
+  {
+   "id": "k2300004114610",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "FENDI",
+   "model": "フェンディ",
+   "desc": "フェンディ",
+   "cond": "B",
+   "jpy": 180000,
+   "kg": 1.2,
+   "sq": "フェンディ",
+   "store": "KOMEHYO SHIBUYA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/a9d/2300004114610_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-411-4610/",
+   "mkt": 230000,
+   "mktN": 19,
+   "comps": []
+  },
+  {
+   "id": "k2300006077678",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "FENDI",
+   "model": "フェンディ",
+   "desc": "フェンディ",
+   "cond": "A",
+   "jpy": 180000,
+   "kg": 1.2,
+   "sq": "フェンディ",
+   "store": "心斎橋店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/386/2300006077678_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-607-7678/",
+   "mkt": 230000,
+   "mktN": 19,
    "comps": []
   },
   {
@@ -2258,48 +2321,6 @@
    "comps": []
   },
   {
-   "id": "k2300006428470",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "FENDI",
-   "model": "フェンディ",
-   "desc": "フェンディ",
-   "cond": "A",
-   "jpy": 200000,
-   "kg": 1.2,
-   "sq": "フェンディ",
-   "store": "名古屋本店BAG＋",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/ac2/2300006428470_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-642-8470/",
-   "mkt": 250000,
-   "mktN": 17,
-   "comps": []
-  },
-  {
-   "id": "k2700042390630",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "FENDI",
-   "model": "フェンディ",
-   "desc": "フェンディ",
-   "cond": "A",
-   "jpy": 200000,
-   "kg": 1.2,
-   "sq": "フェンディ",
-   "store": "KOMEHYO SHIBUYA",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/b37/2700042390630_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-239-0630/",
-   "mkt": 250000,
-   "mktN": 17,
-   "comps": []
-  },
-  {
    "id": "k2300008488946",
    "cat": "bag",
    "src": "komehyo",
@@ -2337,6 +2358,27 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-344-0266/",
+   "mkt": 125000,
+   "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "k2300002902257",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "PT950",
+   "desc": "ヴァンクリーフ&アーペル PT950 リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 100000,
+   "kg": 0.1,
+   "sq": "PT950",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/863/2300002902257_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-290-2257/",
    "mkt": 125000,
    "mktN": 2,
    "comps": []
@@ -2489,6 +2531,48 @@
    "comps": []
   },
   {
+   "id": "k2300006811098",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "タンドルモン リング",
+   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 80000,
+   "kg": 0.1,
+   "sq": "タンドルモン リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/9d9/2300006811098_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-681-1098/",
+   "mkt": 95000,
+   "mktN": 9,
+   "comps": []
+  },
+  {
+   "id": "k2300005192266",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "タンドルモン リング",
+   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 80000,
+   "kg": 0.1,
+   "sq": "タンドルモン リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/705/2300005192266_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-519-2266/",
+   "mkt": 95000,
+   "mktN": 9,
+   "comps": []
+  },
+  {
    "id": "k2700042872921",
    "cat": "camera",
    "src": "komehyo",
@@ -2615,48 +2699,6 @@
    "comps": []
   },
   {
-   "id": "k2300006811098",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "タンドルモン リング",
-   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 80000,
-   "kg": 0.1,
-   "sq": "タンドルモン リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/9d9/2300006811098_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-681-1098/",
-   "mkt": 92500,
-   "mktN": 10,
-   "comps": []
-  },
-  {
-   "id": "k2300005192266",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "タンドルモン リング",
-   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 80000,
-   "kg": 0.1,
-   "sq": "タンドルモン リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/705/2300005192266_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-519-2266/",
-   "mkt": 92500,
-   "mktN": 10,
-   "comps": []
-  },
-  {
    "id": "k2300008129313",
    "cat": "watch",
    "src": "komehyo",
@@ -2696,6 +2738,48 @@
    "url": "https://komehyo.jp/product/260-007-043-4262/",
    "mkt": 38000,
    "mktN": 10,
+   "comps": []
+  },
+  {
+   "id": "k2300006428470",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "FENDI",
+   "model": "フェンディ",
+   "desc": "フェンディ",
+   "cond": "A",
+   "jpy": 200000,
+   "kg": 1.2,
+   "sq": "フェンディ",
+   "store": "名古屋本店BAG＋",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/ac2/2300006428470_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-642-8470/",
+   "mkt": 230000,
+   "mktN": 19,
+   "comps": []
+  },
+  {
+   "id": "k2700042390630",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "FENDI",
+   "model": "フェンディ",
+   "desc": "フェンディ",
+   "cond": "A",
+   "jpy": 200000,
+   "kg": 1.2,
+   "sq": "フェンディ",
+   "store": "KOMEHYO SHIBUYA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/b37/2700042390630_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-239-0630/",
+   "mkt": 230000,
+   "mktN": 19,
    "comps": []
   },
   {
@@ -2867,27 +2951,6 @@
    "comps": []
   },
   {
-   "id": "k2700044070554",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "FENDI",
-   "model": "フェンディ",
-   "desc": "フェンディ",
-   "cond": "New",
-   "jpy": 225500,
-   "kg": 1.2,
-   "sq": "フェンディ",
-   "store": "KOMEHYO SHIBUYA 名駅店 【新店】KOMEHYO OSAKA SHINSAIBASHI",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/78a/2700044070554_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-407-0554/",
-   "mkt": 250000,
-   "mktN": 17,
-   "comps": []
-  },
-  {
    "id": "k2700042746437",
    "cat": "bag",
    "src": "komehyo",
@@ -2906,27 +2969,6 @@
    "url": "https://komehyo.jp/product/270-004-274-6437/",
    "mkt": 110000,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "k2300007768049",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "FENDI",
-   "model": "フェンディ",
-   "desc": "フェンディ",
-   "cond": "A",
-   "jpy": 230000,
-   "kg": 1.2,
-   "sq": "フェンディ",
-   "store": "心斎橋店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/c0d/2300007768049_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-776-8049/",
-   "mkt": 250000,
-   "mktN": 17,
    "comps": []
   },
   {
@@ -3014,27 +3056,6 @@
    "comps": []
   },
   {
-   "id": "k2300004340187",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "PRADA",
-   "model": "1BZ677",
-   "desc": "プラダ 1BZ677 リュックサック PRADA",
-   "cond": "A",
-   "jpy": 220000,
-   "kg": 1.2,
-   "sq": "1BZ677",
-   "store": "名駅店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/ed0/2300004340187_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-434-0187/",
-   "mkt": 235000,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "k2300007526434",
    "cat": "watch",
    "src": "komehyo",
@@ -3053,6 +3074,27 @@
    "url": "https://komehyo.jp/product/230-000-752-6434/",
    "mkt": 265000,
    "mktN": 4,
+   "comps": []
+  },
+  {
+   "id": "k2300007384737",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "タンドルモン リング",
+   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 90000,
+   "kg": 0.1,
+   "sq": "タンドルモン リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/fe7/2300007384737_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-738-4737/",
+   "mkt": 95000,
+   "mktN": 9,
    "comps": []
   },
   {
@@ -3137,69 +3179,6 @@
    "url": "https://komehyo.jp/product/260-007-532-3042/",
    "mkt": 57000,
    "mktN": 148,
-   "comps": []
-  },
-  {
-   "id": "k2300007537096",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "ペルレ ミディアム リング",
-   "desc": "ヴァンクリーフ&アーペル ペルレ ミディアム リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 290000,
-   "kg": 0.1,
-   "sq": "ペルレ ミディアム リング",
-   "store": "あべの店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/6d0/2300007537096_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-753-7096/",
-   "mkt": 300000,
-   "mktN": 3,
-   "comps": []
-  },
-  {
-   "id": "k2300007384737",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "タンドルモン リング",
-   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 90000,
-   "kg": 0.1,
-   "sq": "タンドルモン リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/fe7/2300007384737_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-738-4737/",
-   "mkt": 92500,
-   "mktN": 10,
-   "comps": []
-  },
-  {
-   "id": "k2300006102783",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "タンドルモン リング",
-   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 90000,
-   "kg": 0.1,
-   "sq": "タンドルモン リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/bce/2300006102783_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-610-2783/",
-   "mkt": 92500,
-   "mktN": 10,
    "comps": []
   },
   {
@@ -3308,6 +3287,27 @@
    "comps": []
   },
   {
+   "id": "k2700044070554",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "FENDI",
+   "model": "フェンディ",
+   "desc": "フェンディ",
+   "cond": "New",
+   "jpy": 225500,
+   "kg": 1.2,
+   "sq": "フェンディ",
+   "store": "KOMEHYO SHIBUYA 名駅店 【新店】KOMEHYO OSAKA SHINSAIBASHI",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/78a/2700044070554_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-407-0554/",
+   "mkt": 230000,
+   "mktN": 19,
+   "comps": []
+  },
+  {
    "id": "k2700042872143",
    "cat": "camera",
    "src": "komehyo",
@@ -3320,7 +3320,6 @@
    "sq": "Ｅ ７０ｍｍ Ｆ２．８ＤＧ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/fdd/2700042872143_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/865/2700042872143s.jpg"
    ],
    "snap": false,
@@ -3342,7 +3341,6 @@
    "sq": "Ｅ ７０ｍｍ Ｆ２．８ＤＧ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/0b8/2700042721199_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/7a6/2700042721199s.jpg"
    ],
    "snap": false,
@@ -3364,13 +3362,33 @@
    "sq": "ＥＦ２４－７０ｍｍ Ｆ４Ｌ ＩＳ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/d29/2700042872990_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/804/2700042872990s.jpg"
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-287-2990/",
    "mkt": 57000,
    "mktN": 148,
+   "comps": []
+  },
+  {
+   "id": "k2300007537096",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "ペルレ ミディアム リング",
+   "desc": "ヴァンクリーフ&アーペル ペルレ ミディアム リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 290000,
+   "kg": 0.1,
+   "sq": "ペルレ ミディアム リング",
+   "store": "あべの店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/6d0/2300007537096_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-753-7096/",
+   "mkt": 295000,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -4077,7 +4095,7 @@
    "jpy": 370000,
    "kg": 0.4,
    "sq": "3513.30",
-   "store": "【新店】KOMEHYO YOKOHAMA",
+   "store": "名古屋本館",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/bba/2300006798580_1_b.jpg"
    ],
@@ -4119,7 +4137,7 @@
    "jpy": 360000,
    "kg": 0.4,
    "sq": "9F62-0AB0/SBGX261",
-   "store": "梅田店",
+   "store": "心斎橋店",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/189/2700043848116_1_b.jpg"
    ],
@@ -4319,6 +4337,69 @@
    "comps": []
   },
   {
+   "id": "k2300008109124",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "PRADA",
+   "model": "2VZ101",
+   "desc": "プラダ 2VZ101 リュックサック PRADA",
+   "cond": "A",
+   "jpy": 320000,
+   "kg": 1.2,
+   "sq": "2VZ101",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/012/2300008109124_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-810-9124/",
+   "mkt": 320000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2300006607035",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
+   "cond": "A",
+   "jpy": 320000,
+   "kg": 0.1,
+   "sq": "カメリア リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/e09/2300006607035_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-660-7035/",
+   "mkt": 320000,
+   "mktN": 9,
+   "comps": []
+  },
+  {
+   "id": "k2300007693891",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
+   "cond": "A",
+   "jpy": 320000,
+   "kg": 0.1,
+   "sq": "カメリア リング",
+   "store": "KOMEHYO SHIBUYA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/485/2300007693891_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-769-3891/",
+   "mkt": 320000,
+   "mktN": 9,
+   "comps": []
+  },
+  {
    "id": "k2700043386700",
    "cat": "bag",
    "src": "komehyo",
@@ -4463,48 +4544,6 @@
    "url": "https://komehyo.jp/product/230-000-842-7327/",
    "mkt": 300000,
    "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2300008016606",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "ペルレ ミディアム リング",
-   "desc": "ヴァンクリーフ&アーペル ペルレ ミディアム リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 300000,
-   "kg": 0.1,
-   "sq": "ペルレ ミディアム リング",
-   "store": "KOMEHYO SHIBUYA",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/c47/2300008016606_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-801-6606/",
-   "mkt": 300000,
-   "mktN": 3,
-   "comps": []
-  },
-  {
-   "id": "k2300004748310",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "ペルレ ミディアム リング",
-   "desc": "ヴァンクリーフ&アーペル ペルレ ミディアム リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 300000,
-   "kg": 0.1,
-   "sq": "ペルレ ミディアム リング",
-   "store": "KOMEHYO GINZA",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/41f/2300004748310_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-474-8310/",
-   "mkt": 300000,
-   "mktN": 3,
    "comps": []
   },
   {
@@ -4907,6 +4946,27 @@
    "comps": []
   },
   {
+   "id": "k2300007004529",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "エステル リング",
+   "desc": "ヴァンクリーフ&アーペル エステル リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 260000,
+   "kg": 0.1,
+   "sq": "エステル リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/182/2300007004529_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-700-4529/",
+   "mkt": 260000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2700038748247",
    "cat": "watch",
    "src": "komehyo",
@@ -5054,27 +5114,6 @@
    "comps": []
   },
   {
-   "id": "k2300006720024",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "FENDI",
-   "model": "フェンディ",
-   "desc": "フェンディ",
-   "cond": "A",
-   "jpy": 250000,
-   "kg": 1.2,
-   "sq": "フェンディ",
-   "store": "梅田店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/e23/2300006720024_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-672-0024/",
-   "mkt": 250000,
-   "mktN": 17,
-   "comps": []
-  },
-  {
    "id": "k2300007990648",
    "cat": "watch",
    "src": "komehyo",
@@ -5127,7 +5166,7 @@
    "jpy": 230000,
    "kg": 0.4,
    "sq": "6R51-00B0/SDKS029",
-   "store": "【新店】KOMEHYO FUKUOKA TENJIN",
+   "store": "【新店】KOMEHYO YOKOHAMA",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/b82/2300008347199_1_b.jpg"
    ],
@@ -5243,6 +5282,27 @@
    "comps": []
   },
   {
+   "id": "k2300007768049",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "FENDI",
+   "model": "フェンディ",
+   "desc": "フェンディ",
+   "cond": "A",
+   "jpy": 230000,
+   "kg": 1.2,
+   "sq": "フェンディ",
+   "store": "心斎橋店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/c0d/2300007768049_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-776-8049/",
+   "mkt": 230000,
+   "mktN": 19,
+   "comps": []
+  },
+  {
    "id": "k2300006859830",
    "cat": "bag",
    "src": "komehyo",
@@ -5327,48 +5387,6 @@
    "comps": []
   },
   {
-   "id": "k2300007543820",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 230000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/0fc/2300007543820_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-754-3820/",
-   "mkt": 230000,
-   "mktN": 9,
-   "comps": []
-  },
-  {
-   "id": "k2300007610454",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 230000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/c0b/2300007610454_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-761-0454/",
-   "mkt": 230000,
-   "mktN": 9,
-   "comps": []
-  },
-  {
    "id": "k2300006841798",
    "cat": "watch",
    "src": "komehyo",
@@ -5427,6 +5445,27 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-821-8017/",
+   "mkt": 220000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2300004340187",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "PRADA",
+   "model": "1BZ677",
+   "desc": "プラダ 1BZ677 リュックサック PRADA",
+   "cond": "A",
+   "jpy": 220000,
+   "kg": 1.2,
+   "sq": "1BZ677",
+   "store": "名駅店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/ed0/2300004340187_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-434-0187/",
    "mkt": 220000,
    "mktN": 1,
    "comps": []
@@ -6881,27 +6920,6 @@
    "comps": []
   },
   {
-   "id": "k2700043261670",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "FENDI",
-   "model": "8BR634",
-   "desc": "フェンディ 8BR634 ACN バッグ FENDI",
-   "cond": "A",
-   "jpy": 120000,
-   "kg": 1.2,
-   "sq": "8BR634",
-   "store": "【新店】KOMEHYO VINTAGE TOKYO atelier",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/530/2700043261670_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-326-1670/",
-   "mkt": 120000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "k2300006887789",
    "cat": "ring",
    "src": "komehyo",
@@ -7340,27 +7358,6 @@
    "url": "https://komehyo.jp/product/260-007-718-9899/",
    "mkt": 100000,
    "mktN": 3,
-   "comps": []
-  },
-  {
-   "id": "k2300002902257",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "PT950",
-   "desc": "ヴァンクリーフ&アーペル PT950 リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 100000,
-   "kg": 0.1,
-   "sq": "PT950",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/863/2300002902257_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-290-2257/",
-   "mkt": 100000,
-   "mktN": 1,
    "comps": []
   },
   {
