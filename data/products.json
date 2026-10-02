@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-10-02",
- "generatedAt": "2026-10-02T16:58:57+00:00",
+ "generatedAt": "2026-10-02T21:32:23+00:00",
  "fx": 0.21325,
  "fxDate": "2026-10-02",
  "counts": {
@@ -883,7 +883,6 @@
    "sq": "新入荷 ＸＣ１３－３３ｍｍ Ｆ３．５－６．３ＯＩＳ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/575/2600075327248_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/f81/2600075327248s.jpg"
    ],
    "snap": false,
@@ -947,7 +946,6 @@
    "sq": "新入荷 Ｅ２４ｍｍ Ｆ３．５ＤＧ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/abf/2700044083455_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/b8a/2700044083455s.jpg"
    ],
    "snap": false,
@@ -1629,27 +1627,6 @@
    "comps": []
   },
   {
-   "id": "k2300006811081",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "タンドルモン リング",
-   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 70000,
-   "kg": 0.1,
-   "sq": "タンドルモン リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/05c/2300006811081_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-681-1081/",
-   "mkt": 95000,
-   "mktN": 9,
-   "comps": []
-  },
-  {
    "id": "k2300004125227",
    "cat": "bag",
    "src": "komehyo",
@@ -1773,6 +1750,27 @@
    "url": "https://komehyo.jp/product/230-000-803-7557/",
    "mkt": 160000,
    "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "k2300006811081",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "タンドルモン リング",
+   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 70000,
+   "kg": 0.1,
+   "sq": "タンドルモン リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/05c/2300006811081_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-681-1081/",
+   "mkt": 92500,
+   "mktN": 8,
    "comps": []
   },
   {
@@ -2208,7 +2206,6 @@
    "sq": "新入荷 ＥＦ１００ｍｍ Ｆ２．８Ｌ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/701/2700044104723_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/c94/2700044104723s.jpg"
    ],
    "snap": false,
@@ -2407,48 +2404,6 @@
    "comps": []
   },
   {
-   "id": "k2300006811098",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "タンドルモン リング",
-   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 80000,
-   "kg": 0.1,
-   "sq": "タンドルモン リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/9d9/2300006811098_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-681-1098/",
-   "mkt": 95000,
-   "mktN": 9,
-   "comps": []
-  },
-  {
-   "id": "k2300005192266",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "タンドルモン リング",
-   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 80000,
-   "kg": 0.1,
-   "sq": "タンドルモン リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/705/2300005192266_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-519-2266/",
-   "mkt": 95000,
-   "mktN": 9,
-   "comps": []
-  },
-  {
    "id": "k2700043808073",
    "cat": "bag",
    "src": "komehyo",
@@ -2530,6 +2485,48 @@
    "url": "https://komehyo.jp/product/260-007-532-0744/",
    "mkt": 58000,
    "mktN": 143,
+   "comps": []
+  },
+  {
+   "id": "k2300006811098",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "タンドルモン リング",
+   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 80000,
+   "kg": 0.1,
+   "sq": "タンドルモン リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/9d9/2300006811098_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-681-1098/",
+   "mkt": 92500,
+   "mktN": 8,
+   "comps": []
+  },
+  {
+   "id": "k2300005192266",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "タンドルモン リング",
+   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 80000,
+   "kg": 0.1,
+   "sq": "タンドルモン リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/705/2300005192266_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-519-2266/",
+   "mkt": 92500,
+   "mktN": 8,
    "comps": []
   },
   {
@@ -2890,27 +2887,6 @@
    "comps": []
   },
   {
-   "id": "k2300007384737",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "タンドルモン リング",
-   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 90000,
-   "kg": 0.1,
-   "sq": "タンドルモン リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/fe7/2300007384737_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-738-4737/",
-   "mkt": 95000,
-   "mktN": 9,
-   "comps": []
-  },
-  {
    "id": "k2300004624317",
    "cat": "ring",
    "src": "komehyo",
@@ -3070,13 +3046,33 @@
    "sq": "新入荷 ＧＦ１．４Ｘ ＴＣ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/827/2700044082236_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/6ec/2700044082236s.jpg"
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-408-2236/",
    "mkt": 95000,
    "mktN": 9,
+   "comps": []
+  },
+  {
+   "id": "k2300007384737",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "タンドルモン リング",
+   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 90000,
+   "kg": 0.1,
+   "sq": "タンドルモン リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/fe7/2300007384737_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-738-4737/",
+   "mkt": 92500,
+   "mktN": 8,
    "comps": []
   },
   {
@@ -3203,6 +3199,27 @@
    "url": "https://komehyo.jp/product/270-004-407-0554/",
    "mkt": 230000,
    "mktN": 19,
+   "comps": []
+  },
+  {
+   "id": "k2300007004529",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "エステル リング",
+   "desc": "ヴァンクリーフ&アーペル エステル リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 260000,
+   "kg": 0.1,
+   "sq": "エステル リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/182/2300007004529_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-700-4529/",
+   "mkt": 265000,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -4734,27 +4751,6 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-810-2415/",
-   "mkt": 260000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2300007004529",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "エステル リング",
-   "desc": "ヴァンクリーフ&アーペル エステル リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 260000,
-   "kg": 0.1,
-   "sq": "エステル リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/182/2300007004529_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-700-4529/",
    "mkt": 260000,
    "mktN": 1,
    "comps": []
@@ -6893,7 +6889,6 @@
    "sq": "新入荷 Ｚ ＦＣ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/22b/2600078495401_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/e0c/2600078495401s.jpg"
    ],
    "snap": false,
@@ -6913,7 +6908,7 @@
    "jpy": 110000,
    "kg": 0.4,
    "sq": "6R55-00L0/SBDC217",
-   "store": "梅田店",
+   "store": "心斎橋店",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/c86/2300008823112_1_b.jpg"
    ],
@@ -7344,22 +7339,23 @@
    "comps": []
   },
   {
-   "id": "k2300007275639",
-   "cat": "ring",
+   "id": "k2700044081567",
+   "cat": "camera",
    "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "タンドルモン リング",
-   "desc": "ヴァンクリーフ&アーペル タンドルモン リング Van Cleef & Arpels",
-   "cond": "A",
+   "brand": "LEICA",
+   "model": "新入荷 Ｌ８５ｍｍ Ｆ１．４ＤＧ",
+   "desc": "新入荷 ライカＬ８５ｍｍ Ｆ１．４ＤＧ ＤＮ（Ａ） SIGMA",
+   "cond": "Ｂ",
    "jpy": 95000,
-   "kg": 0.1,
-   "sq": "タンドルモン リング",
+   "kg": 1.2,
+   "sq": "新入荷 Ｌ８５ｍｍ Ｆ１．４ＤＧ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/1d4/2300007275639_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/d07/2700044081567_b.jpg",
+    "https://img.komehyo.jp/contents/images/goods/268/2700044081567s.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/230-000-727-5639/",
+   "url": "https://komehyo.jp/product/270-004-408-1567/",
    "mkt": 95000,
    "mktN": 9,
    "comps": []
@@ -7968,6 +7964,30 @@
    "url": "https://www.e-earphone.jp/products/761574",
    "mkt": 19332,
    "mktN": 4,
+   "comps": []
+  },
+  {
+   "id": "e9664202113265",
+   "cat": "speakers",
+   "src": "eearphone",
+   "brand": "Panasonic",
+   "model": "SC-GN01",
+   "desc": "SC-GN01 ゲーミング ネックスピーカー",
+   "cond": "",
+   "jpy": 4589,
+   "kg": 3.0,
+   "sq": "SC-GN01",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/980305_3136704.jpg?v=1783758312&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/980305_3136705.jpg?v=1783758312&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/980305_3136706.jpg?v=1783758312&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/980305_3136707.jpg?v=1783758312&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/753488",
+   "mkt": 5572,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -9998,30 +10018,6 @@
    "comps": []
   },
   {
-   "id": "e9827112059121",
-   "cat": "speakers",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "ULT FIELD 5",
-   "desc": "ULT FIELD 5 ブラック",
-   "cond": "",
-   "jpy": 21755,
-   "kg": 3.0,
-   "sq": "ULT FIELD 5",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007136_3284234.jpg?v=1790217427&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007136_3284235.jpg?v=1790217427&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007136_3284236.jpg?v=1790217427&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007136_3284237.jpg?v=1790217427&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/779768",
-   "mkt": 22182,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e9792601456881",
    "cat": "earphones",
    "src": "eearphone",
@@ -11075,6 +11071,30 @@
    "comps": []
   },
   {
+   "id": "e10306633236721",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "HiByMusic",
+   "model": "R8 II Aluminum",
+   "desc": "R8 II Aluminum Alloy Black",
+   "cond": "",
+   "jpy": 226575,
+   "kg": 0.4,
+   "sq": "R8 II Aluminum",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009576_3289204.jpg?v=1790401836&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009576_3289205.jpg?v=1790401836&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009576_3289206.jpg?v=1790401836&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009576_3289207.jpg?v=1790401836&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/782164",
+   "mkt": 226812,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "e10306821816561",
    "cat": "earphones",
    "src": "eearphone",
@@ -11167,30 +11187,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/777635",
    "mkt": 254030,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e10306633236721",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "HiByMusic",
-   "model": "R8 II Aluminum",
-   "desc": "R8 II Aluminum Alloy Black",
-   "cond": "",
-   "jpy": 226575,
-   "kg": 0.4,
-   "sq": "R8 II Aluminum",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009576_3289204.jpg?v=1790401836&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009576_3289205.jpg?v=1790401836&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009576_3289206.jpg?v=1790401836&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009576_3289207.jpg?v=1790401836&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/782164",
-   "mkt": 226575,
    "mktN": 1,
    "comps": []
   },
@@ -12071,6 +12067,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/781902",
    "mkt": 54815,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e10303045501169",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Noble Audio",
+   "model": "XM-1",
+   "desc": "XM-1",
+   "cond": "",
+   "jpy": 54435,
+   "kg": 0.5,
+   "sq": "XM-1",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008914_3294324.jpg?v=1790652434&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008914_3294326.jpg?v=1790652435&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008914_3294328.jpg?v=1790652435&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008914_3294330.jpg?v=1790652435&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/781530",
+   "mkt": 54435,
    "mktN": 1,
    "comps": []
   },
@@ -13893,6 +13913,30 @@
    "comps": []
   },
   {
+   "id": "e9734692110577",
+   "cat": "speakers",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "ULT FIELD 5",
+   "desc": "ULT FIELD 5 ブラック",
+   "cond": "",
+   "jpy": 22610,
+   "kg": 3.0,
+   "sq": "ULT FIELD 5",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/992847_3200531.jpg?v=1786759459&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/992847_3200532.jpg?v=1786759459&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/992847_3200533.jpg?v=1786759459&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/992847_3200534.jpg?v=1786759459&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/765792",
+   "mkt": 22610,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e15198787469553",
    "cat": "earphones",
    "src": "eearphone",
@@ -14469,30 +14513,6 @@
    "comps": []
   },
   {
-   "id": "e10306795045105",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "HiBy Digital",
-   "model": "M300",
-   "desc": "M300 - Black",
-   "cond": "",
-   "jpy": 18905,
-   "kg": 0.4,
-   "sq": "M300",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009695_3296154.jpg?v=1790736086&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009695_3296155.jpg?v=1790736086&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009695_3296156.jpg?v=1790736086&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009695_3296157.jpg?v=1790736086&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/782280",
-   "mkt": 18905,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e9802064658673",
    "cat": "speakers",
    "src": "eearphone",
@@ -14559,30 +14579,6 @@
    "url": "https://www.e-earphone.jp/products/783010",
    "mkt": 18810,
    "mktN": 3,
-   "comps": []
-  },
-  {
-   "id": "e10302918721777",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "HIFIMAN",
-   "model": "Svanar Wireless",
-   "desc": "Svanar Wireless",
-   "cond": "",
-   "jpy": 18715,
-   "kg": 0.5,
-   "sq": "Svanar Wireless",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008729_3296080.jpg?v=1790735112&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008729_3296081.jpg?v=1790735112&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008729_3296082.jpg?v=1790735112&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008729_3296083.jpg?v=1790735112&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/781345",
-   "mkt": 18715,
-   "mktN": 1,
    "comps": []
   }
  ]
