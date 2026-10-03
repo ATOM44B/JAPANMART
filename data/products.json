@@ -1,9 +1,9 @@
 {
  "source": "live",
- "generated": "2026-10-02",
- "generatedAt": "2026-10-02T21:32:23+00:00",
- "fx": 0.21325,
- "fxDate": "2026-10-02",
+ "generated": "2026-10-03",
+ "generatedAt": "2026-10-03T02:40:40+00:00",
+ "fx": 0.21272,
+ "fxDate": "2026-10-03",
  "counts": {
   "live": 650,
   "seed": 0
@@ -2446,6 +2446,27 @@
    "comps": []
   },
   {
+   "id": "k2300008705401",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "GRAND SEIKO",
+   "model": "9S65-00B0/SBGR053",
+   "desc": "【ノーメンテナンス還元価格】セイコー グランドセイコー･オートマティック 9S65-00B0/SBGR053 SS 自動巻 SEIKO",
+   "cond": "B",
+   "jpy": 300000,
+   "kg": 0.4,
+   "sq": "9S65-00B0/SBGR053",
+   "store": "梅田店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/2d8/2300008705401_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-870-5401/",
+   "mkt": 350000,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "k2300005779269",
    "cat": "bag",
    "src": "komehyo",
@@ -2845,27 +2866,6 @@
    "comps": []
   },
   {
-   "id": "k2700043349040",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "GRAND SEIKO",
-   "model": "9F85-0AC0/SBGP009",
-   "desc": "セイコー グランドセイコー･ヘリテージコレクション 9F85-0AC0/SBGP009 SS クォーツ SEIKO",
-   "cond": "A",
-   "jpy": 330000,
-   "kg": 0.4,
-   "sq": "9F85-0AC0/SBGP009",
-   "store": "天神店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/e1b/2700043349040_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-334-9040/",
-   "mkt": 350000,
-   "mktN": 3,
-   "comps": []
-  },
-  {
    "id": "k2300007526434",
    "cat": "watch",
    "src": "komehyo",
@@ -2947,6 +2947,27 @@
    "url": "https://komehyo.jp/product/260-007-532-3042/",
    "mkt": 58000,
    "mktN": 143,
+   "comps": []
+  },
+  {
+   "id": "k2300002756416",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "ロマンス リング",
+   "desc": "ヴァンクリーフ&アーペル ロマンス リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 400000,
+   "kg": 0.1,
+   "sq": "ロマンス リング",
+   "store": "名駅店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/ed0/2300002756416_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-275-6416/",
+   "mkt": 420000,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -3136,27 +3157,6 @@
    "url": "https://komehyo.jp/product/230-000-775-9610/",
    "mkt": 410000,
    "mktN": 4,
-   "comps": []
-  },
-  {
-   "id": "k2300002756416",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "ロマンス リング",
-   "desc": "ヴァンクリーフ&アーペル ロマンス リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 400000,
-   "kg": 0.1,
-   "sq": "ロマンス リング",
-   "store": "名駅店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/ed0/2300002756416_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-275-6416/",
-   "mkt": 410000,
-   "mktN": 2,
    "comps": []
   },
   {
@@ -3727,6 +3727,48 @@
    "comps": []
   },
   {
+   "id": "k2300007770325",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "ロマンス リング",
+   "desc": "ヴァンクリーフ&アーペル ロマンス リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 420000,
+   "kg": 0.1,
+   "sq": "ロマンス リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/bbf/2300007770325_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-777-0325/",
+   "mkt": 420000,
+   "mktN": 3,
+   "comps": []
+  },
+  {
+   "id": "k2700043769701",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "ロマンス リング",
+   "desc": "ヴァンクリーフ&アーペル ロマンス リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 420000,
+   "kg": 0.1,
+   "sq": "ロマンス リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/6f7/2700043769701_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-376-9701/",
+   "mkt": 420000,
+   "mktN": 3,
+   "comps": []
+  },
+  {
    "id": "k2300007044228",
    "cat": "watch",
    "src": "komehyo",
@@ -4059,7 +4101,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-785-6050/",
    "mkt": 350000,
-   "mktN": 3,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -4080,7 +4122,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-586-3340/",
    "mkt": 350000,
-   "mktN": 3,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -4247,27 +4289,6 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-824-6270/",
-   "mkt": 300000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2300008705401",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "GRAND SEIKO",
-   "model": "9S65-00B0/SBGR053",
-   "desc": "【ノーメンテナンス還元価格】セイコー グランドセイコー･オートマティック 9S65-00B0/SBGR053 SS 自動巻 SEIKO",
-   "cond": "B",
-   "jpy": 300000,
-   "kg": 0.4,
-   "sq": "9S65-00B0/SBGR053",
-   "store": "梅田店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/2d8/2300008705401_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-870-5401/",
    "mkt": 300000,
    "mktN": 1,
    "comps": []
@@ -5228,7 +5249,7 @@
    "jpy": 220000,
    "kg": 0.4,
    "sq": "CV2010.BA0794",
-   "store": "梅田店",
+   "store": "【新店】KOMEHYO OSAKA SHINSAIBASHI",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/d77/2300008848511_1_b.jpg"
    ],
@@ -5822,27 +5843,6 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-320-0686/",
-   "mkt": 180000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2300006382062",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "トゥージュール ラージ リング",
-   "desc": "ヴァンクリーフ&アーペル トゥージュール ラージ リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 180000,
-   "kg": 0.1,
-   "sq": "トゥージュール ラージ リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/c28/2300006382062_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-638-2062/",
    "mkt": 180000,
    "mktN": 1,
    "comps": []
@@ -7351,7 +7351,6 @@
    "sq": "新入荷 Ｌ８５ｍｍ Ｆ１．４ＤＧ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/d07/2700044081567_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/268/2700044081567s.jpg"
    ],
    "snap": false,
@@ -7967,30 +7966,6 @@
    "comps": []
   },
   {
-   "id": "e9664202113265",
-   "cat": "speakers",
-   "src": "eearphone",
-   "brand": "Panasonic",
-   "model": "SC-GN01",
-   "desc": "SC-GN01 ゲーミング ネックスピーカー",
-   "cond": "",
-   "jpy": 4589,
-   "kg": 3.0,
-   "sq": "SC-GN01",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/980305_3136704.jpg?v=1783758312&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/980305_3136705.jpg?v=1783758312&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/980305_3136706.jpg?v=1783758312&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/980305_3136707.jpg?v=1783758312&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/753488",
-   "mkt": 5572,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e10303045173489",
    "cat": "earphones",
    "src": "eearphone",
@@ -8179,30 +8154,6 @@
    "url": "https://www.e-earphone.jp/products/778659",
    "mkt": 17765,
    "mktN": 43,
-   "comps": []
-  },
-  {
-   "id": "e9827916185841",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bowers & Wilkins",
-   "model": "Px8",
-   "desc": "Px8 ロイヤルバーガンディ",
-   "cond": "",
-   "jpy": 30590,
-   "kg": 0.5,
-   "sq": "Px8",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007568_3295444.jpg?v=1790670494&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007568_3295445.jpg?v=1790670494&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007568_3295446.jpg?v=1790670494&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007568_3295447.jpg?v=1790670494&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/780195",
-   "mkt": 35720,
-   "mktN": 3,
    "comps": []
   },
   {
@@ -8642,6 +8593,30 @@
    "url": "https://www.e-earphone.jp/products/779510",
    "mkt": 18335,
    "mktN": 9,
+   "comps": []
+  },
+  {
+   "id": "e9827916185841",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Bowers & Wilkins",
+   "model": "Px8",
+   "desc": "Px8 ロイヤルバーガンディ",
+   "cond": "",
+   "jpy": 30590,
+   "kg": 0.5,
+   "sq": "Px8",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007568_3295444.jpg?v=1790670494&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007568_3295445.jpg?v=1790670494&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007568_3295446.jpg?v=1790670494&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007568_3295447.jpg?v=1790670494&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/780195",
+   "mkt": 33155,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -9363,6 +9338,30 @@
    "comps": []
   },
   {
+   "id": "e10303891833073",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "WH-CH720N",
+   "desc": "WH-CH720N WC ホワイト",
+   "cond": "",
+   "jpy": 8503,
+   "kg": 0.5,
+   "sq": "WH-CH720N",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009166_3288148.jpg?v=1790329759&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009166_3288149.jpg?v=1790329759&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009166_3288150.jpg?v=1790329759&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009166_3288151.jpg?v=1790329759&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/781763",
+   "mkt": 8859,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "e15197468721393",
    "cat": "earphones",
    "src": "eearphone",
@@ -10014,6 +10013,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/781071",
    "mkt": 213180,
+   "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e9827112059121",
+   "cat": "speakers",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "ULT FIELD 5",
+   "desc": "ULT FIELD 5 ブラック",
+   "cond": "",
+   "jpy": 21755,
+   "kg": 3.0,
+   "sq": "ULT FIELD 5",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007136_3284234.jpg?v=1790217427&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007136_3284235.jpg?v=1790217427&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007136_3284236.jpg?v=1790217427&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007136_3284237.jpg?v=1790217427&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/779768",
+   "mkt": 22182,
    "mktN": 2,
    "comps": []
   },
@@ -12839,30 +12862,6 @@
    "comps": []
   },
   {
-   "id": "e10303873482993",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bowers & Wilkins",
-   "model": "Px8",
-   "desc": "Px8 ダークフォレスト",
-   "cond": "",
-   "jpy": 35720,
-   "kg": 0.5,
-   "sq": "Px8",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009129_3290714.jpg?v=1790479778&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009129_3290715.jpg?v=1790479778&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009129_3290716.jpg?v=1790479778&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009129_3290717.jpg?v=1790479778&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/781728",
-   "mkt": 35720,
-   "mktN": 3,
-   "comps": []
-  },
-  {
    "id": "e15197494542577",
    "cat": "earphones",
    "src": "eearphone",
@@ -13817,6 +13816,30 @@
    "comps": []
   },
   {
+   "id": "e9812804993265",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "DEKONI AUDIO",
+   "model": "DEKONI BLUE",
+   "desc": "DEKONI BLUE",
+   "cond": "",
+   "jpy": 23655,
+   "kg": 0.5,
+   "sq": "DEKONI BLUE",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004649_3280076.jpg?v=1790046807&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004649_3280077.jpg?v=1790046807&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004649_3280078.jpg?v=1790046807&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004649_3280079.jpg?v=1790046807&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/777303",
+   "mkt": 23655,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e9786403094769",
    "cat": "speakers",
    "src": "eearphone",
@@ -13909,30 +13932,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/769203",
    "mkt": 22800,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e9734692110577",
-   "cat": "speakers",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "ULT FIELD 5",
-   "desc": "ULT FIELD 5 ブラック",
-   "cond": "",
-   "jpy": 22610,
-   "kg": 3.0,
-   "sq": "ULT FIELD 5",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/992847_3200531.jpg?v=1786759459&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/992847_3200532.jpg?v=1786759459&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/992847_3200533.jpg?v=1786759459&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/992847_3200534.jpg?v=1786759459&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/765792",
-   "mkt": 22610,
    "mktN": 1,
    "comps": []
   },
@@ -14220,6 +14219,30 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/781706",
+   "mkt": 20330,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e9818985365745",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "iBasso Audio",
+   "model": "DX200",
+   "desc": "DX200",
+   "cond": "",
+   "jpy": 20330,
+   "kg": 0.4,
+   "sq": "DX200",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1006001_3275396.jpg?v=1789875029&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1006001_3275397.jpg?v=1789875029&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1006001_3275398.jpg?v=1789875029&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1006001_3275399.jpg?v=1789875029&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/778647",
    "mkt": 20330,
    "mktN": 1,
    "comps": []
@@ -14555,30 +14578,6 @@
    "url": "https://www.e-earphone.jp/products/760813",
    "mkt": 18905,
    "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15197572530417",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "DUNU-TOPSOUND",
-   "model": "ITO",
-   "desc": "ITO",
-   "cond": "",
-   "jpy": 18810,
-   "kg": 0.5,
-   "sq": "ITO",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010429_3294861.jpg?v=1790659822&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010429_3294862.jpg?v=1790659822&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010429_3294863.jpg?v=1790659822&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010429_3294864.jpg?v=1790659822&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/783010",
-   "mkt": 18810,
-   "mktN": 3,
    "comps": []
   }
  ]
