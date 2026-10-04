@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-10-04",
- "generatedAt": "2026-10-04T20:36:18+00:00",
+ "generatedAt": "2026-10-04T23:42:06+00:00",
  "fx": 0.2128,
  "fxDate": "2026-10-04",
  "counts": {
@@ -295,7 +295,6 @@
    "sq": "ＥＯＳ ＫＩＳＳ Ｘ５０",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/0b8/2600075329839_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/a9b/2600075329839s.jpg"
    ],
    "snap": false,
@@ -1712,6 +1711,27 @@
    "comps": []
   },
   {
+   "id": "k2300008705401",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "GRAND SEIKO",
+   "model": "9S65-00B0/SBGR053",
+   "desc": "【ノーメンテナンス還元価格】セイコー グランドセイコー･オートマティック 9S65-00B0/SBGR053 SS 自動巻 SEIKO",
+   "cond": "B",
+   "jpy": 300000,
+   "kg": 0.4,
+   "sq": "9S65-00B0/SBGR053",
+   "store": "梅田店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/2d8/2300008705401_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-870-5401/",
+   "mkt": 400000,
+   "mktN": 3,
+   "comps": []
+  },
+  {
    "id": "k2300008037557",
    "cat": "watch",
    "src": "komehyo",
@@ -2447,27 +2467,6 @@
    "comps": []
   },
   {
-   "id": "k2300008705401",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "GRAND SEIKO",
-   "model": "9S65-00B0/SBGR053",
-   "desc": "【ノーメンテナンス還元価格】セイコー グランドセイコー･オートマティック 9S65-00B0/SBGR053 SS 自動巻 SEIKO",
-   "cond": "B",
-   "jpy": 300000,
-   "kg": 0.4,
-   "sq": "9S65-00B0/SBGR053",
-   "store": "梅田店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/2d8/2300008705401_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-870-5401/",
-   "mkt": 350000,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "k2300005779269",
    "cat": "bag",
    "src": "komehyo",
@@ -3054,27 +3053,6 @@
    "url": "https://komehyo.jp/product/230-000-779-4031/",
    "mkt": 160000,
    "mktN": 8,
-   "comps": []
-  },
-  {
-   "id": "k2700043349040",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "GRAND SEIKO",
-   "model": "9F85-0AC0/SBGP009",
-   "desc": "セイコー グランドセイコー･ヘリテージコレクション 9F85-0AC0/SBGP009 SS クォーツ SEIKO",
-   "cond": "A",
-   "jpy": 330000,
-   "kg": 0.4,
-   "sq": "9F85-0AC0/SBGP009",
-   "store": "天神店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/e1b/2700043349040_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-334-9040/",
-   "mkt": 350000,
-   "mktN": 3,
    "comps": []
   },
   {
@@ -3918,24 +3896,45 @@
    "comps": []
   },
   {
-   "id": "k2300006562853",
-   "cat": "ring",
+   "id": "k2300007726995",
+   "cat": "watch",
    "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "フェリシテ リング",
-   "desc": "ヴァンクリーフ&アーペル フェリシテ リング Van Cleef & Arpels",
+   "brand": "GRAND SEIKO",
+   "model": "9S65-00B0/SBGR053",
+   "desc": "セイコー グランドセイコー･オートマティック 9S65-00B0/SBGR053 SS 自動巻 SEIKO",
    "cond": "A",
-   "jpy": 420000,
-   "kg": 0.1,
-   "sq": "フェリシテ リング",
-   "store": "名駅店",
+   "jpy": 400000,
+   "kg": 0.4,
+   "sq": "9S65-00B0/SBGR053",
+   "store": "心斎橋店",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/743/2300006562853_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/a00/2300007726995_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/230-000-656-2853/",
-   "mkt": 420000,
-   "mktN": 1,
+   "url": "https://komehyo.jp/product/230-000-772-6995/",
+   "mkt": 400000,
+   "mktN": 3,
+   "comps": []
+  },
+  {
+   "id": "k2700044097995",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "GRAND SEIKO",
+   "model": "9S65-00B0/SBGR053",
+   "desc": "【ノーメンテナンス還元価格】セイコー グランドセイコー･オートマティック 9S65-00B0/SBGR053 SS 自動巻 SEIKO",
+   "cond": "B",
+   "jpy": 400000,
+   "kg": 0.4,
+   "sq": "9S65-00B0/SBGR053",
+   "store": "【新店】KOMEHYO OSAKA SHINSAIBASHI",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/838/2700044097995_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-409-7995/",
+   "mkt": 400000,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -4208,7 +4207,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-785-6050/",
    "mkt": 350000,
-   "mktN": 3,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -4229,7 +4228,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-586-3340/",
    "mkt": 350000,
-   "mktN": 3,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -5383,6 +5382,27 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/246-000-462-7135/",
+   "mkt": 220000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2700043770868",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "ペルレ リング",
+   "desc": "ヴァンクリーフ&アーペル ペルレ リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 220000,
+   "kg": 0.1,
+   "sq": "ペルレ リング",
+   "store": "KOMEHYO GINZA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/064/2700043770868_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-377-0868/",
    "mkt": 220000,
    "mktN": 1,
    "comps": []
@@ -7341,27 +7361,6 @@
    "comps": []
   },
   {
-   "id": "k2700043521064",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "LEICA",
-   "model": "ＩＩＩＦ ＢＯＤＹレッドシンクロ セルフ付き",
-   "desc": "ＩＩＩＦ ＢＯＤＹレッドシンクロ セルフ付き LEICA",
-   "cond": "Ｃ",
-   "jpy": 95000,
-   "kg": 1.2,
-   "sq": "ＩＩＩＦ ＢＯＤＹレッドシンクロ セルフ付き",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/0ac/2700043521064s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-352-1064/",
-   "mkt": 95000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e10303981814001",
    "cat": "earphones",
    "src": "eearphone",
@@ -8588,26 +8587,26 @@
    "comps": []
   },
   {
-   "id": "e15199624167665",
+   "id": "e9827637723377",
    "cat": "earphones",
    "src": "eearphone",
    "brand": "Apple",
-   "model": "MTJV3JA",
-   "desc": "MagSafe充電ケース(USB-C)付きAirPods Pro(第2世代) MTJV3JA",
+   "model": "MGYL3J/A",
+   "desc": "AirPods Max MGYL3J/A ワイヤレスヘッドホン スカイブルー",
    "cond": "",
-   "jpy": 14820,
+   "jpy": 36005,
    "kg": 0.5,
-   "sq": "MTJV3JA",
-   "store": "名古屋",
+   "sq": "MGYL3J/A",
+   "store": "日本橋",
    "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011142_3298386.jpg?v=1790835981&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011142_3298387.jpg?v=1790835981&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011142_3298388.jpg?v=1790835981&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011142_3298389.jpg?v=1790835981&width=700"
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007344_3279260.jpg?v=1789982989&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007344_3279261.jpg?v=1789982989&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007344_3279262.jpg?v=1789982989&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007344_3279263.jpg?v=1789982989&width=700"
    ],
    "snap": false,
-   "url": "https://www.e-earphone.jp/products/783702",
-   "mkt": 16102,
+   "url": "https://www.e-earphone.jp/products/779973",
+   "mkt": 39092,
    "mktN": 2,
    "comps": []
   },
@@ -9240,6 +9239,30 @@
      "note": "Older post, used, warranty to Mar 2024"
     }
    ]
+  },
+  {
+   "id": "e15197433954545",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Bose",
+   "model": "Ultra Open Earbuds",
+   "desc": "Ultra Open Earbuds Black",
+   "cond": "",
+   "jpy": 17575,
+   "kg": 0.5,
+   "sq": "Ultra Open Earbuds",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010301_3296402.jpg?v=1790739018&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010301_3296403.jpg?v=1790739018&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010301_3296404.jpg?v=1790739018&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010301_3296405.jpg?v=1790739018&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/782882",
+   "mkt": 18240,
+   "mktN": 2,
+   "comps": []
   },
   {
    "id": "e10302898405617",
@@ -12352,30 +12375,6 @@
    "comps": []
   },
   {
-   "id": "e10303536988401",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MGYL3J/A",
-   "desc": "AirPods Max MGYL3J/A ワイヤレスヘッドホン スカイブルー",
-   "cond": "",
-   "jpy": 42180,
-   "kg": 0.5,
-   "sq": "MGYL3J/A",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009001_3285575.jpg?v=1790236629&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009001_3285576.jpg?v=1790236629&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009001_3285577.jpg?v=1790236629&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009001_3285578.jpg?v=1790236629&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/781617",
-   "mkt": 42180,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e9825439940849",
    "cat": "earphones",
    "src": "eearphone",
@@ -13182,30 +13181,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/780068",
    "mkt": 30495,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15196893839601",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Noble Audio",
-   "model": "FoKus Prestige Black",
-   "desc": "FoKus Prestige Black",
-   "cond": "",
-   "jpy": 29668,
-   "kg": 0.5,
-   "sq": "FoKus Prestige Black",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010096_3301979.jpg?v=1791003555&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010096_3301980.jpg?v=1791003555&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010096_3301981.jpg?v=1791003555&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010096_3301982.jpg?v=1791003555&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/782677",
-   "mkt": 29668,
    "mktN": 1,
    "comps": []
   },
@@ -14458,30 +14433,6 @@
    "comps": []
   },
   {
-   "id": "e15200864043249",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bose",
-   "model": "Ultra Open Earbuds",
-   "desc": "Ultra Open Earbuds Diamond",
-   "cond": "",
-   "jpy": 18905,
-   "kg": 0.5,
-   "sq": "Ultra Open Earbuds",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011445_3299405.jpg?v=1790906501&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011445_3299406.jpg?v=1790906501&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011445_3299407.jpg?v=1790906501&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011445_3299408.jpg?v=1790906501&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/783994",
-   "mkt": 18905,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e10301869293809",
    "cat": "earphones",
    "src": "eearphone",
@@ -14571,6 +14522,54 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/783268",
    "mkt": 18900,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e10306554855665",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "qdc",
+   "model": "SUPERIOR EX",
+   "desc": "SUPERIOR EX",
+   "cond": "",
+   "jpy": 18810,
+   "kg": 0.5,
+   "sq": "SUPERIOR EX",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009487_3301272.jpg?v=1790993113&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009487_3301273.jpg?v=1790993113&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009487_3301274.jpg?v=1790993113&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009487_3301275.jpg?v=1790993113&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/782075",
+   "mkt": 18810,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15196922413297",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "HIFIMAN",
+   "model": "Svanar Wireless",
+   "desc": "Svanar Wireless",
+   "cond": "",
+   "jpy": 18620,
+   "kg": 0.5,
+   "sq": "Svanar Wireless",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010194_3302118.jpg?v=1791008542&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010194_3302119.jpg?v=1791008542&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010194_3302120.jpg?v=1791008542&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010194_3302121.jpg?v=1791008542&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/782775",
+   "mkt": 18620,
    "mktN": 1,
    "comps": []
   }
