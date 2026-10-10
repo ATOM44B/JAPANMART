@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-10-10",
- "generatedAt": "2026-10-10T11:31:19+00:00",
+ "generatedAt": "2026-10-10T16:31:44+00:00",
  "fx": 0.21205,
  "fxDate": "2026-10-10",
  "counts": {
@@ -304,33 +304,12 @@
    "comps": []
   },
   {
-   "id": "k2600073144793",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "CANON",
-   "model": "ＥＦ－Ｓ１８－２００ｍｍ Ｆ３．５－５．６ＩＳ",
-   "desc": "ＥＦ－Ｓ１８－２００ｍｍ Ｆ３．５－５．６ＩＳ CANON",
-   "cond": "Ｂ",
-   "jpy": 20000,
-   "kg": 1.2,
-   "sq": "ＥＦ－Ｓ１８－２００ｍｍ Ｆ３．５－５．６ＩＳ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/200/2600073144793s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-007-314-4793/",
-   "mkt": 60000,
-   "mktN": 121,
-   "comps": []
-  },
-  {
    "id": "k2700044060890",
    "cat": "camera",
    "src": "komehyo",
    "brand": "NIKON",
    "model": "新入荷 １６－３００ｍｍ Ｆ３．５－６．３ＶＣ",
-   "desc": "新入荷 ニコン（Ｂ０１６）１６－３００ｍｍ Ｆ３．５－６．３ＶＣ 10月07日入荷 TAMRON",
+   "desc": "新入荷 ニコン（Ｂ０１６）１６－３００ｍｍ Ｆ３．５－６．３ＶＣ TAMRON",
    "cond": "Ｂ",
    "jpy": 30000,
    "kg": 1.2,
@@ -724,27 +703,6 @@
    "comps": []
   },
   {
-   "id": "k2300007169259",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CARTIER",
-   "model": "Cドゥ ウェディング リング",
-   "desc": "カルティエ Cドゥ カルティエ ウェディング リング Cartier",
-   "cond": "A",
-   "jpy": 110000,
-   "kg": 0.1,
-   "sq": "Cドゥ ウェディング リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/2a8/2300007169259_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-716-9259/",
-   "mkt": 245000,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "k2700044202979",
    "cat": "camera",
    "src": "komehyo",
@@ -804,7 +762,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-008-380-9248/",
    "mkt": 70000,
-   "mktN": 17,
+   "mktN": 16,
    "comps": []
   },
   {
@@ -930,7 +888,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-547-8056/",
    "mkt": 70000,
-   "mktN": 17,
+   "mktN": 16,
    "comps": []
   },
   {
@@ -1191,7 +1149,7 @@
    "src": "komehyo",
    "brand": "LEICA",
    "model": "新入荷 Ｌ９０ｍｍ Ｆ２．８ＤＧ",
-   "desc": "新入荷 ライカＬ９０ｍｍ Ｆ２．８ＤＧ ＤＮ（Ｃ） 10月07日入荷 SIGMA",
+   "desc": "新入荷 ライカＬ９０ｍｍ Ｆ２．８ＤＧ ＤＮ（Ｃ） SIGMA",
    "cond": "Ｂ",
    "jpy": 55000,
    "kg": 1.2,
@@ -1455,7 +1413,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-301-6003/",
    "mkt": 70000,
-   "mktN": 17,
+   "mktN": 16,
    "comps": []
   },
   {
@@ -1603,6 +1561,27 @@
    "url": "https://komehyo.jp/product/230-000-411-4610/",
    "mkt": 240000,
    "mktN": 18,
+   "comps": []
+  },
+  {
+   "id": "k2300004826278",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CARTIER",
+   "model": "ルイ ヴァンドーム リング",
+   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
+   "cond": "A",
+   "jpy": 150000,
+   "kg": 0.1,
+   "sq": "ルイ ヴァンドーム リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/16d/2300004826278_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-482-6278/",
+   "mkt": 200000,
+   "mktN": 19,
    "comps": []
   },
   {
@@ -1816,27 +1795,6 @@
    "comps": []
   },
   {
-   "id": "k2300004826278",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CARTIER",
-   "model": "ルイ ヴァンドーム リング",
-   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
-   "cond": "A",
-   "jpy": 150000,
-   "kg": 0.1,
-   "sq": "ルイ ヴァンドーム リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/16d/2300004826278_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-482-6278/",
-   "mkt": 195000,
-   "mktN": 18,
-   "comps": []
-  },
-  {
    "id": "k2300006811081",
    "cat": "ring",
    "src": "komehyo",
@@ -1918,6 +1876,111 @@
    "url": "https://komehyo.jp/product/260-006-670-8469/",
    "mkt": 38000,
    "mktN": 10,
+   "comps": []
+  },
+  {
+   "id": "k2300008345805",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CARTIER",
+   "model": "ルイ ヴァンドーム リング",
+   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
+   "cond": "A",
+   "jpy": 160000,
+   "kg": 0.1,
+   "sq": "ルイ ヴァンドーム リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/135/2300008345805_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-834-5805/",
+   "mkt": 200000,
+   "mktN": 19,
+   "comps": []
+  },
+  {
+   "id": "k2600073673859",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CARTIER",
+   "model": "ルイ ヴァンドーム リング",
+   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
+   "cond": "A",
+   "jpy": 160000,
+   "kg": 0.1,
+   "sq": "ルイ ヴァンドーム リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/a81/2600073673859_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-367-3859/",
+   "mkt": 200000,
+   "mktN": 19,
+   "comps": []
+  },
+  {
+   "id": "k2700043691828",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CARTIER",
+   "model": "ルイ ヴァンドーム リング",
+   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
+   "cond": "A",
+   "jpy": 160000,
+   "kg": 0.1,
+   "sq": "ルイ ヴァンドーム リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/460/2700043691828_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-369-1828/",
+   "mkt": 200000,
+   "mktN": 19,
+   "comps": []
+  },
+  {
+   "id": "k2300007449276",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CARTIER",
+   "model": "ルイ ヴァンドーム リング",
+   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
+   "cond": "A",
+   "jpy": 160000,
+   "kg": 0.1,
+   "sq": "ルイ ヴァンドーム リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/509/2300007449276_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-744-9276/",
+   "mkt": 200000,
+   "mktN": 19,
+   "comps": []
+  },
+  {
+   "id": "k2300006818103",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CARTIER",
+   "model": "ルイ ヴァンドーム リング",
+   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
+   "cond": "A",
+   "jpy": 160000,
+   "kg": 0.1,
+   "sq": "ルイ ヴァンドーム リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/00c/2300006818103_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-681-8103/",
+   "mkt": 200000,
+   "mktN": 19,
    "comps": []
   },
   {
@@ -2128,111 +2191,6 @@
    "url": "https://komehyo.jp/product/270-004-305-3220/",
    "mkt": 60000,
    "mktN": 121,
-   "comps": []
-  },
-  {
-   "id": "k2300008345805",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CARTIER",
-   "model": "ルイ ヴァンドーム リング",
-   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
-   "cond": "A",
-   "jpy": 160000,
-   "kg": 0.1,
-   "sq": "ルイ ヴァンドーム リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/135/2300008345805_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-834-5805/",
-   "mkt": 195000,
-   "mktN": 18,
-   "comps": []
-  },
-  {
-   "id": "k2600073673859",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CARTIER",
-   "model": "ルイ ヴァンドーム リング",
-   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
-   "cond": "A",
-   "jpy": 160000,
-   "kg": 0.1,
-   "sq": "ルイ ヴァンドーム リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/a81/2600073673859_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-007-367-3859/",
-   "mkt": 195000,
-   "mktN": 18,
-   "comps": []
-  },
-  {
-   "id": "k2700043691828",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CARTIER",
-   "model": "ルイ ヴァンドーム リング",
-   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
-   "cond": "A",
-   "jpy": 160000,
-   "kg": 0.1,
-   "sq": "ルイ ヴァンドーム リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/460/2700043691828_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-369-1828/",
-   "mkt": 195000,
-   "mktN": 18,
-   "comps": []
-  },
-  {
-   "id": "k2300007449276",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CARTIER",
-   "model": "ルイ ヴァンドーム リング",
-   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
-   "cond": "A",
-   "jpy": 160000,
-   "kg": 0.1,
-   "sq": "ルイ ヴァンドーム リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/509/2300007449276_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-744-9276/",
-   "mkt": 195000,
-   "mktN": 18,
-   "comps": []
-  },
-  {
-   "id": "k2300006818103",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CARTIER",
-   "model": "ルイ ヴァンドーム リング",
-   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
-   "cond": "A",
-   "jpy": 160000,
-   "kg": 0.1,
-   "sq": "ルイ ヴァンドーム リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/00c/2300006818103_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-681-8103/",
-   "mkt": 195000,
-   "mktN": 18,
    "comps": []
   },
   {
@@ -2484,7 +2442,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-262-7118/",
    "mkt": 70000,
-   "mktN": 17,
+   "mktN": 16,
    "comps": []
   },
   {
@@ -2611,27 +2569,6 @@
    "url": "https://komehyo.jp/product/260-007-532-3028/",
    "mkt": 60000,
    "mktN": 121,
-   "comps": []
-  },
-  {
-   "id": "k2300006842900",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "OMEGA",
-   "model": "コンステレーションクロノメーター SS 自動巻",
-   "desc": "【ノーメンテナンス還元価格】オメガ コンステレーションクロノメーター SS 自動巻 OMEGA",
-   "cond": "B",
-   "jpy": 120000,
-   "kg": 0.4,
-   "sq": "コンステレーションクロノメーター SS 自動巻",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/d94/2300006842900_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-684-2900/",
-   "mkt": 135000,
-   "mktN": 2,
    "comps": []
   },
   {
@@ -2766,7 +2703,7 @@
    "src": "komehyo",
    "brand": "NIKON",
    "model": "新入荷 ２４－７０ｍｍ Ｆ２．８ＤＩＶＣＵＳＤ",
-   "desc": "新入荷 ニコン（Ａ０３２）２４－７０ｍｍ Ｆ２．８ＤＩＶＣＵＳＤ 10月07日入荷 TAMRON",
+   "desc": "新入荷 ニコン（Ａ０３２）２４－７０ｍｍ Ｆ２．８ＤＩＶＣＵＳＤ TAMRON",
    "cond": "Ｃ",
    "jpy": 78000,
    "kg": 1.2,
@@ -2913,7 +2850,7 @@
    "src": "komehyo",
    "brand": "SEIKO",
    "model": "6R54-00D0/SBEJ009",
-   "desc": "新入荷 セイコー プロスペックス 6R54-00D0/SBEJ009 SS 自動巻 SEIKO",
+   "desc": "セイコー プロスペックス 6R54-00D0/SBEJ009 SS 自動巻 SEIKO",
    "cond": "A",
    "jpy": 170000,
    "kg": 0.4,
@@ -2925,7 +2862,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-871-1198/",
    "mkt": 180000,
-   "mktN": 5,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -2947,6 +2884,69 @@
    "url": "https://komehyo.jp/product/230-000-462-4317/",
    "mkt": 95000,
    "mktN": 4,
+   "comps": []
+  },
+  {
+   "id": "k2300008323179",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CARTIER",
+   "model": "ルイ ヴァンドーム リング",
+   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
+   "cond": "A",
+   "jpy": 190000,
+   "kg": 0.1,
+   "sq": "ルイ ヴァンドーム リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/6f6/2300008323179_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-832-3179/",
+   "mkt": 200000,
+   "mktN": 19,
+   "comps": []
+  },
+  {
+   "id": "k2300007764195",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CARTIER",
+   "model": "ルイ ヴァンドーム リング",
+   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
+   "cond": "A",
+   "jpy": 190000,
+   "kg": 0.1,
+   "sq": "ルイ ヴァンドーム リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/48d/2300007764195_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-776-4195/",
+   "mkt": 200000,
+   "mktN": 19,
+   "comps": []
+  },
+  {
+   "id": "k2300006643590",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CARTIER",
+   "model": "ルイ ヴァンドーム リング",
+   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
+   "cond": "A",
+   "jpy": 190000,
+   "kg": 0.1,
+   "sq": "ルイ ヴァンドーム リング",
+   "store": "神戸三宮店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/d6c/2300006643590_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-664-3590/",
+   "mkt": 200000,
+   "mktN": 19,
    "comps": []
   },
   {
@@ -2997,7 +2997,7 @@
    "src": "komehyo",
    "brand": "PRADA",
    "model": "1BG493",
-   "desc": "新入荷 プラダ 1BG493 バッグ 10月07日入荷 PRADA",
+   "desc": "新入荷 プラダ 1BG493 バッグ PRADA",
    "cond": "A",
    "jpy": 130000,
    "kg": 1.2,
@@ -3052,69 +3052,6 @@
    "url": "https://komehyo.jp/product/230-000-768-7760/",
    "mkt": 380000,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "k2300008323179",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CARTIER",
-   "model": "ルイ ヴァンドーム リング",
-   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
-   "cond": "A",
-   "jpy": 190000,
-   "kg": 0.1,
-   "sq": "ルイ ヴァンドーム リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/6f6/2300008323179_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-832-3179/",
-   "mkt": 195000,
-   "mktN": 18,
-   "comps": []
-  },
-  {
-   "id": "k2300007764195",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CARTIER",
-   "model": "ルイ ヴァンドーム リング",
-   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
-   "cond": "A",
-   "jpy": 190000,
-   "kg": 0.1,
-   "sq": "ルイ ヴァンドーム リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/48d/2300007764195_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-776-4195/",
-   "mkt": 195000,
-   "mktN": 18,
-   "comps": []
-  },
-  {
-   "id": "k2300007595393",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CARTIER",
-   "model": "ルイ ヴァンドーム リング",
-   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
-   "cond": "A",
-   "jpy": 190000,
-   "kg": 0.1,
-   "sq": "ルイ ヴァンドーム リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/5f1/2300007595393_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-759-5393/",
-   "mkt": 195000,
-   "mktN": 18,
    "comps": []
   },
   {
@@ -3837,7 +3774,7 @@
    "src": "komehyo",
    "brand": "FENDI",
    "model": "8BN368",
-   "desc": "新入荷 フェンディ フェンディ ウェイ ミディアム 8BN368 AWPF ショルダーバッグ 10月07日入荷 FENDI",
+   "desc": "新入荷 フェンディ フェンディ ウェイ ミディアム 8BN368 AWPF ショルダーバッグ FENDI",
    "cond": "A",
    "jpy": 400000,
    "kg": 1.2,
@@ -3911,6 +3848,48 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-755-1085/",
+   "mkt": 380000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2700040825172",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "タグ・ホイヤー",
+   "model": "WBN201A.BA0640",
+   "desc": "タグ･ホイヤー カレラ･キャリバー7ツインタイムデイト WBN201A.BA0640 SS 自動巻 TAG Heuer",
+   "cond": "A",
+   "jpy": 380000,
+   "kg": 0.4,
+   "sq": "WBN201A.BA0640",
+   "store": "天神店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/b1d/2700040825172_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-082-5172/",
+   "mkt": 380000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2700042708244",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CARTIER",
+   "model": "Cドゥ ウェディング リング",
+   "desc": "カルティエ Cドゥ カルティエ ウェディング リング Cartier",
+   "cond": "New",
+   "jpy": 380000,
+   "kg": 0.1,
+   "sq": "Cドゥ ウェディング リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/d84/2700042708244_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-270-8244/",
    "mkt": 380000,
    "mktN": 1,
    "comps": []
@@ -4252,27 +4231,6 @@
    "comps": []
   },
   {
-   "id": "k2300008109124",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "PRADA",
-   "model": "2VZ101",
-   "desc": "プラダ 2VZ101 リュックサック PRADA",
-   "cond": "A",
-   "jpy": 320000,
-   "kg": 1.2,
-   "sq": "2VZ101",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/012/2300008109124_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-810-9124/",
-   "mkt": 320000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "k2700043386700",
    "cat": "bag",
    "src": "komehyo",
@@ -4395,28 +4353,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/246-000-465-0171/",
    "mkt": 300000,
-   "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "k2300007842381",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "新入荷 ペルレ ミディアム",
-   "desc": "新入荷 ヴァンクリーフ&アーペル ペルレ ミディアム リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 300000,
-   "kg": 0.1,
-   "sq": "新入荷 ペルレ ミディアム",
-   "store": "名駅店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/e6f/2300007842381_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-784-2381/",
-   "mkt": 300000,
-   "mktN": 2,
+   "mktN": 1,
    "comps": []
   },
   {
@@ -4583,27 +4520,6 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-702-7160/",
-   "mkt": 270000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2600081054138",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "PRADA",
-   "model": "1BA349",
-   "desc": "プラダ 1BA349 バッグ PRADA",
-   "cond": "A",
-   "jpy": 270000,
-   "kg": 1.2,
-   "sq": "1BA349",
-   "store": "神戸三宮店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/2cb/2600081054138_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-008-105-4138/",
    "mkt": 270000,
    "mktN": 1,
    "comps": []
@@ -4887,7 +4803,7 @@
    "src": "komehyo",
    "brand": "GRAND SEIKO",
    "model": "9F62-0AB0/SBGX059",
-   "desc": "新入荷 【ノーメンテナンス還元価格】セイコー グランドセイコー･クォーツ 9F62-0AB0/SBGX059 SS クォーツ SEIKO",
+   "desc": "【ノーメンテナンス還元価格】セイコー グランドセイコー･クォーツ 9F62-0AB0/SBGX059 SS クォーツ SEIKO",
    "cond": "B",
    "jpy": 250000,
    "kg": 0.4,
@@ -5286,7 +5202,7 @@
    "src": "komehyo",
    "brand": "VAN CLEEF & ARPELS",
    "model": "新入荷 ペルレ スモール",
-   "desc": "新入荷 ヴァンクリーフ&アーペル ペルレ スモール リング 10月07日入荷 Van Cleef & Arpels",
+   "desc": "新入荷 ヴァンクリーフ&アーペル ペルレ スモール リング Van Cleef & Arpels",
    "cond": "A",
    "jpy": 220000,
    "kg": 0.1,
@@ -5449,6 +5365,27 @@
    "comps": []
   },
   {
+   "id": "k2300008725812",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "タグ・ホイヤー",
+   "model": "WAS2111.BA0732",
+   "desc": "【ノーメンテナンス還元価格】タグ･ホイヤー カレラヘリテージ･キャリバー6 WAS2111.BA0732 SS 自動巻 TAG Heuer",
+   "cond": "B",
+   "jpy": 200000,
+   "kg": 0.4,
+   "sq": "WAS2111.BA0732",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/c92/2300008725812_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-872-5812/",
+   "mkt": 200000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2700043452962",
    "cat": "bag",
    "src": "komehyo",
@@ -5491,24 +5428,24 @@
    "comps": []
   },
   {
-   "id": "k2460004614500",
-   "cat": "bag",
+   "id": "k2700043692061",
+   "cat": "ring",
    "src": "komehyo",
-   "brand": "PRADA",
-   "model": "1BZ039",
-   "desc": "プラダ 1BZ039 リュックサック PRADA",
+   "brand": "CARTIER",
+   "model": "ルイ ヴァンドーム リング",
+   "desc": "カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
    "cond": "A",
    "jpy": 200000,
-   "kg": 1.2,
-   "sq": "1BZ039",
-   "store": "名古屋本店BAG＋",
+   "kg": 0.1,
+   "sq": "ルイ ヴァンドーム リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/fb6/2460004614500_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/7d7/2700043692061_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/246-000-461-4500/",
+   "url": "https://komehyo.jp/product/270-004-369-2061/",
    "mkt": 200000,
-   "mktN": 1,
+   "mktN": 19,
    "comps": []
   },
   {
@@ -5570,27 +5507,6 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-731-3102/",
-   "mkt": 190000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2300008559196",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CARTIER",
-   "model": "新入荷 ルイ ヴァンドーム",
-   "desc": "新入荷 カルティエ ルイ カルティエ ヴァンドーム リング Cartier",
-   "cond": "A",
-   "jpy": 190000,
-   "kg": 0.1,
-   "sq": "新入荷 ルイ ヴァンドーム",
-   "store": "KOMEHYO GINZA",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/3c1/2300008559196_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-855-9196/",
    "mkt": 190000,
    "mktN": 1,
    "comps": []
@@ -5676,7 +5592,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-668-8690/",
    "mkt": 180000,
-   "mktN": 5,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -5697,7 +5613,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-870-6972/",
    "mkt": 180000,
-   "mktN": 5,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -5722,27 +5638,6 @@
    "comps": []
   },
   {
-   "id": "k2300008588134",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "SEIKO",
-   "model": "6R54-00D0/SBEJ009",
-   "desc": "セイコー プロスペックス 6R54-00D0/SBEJ009 SS 自動巻 SEIKO",
-   "cond": "A",
-   "jpy": 180000,
-   "kg": 0.4,
-   "sq": "6R54-00D0/SBEJ009",
-   "store": "KOMEHYO SHINJUKU",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/10e/2300008588134_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-858-8134/",
-   "mkt": 180000,
-   "mktN": 5,
-   "comps": []
-  },
-  {
    "id": "k2300008014190",
    "cat": "watch",
    "src": "komehyo",
@@ -5760,7 +5655,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-801-4190/",
    "mkt": 180000,
-   "mktN": 5,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -5822,6 +5717,27 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-320-0686/",
+   "mkt": 180000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2300006382062",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "トゥージュール ラージ リング",
+   "desc": "ヴァンクリーフ&アーペル トゥージュール ラージ リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 180000,
+   "kg": 0.1,
+   "sq": "トゥージュール ラージ リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/c28/2300006382062_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-638-2062/",
    "mkt": 180000,
    "mktN": 1,
    "comps": []
@@ -6079,6 +5995,27 @@
    "comps": []
   },
   {
+   "id": "k2300008702509",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CARTIER",
+   "model": "新入荷 ルイ ヴァンドーム",
+   "desc": "新入荷 カルティエ ルイ カルティエ ヴァンドーム リング 10月10日入荷 Cartier",
+   "cond": "A",
+   "jpy": 160000,
+   "kg": 0.1,
+   "sq": "新入荷 ルイ ヴァンドーム",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/88f/2300008702509_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-870-2509/",
+   "mkt": 160000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2700039065671",
    "cat": "watch",
    "src": "komehyo",
@@ -6142,22 +6079,22 @@
    "comps": []
   },
   {
-   "id": "k2300008585485",
+   "id": "k2300008953918",
    "cat": "watch",
    "src": "komehyo",
    "brand": "GRAND SEIKO",
-   "model": "8J56-8020/SBGF021",
-   "desc": "【ノーメンテナンス還元価格】セイコー グランドセイコー･クォーツ 8J56-8020/SBGF021 SS クォーツ SEIKO",
+   "model": "8J56-8020/SBGF017",
+   "desc": "新入荷 【ノーメンテナンス還元価格】セイコー グランドセイコー･クォーツ 8J56-8020/SBGF017 SS クォーツ 10月10日入荷 SEIKO",
    "cond": "B",
    "jpy": 150000,
    "kg": 0.4,
-   "sq": "8J56-8020/SBGF021",
-   "store": "梅田店",
+   "sq": "8J56-8020/SBGF017",
+   "store": "KOMEHYO SHIBUYA",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/4cc/2300008585485_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/b2e/2300008953918_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/230-000-858-5485/",
+   "url": "https://komehyo.jp/product/230-000-895-3918/",
    "mkt": 150000,
    "mktN": 1,
    "comps": []
@@ -6184,22 +6121,43 @@
    "comps": []
   },
   {
-   "id": "k2300008553750",
+   "id": "k2300008037564",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "OMEGA",
+   "model": "コンステレーションクロノメーター SS 自動巻",
+   "desc": "【ノーメンテナンス還元価格】オメガ コンステレーションクロノメーター SS 自動巻 OMEGA",
+   "cond": "B",
+   "jpy": 150000,
+   "kg": 0.4,
+   "sq": "コンステレーションクロノメーター SS 自動巻",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/920/2300008037564_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-803-7564/",
+   "mkt": 150000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2300008599253",
    "cat": "watch",
    "src": "komehyo",
    "brand": "タグ・ホイヤー",
-   "model": "WAZ2112.FT8023",
-   "desc": "タグ･ホイヤー フォーミュラ1･フルブラック WAZ2112.FT8023 SS 自動巻 TAG Heuer",
-   "cond": "A",
+   "model": "WAN2110.BA0822",
+   "desc": "【ノーメンテナンス還元価格】タグ･ホイヤー アクアレーサー･キャリバー5 WAN2110.BA0822 SS 自動巻 TAG Heuer",
+   "cond": "B",
    "jpy": 150000,
    "kg": 0.4,
-   "sq": "WAZ2112.FT8023",
+   "sq": "WAN2110.BA0822",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/302/2300008553750_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/482/2300008599253_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/230-000-855-3750/",
+   "url": "https://komehyo.jp/product/230-000-859-9253/",
    "mkt": 150000,
    "mktN": 1,
    "comps": []
@@ -6305,6 +6263,27 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-816-3263/",
+   "mkt": 150000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2300008460263",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "PRADA",
+   "model": "BN1801",
+   "desc": "新入荷 プラダ BN1801 バッグ 10月10日入荷 PRADA",
+   "cond": "A",
+   "jpy": 150000,
+   "kg": 1.2,
+   "sq": "BN1801",
+   "store": "【新店】KOMEHYO VINTAGE TOKYO atelier",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/d20/2300008460263_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-846-0263/",
    "mkt": 150000,
    "mktN": 1,
    "comps": []
@@ -6772,6 +6751,27 @@
    "comps": []
   },
   {
+   "id": "k2300008678828",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "PRADA",
+   "model": "BL0838",
+   "desc": "新入荷 プラダ BL0838 バッグ 10月10日入荷 PRADA",
+   "cond": "A",
+   "jpy": 120000,
+   "kg": 1.2,
+   "sq": "BL0838",
+   "store": "名古屋本店BAG＋",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/8e4/2300008678828_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-867-8828/",
+   "mkt": 120000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2600077646675",
    "cat": "bag",
    "src": "komehyo",
@@ -6830,6 +6830,27 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-428-4641/",
+   "mkt": 120000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2700043976567",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "FENDI",
+   "model": "26329",
+   "desc": "新入荷 【ヴィンテージ】フェンディ 26329 バッグ FENDI",
+   "cond": "A",
+   "jpy": 120000,
+   "kg": 1.2,
+   "sq": "26329",
+   "store": "KOMEHYO VINTAGE TOKYO",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/343/2700043976567_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-397-6567/",
    "mkt": 120000,
    "mktN": 1,
    "comps": []
@@ -7045,27 +7066,6 @@
    "comps": []
   },
   {
-   "id": "k2300008834842",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "タグ・ホイヤー",
-   "model": "WAH1010.BA0854",
-   "desc": "新入荷 【ノーメンテナンス還元価格】タグ･ホイヤー フォーミュラ1 WAH1010.BA0854 SS クォーツ TAG Heuer",
-   "cond": "B",
-   "jpy": 100000,
-   "kg": 0.4,
-   "sq": "WAH1010.BA0854",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/b72/2300008834842_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-883-4842/",
-   "mkt": 100000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "k2300007875495",
    "cat": "watch",
    "src": "komehyo",
@@ -7129,22 +7129,22 @@
    "comps": []
   },
   {
-   "id": "k2300008212183",
+   "id": "k2300008591523",
    "cat": "bag",
    "src": "komehyo",
    "brand": "GUCCI",
-   "model": "308360",
-   "desc": "グッチ 308360 バッグ GUCCI",
+   "model": "414930",
+   "desc": "新入荷 グッチ 414930 CWC1G ショルダーバッグ 10月10日入荷 GUCCI",
    "cond": "A",
    "jpy": 100000,
    "kg": 1.2,
-   "sq": "308360",
-   "store": "名古屋本店BAG＋",
+   "sq": "414930",
+   "store": "【新店】KOMEHYO VINTAGE TOKYO atelier",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/0c1/2300008212183_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/54f/2300008591523_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/230-000-821-2183/",
+   "url": "https://komehyo.jp/product/230-000-859-1523/",
    "mkt": 100000,
    "mktN": 1,
    "comps": []
@@ -7380,7 +7380,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/780599",
    "mkt": 17600,
-   "mktN": 30,
+   "mktN": 31,
    "comps": []
   },
   {
@@ -7404,7 +7404,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/784258",
    "mkt": 17600,
-   "mktN": 30,
+   "mktN": 31,
    "comps": []
   },
   {
@@ -7676,7 +7676,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/784021",
    "mkt": 17600,
-   "mktN": 30,
+   "mktN": 31,
    "comps": []
   },
   {
@@ -7700,7 +7700,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/784101",
    "mkt": 17600,
-   "mktN": 30,
+   "mktN": 31,
    "comps": []
   },
   {
@@ -8107,7 +8107,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/782960",
    "mkt": 17600,
-   "mktN": 30,
+   "mktN": 31,
    "comps": []
   },
   {
@@ -8513,7 +8513,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/786301",
    "mkt": 17600,
-   "mktN": 30,
+   "mktN": 31,
    "comps": []
   },
   {
@@ -8561,7 +8561,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/783323",
    "mkt": 17600,
-   "mktN": 30,
+   "mktN": 31,
    "comps": []
   },
   {
@@ -8874,30 +8874,6 @@
    "comps": []
   },
   {
-   "id": "e15204498473201",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MGYH3J/A",
-   "desc": "AirPods Max MGYH3J/A ワイヤレスヘッドホン スペースグレイ",
-   "cond": "",
-   "jpy": 35900,
-   "kg": 0.5,
-   "sq": "MGYH3J/A",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012865_3306075.jpg?v=1791182128&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012865_3306076.jpg?v=1791182128&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012865_3306077.jpg?v=1791182128&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012865_3306078.jpg?v=1791182128&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/785391",
-   "mkt": 38000,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e15212985942257",
    "cat": "earphones",
    "src": "eearphone",
@@ -9202,7 +9178,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/781714",
    "mkt": 17600,
-   "mktN": 30,
+   "mktN": 31,
    "comps": []
   },
   {
@@ -9541,6 +9517,30 @@
    "comps": []
   },
   {
+   "id": "e10306695659761",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Bowers & Wilkins",
+   "model": "Px7",
+   "desc": "Px7 S2e オーシャン・ブルー",
+   "cond": "",
+   "jpy": 26900,
+   "kg": 0.5,
+   "sq": "Px7",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009620_3303781.jpg?v=1791089961&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009620_3303782.jpg?v=1791089961&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009620_3303783.jpg?v=1791089961&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009620_3303785.jpg?v=1791089961&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/782205",
+   "mkt": 27750,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "e15202574074097",
    "cat": "player",
    "src": "eearphone",
@@ -9657,7 +9657,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/782426",
    "mkt": 17600,
-   "mktN": 30,
+   "mktN": 31,
    "comps": []
   },
   {
@@ -10304,7 +10304,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/784334",
    "mkt": 17600,
-   "mktN": 30,
+   "mktN": 31,
    "comps": []
   },
   {
@@ -10328,7 +10328,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/782209",
    "mkt": 17600,
-   "mktN": 30,
+   "mktN": 31,
    "comps": []
   },
   {
@@ -10352,7 +10352,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/781585",
    "mkt": 17600,
-   "mktN": 30,
+   "mktN": 31,
    "comps": []
   },
   {
@@ -10376,7 +10376,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/781527",
    "mkt": 17600,
-   "mktN": 30,
+   "mktN": 31,
    "comps": []
   },
   {
@@ -10763,30 +10763,6 @@
    "comps": []
   },
   {
-   "id": "e15213115080945",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "final",
-   "model": "A10000",
-   "desc": "A10000",
-   "cond": "",
-   "jpy": 303500,
-   "kg": 0.5,
-   "sq": "A10000",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013663_3308104.jpg?v=1791278250&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013663_3308105.jpg?v=1791278250&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013663_3308106.jpg?v=1791278250&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013663_3308107.jpg?v=1791278250&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/786156",
-   "mkt": 304900,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e9825432961265",
    "cat": "speakers",
    "src": "eearphone",
@@ -11080,6 +11056,30 @@
    "url": "https://www.e-earphone.jp/products/785583",
    "mkt": 319000,
    "mktN": 3,
+   "comps": []
+  },
+  {
+   "id": "e15213115080945",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "final",
+   "model": "A10000",
+   "desc": "A10000",
+   "cond": "",
+   "jpy": 303500,
+   "kg": 0.5,
+   "sq": "A10000",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013663_3308104.jpg?v=1791278250&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013663_3308105.jpg?v=1791278250&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013663_3308106.jpg?v=1791278250&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013663_3308107.jpg?v=1791278250&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/786156",
+   "mkt": 303500,
+   "mktN": 1,
    "comps": []
   },
   {
@@ -12907,6 +12907,30 @@
    "comps": []
   },
   {
+   "id": "e15197620437233",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MGYH3J/A",
+   "desc": "AirPods Max MGYH3J/A ワイヤレスヘッドホン スペースグレイ",
+   "cond": "",
+   "jpy": 40100,
+   "kg": 0.5,
+   "sq": "MGYH3J/A",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010524_3298876.jpg?v=1790845417&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010524_3298877.jpg?v=1790845417&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010524_3298878.jpg?v=1790845417&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010524_3298879.jpg?v=1790845417&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/783102",
+   "mkt": 40100,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e9731816849649",
    "cat": "speakers",
    "src": "eearphone",
@@ -13167,30 +13191,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/784797",
    "mkt": 37600,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e9827892920561",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "audio-technica",
-   "model": "ATH-WP900",
-   "desc": "ATH-WP900",
-   "cond": "",
-   "jpy": 36800,
-   "kg": 0.5,
-   "sq": "ATH-WP900",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007456_3308484.jpg?v=1791339800&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007456_3308485.jpg?v=1791339800&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007456_3308486.jpg?v=1791339800&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1007456_3308487.jpg?v=1791339800&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/780083",
-   "mkt": 36800,
    "mktN": 1,
    "comps": []
   },
@@ -13859,6 +13859,30 @@
    "comps": []
   },
   {
+   "id": "e15196895707377",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Rhapsodio",
+   "model": "Eden Brass 14周年記念モデル",
+   "desc": "Eden Brass 14周年記念モデル",
+   "cond": "",
+   "jpy": 29700,
+   "kg": 0.5,
+   "sq": "Eden Brass 14周年記念モデル",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010107_3308342.jpg?v=1791281475&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010107_3308343.jpg?v=1791281475&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010107_3308344.jpg?v=1791281475&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010107_3308345.jpg?v=1791281475&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/782688",
+   "mkt": 29700,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e15202813608177",
    "cat": "earphones",
    "src": "eearphone",
@@ -13951,30 +13975,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/782892",
    "mkt": 28900,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15201734557937",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bowers & Wilkins",
-   "model": "Px7",
-   "desc": "Px7 S2e フォレスト・グリーン",
-   "cond": "",
-   "jpy": 28600,
-   "kg": 0.5,
-   "sq": "Px7",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011879_3303075.jpg?v=1791023179&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011879_3303076.jpg?v=1791023180&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011879_3303077.jpg?v=1791023180&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011879_3303078.jpg?v=1791023180&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/784427",
-   "mkt": 28600,
    "mktN": 1,
    "comps": []
   },
