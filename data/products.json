@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-10-10",
- "generatedAt": "2026-10-10T16:31:44+00:00",
+ "generatedAt": "2026-10-10T20:49:55+00:00",
  "fx": 0.21205,
  "fxDate": "2026-10-10",
  "counts": {
@@ -451,69 +451,6 @@
    "comps": []
   },
   {
-   "id": "k2300007641137",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "BVLGARI",
-   "model": "リング",
-   "desc": "ブルガリ ブルガリブルガリ リング BVLGARI",
-   "cond": "A",
-   "jpy": 88000,
-   "kg": 0.1,
-   "sq": "リング",
-   "store": "梅田店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/391/2300007641137_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-764-1137/",
-   "mkt": 230000,
-   "mktN": 15,
-   "comps": []
-  },
-  {
-   "id": "k2300005822019",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "BVLGARI",
-   "model": "リング",
-   "desc": "ブルガリ ブルガリブルガリ リング BVLGARI",
-   "cond": "A",
-   "jpy": 88000,
-   "kg": 0.1,
-   "sq": "リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/f0e/2300005822019_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-582-2019/",
-   "mkt": 230000,
-   "mktN": 15,
-   "comps": []
-  },
-  {
-   "id": "k2600069094750",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "BVLGARI",
-   "model": "リング",
-   "desc": "ブルガリ ブルガリブルガリ リング BVLGARI",
-   "cond": "A",
-   "jpy": 88000,
-   "kg": 0.1,
-   "sq": "リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/4be/2600069094750_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-006-909-4750/",
-   "mkt": 230000,
-   "mktN": 15,
-   "comps": []
-  },
-  {
    "id": "k2600073145127",
    "cat": "camera",
    "src": "komehyo",
@@ -640,6 +577,69 @@
    "comps": []
   },
   {
+   "id": "k2300007641137",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "BVLGARI",
+   "model": "リング",
+   "desc": "ブルガリ ブルガリブルガリ リング BVLGARI",
+   "cond": "A",
+   "jpy": 88000,
+   "kg": 0.1,
+   "sq": "リング",
+   "store": "梅田店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/391/2300007641137_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-764-1137/",
+   "mkt": 210000,
+   "mktN": 16,
+   "comps": []
+  },
+  {
+   "id": "k2300005822019",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "BVLGARI",
+   "model": "リング",
+   "desc": "ブルガリ ブルガリブルガリ リング BVLGARI",
+   "cond": "A",
+   "jpy": 88000,
+   "kg": 0.1,
+   "sq": "リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/f0e/2300005822019_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-582-2019/",
+   "mkt": 210000,
+   "mktN": 16,
+   "comps": []
+  },
+  {
+   "id": "k2600069094750",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "BVLGARI",
+   "model": "リング",
+   "desc": "ブルガリ ブルガリブルガリ リング BVLGARI",
+   "cond": "A",
+   "jpy": 88000,
+   "kg": 0.1,
+   "sq": "リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/4be/2600069094750_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-006-909-4750/",
+   "mkt": 210000,
+   "mktN": 16,
+   "comps": []
+  },
+  {
    "id": "k2300002991879",
    "cat": "ring",
    "src": "komehyo",
@@ -682,27 +682,6 @@
    "comps": []
   },
   {
-   "id": "k2600070192711",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "リング",
-   "desc": "ヴァンクリーフ&アーペル リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 100000,
-   "kg": 0.1,
-   "sq": "リング",
-   "store": "【新店】KOMEHYO YOKOHAMA",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/f7a/2600070192711_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-007-019-2711/",
-   "mkt": 230000,
-   "mktN": 15,
-   "comps": []
-  },
-  {
    "id": "k2700044202979",
    "cat": "camera",
    "src": "komehyo",
@@ -721,6 +700,27 @@
    "url": "https://komehyo.jp/product/270-004-420-2979/",
    "mkt": 85000,
    "mktN": 19,
+   "comps": []
+  },
+  {
+   "id": "k2600070192711",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "リング",
+   "desc": "ヴァンクリーフ&アーペル リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 100000,
+   "kg": 0.1,
+   "sq": "リング",
+   "store": "【新店】KOMEHYO YOKOHAMA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/f7a/2600070192711_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-019-2711/",
+   "mkt": 210000,
+   "mktN": 16,
    "comps": []
   },
   {
@@ -1140,7 +1140,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-742-0787/",
    "mkt": 170000,
-   "mktN": 8,
+   "mktN": 9,
    "comps": []
   },
   {
@@ -1204,27 +1204,6 @@
    "url": "https://komehyo.jp/product/270-004-282-6986/",
    "mkt": 60000,
    "mktN": 121,
-   "comps": []
-  },
-  {
-   "id": "k2600074679355",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "BVLGARI",
-   "model": "リング",
-   "desc": "ブルガリ ブルガリブルガリ リング BVLGARI",
-   "cond": "A",
-   "jpy": 150000,
-   "kg": 0.1,
-   "sq": "リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/a47/2600074679355_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-007-467-9355/",
-   "mkt": 230000,
-   "mktN": 15,
    "comps": []
   },
   {
@@ -1375,6 +1354,27 @@
    "comps": []
   },
   {
+   "id": "k2600074679355",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "BVLGARI",
+   "model": "リング",
+   "desc": "ブルガリ ブルガリブルガリ リング BVLGARI",
+   "cond": "A",
+   "jpy": 150000,
+   "kg": 0.1,
+   "sq": "リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/a47/2600074679355_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-467-9355/",
+   "mkt": 210000,
+   "mktN": 16,
+   "comps": []
+  },
+  {
    "id": "k2700043125927",
    "cat": "bag",
    "src": "komehyo",
@@ -1477,27 +1477,6 @@
    "url": "https://komehyo.jp/product/270-004-267-6963/",
    "mkt": 60000,
    "mktN": 121,
-   "comps": []
-  },
-  {
-   "id": "k2700042420481",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "BVLGARI",
-   "model": "リング",
-   "desc": "ブルガリ ブルガリブルガリ リング BVLGARI",
-   "cond": "A",
-   "jpy": 170000,
-   "kg": 0.1,
-   "sq": "リング",
-   "store": "梅田店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/b49/2700042420481_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-242-0481/",
-   "mkt": 230000,
-   "mktN": 15,
    "comps": []
   },
   {
@@ -1816,27 +1795,6 @@
    "comps": []
   },
   {
-   "id": "k2300008185852",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "BVLGARI",
-   "model": "リング",
-   "desc": "ブルガリ ブルガリブルガリ リング BVLGARI",
-   "cond": "A",
-   "jpy": 180000,
-   "kg": 0.1,
-   "sq": "リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/d45/2300008185852_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-818-5852/",
-   "mkt": 230000,
-   "mktN": 15,
-   "comps": []
-  },
-  {
    "id": "k2600075069698",
    "cat": "ring",
    "src": "komehyo",
@@ -2131,6 +2089,27 @@
    "comps": []
   },
   {
+   "id": "k2700042420481",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "BVLGARI",
+   "model": "リング",
+   "desc": "ブルガリ ブルガリブルガリ リング BVLGARI",
+   "cond": "A",
+   "jpy": 170000,
+   "kg": 0.1,
+   "sq": "リング",
+   "store": "梅田店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/b49/2700042420481_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-242-0481/",
+   "mkt": 210000,
+   "mktN": 16,
+   "comps": []
+  },
+  {
    "id": "k2300006568435",
    "cat": "bag",
    "src": "komehyo",
@@ -2404,6 +2383,27 @@
    "comps": []
   },
   {
+   "id": "k2300008185852",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "BVLGARI",
+   "model": "リング",
+   "desc": "ブルガリ ブルガリブルガリ リング BVLGARI",
+   "cond": "A",
+   "jpy": 180000,
+   "kg": 0.1,
+   "sq": "リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/d45/2300008185852_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-818-5852/",
+   "mkt": 210000,
+   "mktN": 16,
+   "comps": []
+  },
+  {
    "id": "k2300005779269",
    "cat": "bag",
    "src": "komehyo",
@@ -2526,7 +2526,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-735-3535/",
    "mkt": 170000,
-   "mktN": 8,
+   "mktN": 9,
    "comps": []
   },
   {
@@ -2547,7 +2547,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-779-4031/",
    "mkt": 170000,
-   "mktN": 8,
+   "mktN": 9,
    "comps": []
   },
   {
@@ -2656,6 +2656,27 @@
    "comps": []
   },
   {
+   "id": "k2600077508539",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "BVLGARI",
+   "model": "リング",
+   "desc": "ブルガリ ブルガリブルガリ リング BVLGARI",
+   "cond": "B",
+   "jpy": 190000,
+   "kg": 0.1,
+   "sq": "リング",
+   "store": "KOMEHYO GINZA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/c25/2600077508539_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-750-8539/",
+   "mkt": 210000,
+   "mktN": 16,
+   "comps": []
+  },
+  {
    "id": "k2700044061354",
    "cat": "camera",
    "src": "komehyo",
@@ -2736,6 +2757,27 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-696-8860/",
    "mkt": 325000,
+   "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "k2300006841798",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "SEIKO",
+   "model": "6R54-00P0/SBEJ029",
+   "desc": "セイコー プロスペックス 6R54-00P0/SBEJ029 SS 自動巻 SEIKO",
+   "cond": "A",
+   "jpy": 220000,
+   "kg": 0.4,
+   "sq": "6R54-00P0/SBEJ029",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/933/2300006841798_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-684-1798/",
+   "mkt": 237600,
    "mktN": 2,
    "comps": []
   },
@@ -3010,6 +3052,27 @@
    "url": "https://komehyo.jp/product/260-008-352-7630/",
    "mkt": 135000,
    "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "k2300007537096",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "ペルレ ミディアム リング",
+   "desc": "ヴァンクリーフ&アーペル ペルレ ミディアム リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 290000,
+   "kg": 0.1,
+   "sq": "ペルレ ミディアム リング",
+   "store": "KOMEHYO SHIBUYA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/6d0/2300007537096_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-753-7096/",
+   "mkt": 300000,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -3790,27 +3853,6 @@
    "comps": []
   },
   {
-   "id": "k2300006562860",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "フェリシテ リング",
-   "desc": "ヴァンクリーフ&アーペル フェリシテ リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 400000,
-   "kg": 0.1,
-   "sq": "フェリシテ リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/90a/2300006562860_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-656-2860/",
-   "mkt": 400000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "k2300006337369",
    "cat": "watch",
    "src": "komehyo",
@@ -3848,27 +3890,6 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-755-1085/",
-   "mkt": 380000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2700040825172",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "タグ・ホイヤー",
-   "model": "WBN201A.BA0640",
-   "desc": "タグ･ホイヤー カレラ･キャリバー7ツインタイムデイト WBN201A.BA0640 SS 自動巻 TAG Heuer",
-   "cond": "A",
-   "jpy": 380000,
-   "kg": 0.4,
-   "sq": "WBN201A.BA0640",
-   "store": "天神店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/b1d/2700040825172_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-082-5172/",
    "mkt": 380000,
    "mktN": 1,
    "comps": []
@@ -4168,27 +4189,6 @@
    "comps": []
   },
   {
-   "id": "k2600081216468",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "スリーシンボルズ リング",
-   "desc": "シャネル スリーシンボルズ リング CHANEL",
-   "cond": "B",
-   "jpy": 340000,
-   "kg": 0.1,
-   "sq": "スリーシンボルズ リング",
-   "store": "KOMEHYO VINTAGE TOKYO",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/bb0/2600081216468_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-008-121-6468/",
-   "mkt": 340000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "k2300007468512",
    "cat": "watch",
    "src": "komehyo",
@@ -4336,6 +4336,27 @@
    "comps": []
   },
   {
+   "id": "k2600080752639",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "ペルレ ミディアム リング",
+   "desc": "ヴァンクリーフ&アーペル ペルレ ミディアム リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 300000,
+   "kg": 0.1,
+   "sq": "ペルレ ミディアム リング",
+   "store": "二子玉川ライズ・オークモール店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/860/2600080752639_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-008-075-2639/",
+   "mkt": 300000,
+   "mktN": 3,
+   "comps": []
+  },
+  {
    "id": "k2460004650171",
    "cat": "ring",
    "src": "komehyo",
@@ -4357,24 +4378,24 @@
    "comps": []
   },
   {
-   "id": "k2300007537096",
+   "id": "k2300006961861",
    "cat": "ring",
    "src": "komehyo",
    "brand": "VAN CLEEF & ARPELS",
    "model": "ペルレ ミディアム リング",
    "desc": "ヴァンクリーフ&アーペル ペルレ ミディアム リング Van Cleef & Arpels",
    "cond": "A",
-   "jpy": 290000,
+   "jpy": 300000,
    "kg": 0.1,
    "sq": "ペルレ ミディアム リング",
-   "store": "KOMEHYO SHIBUYA",
+   "store": "二子玉川ライズ・オークモール店",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/6d0/2300007537096_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/7a0/2300006961861_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/230-000-753-7096/",
-   "mkt": 290000,
-   "mktN": 1,
+   "url": "https://komehyo.jp/product/230-000-696-1861/",
+   "mkt": 300000,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -4966,6 +4987,27 @@
    "comps": []
   },
   {
+   "id": "k2300007968241",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "タグ・ホイヤー",
+   "model": "WAY2013.BA0927",
+   "desc": "【ノーメンテナンス還元価格】タグ･ホイヤー アクアレーサー WAY2013.BA0927 SS 自動巻 TAG Heuer",
+   "cond": "B",
+   "jpy": 230000,
+   "kg": 0.4,
+   "sq": "WAY2013.BA0927",
+   "store": "KOMEHYO SHIBUYA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/396/2300007968241_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-796-8241/",
+   "mkt": 230000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2700037135253",
    "cat": "watch",
    "src": "komehyo",
@@ -5067,69 +5109,6 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-685-9830/",
    "mkt": 230000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2460004594123",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "BVLGARI",
-   "model": "リング",
-   "desc": "ブルガリ ブルガリブルガリ リング BVLGARI",
-   "cond": "A",
-   "jpy": 230000,
-   "kg": 0.1,
-   "sq": "リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/2c9/2460004594123_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/246-000-459-4123/",
-   "mkt": 230000,
-   "mktN": 15,
-   "comps": []
-  },
-  {
-   "id": "k2700041380656",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "BVLGARI",
-   "model": "リング",
-   "desc": "ブルガリ ブルガリブルガリ リング BVLGARI",
-   "cond": "B",
-   "jpy": 230000,
-   "kg": 0.1,
-   "sq": "リング",
-   "store": "名駅店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/911/2700041380656_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-138-0656/",
-   "mkt": 230000,
-   "mktN": 15,
-   "comps": []
-  },
-  {
-   "id": "k2300006841798",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "SEIKO",
-   "model": "6R54-00P0/SBEJ029",
-   "desc": "セイコー プロスペックス 6R54-00P0/SBEJ029 SS 自動巻 SEIKO",
-   "cond": "A",
-   "jpy": 220000,
-   "kg": 0.4,
-   "sq": "6R54-00P0/SBEJ029",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/933/2300006841798_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-684-1798/",
-   "mkt": 220000,
    "mktN": 1,
    "comps": []
   },
@@ -5722,27 +5701,6 @@
    "comps": []
   },
   {
-   "id": "k2300006382062",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "トゥージュール ラージ リング",
-   "desc": "ヴァンクリーフ&アーペル トゥージュール ラージ リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 180000,
-   "kg": 0.1,
-   "sq": "トゥージュール ラージ リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/c28/2300006382062_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-638-2062/",
-   "mkt": 180000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "k2700039773934",
    "cat": "watch",
    "src": "komehyo",
@@ -5759,27 +5717,6 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-003-977-3934/",
-   "mkt": 176000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2700039773927",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "SEIKO",
-   "model": "6R55-00J0/SBDC201",
-   "desc": "セイコー プロスペックス 6R55-00J0/SBDC201 SS 自動巻 SEIKO",
-   "cond": "New",
-   "jpy": 176000,
-   "kg": 0.4,
-   "sq": "6R55-00J0/SBDC201",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/961/2700039773927_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-003-977-3927/",
    "mkt": 176000,
    "mktN": 1,
    "comps": []
@@ -5822,6 +5759,27 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-190-5606/",
+   "mkt": 170000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2600082886738",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "LOUIS VUITTON",
+   "model": "M28174",
+   "desc": "ルイヴィトン ポップコーン トワレバッグ M28174 バッグ LOUIS VUITTON",
+   "cond": "A",
+   "jpy": 170000,
+   "kg": 1.2,
+   "sq": "M28174",
+   "store": "KOMEHYO SHINJUKU MEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/750/2600082886738_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-008-288-6738/",
    "mkt": 170000,
    "mktN": 1,
    "comps": []
@@ -5886,7 +5844,28 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-774-3107/",
    "mkt": 170000,
-   "mktN": 8,
+   "mktN": 9,
+   "comps": []
+  },
+  {
+   "id": "k2700043889553",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "マトラッセ リング",
+   "desc": "シャネル マトラッセ リング CHANEL",
+   "cond": "A",
+   "jpy": 170000,
+   "kg": 0.1,
+   "sq": "マトラッセ リング",
+   "store": "名駅店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/82f/2700043889553_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-388-9553/",
+   "mkt": 170000,
+   "mktN": 9,
    "comps": []
   },
   {
@@ -5907,7 +5886,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-564-6585/",
    "mkt": 170000,
-   "mktN": 8,
+   "mktN": 9,
    "comps": []
   },
   {
@@ -5928,7 +5907,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-388-9560/",
    "mkt": 170000,
-   "mktN": 8,
+   "mktN": 9,
    "comps": []
   },
   {
@@ -5949,7 +5928,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-752-5772/",
    "mkt": 170000,
-   "mktN": 8,
+   "mktN": 9,
    "comps": []
   },
   {
@@ -5991,7 +5970,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-840-7336/",
    "mkt": 170000,
-   "mktN": 8,
+   "mktN": 9,
    "comps": []
   },
   {
@@ -6936,7 +6915,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-008-075-1618/",
    "mkt": 120000,
-   "mktN": 5,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -6957,7 +6936,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-231-8751/",
    "mkt": 120000,
-   "mktN": 5,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -6978,28 +6957,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-633-9820/",
    "mkt": 120000,
-   "mktN": 5,
-   "comps": []
-  },
-  {
-   "id": "k2300005953935",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "BVLGARI",
-   "model": "フェディ リング",
-   "desc": "ブルガリ フェディ リング BVLGARI",
-   "cond": "A",
-   "jpy": 120000,
-   "kg": 0.1,
-   "sq": "フェディ リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/bb3/2300005953935_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-595-3935/",
-   "mkt": 120000,
-   "mktN": 5,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -7356,6 +7314,48 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-352-1064/",
    "mkt": 91000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2300005230623",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "GUCCI",
+   "model": "137385",
+   "desc": "グッチ 137385 バッグ GUCCI",
+   "cond": "A",
+   "jpy": 90000,
+   "kg": 1.2,
+   "sq": "137385",
+   "store": "天神店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/984/2300005230623_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-523-0623/",
+   "mkt": 90000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2460004581918",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "PRADA",
+   "model": "BN1601",
+   "desc": "プラダ BN1601 バッグ PRADA",
+   "cond": "A",
+   "jpy": 90000,
+   "kg": 1.2,
+   "sq": "BN1601",
+   "store": "名古屋本店BAG＋",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/7fa/2460004581918_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/246-000-458-1918/",
+   "mkt": 90000,
    "mktN": 1,
    "comps": []
   },
@@ -11539,6 +11539,30 @@
    "comps": []
   },
   {
+   "id": "e10303027020017",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Meze Audio",
+   "model": "LIRIC",
+   "desc": "LIRIC",
+   "cond": "",
+   "jpy": 112200,
+   "kg": 0.5,
+   "sq": "LIRIC",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008874_3289668.jpg?v=1790411128&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008874_3289669.jpg?v=1790411128&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008874_3289670.jpg?v=1790411128&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008874_3289671.jpg?v=1790411128&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/781490",
+   "mkt": 112200,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e15197583343857",
    "cat": "player",
    "src": "eearphone",
@@ -14527,30 +14551,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/781465",
    "mkt": 22400,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15196909797617",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "BQEYZ",
-   "model": "Winter Ultra",
-   "desc": "Winter Ultra (3.5mm/4.4mm)",
-   "cond": "",
-   "jpy": 22200,
-   "kg": 0.5,
-   "sq": "Winter Ultra",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010118_3307936.jpg?v=1791275683&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010118_3307937.jpg?v=1791275683&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010118_3307938.jpg?v=1791275683&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010118_3307939.jpg?v=1791275683&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/782699",
-   "mkt": 22200,
    "mktN": 1,
    "comps": []
   }
