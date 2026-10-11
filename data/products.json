@@ -1,9 +1,9 @@
 {
  "source": "live",
- "generated": "2026-10-10",
- "generatedAt": "2026-10-10T23:57:38+00:00",
- "fx": 0.21205,
- "fxDate": "2026-10-10",
+ "generated": "2026-10-11",
+ "generatedAt": "2026-10-11T03:05:04+00:00",
+ "fx": 0.21202,
+ "fxDate": "2026-10-11",
  "counts": {
   "live": 650,
   "seed": 0
@@ -7379,8 +7379,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/780599",
-   "mkt": 17600,
-   "mktN": 31,
+   "mkt": 17500,
+   "mktN": 28,
    "comps": []
   },
   {
@@ -7403,8 +7403,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/784258",
-   "mkt": 17600,
-   "mktN": 31,
+   "mkt": 17500,
+   "mktN": 28,
    "comps": []
   },
   {
@@ -7523,8 +7523,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/786418",
-   "mkt": 17850,
-   "mktN": 6,
+   "mkt": 17600,
+   "mktN": 5,
    "comps": []
   },
   {
@@ -7675,8 +7675,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/784021",
-   "mkt": 17600,
-   "mktN": 31,
+   "mkt": 17500,
+   "mktN": 28,
    "comps": []
   },
   {
@@ -7699,8 +7699,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/784101",
-   "mkt": 17600,
-   "mktN": 31,
+   "mkt": 17500,
+   "mktN": 28,
    "comps": []
   },
   {
@@ -7819,30 +7819,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/785974",
    "mkt": 6770,
-   "mktN": 4,
+   "mktN": 5,
    "comps": []
   },
   {
-   "id": "e15204710056177",
-   "cat": "player",
+   "id": "e15202810102001",
+   "cat": "earphones",
    "src": "eearphone",
-   "brand": "SHANLING",
-   "model": "M3X",
-   "desc": "M3X パープル",
+   "brand": "Bowers & Wilkins",
+   "model": "Px8",
+   "desc": "Px8 S2 ウォーム・ストーン",
    "cond": "",
-   "jpy": 10600,
-   "kg": 0.4,
-   "sq": "M3X",
-   "store": "日本橋",
+   "jpy": 83000,
+   "kg": 0.5,
+   "sq": "Px8",
+   "store": "秋葉原",
    "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013127_3308283.jpg?v=1791280646&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013127_3308284.jpg?v=1791280646&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013127_3308285.jpg?v=1791280646&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013127_3308286.jpg?v=1791280646&width=700"
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012160_3302690.jpg?v=1791018739&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012160_3302691.jpg?v=1791018739&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012160_3302692.jpg?v=1791018739&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012160_3302693.jpg?v=1791018739&width=700"
    ],
    "snap": false,
-   "url": "https://www.e-earphone.jp/products/785652",
-   "mkt": 13500,
+   "url": "https://www.e-earphone.jp/products/784693",
+   "mkt": 106000,
    "mktN": 3,
    "comps": []
   },
@@ -7891,7 +7891,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/784086",
    "mkt": 32400,
-   "mktN": 17,
+   "mktN": 20,
    "comps": []
   },
   {
@@ -7991,6 +7991,30 @@
    "comps": []
   },
   {
+   "id": "e15204710056177",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "SHANLING",
+   "model": "M3X",
+   "desc": "M3X パープル",
+   "cond": "",
+   "jpy": 10600,
+   "kg": 0.4,
+   "sq": "M3X",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013127_3308283.jpg?v=1791280646&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013127_3308284.jpg?v=1791280646&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013127_3308285.jpg?v=1791280646&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013127_3308286.jpg?v=1791280646&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/785652",
+   "mkt": 12700,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "e15198274748657",
    "cat": "earphones",
    "src": "eearphone",
@@ -8011,7 +8035,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/783338",
    "mkt": 32400,
-   "mktN": 17,
+   "mktN": 20,
    "comps": []
   },
   {
@@ -8087,30 +8111,6 @@
    "comps": []
   },
   {
-   "id": "e15197494018289",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MXP93J/A",
-   "desc": "AirPods 4 MXP93J/A（アクティブノイズキャンセリング搭載）",
-   "cond": "",
-   "jpy": 15000,
-   "kg": 0.5,
-   "sq": "MXP93J/A",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010379_3302520.jpg?v=1791016516&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010379_3302521.jpg?v=1791016516&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010379_3302522.jpg?v=1791016516&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010379_3302523.jpg?v=1791016516&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/782960",
-   "mkt": 17600,
-   "mktN": 31,
-   "comps": []
-  },
-  {
    "id": "e15204498440433",
    "cat": "earphones",
    "src": "eearphone",
@@ -8135,27 +8135,27 @@
    "comps": []
   },
   {
-   "id": "e15202810102001",
+   "id": "e15197494018289",
    "cat": "earphones",
    "src": "eearphone",
-   "brand": "Bowers & Wilkins",
-   "model": "Px8",
-   "desc": "Px8 S2 ウォーム・ストーン",
+   "brand": "Apple",
+   "model": "MXP93J/A",
+   "desc": "AirPods 4 MXP93J/A（アクティブノイズキャンセリング搭載）",
    "cond": "",
-   "jpy": 83000,
+   "jpy": 15000,
    "kg": 0.5,
-   "sq": "Px8",
+   "sq": "MXP93J/A",
    "store": "秋葉原",
    "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012160_3302690.jpg?v=1791018739&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012160_3302691.jpg?v=1791018739&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012160_3302692.jpg?v=1791018739&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012160_3302693.jpg?v=1791018739&width=700"
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010379_3302520.jpg?v=1791016516&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010379_3302521.jpg?v=1791016516&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010379_3302522.jpg?v=1791016516&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010379_3302523.jpg?v=1791016516&width=700"
    ],
    "snap": false,
-   "url": "https://www.e-earphone.jp/products/784693",
-   "mkt": 95850,
-   "mktN": 4,
+   "url": "https://www.e-earphone.jp/products/782960",
+   "mkt": 17500,
+   "mktN": 28,
    "comps": []
   },
   {
@@ -8350,30 +8350,6 @@
    "comps": []
   },
   {
-   "id": "e15215361458417",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bowers & Wilkins",
-   "model": "Px8",
-   "desc": "Px8 S2 オニキス・ブラック",
-   "cond": "",
-   "jpy": 85700,
-   "kg": 0.5,
-   "sq": "Px8",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014477_3312043.jpg?v=1791452834&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014477_3312044.jpg?v=1791452834&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014477_3312045.jpg?v=1791452834&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014477_3312046.jpg?v=1791452834&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/786959",
-   "mkt": 95850,
-   "mktN": 4,
-   "comps": []
-  },
-  {
    "id": "e9801293168881",
    "cat": "earphones",
    "src": "eearphone",
@@ -8445,30 +8421,6 @@
    "comps": []
   },
   {
-   "id": "e10306740158705",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MTJV3JA",
-   "desc": "MagSafe充電ケース(USB-C)付きAirPods Pro(第2世代) MTJV3JA",
-   "cond": "",
-   "jpy": 16100,
-   "kg": 0.5,
-   "sq": "MTJV3JA",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009666_3309543.jpg?v=1791355938&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009666_3309544.jpg?v=1791355938&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009666_3309545.jpg?v=1791355938&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009666_3309546.jpg?v=1791355938&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/782251",
-   "mkt": 17850,
-   "mktN": 6,
-   "comps": []
-  },
-  {
    "id": "e15201674920177",
    "cat": "earphones",
    "src": "eearphone",
@@ -8493,6 +8445,30 @@
    "comps": []
   },
   {
+   "id": "e10306740158705",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MTJV3JA",
+   "desc": "MagSafe充電ケース(USB-C)付きAirPods Pro(第2世代) MTJV3JA",
+   "cond": "",
+   "jpy": 16100,
+   "kg": 0.5,
+   "sq": "MTJV3JA",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009666_3309543.jpg?v=1791355938&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009666_3309544.jpg?v=1791355938&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009666_3309545.jpg?v=1791355938&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009666_3309546.jpg?v=1791355938&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/782251",
+   "mkt": 17600,
+   "mktN": 5,
+   "comps": []
+  },
+  {
    "id": "e15213632422129",
    "cat": "earphones",
    "src": "eearphone",
@@ -8512,80 +8488,32 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/786301",
-   "mkt": 17600,
-   "mktN": 31,
+   "mkt": 17500,
+   "mktN": 28,
    "comps": []
   },
   {
-   "id": "e15212994232561",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "HIFIMAN",
-   "model": "HE400se",
-   "desc": "HE400se",
-   "cond": "",
-   "jpy": 6800,
-   "kg": 0.5,
-   "sq": "HE400se",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013452_3309848.jpg?v=1791360020&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013452_3309849.jpg?v=1791360020&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013452_3309850.jpg?v=1791360020&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013452_3309851.jpg?v=1791360020&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/785978",
-   "mkt": 7395,
-   "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e15198259839217",
+   "id": "e9812531708145",
    "cat": "earphones",
    "src": "eearphone",
    "brand": "Apple",
-   "model": "MXP93J/A",
-   "desc": "AirPods 4 MXP93J/A（アクティブノイズキャンセリング搭載）",
+   "model": "MHWK4ZA/A",
+   "desc": "AirPods Max 2 MHWK4ZA/A ミッドナイト",
    "cond": "",
-   "jpy": 16200,
+   "jpy": 66200,
    "kg": 0.5,
-   "sq": "MXP93J/A",
-   "store": "日本橋",
+   "sq": "MHWK4ZA/A",
+   "store": "名古屋",
    "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010745_3293832.jpg?v=1790586314&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010745_3293833.jpg?v=1790586314&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010745_3293834.jpg?v=1790586314&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010745_3293835.jpg?v=1790586314&width=700"
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004625_3314660.jpg?v=1791606376&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004625_3314661.jpg?v=1791606376&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004625_3314662.jpg?v=1791606376&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004625_3314663.jpg?v=1791606376&width=700"
    ],
    "snap": false,
-   "url": "https://www.e-earphone.jp/products/783323",
-   "mkt": 17600,
-   "mktN": 31,
-   "comps": []
-  },
-  {
-   "id": "e10306488795377",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "NW-ZX707",
-   "desc": "NW-ZX707 C",
-   "cond": "",
-   "jpy": 59500,
-   "kg": 0.4,
-   "sq": "NW-ZX707",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009411_3296058.jpg?v=1790734880&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009411_3296059.jpg?v=1790734880&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009411_3296060.jpg?v=1790734880&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009411_3296061.jpg?v=1790734880&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/782003",
-   "mkt": 64400,
-   "mktN": 7,
+   "url": "https://www.e-earphone.jp/products/777279",
+   "mkt": 71700,
+   "mktN": 5,
    "comps": []
   },
   {
@@ -8634,6 +8562,54 @@
    "url": "https://www.e-earphone.jp/products/783669",
    "mkt": 46200,
    "mktN": 9,
+   "comps": []
+  },
+  {
+   "id": "e10306488795377",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "NW-ZX707",
+   "desc": "NW-ZX707 C",
+   "cond": "",
+   "jpy": 59500,
+   "kg": 0.4,
+   "sq": "NW-ZX707",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009411_3296058.jpg?v=1790734880&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009411_3296059.jpg?v=1790734880&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009411_3296060.jpg?v=1790734880&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009411_3296061.jpg?v=1790734880&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/782003",
+   "mkt": 64350,
+   "mktN": 6,
+   "comps": []
+  },
+  {
+   "id": "e15198259839217",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MXP93J/A",
+   "desc": "AirPods 4 MXP93J/A（アクティブノイズキャンセリング搭載）",
+   "cond": "",
+   "jpy": 16200,
+   "kg": 0.5,
+   "sq": "MXP93J/A",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010745_3293832.jpg?v=1790586314&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010745_3293833.jpg?v=1790586314&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010745_3293834.jpg?v=1790586314&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010745_3293835.jpg?v=1790586314&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/783323",
+   "mkt": 17500,
+   "mktN": 28,
    "comps": []
   },
   {
@@ -8898,30 +8874,6 @@
    "comps": []
   },
   {
-   "id": "e15212985942257",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Shokz",
-   "model": "OpenFit Pro White",
-   "desc": "OpenFit Pro White",
-   "cond": "",
-   "jpy": 24100,
-   "kg": 0.5,
-   "sq": "OpenFit Pro White",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013440_3308172.jpg?v=1791278959&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013440_3308173.jpg?v=1791278959&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013440_3308174.jpg?v=1791278959&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013440_3308175.jpg?v=1791278959&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/785965",
-   "mkt": 25500,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e10303064244465",
    "cat": "earphones",
    "src": "eearphone",
@@ -9134,30 +9086,6 @@
    "comps": []
   },
   {
-   "id": "e15196653584625",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "ULTRASONE",
-   "model": "Signature PURE WHITE",
-   "desc": "Signature PURE WHITE",
-   "cond": "",
-   "jpy": 14300,
-   "kg": 0.5,
-   "sq": "Signature PURE WHITE",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009920_3291114.jpg?v=1790489839&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009920_3291115.jpg?v=1790489839&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009920_3291116.jpg?v=1790489839&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009920_3291117.jpg?v=1790489839&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/782504",
-   "mkt": 14900,
-   "mktN": 3,
-   "comps": []
-  },
-  {
    "id": "e9781129838833",
    "cat": "speakers",
    "src": "eearphone",
@@ -9182,27 +9110,27 @@
    "comps": []
   },
   {
-   "id": "e10303808995569",
+   "id": "e15213091193073",
    "cat": "earphones",
    "src": "eearphone",
    "brand": "Apple",
    "model": "MXP93J/A",
    "desc": "AirPods 4 MXP93J/A（アクティブノイズキャンセリング搭載）",
    "cond": "",
-   "jpy": 16900,
+   "jpy": 16800,
    "kg": 0.5,
    "sq": "MXP93J/A",
-   "store": "日本橋",
+   "store": "名古屋",
    "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009107_3294272.jpg?v=1790651118&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009107_3294273.jpg?v=1790651118&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009107_3294274.jpg?v=1790651118&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009107_3294275.jpg?v=1790651118&width=700"
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013576_3313724.jpg?v=1791536884&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013576_3313725.jpg?v=1791536884&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013576_3313726.jpg?v=1791536884&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013576_3313727.jpg?v=1791536884&width=700"
    ],
    "snap": false,
-   "url": "https://www.e-earphone.jp/products/781714",
-   "mkt": 17600,
-   "mktN": 31,
+   "url": "https://www.e-earphone.jp/products/786069",
+   "mkt": 17500,
+   "mktN": 28,
    "comps": []
   },
   {
@@ -9421,6 +9349,30 @@
    "comps": []
   },
   {
+   "id": "e10303808995569",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MXP93J/A",
+   "desc": "AirPods 4 MXP93J/A（アクティブノイズキャンセリング搭載）",
+   "cond": "",
+   "jpy": 16900,
+   "kg": 0.5,
+   "sq": "MXP93J/A",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009107_3294272.jpg?v=1790651118&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009107_3294273.jpg?v=1790651118&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009107_3294274.jpg?v=1790651118&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009107_3294275.jpg?v=1790651118&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/781714",
+   "mkt": 17500,
+   "mktN": 28,
+   "comps": []
+  },
+  {
    "id": "e15199564792049",
    "cat": "earphones",
    "src": "eearphone",
@@ -9441,7 +9393,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/783659",
    "mkt": 32400,
-   "mktN": 17,
+   "mktN": 20,
    "comps": []
   },
   {
@@ -9465,7 +9417,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/783408",
    "mkt": 32400,
-   "mktN": 17,
+   "mktN": 20,
    "comps": []
   },
   {
@@ -9608,32 +9560,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/784524",
-   "mkt": 64400,
-   "mktN": 7,
-   "comps": []
-  },
-  {
-   "id": "e9799471825137",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Shokz",
-   "model": "OpenRun Mini USB-C",
-   "desc": "OpenRun Mini USB-C Black",
-   "cond": "",
-   "jpy": 10200,
-   "kg": 0.5,
-   "sq": "OpenRun Mini USB-C",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001685_3253368.jpg?v=1788935473&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001685_3253369.jpg?v=1788935473&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001685_3253370.jpg?v=1788935473&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1001685_3253371.jpg?v=1788935473&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/774381",
-   "mkt": 10500,
-   "mktN": 2,
+   "mkt": 64350,
+   "mktN": 6,
    "comps": []
   },
   {
@@ -9658,30 +9586,6 @@
    "url": "https://www.e-earphone.jp/products/782594",
    "mkt": 24600,
    "mktN": 10,
-   "comps": []
-  },
-  {
-   "id": "e10306853798129",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MXP93J/A",
-   "desc": "AirPods 4 MXP93J/A（アクティブノイズキャンセリング搭載）",
-   "cond": "",
-   "jpy": 17100,
-   "kg": 0.5,
-   "sq": "MXP93J/A",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009842_3298024.jpg?v=1790824406&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009842_3298025.jpg?v=1790824406&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009842_3298026.jpg?v=1790824406&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009842_3298027.jpg?v=1790824406&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/782426",
-   "mkt": 17600,
-   "mktN": 31,
    "comps": []
   },
   {
@@ -9781,6 +9685,30 @@
    "comps": []
   },
   {
+   "id": "e10306853798129",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MXP93J/A",
+   "desc": "AirPods 4 MXP93J/A（アクティブノイズキャンセリング搭載）",
+   "cond": "",
+   "jpy": 17100,
+   "kg": 0.5,
+   "sq": "MXP93J/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009842_3298024.jpg?v=1790824406&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009842_3298025.jpg?v=1790824406&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009842_3298026.jpg?v=1790824406&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009842_3298027.jpg?v=1790824406&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/782426",
+   "mkt": 17500,
+   "mktN": 28,
+   "comps": []
+  },
+  {
    "id": "e15198259708145",
    "cat": "earphones",
    "src": "eearphone",
@@ -9825,6 +9753,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/783417",
    "mkt": 24300,
+   "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e15196653584625",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "ULTRASONE",
+   "model": "Signature PURE WHITE",
+   "desc": "Signature PURE WHITE",
+   "cond": "",
+   "jpy": 14300,
+   "kg": 0.5,
+   "sq": "Signature PURE WHITE",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009920_3291114.jpg?v=1790489839&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009920_3291115.jpg?v=1790489839&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009920_3291116.jpg?v=1790489839&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009920_3291117.jpg?v=1790489839&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/782504",
+   "mkt": 14600,
    "mktN": 2,
    "comps": []
   },
@@ -9877,30 +9829,6 @@
    "comps": []
   },
   {
-   "id": "e15197441556721",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MHWK4ZA/A",
-   "desc": "AirPods Max 2 MHWK4ZA/A ミッドナイト",
-   "cond": "",
-   "jpy": 70400,
-   "kg": 0.5,
-   "sq": "MHWK4ZA/A",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010302_3299390.jpg?v=1790906158&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010302_3299391.jpg?v=1790906158&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010302_3299392.jpg?v=1790906158&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010302_3299393.jpg?v=1790906158&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/782883",
-   "mkt": 71800,
-   "mktN": 4,
-   "comps": []
-  },
-  {
    "id": "e15213623705841",
    "cat": "earphones",
    "src": "eearphone",
@@ -9945,7 +9873,31 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/783701",
    "mkt": 32400,
-   "mktN": 17,
+   "mktN": 20,
+   "comps": []
+  },
+  {
+   "id": "e15197441556721",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MHWK4ZA/A",
+   "desc": "AirPods Max 2 MHWK4ZA/A ミッドナイト",
+   "cond": "",
+   "jpy": 70400,
+   "kg": 0.5,
+   "sq": "MHWK4ZA/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010302_3299390.jpg?v=1790906158&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010302_3299391.jpg?v=1790906158&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010302_3299392.jpg?v=1790906158&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010302_3299393.jpg?v=1790906158&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/782883",
+   "mkt": 71700,
+   "mktN": 5,
    "comps": []
   },
   {
@@ -10017,7 +9969,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/784361",
    "mkt": 32400,
-   "mktN": 17,
+   "mktN": 20,
    "comps": []
   },
   {
@@ -10041,7 +9993,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/782557",
    "mkt": 32400,
-   "mktN": 17,
+   "mktN": 20,
    "comps": []
   },
   {
@@ -10138,30 +10090,6 @@
    "url": "https://www.e-earphone.jp/products/782651",
    "mkt": 14100,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e15202810527985",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MTJV3JA",
-   "desc": "MagSafe充電ケース(USB-C)付きAirPods Pro(第2世代) MTJV3JA",
-   "cond": "",
-   "jpy": 17600,
-   "kg": 0.5,
-   "sq": "MTJV3JA",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012161_3304412.jpg?v=1791101609&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012161_3304413.jpg?v=1791101609&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012161_3304414.jpg?v=1791101609&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012161_3304415.jpg?v=1791101609&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/784694",
-   "mkt": 17850,
-   "mktN": 6,
    "comps": []
   },
   {
@@ -10308,99 +10236,27 @@
    "comps": []
   },
   {
-   "id": "e15201674887409",
+   "id": "e15196912681201",
    "cat": "earphones",
    "src": "eearphone",
-   "brand": "Apple",
-   "model": "MXP93J/A",
-   "desc": "AirPods 4 MXP93J/A（アクティブノイズキャンセリング搭載）",
+   "brand": "FOSTEX",
+   "model": "T60RPmk2CL",
+   "desc": "T60RPmk2CL",
    "cond": "",
-   "jpy": 17400,
+   "jpy": 43100,
    "kg": 0.5,
-   "sq": "MXP93J/A",
+   "sq": "T60RPmk2CL",
    "store": "秋葉原",
    "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011785_3309867.jpg?v=1791360195&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011785_3309868.jpg?v=1791360195&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011785_3309869.jpg?v=1791360195&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011785_3309870.jpg?v=1791360195&width=700"
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010153_3305517.jpg?v=1791171028&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010153_3305518.jpg?v=1791171028&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010153_3305519.jpg?v=1791171028&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010153_3305520.jpg?v=1791171028&width=700"
    ],
    "snap": false,
-   "url": "https://www.e-earphone.jp/products/784334",
-   "mkt": 17600,
-   "mktN": 31,
-   "comps": []
-  },
-  {
-   "id": "e10306698838257",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MXP93J/A",
-   "desc": "AirPods 4 MXP93J/A（アクティブノイズキャンセリング搭載）",
-   "cond": "",
-   "jpy": 17400,
-   "kg": 0.5,
-   "sq": "MXP93J/A",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009624_3308926.jpg?v=1791344474&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009624_3308927.jpg?v=1791344474&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009624_3308928.jpg?v=1791344474&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009624_3308929.jpg?v=1791344474&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/782209",
-   "mkt": 17600,
-   "mktN": 31,
-   "comps": []
-  },
-  {
-   "id": "e10303066210545",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MXP93J/A",
-   "desc": "AirPods 4 MXP93J/A（アクティブノイズキャンセリング搭載）",
-   "cond": "",
-   "jpy": 17400,
-   "kg": 0.5,
-   "sq": "MXP93J/A",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008969_3304697.jpg?v=1791104180&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008969_3304698.jpg?v=1791104180&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008969_3304699.jpg?v=1791104180&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008969_3304700.jpg?v=1791104180&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/781585",
-   "mkt": 17600,
-   "mktN": 31,
-   "comps": []
-  },
-  {
-   "id": "e10303045337329",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MXP93J/A",
-   "desc": "AirPods 4 MXP93J/A（アクティブノイズキャンセリング搭載）",
-   "cond": "",
-   "jpy": 17400,
-   "kg": 0.5,
-   "sq": "MXP93J/A",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008911_3296853.jpg?v=1790744552&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008911_3296854.jpg?v=1790744552&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008911_3296855.jpg?v=1790744552&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008911_3296856.jpg?v=1790744552&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/781527",
-   "mkt": 17600,
-   "mktN": 31,
+   "url": "https://www.e-earphone.jp/products/782734",
+   "mkt": 43600,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -10472,7 +10328,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/780017",
    "mkt": 9400,
-   "mktN": 4,
+   "mktN": 5,
    "comps": []
   },
   {
@@ -10739,6 +10595,102 @@
    "comps": []
   },
   {
+   "id": "e15201674887409",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MXP93J/A",
+   "desc": "AirPods 4 MXP93J/A（アクティブノイズキャンセリング搭載）",
+   "cond": "",
+   "jpy": 17400,
+   "kg": 0.5,
+   "sq": "MXP93J/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011785_3309867.jpg?v=1791360195&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011785_3309868.jpg?v=1791360195&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011785_3309869.jpg?v=1791360195&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011785_3309870.jpg?v=1791360195&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/784334",
+   "mkt": 17500,
+   "mktN": 28,
+   "comps": []
+  },
+  {
+   "id": "e10306698838257",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MXP93J/A",
+   "desc": "AirPods 4 MXP93J/A（アクティブノイズキャンセリング搭載）",
+   "cond": "",
+   "jpy": 17400,
+   "kg": 0.5,
+   "sq": "MXP93J/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009624_3308926.jpg?v=1791344474&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009624_3308927.jpg?v=1791344474&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009624_3308928.jpg?v=1791344474&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009624_3308929.jpg?v=1791344474&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/782209",
+   "mkt": 17500,
+   "mktN": 28,
+   "comps": []
+  },
+  {
+   "id": "e10303066210545",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MXP93J/A",
+   "desc": "AirPods 4 MXP93J/A（アクティブノイズキャンセリング搭載）",
+   "cond": "",
+   "jpy": 17400,
+   "kg": 0.5,
+   "sq": "MXP93J/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008969_3304697.jpg?v=1791104180&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008969_3304698.jpg?v=1791104180&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008969_3304699.jpg?v=1791104180&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008969_3304700.jpg?v=1791104180&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/781585",
+   "mkt": 17500,
+   "mktN": 28,
+   "comps": []
+  },
+  {
+   "id": "e10303045337329",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MXP93J/A",
+   "desc": "AirPods 4 MXP93J/A（アクティブノイズキャンセリング搭載）",
+   "cond": "",
+   "jpy": 17400,
+   "kg": 0.5,
+   "sq": "MXP93J/A",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008911_3296853.jpg?v=1790744552&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008911_3296854.jpg?v=1790744552&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008911_3296855.jpg?v=1790744552&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008911_3296856.jpg?v=1790744552&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/781527",
+   "mkt": 17500,
+   "mktN": 28,
+   "comps": []
+  },
+  {
    "id": "e15214078099697",
    "cat": "earphones",
    "src": "eearphone",
@@ -10934,32 +10886,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/782756",
-   "mkt": 64400,
-   "mktN": 7,
-   "comps": []
-  },
-  {
-   "id": "e15197466034417",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MHWK4ZA/A",
-   "desc": "AirPods Max 2 MHWK4ZA/A ミッドナイト",
-   "cond": "",
-   "jpy": 71700,
-   "kg": 0.5,
-   "sq": "MHWK4ZA/A",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010323_3295983.jpg?v=1790733934&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010323_3295985.jpg?v=1790733934&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010323_3295987.jpg?v=1790733934&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010323_3295989.jpg?v=1790733934&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/782904",
-   "mkt": 71800,
-   "mktN": 4,
+   "mkt": 64350,
+   "mktN": 6,
    "comps": []
   },
   {
@@ -11659,6 +11587,30 @@
    "comps": []
   },
   {
+   "id": "e15198740906225",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Bowers & Wilkins",
+   "model": "Px8",
+   "desc": "Px8 S2 McLaren Edition",
+   "cond": "",
+   "jpy": 106000,
+   "kg": 0.5,
+   "sq": "Px8",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010939_3305272.jpg?v=1791167785&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010939_3305273.jpg?v=1791167785&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010939_3305274.jpg?v=1791167785&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010939_3305275.jpg?v=1791167785&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/783510",
+   "mkt": 106000,
+   "mktN": 3,
+   "comps": []
+  },
+  {
    "id": "e15214037827825",
    "cat": "earphones",
    "src": "eearphone",
@@ -11703,6 +11655,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/783960",
    "mkt": 104900,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15198718951665",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "楽彼(LUXURY&PRECISION)",
+   "model": "AD1955DAC",
+   "desc": "AD1955DACカード E7専用",
+   "cond": "",
+   "jpy": 100500,
+   "kg": 0.4,
+   "sq": "AD1955DAC",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010884_3294881.jpg?v=1790660423&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010884_3294882.jpg?v=1790660423&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010884_3294883.jpg?v=1790660423&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010884_3294884.jpg?v=1790660423&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/783454",
+   "mkt": 100500,
    "mktN": 1,
    "comps": []
   },
@@ -12139,6 +12115,30 @@
    "comps": []
   },
   {
+   "id": "e15197466034417",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MHWK4ZA/A",
+   "desc": "AirPods Max 2 MHWK4ZA/A ミッドナイト",
+   "cond": "",
+   "jpy": 71700,
+   "kg": 0.5,
+   "sq": "MHWK4ZA/A",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010323_3295983.jpg?v=1790733934&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010323_3295985.jpg?v=1790733934&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010323_3295987.jpg?v=1790733934&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010323_3295989.jpg?v=1790733934&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/782904",
+   "mkt": 71700,
+   "mktN": 5,
+   "comps": []
+  },
+  {
    "id": "e10306753102065",
    "cat": "player",
    "src": "eearphone",
@@ -12331,30 +12331,6 @@
    "comps": []
   },
   {
-   "id": "e10301685760241",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "NW-ZX707",
-   "desc": "NW-ZX707 C",
-   "cond": "",
-   "jpy": 64400,
-   "kg": 0.4,
-   "sq": "NW-ZX707",
-   "store": "秋葉原",
-   "imgs": [
-    "https://www.e-earphone.jp/cdn/shop/files/e_earphone.jpg?v=1742296629",
-    "https://www.e-earphone.jp/cdn/shop/files/extended_warranty_980100_300x.webp?v=1781157600",
-    "https://www.e-earphone.jp/cdn/shop/files/extended_warranty_980100_{width}x.webp?v=1781157600",
-    "https://www.e-earphone.jp/cdn/shop/files/extended_warranty_980100_1400x.webp?v=1781157600"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/780790",
-   "mkt": 64400,
-   "mktN": 7,
-   "comps": []
-  },
-  {
    "id": "e15202815377649",
    "cat": "earphones",
    "src": "eearphone",
@@ -12519,6 +12495,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/786021",
    "mkt": 55900,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e9825439219953",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Fosi Audio",
+   "model": "i5",
+   "desc": "i5",
+   "cond": "",
+   "jpy": 54900,
+   "kg": 0.5,
+   "sq": "i5",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1006739_3290445.jpg?v=1790476047&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1006739_3290446.jpg?v=1790476047&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1006739_3290448.jpg?v=1790476047&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1006739_3290450.jpg?v=1790476047&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/779372",
+   "mkt": 54900,
    "mktN": 1,
    "comps": []
   },
@@ -12879,30 +12879,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/782702",
    "mkt": 43500,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15196912681201",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "FOSTEX",
-   "model": "T60RPmk2CL",
-   "desc": "T60RPmk2CL",
-   "cond": "",
-   "jpy": 43100,
-   "kg": 0.5,
-   "sq": "T60RPmk2CL",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010153_3305517.jpg?v=1791171028&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010153_3305518.jpg?v=1791171028&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010153_3305519.jpg?v=1791171028&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010153_3305520.jpg?v=1791171028&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/782734",
-   "mkt": 43100,
    "mktN": 1,
    "comps": []
   },
@@ -13501,6 +13477,30 @@
    "comps": []
   },
   {
+   "id": "e15203860906225",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MFHP4J/A",
+   "desc": "AirPods Pro 3 MFHP4J/A",
+   "cond": "",
+   "jpy": 32400,
+   "kg": 0.5,
+   "sq": "MFHP4J/A",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012327_3313704.jpg?v=1791536679&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012327_3313705.jpg?v=1791536679&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012327_3313706.jpg?v=1791536679&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012327_3313707.jpg?v=1791536679&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/784858",
+   "mkt": 32400,
+   "mktN": 20,
+   "comps": []
+  },
+  {
    "id": "e15215173435633",
    "cat": "earphones",
    "src": "eearphone",
@@ -13521,7 +13521,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/786739",
    "mkt": 32400,
-   "mktN": 17,
+   "mktN": 20,
    "comps": []
   },
   {
@@ -13545,7 +13545,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/784618",
    "mkt": 32400,
-   "mktN": 17,
+   "mktN": 20,
    "comps": []
   },
   {
@@ -13569,7 +13569,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/782740",
    "mkt": 32400,
-   "mktN": 17,
+   "mktN": 20,
    "comps": []
   },
   {
@@ -14099,6 +14099,30 @@
    "comps": []
   },
   {
+   "id": "e15196815524081",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SHANLING",
+   "model": "MG200",
+   "desc": "Dark Space - MG200 -",
+   "cond": "",
+   "jpy": 25700,
+   "kg": 0.5,
+   "sq": "MG200",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010004_3308418.jpg?v=1791338775&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010004_3308419.jpg?v=1791338775&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010004_3308420.jpg?v=1791338775&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010004_3308421.jpg?v=1791338775&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/782587",
+   "mkt": 25700,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e15204726309105",
    "cat": "earphones",
    "src": "eearphone",
@@ -14287,6 +14311,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/782986",
    "mkt": 24600,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15212985942257",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Shokz",
+   "model": "OpenFit Pro White",
+   "desc": "OpenFit Pro White",
+   "cond": "",
+   "jpy": 24100,
+   "kg": 0.5,
+   "sq": "OpenFit Pro White",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013440_3308172.jpg?v=1791278959&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013440_3308173.jpg?v=1791278959&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013440_3308174.jpg?v=1791278959&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013440_3308175.jpg?v=1791278959&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/785965",
+   "mkt": 24100,
    "mktN": 1,
    "comps": []
   },
@@ -14503,54 +14551,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/784560",
    "mkt": 22700,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e9788045492465",
-   "cat": "speakers",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "SRS-RA3000",
-   "desc": "SRS-RA3000 ブラック",
-   "cond": "",
-   "jpy": 22700,
-   "kg": 3.0,
-   "sq": "SRS-RA3000",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/999793_3251798.jpg?v=1788855677&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/999793_3251799.jpg?v=1788855677&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/999793_3251800.jpg?v=1788855677&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/999793_3251801.jpg?v=1788855677&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/772545",
-   "mkt": 22700,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e10302975705329",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "audio-technica",
-   "model": "ATH-R70X",
-   "desc": "ATH-R70X",
-   "cond": "",
-   "jpy": 22400,
-   "kg": 0.5,
-   "sq": "ATH-R70X",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008849_3298261.jpg?v=1790830522&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008849_3298262.jpg?v=1790830522&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008849_3298263.jpg?v=1790830522&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008849_3298264.jpg?v=1790830522&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/781465",
-   "mkt": 22400,
    "mktN": 1,
    "comps": []
   }
