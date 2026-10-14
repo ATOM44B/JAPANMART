@@ -1,9 +1,9 @@
 {
  "source": "live",
- "generated": "2026-10-13",
- "generatedAt": "2026-10-13T18:37:56+00:00",
+ "generated": "2026-10-14",
+ "generatedAt": "2026-10-14T00:01:48+00:00",
  "fx": 0.212,
- "fxDate": "2026-10-13",
+ "fxDate": "2026-10-14",
  "counts": {
   "live": 650,
   "seed": 0
@@ -22,7 +22,6 @@
    "sq": "ＥＦ－ＢＰ１",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/cbf/2600071723167_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/b2b/2600071723167s.jpg"
    ],
    "snap": false,
@@ -469,7 +468,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-420-3105/",
    "mkt": 55000,
-   "mktN": 20,
+   "mktN": 19,
    "comps": []
   },
   {
@@ -574,7 +573,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-006-780-3484/",
    "mkt": 55000,
-   "mktN": 20,
+   "mktN": 19,
    "comps": []
   },
   {
@@ -616,7 +615,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-532-6005/",
    "mkt": 55000,
-   "mktN": 20,
+   "mktN": 19,
    "comps": []
   },
   {
@@ -847,7 +846,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-406-0890/",
    "mkt": 55000,
-   "mktN": 20,
+   "mktN": 19,
    "comps": []
   },
   {
@@ -1250,27 +1249,6 @@
    "comps": []
   },
   {
-   "id": "k2700044014008",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "NIKON",
-   "model": "新入荷 ＮＩＫＯＮ１ Ｊ５",
-   "desc": "新入荷 ＮＩＫＯＮ１ Ｊ５ １０－３０ＫＩＴ 10月11日入荷 NIKON",
-   "cond": "Ｂ",
-   "jpy": 38000,
-   "kg": 1.2,
-   "sq": "新入荷 ＮＩＫＯＮ１ Ｊ５",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/a50/2700044014008s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-401-4008/",
-   "mkt": 55000,
-   "mktN": 20,
-   "comps": []
-  },
-  {
    "id": "k2700043941527",
    "cat": "camera",
    "src": "komehyo",
@@ -1352,28 +1330,6 @@
    "url": "https://komehyo.jp/product/270-004-388-0017/",
    "mkt": 36000,
    "mktN": 3,
-   "comps": []
-  },
-  {
-   "id": "k2700043286123",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "CANON",
-   "model": "ＥＯＳ６Ｄ",
-   "desc": "ＥＯＳ６Ｄ CANON",
-   "cond": "Ｂ",
-   "jpy": 46000,
-   "kg": 1.2,
-   "sq": "ＥＯＳ６Ｄ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/4d6/2700043286123_b.jpg",
-    "https://img.komehyo.jp/contents/images/goods/d62/2700043286123s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-328-6123/",
-   "mkt": 65000,
-   "mktN": 121,
    "comps": []
   },
   {
@@ -1478,7 +1434,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-420-2979/",
    "mkt": 55000,
-   "mktN": 20,
+   "mktN": 19,
    "comps": []
   },
   {
@@ -1751,7 +1707,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-420-3167/",
    "mkt": 55000,
-   "mktN": 20,
+   "mktN": 19,
    "comps": []
   },
   {
@@ -2549,7 +2505,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/246-000-465-1802/",
    "mkt": 55000,
-   "mktN": 20,
+   "mktN": 19,
    "comps": []
   },
   {
@@ -2626,7 +2582,7 @@
    "jpy": 400000,
    "kg": 0.4,
    "sq": "3510.50",
-   "store": "【新店】KOMEHYO FUKUOKA TENJIN",
+   "store": "名古屋本館",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/705/2300006148873_1_b.jpg"
    ],
@@ -7363,6 +7319,48 @@
    "comps": []
   },
   {
+   "id": "k2300004549467",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "マリッジ リング",
+   "desc": "シャネル マリッジ リング CHANEL",
+   "cond": "A",
+   "jpy": 100000,
+   "kg": 0.1,
+   "sq": "マリッジ リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/f4f/2300004549467_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-454-9467/",
+   "mkt": 100000,
+   "mktN": 3,
+   "comps": []
+  },
+  {
+   "id": "k2600077189899",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "マリッジ リング",
+   "desc": "シャネル マリッジ リング CHANEL",
+   "cond": "A",
+   "jpy": 100000,
+   "kg": 0.1,
+   "sq": "マリッジ リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/aa4/2600077189899_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-718-9899/",
+   "mkt": 100000,
+   "mktN": 3,
+   "comps": []
+  },
+  {
    "id": "e15196907929841",
    "cat": "earphones",
    "src": "eearphone",
@@ -11451,6 +11449,30 @@
    "comps": []
   },
   {
+   "id": "e15203919528177",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "MADOO",
+   "model": "Typ821",
+   "desc": "Typ821",
+   "cond": "",
+   "jpy": 132000,
+   "kg": 0.5,
+   "sq": "Typ821",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012559_3314994.jpg?v=1791614607&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012559_3314995.jpg?v=1791614607&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012559_3314996.jpg?v=1791614607&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012559_3314997.jpg?v=1791614607&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/785087",
+   "mkt": 132000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e15222425125105",
    "cat": "earphones",
    "src": "eearphone",
@@ -11999,30 +12021,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/767752",
    "mkt": 79900,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15221450047729",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "水月雨 (MOONDROP)",
-   "model": "Armature Art 12",
-   "desc": "Armature Art 12",
-   "cond": "",
-   "jpy": 78900,
-   "kg": 0.5,
-   "sq": "Armature Art 12",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015496_3316844.jpg?v=1791703518&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015496_3316845.jpg?v=1791703518&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015496_3316846.jpg?v=1791703518&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015496_3316847.jpg?v=1791703518&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/787957",
-   "mkt": 78900,
    "mktN": 1,
    "comps": []
   },
