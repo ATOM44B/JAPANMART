@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-10-14",
- "generatedAt": "2026-10-14T19:01:44+00:00",
+ "generatedAt": "2026-10-14T23:32:53+00:00",
  "fx": 0.21208,
  "fxDate": "2026-10-14",
  "counts": {
@@ -1135,7 +1135,6 @@
    "sq": "新入荷 ＥＯＳ７０Ｄ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/e3f/2700044083202_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/3f3/2700044083202s.jpg"
    ],
    "snap": false,
@@ -8624,30 +8623,6 @@
    "comps": []
   },
   {
-   "id": "e15222210330865",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "NW-ZX707",
-   "desc": "NW-ZX707 C",
-   "cond": "",
-   "jpy": 60600,
-   "kg": 0.4,
-   "sq": "NW-ZX707",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015764_3318794.jpg?v=1791794118&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015764_3318795.jpg?v=1791794118&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015764_3318796.jpg?v=1791794118&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015764_3318797.jpg?v=1791794118&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/788223",
-   "mkt": 64500,
-   "mktN": 4,
-   "comps": []
-  },
-  {
    "id": "e10302907515121",
    "cat": "earphones",
    "src": "eearphone",
@@ -9243,30 +9218,6 @@
    "url": "https://www.e-earphone.jp/products/783997",
    "mkt": 13252,
    "mktN": 6,
-   "comps": []
-  },
-  {
-   "id": "e15204728111345",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "FIIO",
-   "model": "JM21",
-   "desc": "JM21 Blue",
-   "cond": "",
-   "jpy": 20425,
-   "kg": 0.4,
-   "sq": "JM21",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013271_3319187.jpg?v=1791799038&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013271_3319188.jpg?v=1791799038&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013271_3319189.jpg?v=1791799038&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013271_3319190.jpg?v=1791799038&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/785796",
-   "mkt": 21090,
-   "mktN": 2,
    "comps": []
   },
   {
@@ -9989,30 +9940,6 @@
    "comps": []
   },
   {
-   "id": "e15204022059249",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "ONIX",
-   "model": "XM5",
-   "desc": "Overture XM5",
-   "cond": "",
-   "jpy": 79515,
-   "kg": 0.4,
-   "sq": "XM5",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012806_3317863.jpg?v=1791776419&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012806_3317864.jpg?v=1791776419&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012806_3317865.jpg?v=1791776419&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012806_3317866.jpg?v=1791776419&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/785332",
-   "mkt": 80465,
-   "mktN": 4,
-   "comps": []
-  },
-  {
    "id": "e15201741177073",
    "cat": "player",
    "src": "eearphone",
@@ -10176,6 +10103,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/757659",
    "mkt": 4646,
+   "mktN": 3,
+   "comps": []
+  },
+  {
+   "id": "e15204022059249",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "ONIX",
+   "model": "XM5",
+   "desc": "Overture XM5",
+   "cond": "",
+   "jpy": 79515,
+   "kg": 0.4,
+   "sq": "XM5",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012806_3317863.jpg?v=1791776419&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012806_3317864.jpg?v=1791776419&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012806_3317865.jpg?v=1791776419&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012806_3317866.jpg?v=1791776419&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/785332",
+   "mkt": 80275,
    "mktN": 3,
    "comps": []
   },
@@ -10588,6 +10539,30 @@
    "comps": []
   },
   {
+   "id": "e15204023075057",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "NW-ZX707",
+   "desc": "NW-ZX707 C",
+   "cond": "",
+   "jpy": 64400,
+   "kg": 0.4,
+   "sq": "NW-ZX707",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012819_3317683.jpg?v=1791773967&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012819_3317684.jpg?v=1791773967&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012819_3317685.jpg?v=1791773967&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012819_3317686.jpg?v=1791773967&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/785345",
+   "mkt": 64600,
+   "mktN": 3,
+   "comps": []
+  },
+  {
    "id": "e15201019560177",
    "cat": "earphones",
    "src": "eearphone",
@@ -10609,54 +10584,6 @@
    "url": "https://www.e-earphone.jp/products/784099",
    "mkt": 33060,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e15222423257329",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "ONIX",
-   "model": "XM5",
-   "desc": "Overture XM5",
-   "cond": "",
-   "jpy": 80275,
-   "kg": 0.4,
-   "sq": "XM5",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015976_3318629.jpg?v=1791792198&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015976_3318630.jpg?v=1791792198&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015976_3318631.jpg?v=1791792198&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015976_3318632.jpg?v=1791792198&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/788433",
-   "mkt": 80465,
-   "mktN": 4,
-   "comps": []
-  },
-  {
-   "id": "e15204023075057",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "NW-ZX707",
-   "desc": "NW-ZX707 C",
-   "cond": "",
-   "jpy": 64400,
-   "kg": 0.4,
-   "sq": "NW-ZX707",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012819_3317683.jpg?v=1791773967&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012819_3317684.jpg?v=1791773967&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012819_3317685.jpg?v=1791773967&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012819_3317686.jpg?v=1791773967&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/785345",
-   "mkt": 64500,
-   "mktN": 4,
    "comps": []
   },
   {
@@ -10824,6 +10751,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/775311",
    "mkt": 309795,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15201017233649",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "Astell&Kern",
+   "model": "SP3000",
+   "desc": "A&ultima SP3000 Silver",
+   "cond": "",
+   "jpy": 274075,
+   "kg": 0.4,
+   "sq": "SP3000",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011537_3302733.jpg?v=1791019230&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011537_3302735.jpg?v=1791019230&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011537_3302738.jpg?v=1791019230&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011537_3302740.jpg?v=1791019230&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/784088",
+   "mkt": 274075,
    "mktN": 1,
    "comps": []
   },
@@ -11208,30 +11159,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/775151",
    "mkt": 146490,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15217543414001",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Austrian Audio",
-   "model": "The Arranger",
-   "desc": "The Arranger",
-   "cond": "",
-   "jpy": 141550,
-   "kg": 0.5,
-   "sq": "The Arranger",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014655_3314894.jpg?v=1791613653&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014655_3314895.jpg?v=1791613653&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014655_3314896.jpg?v=1791613653&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014655_3314897.jpg?v=1791613653&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/787136",
-   "mkt": 141550,
    "mktN": 1,
    "comps": []
   },
@@ -11740,6 +11667,30 @@
    "comps": []
   },
   {
+   "id": "e15222423257329",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "ONIX",
+   "model": "XM5",
+   "desc": "Overture XM5",
+   "cond": "",
+   "jpy": 80275,
+   "kg": 0.4,
+   "sq": "XM5",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015976_3318629.jpg?v=1791792198&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015976_3318630.jpg?v=1791792198&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015976_3318631.jpg?v=1791792198&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015976_3318632.jpg?v=1791792198&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/788433",
+   "mkt": 80275,
+   "mktN": 3,
+   "comps": []
+  },
+  {
    "id": "e15222238183665",
    "cat": "player",
    "src": "eearphone",
@@ -12057,6 +12008,30 @@
    "url": "https://www.e-earphone.jp/products/776193",
    "mkt": 66405,
    "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15221092778225",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "NW-ZX707",
+   "desc": "NW-ZX707 C",
+   "cond": "",
+   "jpy": 64600,
+   "kg": 0.4,
+   "sq": "NW-ZX707",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015221_3320039.jpg?v=1791871457&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015221_3320040.jpg?v=1791871457&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015221_3320041.jpg?v=1791871457&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015221_3320042.jpg?v=1791871457&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/787683",
+   "mkt": 64600,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -12780,30 +12755,6 @@
    "comps": []
   },
   {
-   "id": "e15212399689969",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bowers & Wilkins",
-   "model": "Px8/B",
-   "desc": "Px8/B ブラック",
-   "cond": "",
-   "jpy": 38855,
-   "kg": 0.5,
-   "sq": "Px8/B",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013342_3316469.jpg?v=1791693687&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013342_3316470.jpg?v=1791693687&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013342_3316471.jpg?v=1791693687&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013342_3316472.jpg?v=1791693687&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/785867",
-   "mkt": 38855,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e15215353102577",
    "cat": "earphones",
    "src": "eearphone",
@@ -12968,6 +12919,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/775305",
    "mkt": 34675,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15201735475441",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "SHANLING",
+   "model": "EC Zero",
+   "desc": "EC Zero",
+   "cond": "",
+   "jpy": 34580,
+   "kg": 0.4,
+   "sq": "EC Zero",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011899_3302719.jpg?v=1791019031&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011899_3302720.jpg?v=1791019031&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011899_3302721.jpg?v=1791019031&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011899_3302722.jpg?v=1791019031&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/784448",
+   "mkt": 34580,
    "mktN": 1,
    "comps": []
   },
@@ -14450,6 +14425,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/784779",
    "mkt": 20520,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15204728111345",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "FIIO",
+   "model": "JM21",
+   "desc": "JM21 Blue",
+   "cond": "",
+   "jpy": 20425,
+   "kg": 0.4,
+   "sq": "JM21",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013271_3319187.jpg?v=1791799038&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013271_3319188.jpg?v=1791799038&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013271_3319189.jpg?v=1791799038&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013271_3319190.jpg?v=1791799038&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/785796",
+   "mkt": 20425,
    "mktN": 1,
    "comps": []
   },
