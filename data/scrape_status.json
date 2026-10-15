@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T07:49:10+00:00",
+ "generatedAt": "2026-10-15T13:47:31+00:00",
  "ok": true,
  "live_items": 650,
  "sites": {
@@ -22,7 +22,7 @@
  "photos": {
   "listings_with_photo": 650,
   "listings_without_photo": 0,
-  "from_product_pages": 0,
+  "from_product_pages": 15,
   "examples_without_photo": []
  },
  "refused_by": {
@@ -899,7 +899,7 @@
    "site": "komehyo",
    "cat": "camera",
    "url": "https://komehyo.jp/camera/?q=%E3%83%AA%E3%82%B3%E3%83%BC",
-   "found": 4,
+   "found": 5,
    "note": ""
   },
   {
