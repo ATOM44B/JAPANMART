@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-18T01:53:40+00:00",
+ "generatedAt": "2026-10-18T07:31:27+00:00",
  "ok": true,
  "live_items": 650,
  "sites": {
@@ -10,8 +10,8 @@
   },
   "komehyo": {
    "items": 350,
-   "ok": 27,
-   "failed": 0
+   "ok": 26,
+   "failed": 1
   },
   "eearphone": {
    "items": 300,
@@ -22,7 +22,7 @@
  "photos": {
   "listings_with_photo": 650,
   "listings_without_photo": 0,
-  "from_product_pages": 0,
+  "from_product_pages": 15,
   "examples_without_photo": []
  },
  "refused_by": {
@@ -31,6 +31,12 @@
    "server": "awselb/2.0",
    "content_type": "text/html",
    "reply_starts_with": "<html> <head><title>403 Forbidden</title></head> <body> <center><h1>403 Forbidden</h1></center> </body> </html> <!-- a padding to disable MSIE and Chrome friendly error page --> <!-- a padding "
+  },
+  "komehyo.jp": {
+   "status": 500,
+   "server": "Apache",
+   "content_type": "text/html;charset=UTF-8",
+   "reply_starts_with": "<!doctype html> <html lang=\"ja\"> <head prefix=\"og: http://ogp.me/ns# article: http://ogp.me/ns/article#\"> <meta charset=\"UTF-8\"> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"> <meta name=\""
   }
  },
  "queries": [
@@ -864,8 +870,8 @@
    "site": "komehyo",
    "cat": "camera",
    "url": "https://komehyo.jp/camera/?q=%E3%83%A9%E3%82%A4%E3%82%AB",
-   "found": 50,
-   "note": ""
+   "found": 0,
+   "note": "HTTP 500"
   },
   {
    "site": "komehyo",
