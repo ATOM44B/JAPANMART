@@ -1,9 +1,9 @@
 {
  "source": "live",
- "generated": "2026-10-17",
- "generatedAt": "2026-10-17T22:46:20+00:00",
- "fx": 0.21161,
- "fxDate": "2026-10-17",
+ "generated": "2026-10-18",
+ "generatedAt": "2026-10-18T01:53:40+00:00",
+ "fx": 0.2116,
+ "fxDate": "2026-10-18",
  "counts": {
   "live": 650,
   "seed": 0
@@ -7477,56 +7477,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/786998",
-   "mkt": 13500,
-   "mktN": 9,
-   "comps": []
-  },
-  {
-   "id": "e15197575741681",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "INZONE H9",
-   "desc": "INZONE H9",
-   "cond": "",
-   "jpy": 11500,
-   "kg": 0.5,
-   "sq": "INZONE H9",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010443_3319569.jpg?v=1791861736&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010443_3319570.jpg?v=1791861736&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010443_3319571.jpg?v=1791861736&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010443_3319572.jpg?v=1791861736&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/783024",
-   "mkt": 19900,
-   "mktN": 6,
-   "comps": []
-  },
-  {
-   "id": "e15215363064049",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "INZONE H9",
-   "desc": "INZONE H9",
-   "cond": "",
-   "jpy": 12800,
-   "kg": 0.5,
-   "sq": "INZONE H9",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014498_3317399.jpg?v=1791769462&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014498_3317400.jpg?v=1791769462&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014498_3317401.jpg?v=1791769462&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014498_3317402.jpg?v=1791769462&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/786980",
-   "mkt": 19900,
-   "mktN": 6,
+   "mkt": 13300,
+   "mktN": 8,
    "comps": []
   },
   {
@@ -7573,8 +7525,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/783034",
-   "mkt": 13500,
-   "mktN": 9,
+   "mkt": 13300,
+   "mktN": 8,
    "comps": []
   },
   {
@@ -7602,28 +7554,36 @@
    "comps": []
   },
   {
-   "id": "e15226211369201",
+   "id": "e15213076807921",
    "cat": "earphones",
    "src": "eearphone",
    "brand": "SONY",
-   "model": "INZONE H9",
-   "desc": "INZONE H9",
+   "model": "WH-1000XM4",
+   "desc": "WH-1000XM4 BM ブラック",
    "cond": "",
    "jpy": 14900,
    "kg": 0.5,
-   "sq": "INZONE H9",
-   "store": "名古屋",
+   "sq": "WH-1000XM4",
+   "store": "秋葉原",
    "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016258_3320517.jpg?v=1791882559&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016258_3320518.jpg?v=1791882559&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016258_3320519.jpg?v=1791882559&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016258_3320520.jpg?v=1791882559&width=700"
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013563_3325069.jpg?v=1792120910&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013563_3325070.jpg?v=1792120910&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013563_3325071.jpg?v=1792120910&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013563_3325072.jpg?v=1792120910&width=700"
    ],
    "snap": false,
-   "url": "https://www.e-earphone.jp/products/788716",
-   "mkt": 19900,
-   "mktN": 6,
-   "comps": []
+   "url": "https://www.e-earphone.jp/products/786057",
+   "mkt": 20000,
+   "mktN": 3,
+   "comps": [
+    {
+     "s": "Overclockzone forum",
+     "st": "Listed",
+     "thb": 6000,
+     "url": "https://forum.overclockzone.com/forums/forum/marketplace/audio-video-market/headphone-%E0%B8%AB%E0%B8%B9%E0%B8%9F%E0%B8%B1%E0%B8%87/18169670-sony-wh-1000xm4-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%AD%E0%B8%87-6000-%E0%B8%9A%E0%B8%B2%E0%B8%97",
+     "note": "Older post, used, warranty to Mar 2024"
+    }
+   ]
   },
   {
    "id": "e15221004959985",
@@ -7671,6 +7631,30 @@
    "url": "https://www.e-earphone.jp/products/783405",
    "mkt": 13800,
    "mktN": 3,
+   "comps": []
+  },
+  {
+   "id": "e15197575741681",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "INZONE H9",
+   "desc": "INZONE H9",
+   "cond": "",
+   "jpy": 11500,
+   "kg": 0.5,
+   "sq": "INZONE H9",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010443_3319569.jpg?v=1791861736&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010443_3319570.jpg?v=1791861736&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010443_3319571.jpg?v=1791861736&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010443_3319572.jpg?v=1791861736&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/783024",
+   "mkt": 14900,
+   "mktN": 5,
    "comps": []
   },
   {
@@ -7981,8 +7965,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/785522",
-   "mkt": 13500,
-   "mktN": 9,
+   "mkt": 13300,
+   "mktN": 8,
    "comps": []
   },
   {
@@ -8010,38 +7994,6 @@
    "comps": []
   },
   {
-   "id": "e15213076807921",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "WH-1000XM4",
-   "desc": "WH-1000XM4 BM ブラック",
-   "cond": "",
-   "jpy": 14900,
-   "kg": 0.5,
-   "sq": "WH-1000XM4",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013563_3325069.jpg?v=1792120910&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013563_3325070.jpg?v=1792120910&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013563_3325071.jpg?v=1792120910&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013563_3325072.jpg?v=1792120910&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/786057",
-   "mkt": 17450,
-   "mktN": 2,
-   "comps": [
-    {
-     "s": "Overclockzone forum",
-     "st": "Listed",
-     "thb": 6000,
-     "url": "https://forum.overclockzone.com/forums/forum/marketplace/audio-video-market/headphone-%E0%B8%AB%E0%B8%B9%E0%B8%9F%E0%B8%B1%E0%B8%87/18169670-sony-wh-1000xm4-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%AD%E0%B8%87-6000-%E0%B8%9A%E0%B8%B2%E0%B8%97",
-     "note": "Older post, used, warranty to Mar 2024"
-    }
-   ]
-  },
-  {
    "id": "e15197423403249",
    "cat": "earphones",
    "src": "eearphone",
@@ -8061,6 +8013,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/782835",
    "mkt": 4890,
+   "mktN": 5,
+   "comps": []
+  },
+  {
+   "id": "e15215363064049",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "INZONE H9",
+   "desc": "INZONE H9",
+   "cond": "",
+   "jpy": 12800,
+   "kg": 0.5,
+   "sq": "INZONE H9",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014498_3317399.jpg?v=1791769462&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014498_3317400.jpg?v=1791769462&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014498_3317401.jpg?v=1791769462&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014498_3317402.jpg?v=1791769462&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/786980",
+   "mkt": 14900,
    "mktN": 5,
    "comps": []
   },
@@ -8256,6 +8232,30 @@
    "comps": []
   },
   {
+   "id": "e15215240872177",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "MDR-MV1",
+   "desc": "MDR-MV1",
+   "cond": "",
+   "jpy": 34000,
+   "kg": 0.5,
+   "sq": "MDR-MV1",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014293_3313374.jpg?v=1791531680&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014293_3313375.jpg?v=1791531680&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014293_3313376.jpg?v=1791531680&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014293_3313377.jpg?v=1791531680&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/786776",
+   "mkt": 37700,
+   "mktN": 4,
+   "comps": []
+  },
+  {
    "id": "e15197432709361",
    "cat": "earphones",
    "src": "eearphone",
@@ -8276,30 +8276,6 @@
    "url": "https://www.e-earphone.jp/products/782867",
    "mkt": 4460,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e15222422995185",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MQD83J/A",
-   "desc": "AirPods Pro (第2世代) MQD83J/A",
-   "cond": "",
-   "jpy": 12200,
-   "kg": 0.5,
-   "sq": "MQD83J/A",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015971_3321545.jpg?v=1791953086&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015971_3321546.jpg?v=1791953086&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015971_3321547.jpg?v=1791953086&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015971_3321548.jpg?v=1791953086&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/788428",
-   "mkt": 13500,
-   "mktN": 9,
    "comps": []
   },
   {
@@ -8423,6 +8399,30 @@
    "comps": []
   },
   {
+   "id": "e15222422995185",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MQD83J/A",
+   "desc": "AirPods Pro (第2世代) MQD83J/A",
+   "cond": "",
+   "jpy": 12200,
+   "kg": 0.5,
+   "sq": "MQD83J/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015971_3321545.jpg?v=1791953086&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015971_3321546.jpg?v=1791953086&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015971_3321547.jpg?v=1791953086&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015971_3321548.jpg?v=1791953086&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/788428",
+   "mkt": 13300,
+   "mktN": 8,
+   "comps": []
+  },
+  {
    "id": "e9812531708145",
    "cat": "earphones",
    "src": "eearphone",
@@ -8444,30 +8444,6 @@
    "url": "https://www.e-earphone.jp/products/777279",
    "mkt": 71900,
    "mktN": 3,
-   "comps": []
-  },
-  {
-   "id": "e15215240872177",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "MDR-MV1",
-   "desc": "MDR-MV1",
-   "cond": "",
-   "jpy": 34000,
-   "kg": 0.5,
-   "sq": "MDR-MV1",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014293_3313374.jpg?v=1791531680&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014293_3313375.jpg?v=1791531680&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014293_3313376.jpg?v=1791531680&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014293_3313377.jpg?v=1791531680&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/786776",
-   "mkt": 36900,
-   "mktN": 5,
    "comps": []
   },
   {
@@ -8756,30 +8732,6 @@
    "comps": []
   },
   {
-   "id": "e15203847799025",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "MDR-MV1",
-   "desc": "MDR-MV1",
-   "cond": "",
-   "jpy": 34800,
-   "kg": 0.5,
-   "sq": "MDR-MV1",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012292_3312332.jpg?v=1791512445&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012292_3312333.jpg?v=1791512445&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012292_3312334.jpg?v=1791512445&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012292_3312335.jpg?v=1791512445&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/784823",
-   "mkt": 36900,
-   "mktN": 5,
-   "comps": []
-  },
-  {
    "id": "e10306485158129",
    "cat": "earphones",
    "src": "eearphone",
@@ -8871,8 +8823,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/781665",
-   "mkt": 19450,
-   "mktN": 4,
+   "mkt": 19400,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -8968,6 +8920,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/787156",
    "mkt": 19850,
+   "mktN": 4,
+   "comps": []
+  },
+  {
+   "id": "e15213646708977",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MKFW4J/A",
+   "desc": "AirPods 5 MKFW4J/A",
+   "cond": "",
+   "jpy": 19900,
+   "kg": 0.5,
+   "sq": "MKFW4J/A",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324575.jpg?v=1792058652&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324576.jpg?v=1792058652&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324577.jpg?v=1792058652&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324578.jpg?v=1792058652&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/786375",
+   "mkt": 20900,
    "mktN": 4,
    "comps": []
   },
@@ -9290,30 +9266,6 @@
    "comps": []
   },
   {
-   "id": "e15215366766833",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "AFUL",
-   "model": "Performer 5+2",
-   "desc": "Performer 5+2 (Performer7)",
-   "cond": "",
-   "jpy": 23600,
-   "kg": 0.5,
-   "sq": "Performer 5+2",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014506_3322397.jpg?v=1791967992&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014506_3322398.jpg?v=1791967992&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014506_3322399.jpg?v=1791967992&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014506_3322400.jpg?v=1791967992&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/786988",
-   "mkt": 24400,
-   "mktN": 3,
-   "comps": []
-  },
-  {
    "id": "e15222426140913",
    "cat": "player",
    "src": "eearphone",
@@ -9434,6 +9386,30 @@
    "comps": []
   },
   {
+   "id": "e15215360016625",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "FIIO",
+   "model": "JT1",
+   "desc": "JT1 Black",
+   "cond": "",
+   "jpy": 8490,
+   "kg": 0.5,
+   "sq": "JT1",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014463_3313087.jpg?v=1791526833&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014463_3313088.jpg?v=1791526833&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014463_3313089.jpg?v=1791526833&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014463_3313090.jpg?v=1791526833&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/786945",
+   "mkt": 8720,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "e10301947314417",
    "cat": "earphones",
    "src": "eearphone",
@@ -9478,30 +9454,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/766375",
    "mkt": 9650,
-   "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e15213646708977",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MKFW4J/A",
-   "desc": "AirPods 5 MKFW4J/A",
-   "cond": "",
-   "jpy": 19900,
-   "kg": 0.5,
-   "sq": "MKFW4J/A",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324575.jpg?v=1792058652&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324576.jpg?v=1792058652&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324577.jpg?v=1792058652&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324578.jpg?v=1792058652&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/786375",
-   "mkt": 20400,
    "mktN": 2,
    "comps": []
   },
@@ -9554,6 +9506,30 @@
    "comps": []
   },
   {
+   "id": "e15215366766833",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "AFUL",
+   "model": "Performer 5+2",
+   "desc": "Performer 5+2 (Performer7)",
+   "cond": "",
+   "jpy": 23600,
+   "kg": 0.5,
+   "sq": "Performer 5+2",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014506_3322397.jpg?v=1791967992&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014506_3322398.jpg?v=1791967992&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014506_3322399.jpg?v=1791967992&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014506_3322400.jpg?v=1791967992&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/786988",
+   "mkt": 24150,
+   "mktN": 4,
+   "comps": []
+  },
+  {
    "id": "e15212398575857",
    "cat": "player",
    "src": "eearphone",
@@ -9575,6 +9551,30 @@
    "url": "https://www.e-earphone.jp/products/785852",
    "mkt": 68400,
    "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e15214062174449",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "MDR-MV1",
+   "desc": "MDR-MV1",
+   "cond": "",
+   "jpy": 36900,
+   "kg": 0.5,
+   "sq": "MDR-MV1",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014099_3314251.jpg?v=1791600219&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014099_3314253.jpg?v=1791600220&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014099_3314255.jpg?v=1791600220&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014099_3314256.jpg?v=1791600220&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/786594",
+   "mkt": 37700,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -9914,6 +9914,30 @@
    "comps": []
   },
   {
+   "id": "e15229283401969",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Technics",
+   "model": "EAH-AZ40M2-K",
+   "desc": "EAH-AZ40M2-K ブラック",
+   "cond": "",
+   "jpy": 7400,
+   "kg": 0.5,
+   "sq": "EAH-AZ40M2-K",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016779_3322089.jpg?v=1791964120&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016779_3322090.jpg?v=1791964120&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016779_3322091.jpg?v=1791964120&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016779_3322092.jpg?v=1791964120&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/789225",
+   "mkt": 7500,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "e15217320231153",
    "cat": "player",
    "src": "eearphone",
@@ -10034,30 +10058,6 @@
    "comps": []
   },
   {
-   "id": "e10306549580017",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SENNHEISER",
-   "model": "MOMENTUM True Wireless",
-   "desc": "MOMENTUM True Wireless 4 ブラックグラファイト",
-   "cond": "",
-   "jpy": 16900,
-   "kg": 0.5,
-   "sq": "MOMENTUM True Wireless",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009481_3293444.jpg?v=1790579596&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009481_3293445.jpg?v=1790579596&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009481_3293446.jpg?v=1790579596&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009481_3293447.jpg?v=1790579596&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/782069",
-   "mkt": 17100,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e15215295267057",
    "cat": "earphones",
    "src": "eearphone",
@@ -10079,6 +10079,30 @@
    "url": "https://www.e-earphone.jp/products/786842",
    "mkt": 6890,
    "mktN": 5,
+   "comps": []
+  },
+  {
+   "id": "e15217579720945",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "AFUL",
+   "model": "Performer 5+2",
+   "desc": "Performer 5+2 (Performer7)",
+   "cond": "",
+   "jpy": 23900,
+   "kg": 0.5,
+   "sq": "Performer 5+2",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014683_3319405.jpg?v=1791859280&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014683_3319407.jpg?v=1791859280&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014683_3319409.jpg?v=1791859280&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014683_3319411.jpg?v=1791859281&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/787160",
+   "mkt": 24150,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -10584,30 +10608,6 @@
    "comps": []
   },
   {
-   "id": "e15229284745457",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bose",
-   "model": "Ultra Open Earbuds",
-   "desc": "Ultra Open Earbuds Black",
-   "cond": "",
-   "jpy": 19400,
-   "kg": 0.5,
-   "sq": "Ultra Open Earbuds",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016794_3322369.jpg?v=1791967645&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016794_3322370.jpg?v=1791967645&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016794_3322371.jpg?v=1791967645&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016794_3322372.jpg?v=1791967645&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/789240",
-   "mkt": 19450,
-   "mktN": 4,
-   "comps": []
-  },
-  {
    "id": "e15225834799345",
    "cat": "player",
    "src": "eearphone",
@@ -10797,30 +10797,6 @@
    "comps": []
   },
   {
-   "id": "e15198435115249",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "楽彼(LUXURY&PRECISION)",
-   "model": "LP5",
-   "desc": "LP5 10th Anniversary",
-   "cond": "",
-   "jpy": 385800,
-   "kg": 0.4,
-   "sq": "LP5",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010814_3313251.jpg?v=1791529725&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010814_3313252.jpg?v=1791529725&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010814_3313253.jpg?v=1791529725&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010814_3313254.jpg?v=1791529725&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/783389",
-   "mkt": 385800,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e15226416201969",
    "cat": "player",
    "src": "eearphone",
@@ -10865,6 +10841,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/788907",
    "mkt": 270300,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15204016554225",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "Astell&Kern",
+   "model": "SP3000M",
+   "desc": "A&ultima SP3000M",
+   "cond": "",
+   "jpy": 245800,
+   "kg": 0.4,
+   "sq": "SP3000M",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012755_3303626.jpg?v=1791088223&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012755_3303627.jpg?v=1791088223&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012755_3303628.jpg?v=1791088223&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012755_3303629.jpg?v=1791088223&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/785282",
+   "mkt": 245800,
    "mktN": 1,
    "comps": []
   },
@@ -11901,6 +11901,30 @@
    "comps": []
   },
   {
+   "id": "e15214077378801",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "水月雨 (MOONDROP)",
+   "model": "啓明星-VENUS",
+   "desc": "啓明星-VENUS",
+   "cond": "",
+   "jpy": 70900,
+   "kg": 0.5,
+   "sq": "啓明星-VENUS",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014120_3322323.jpg?v=1791967355&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014120_3322324.jpg?v=1791967355&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014120_3322325.jpg?v=1791967355&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014120_3322326.jpg?v=1791967355&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/786615",
+   "mkt": 70900,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e15215229763825",
    "cat": "earphones",
    "src": "eearphone",
@@ -12645,6 +12669,30 @@
    "comps": []
   },
   {
+   "id": "e15196848161009",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "HiByMusic",
+   "model": "R6 III Gray",
+   "desc": "R6 III Gray",
+   "cond": "",
+   "jpy": 38700,
+   "kg": 0.4,
+   "sq": "R6 III Gray",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010023_3305135.jpg?v=1791165085&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010023_3305136.jpg?v=1791165085&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010023_3305137.jpg?v=1791165085&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010023_3305138.jpg?v=1791165085&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/782604",
+   "mkt": 38700,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e15217626054897",
    "cat": "earphones",
    "src": "eearphone",
@@ -12693,30 +12741,6 @@
    "comps": []
   },
   {
-   "id": "e15214062174449",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "MDR-MV1",
-   "desc": "MDR-MV1",
-   "cond": "",
-   "jpy": 36900,
-   "kg": 0.5,
-   "sq": "MDR-MV1",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014099_3314251.jpg?v=1791600219&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014099_3314253.jpg?v=1791600220&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014099_3314255.jpg?v=1791600220&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014099_3314256.jpg?v=1791600220&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/786594",
-   "mkt": 36900,
-   "mktN": 5,
-   "comps": []
-  },
-  {
    "id": "e15217558388977",
    "cat": "earphones",
    "src": "eearphone",
@@ -12737,30 +12761,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/787143",
    "mkt": 35900,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15199623676145",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MWW83ZA/A",
-   "desc": "AirPods Max(USB-C) MWW83ZA/A パープル",
-   "cond": "",
-   "jpy": 35000,
-   "kg": 0.5,
-   "sq": "MWW83ZA/A",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011140_3303284.jpg?v=1791081509&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011140_3303285.jpg?v=1791081509&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011140_3303286.jpg?v=1791081509&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011140_3303287.jpg?v=1791081509&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/783700",
-   "mkt": 35000,
    "mktN": 1,
    "comps": []
   },
@@ -12909,6 +12909,30 @@
    "comps": []
   },
   {
+   "id": "e15231458803953",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "JBL",
+   "model": "Tour One M3",
+   "desc": "Tour One M3 Smart Tx",
+   "cond": "",
+   "jpy": 32900,
+   "kg": 0.5,
+   "sq": "Tour One M3",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017001_3324882.jpg?v=1792118695&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017001_3324883.jpg?v=1792118695&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017001_3324884.jpg?v=1792118695&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017001_3324885.jpg?v=1792118695&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/789441",
+   "mkt": 32900,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e9819322843377",
    "cat": "speakers",
    "src": "eearphone",
@@ -12926,30 +12950,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/778751",
    "mkt": 32500,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15222349857009",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Melody Wings",
-   "model": "Neptune",
-   "desc": "Neptune",
-   "cond": "",
-   "jpy": 32200,
-   "kg": 0.5,
-   "sq": "Neptune",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015860_3320678.jpg?v=1791884722&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015860_3320679.jpg?v=1791884722&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015860_3320680.jpg?v=1791884722&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015860_3320681.jpg?v=1791884722&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/788318",
-   "mkt": 32200,
    "mktN": 1,
    "comps": []
   },
@@ -13962,30 +13962,6 @@
    "comps": []
   },
   {
-   "id": "e15228067578097",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "AFUL",
-   "model": "Performer 5+2",
-   "desc": "Performer 5+2 (Performer7)",
-   "cond": "",
-   "jpy": 24400,
-   "kg": 0.5,
-   "sq": "Performer 5+2",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016505_3320849.jpg?v=1791943231&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016505_3320850.jpg?v=1791943231&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016505_3320851.jpg?v=1791943231&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016505_3320852.jpg?v=1791943231&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/788963",
-   "mkt": 24400,
-   "mktN": 3,
-   "comps": []
-  },
-  {
    "id": "e15215340159217",
    "cat": "earphones",
    "src": "eearphone",
@@ -14559,27 +14535,45 @@
    "comps": []
   },
   {
-   "id": "e15219090325745",
+   "id": "e15236641325297",
    "cat": "earphones",
    "src": "eearphone",
-   "brand": "final",
-   "model": "UX5000",
-   "desc": "UX5000",
+   "brand": "Apple",
+   "model": "MKFW4J/A",
+   "desc": "AirPods 5 MKFW4J/A",
    "cond": "",
    "jpy": 20900,
    "kg": 0.5,
-   "sq": "UX5000",
-   "store": "秋葉原",
+   "sq": "MKFW4J/A",
+   "store": "名古屋",
    "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015038_3325502.jpg?v=1792126094&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015038_3325503.jpg?v=1792126094&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015038_3325504.jpg?v=1792126094&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015038_3325505.jpg?v=1792126094&width=700"
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017442_3325675.jpg?v=1792128607&width=700"
    ],
    "snap": false,
-   "url": "https://www.e-earphone.jp/products/787501",
+   "url": "https://www.e-earphone.jp/products/789870",
    "mkt": 20900,
-   "mktN": 2,
+   "mktN": 4,
+   "comps": []
+  },
+  {
+   "id": "e15236641292529",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MKFW4J/A",
+   "desc": "AirPods 5 MKFW4J/A",
+   "cond": "",
+   "jpy": 20900,
+   "kg": 0.5,
+   "sq": "MKFW4J/A",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017441_3325590.jpg?v=1792127024&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/789869",
+   "mkt": 20900,
+   "mktN": 4,
    "comps": []
   }
  ]
