@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-10-19",
- "generatedAt": "2026-10-19T15:59:48+00:00",
+ "generatedAt": "2026-10-19T21:49:52+00:00",
  "fx": 0.21164,
  "fxDate": "2026-10-19",
  "counts": {
@@ -463,7 +463,6 @@
    "sq": "ＥＦ－Ｍ１１－２２ｍｍ Ｆ４－５．６ＩＳ ＳＴＭ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/0cd/2600075327446_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/3c5/2600075327446s.jpg"
    ],
    "snap": false,
@@ -485,7 +484,6 @@
    "sq": "新入荷 ＮＩＫＯＮ ＡＦ－Ｓ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/9c9/2600075326654_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/a15/2600075326654s.jpg"
    ],
    "snap": false,
@@ -694,7 +692,7 @@
    "jpy": 88000,
    "kg": 0.1,
    "sq": "リング",
-   "store": "梅田店",
+   "store": "京都新京極店",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/391/2300007641137_1_b.jpg"
    ],
@@ -759,7 +757,6 @@
    "sq": "新入荷 ＣＸ３",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/854/2600077912930_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/d5d/2600077912930s.jpg"
    ],
    "snap": false,
@@ -949,7 +946,6 @@
    "sq": "新入荷 ＸＣ１５－４５ｍｍ Ｆ３．５－５．６",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/e2a/2700044267114_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/5e8/2700044267114s.jpg"
    ],
    "snap": false,
@@ -1097,7 +1093,6 @@
    "sq": "新入荷 ＥＯＳ ＫＩＳＳ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/c00/2600079135023_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/fe9/2600079135023s.jpg"
    ],
    "snap": false,
@@ -1392,7 +1387,6 @@
    "sq": "新入荷 ＮＩＫＯＮ１ Ｊ５",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/6aa/2600073148562_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/b6e/2600073148562s.jpg"
    ],
    "snap": false,
@@ -1414,7 +1408,6 @@
    "sq": "新入荷 １２－２８ｍｍ Ｆ４ＰＲＯ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/f29/2700044239050_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/fdd/2700044239050s.jpg"
    ],
    "snap": false,
@@ -2610,7 +2603,7 @@
    "jpy": 170000,
    "kg": 0.1,
    "sq": "リング",
-   "store": "梅田店",
+   "store": "京都新京極店",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/b49/2700042420481_1_b.jpg"
    ],
@@ -2759,7 +2752,6 @@
    "sq": "ＸＦ２３ｍｍ Ｆ１．４Ｒ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/a40/2600075324858_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/9aa/2600075324858s.jpg"
    ],
    "snap": false,
@@ -3013,7 +3005,6 @@
    "sq": "値下げ 5％引き Ｅ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/765/2600075323042_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/a2e/2600075323042s.jpg"
    ],
    "snap": false,
@@ -4363,7 +4354,28 @@
    "snap": false,
    "url": "https://komehyo.jp/product/246-000-465-0171/",
    "mkt": 300000,
-   "mktN": 1,
+   "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "k2300008016606",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "ペルレ ミディアム リング",
+   "desc": "ヴァンクリーフ&アーペル ペルレ ミディアム リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 300000,
+   "kg": 0.1,
+   "sq": "ペルレ ミディアム リング",
+   "store": "KOMEHYO GINZA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/c47/2300008016606_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-801-6606/",
+   "mkt": 300000,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -4682,27 +4694,6 @@
    "comps": []
   },
   {
-   "id": "k2300006386503",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "エステル リング",
-   "desc": "ヴァンクリーフ&アーペル エステル リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 260000,
-   "kg": 0.1,
-   "sq": "エステル リング",
-   "store": "【新店】KOMEHYO YOKOHAMA",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/5fb/2300006386503_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-638-6503/",
-   "mkt": 260000,
-   "mktN": 4,
-   "comps": []
-  },
-  {
    "id": "k2300008099814",
    "cat": "ring",
    "src": "komehyo",
@@ -4713,12 +4704,33 @@
    "jpy": 260000,
    "kg": 0.1,
    "sq": "エステル リング",
-   "store": "【新店】KOMEHYO YOKOHAMA",
+   "store": "青山店",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/f43/2300008099814_1_b.jpg"
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-809-9814/",
+   "mkt": 260000,
+   "mktN": 4,
+   "comps": []
+  },
+  {
+   "id": "k2300006386503",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "エステル リング",
+   "desc": "ヴァンクリーフ&アーペル エステル リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 260000,
+   "kg": 0.1,
+   "sq": "エステル リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/5fb/2300006386503_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-638-6503/",
    "mkt": 260000,
    "mktN": 4,
    "comps": []
@@ -4803,27 +4815,6 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-885-6592/",
-   "mkt": 250000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2300007020055",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "タグ・ホイヤー",
-   "model": "CV2013.BA0794",
-   "desc": "【ノーメンテナンス還元価格】タグ･ホイヤー カレラタキメータークロノ CV2013.BA0794 SS 自動巻 TAG Heuer",
-   "cond": "B",
-   "jpy": 250000,
-   "kg": 0.4,
-   "sq": "CV2013.BA0794",
-   "store": "梅田店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/725/2300007020055_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-702-0055/",
    "mkt": 250000,
    "mktN": 1,
    "comps": []
@@ -4951,6 +4942,27 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-319-7580/",
    "mkt": 240000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2300007020055",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "タグ・ホイヤー",
+   "model": "CV2013.BA0794",
+   "desc": "値下げ 5％引き 【ノーメンテナンス還元価格】タグ･ホイヤー カレラタキメータークロノ CV2013.BA0794 SS 自動巻 TAG Heuer",
+   "cond": "B",
+   "jpy": 237500,
+   "kg": 0.4,
+   "sq": "CV2013.BA0794",
+   "store": "梅田店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/725/2300007020055_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-702-0055/",
+   "mkt": 237500,
    "mktN": 1,
    "comps": []
   },
@@ -5165,6 +5177,27 @@
    "comps": []
   },
   {
+   "id": "k2700043770868",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "ペルレ リング",
+   "desc": "ヴァンクリーフ&アーペル ペルレ リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 220000,
+   "kg": 0.1,
+   "sq": "ペルレ リング",
+   "store": "KOMEHYO SHIBUYA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/064/2700043770868_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-377-0868/",
+   "mkt": 220000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2300008666429",
    "cat": "ring",
    "src": "komehyo",
@@ -5182,49 +5215,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-866-6429/",
    "mkt": 220000,
-   "mktN": 3,
-   "comps": []
-  },
-  {
-   "id": "k2300007786333",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "ペルレ スモール リング",
-   "desc": "ヴァンクリーフ&アーペル ペルレ スモール リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 220000,
-   "kg": 0.1,
-   "sq": "ペルレ スモール リング",
-   "store": "心斎橋店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/131/2300007786333_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-778-6333/",
-   "mkt": 220000,
-   "mktN": 3,
-   "comps": []
-  },
-  {
-   "id": "k2300007585134",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "ペルレ スモール リング",
-   "desc": "ヴァンクリーフ&アーペル ペルレ スモール リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 220000,
-   "kg": 0.1,
-   "sq": "ペルレ スモール リング",
-   "store": "名駅店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/e86/2300007585134_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-758-5134/",
-   "mkt": 220000,
-   "mktN": 3,
+   "mktN": 1,
    "comps": []
   },
   {
@@ -5448,7 +5439,7 @@
    "jpy": 190000,
    "kg": 0.1,
    "sq": "ルイ ヴァンドーム リング",
-   "store": "名古屋本館",
+   "store": "ららぽーと愛知東郷店",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/48d/2300007764195_1_b.jpg"
    ],
@@ -9849,30 +9840,6 @@
    "comps": []
   },
   {
-   "id": "e15217443176689",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "NW-WM1AM2",
-   "desc": "NW-WM1AM2",
-   "cond": "",
-   "jpy": 89300,
-   "kg": 0.4,
-   "sq": "NW-WM1AM2",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014632_3322140.jpg?v=1791965006&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014632_3322141.jpg?v=1791965006&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014632_3322142.jpg?v=1791965006&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014632_3322143.jpg?v=1791965006&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/787113",
-   "mkt": 91700,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e9737466020081",
    "cat": "earphones",
    "src": "eearphone",
@@ -11621,6 +11588,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/782035",
    "mkt": 94500,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15217443176689",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "NW-WM1AM2",
+   "desc": "NW-WM1AM2",
+   "cond": "",
+   "jpy": 89300,
+   "kg": 0.4,
+   "sq": "NW-WM1AM2",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014632_3322140.jpg?v=1791965006&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014632_3322141.jpg?v=1791965006&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014632_3322142.jpg?v=1791965006&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014632_3322143.jpg?v=1791965006&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/787113",
+   "mkt": 89300,
    "mktN": 1,
    "comps": []
   },
