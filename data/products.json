@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-10-20",
- "generatedAt": "2026-10-20T18:49:57+00:00",
+ "generatedAt": "2026-10-20T23:32:31+00:00",
  "fx": 0.21192,
  "fxDate": "2026-10-20",
  "counts": {
@@ -27,7 +27,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-397-1487/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -69,7 +69,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-314-6490/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -90,7 +90,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-314-5974/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -111,7 +111,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-267-6345/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -132,7 +132,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-346-3548/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -153,7 +153,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-317-5847/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -174,7 +174,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-314-5387/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -216,7 +216,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-532-9839/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -237,7 +237,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-408-3493/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -278,8 +278,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-811-4128/",
-   "mkt": 310500,
-   "mktN": 12,
+   "mkt": 320000,
+   "mktN": 11,
    "comps": []
   },
   {
@@ -299,8 +299,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-835-8379/",
-   "mkt": 310500,
-   "mktN": 12,
+   "mkt": 320000,
+   "mktN": 11,
    "comps": []
   },
   {
@@ -321,7 +321,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-318-8001/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -342,7 +342,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-314-5127/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -363,7 +363,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-318-7554/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -426,7 +426,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-006-780-3484/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -447,7 +447,28 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-420-3105/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
+   "comps": []
+  },
+  {
+   "id": "k2300002991879",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
+   "cond": "A",
+   "jpy": 130000,
+   "kg": 0.1,
+   "sq": "カメリア リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/748/2300002991879_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-299-1879/",
+   "mkt": 320000,
+   "mktN": 11,
    "comps": []
   },
   {
@@ -472,27 +493,6 @@
    "comps": []
   },
   {
-   "id": "k2300002991879",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 130000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/748/2300002991879_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-299-1879/",
-   "mkt": 310500,
-   "mktN": 12,
-   "comps": []
-  },
-  {
    "id": "k2600075327446",
    "cat": "camera",
    "src": "komehyo",
@@ -510,7 +510,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-532-7446/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -615,7 +615,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-397-1364/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -636,7 +636,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-532-6005/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -724,6 +724,27 @@
    "comps": []
   },
   {
+   "id": "k2300004610600",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
+   "cond": "A",
+   "jpy": 160000,
+   "kg": 0.1,
+   "sq": "カメリア リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/eb6/2300004610600_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-461-0600/",
+   "mkt": 320000,
+   "mktN": 11,
+   "comps": []
+  },
+  {
    "id": "k2300005478056",
    "cat": "bag",
    "src": "komehyo",
@@ -762,28 +783,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-411-0762/",
    "mkt": 53200,
-   "mktN": 90,
-   "comps": []
-  },
-  {
-   "id": "k2300004610600",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 160000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/eb6/2300004610600_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-461-0600/",
-   "mkt": 310500,
-   "mktN": 12,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -804,7 +804,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-408-3202/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -825,7 +825,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-314-6988/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -846,7 +846,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-361-1475/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -867,7 +867,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-355-2693/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -1014,7 +1014,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-318-4850/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -1072,7 +1072,6 @@
    "sq": "値下げ 5％引き ２８－３００ｍｍ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/0f1/2600075325718_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/b05/2600075325718s.jpg"
    ],
    "snap": false,
@@ -1099,7 +1098,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-247-7522/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -1246,7 +1245,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-282-6986/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -1330,7 +1329,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-287-2921/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -1351,7 +1350,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-267-6963/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -1372,29 +1371,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-532-0744/",
    "mkt": 53200,
-   "mktN": 90,
-   "comps": []
-  },
-  {
-   "id": "k2700043286123",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "CANON",
-   "model": "ＥＯＳ６Ｄ",
-   "desc": "ＥＯＳ６Ｄ CANON",
-   "cond": "Ｂ",
-   "jpy": 38000,
-   "kg": 1.2,
-   "sq": "ＥＯＳ６Ｄ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/4d6/2700043286123_b.jpg",
-    "https://img.komehyo.jp/contents/images/goods/d62/2700043286123s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-328-6123/",
-   "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -1415,7 +1392,28 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-420-2979/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
+   "comps": []
+  },
+  {
+   "id": "k2300007543820",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
+   "cond": "A",
+   "jpy": 230000,
+   "kg": 0.1,
+   "sq": "カメリア リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/0fc/2300007543820_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-754-3820/",
+   "mkt": 320000,
+   "mktN": 11,
    "comps": []
   },
   {
@@ -1436,28 +1434,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-298-6215/",
    "mkt": 53200,
-   "mktN": 90,
-   "comps": []
-  },
-  {
-   "id": "k2300007543820",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 230000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/0fc/2300007543820_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-754-3820/",
-   "mkt": 310500,
-   "mktN": 12,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -1562,7 +1539,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-420-3167/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -1583,7 +1560,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-308-7324/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -2234,7 +2211,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/246-000-465-1802/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -2255,7 +2232,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-318-5673/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -2571,7 +2548,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-287-2143/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -2592,7 +2569,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-272-1199/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -2613,7 +2590,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-287-2990/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -2697,7 +2674,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-003-941-2307/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -2755,13 +2732,12 @@
    "sq": "Ｄ－ＬＵＸ３",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/1cf/2700044202924_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/913/2700044202924s.jpg"
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-420-2924/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -2777,13 +2753,12 @@
    "sq": "ＥＦ－Ｘ２０",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/afc/2700042872136_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/d06/2700042872136s.jpg"
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-287-2136/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -2955,27 +2930,6 @@
    "comps": []
   },
   {
-   "id": "k2700041489595",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 301000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "KOMEHYO GINZA",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/aab/2700041489595_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-148-9595/",
-   "mkt": 310500,
-   "mktN": 12,
-   "comps": []
-  },
-  {
    "id": "k2300008675087",
    "cat": "watch",
    "src": "komehyo",
@@ -3077,7 +3031,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-406-1354/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -3098,7 +3052,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-532-7637/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -3119,7 +3073,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-532-4858/",
    "mkt": 53200,
-   "mktN": 90,
+   "mktN": 89,
    "comps": []
   },
   {
@@ -3202,6 +3156,27 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-407-6099/",
+   "mkt": 480000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2700043932860",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "ペルレ シニアチュール リング",
+   "desc": "ヴァンクリーフ&アーペル ペルレ シニアチュール リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 480000,
+   "kg": 0.1,
+   "sq": "ペルレ シニアチュール リング",
+   "store": "KOMEHYO GINZA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/22c/2700043932860_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-393-2860/",
    "mkt": 480000,
    "mktN": 1,
    "comps": []
@@ -4191,6 +4166,69 @@
    "url": "https://komehyo.jp/product/230-000-741-6728/",
    "mkt": 320000,
    "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "k2300008486508",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
+   "cond": "A",
+   "jpy": 320000,
+   "kg": 0.1,
+   "sq": "カメリア リング",
+   "store": "KOMEHYO GINZA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/9a6/2300008486508_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-848-6508/",
+   "mkt": 320000,
+   "mktN": 11,
+   "comps": []
+  },
+  {
+   "id": "k2300006607035",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
+   "cond": "A",
+   "jpy": 320000,
+   "kg": 0.1,
+   "sq": "カメリア リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/e09/2300006607035_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-660-7035/",
+   "mkt": 320000,
+   "mktN": 11,
+   "comps": []
+  },
+  {
+   "id": "k2300007693891",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
+   "cond": "A",
+   "jpy": 320000,
+   "kg": 0.1,
+   "sq": "カメリア リング",
+   "store": "KOMEHYO SHIBUYA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/485/2300007693891_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-769-3891/",
+   "mkt": 320000,
+   "mktN": 11,
    "comps": []
   },
   {
@@ -5219,7 +5257,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-866-6429/",
    "mkt": 220000,
-   "mktN": 3,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -5240,28 +5278,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-778-6333/",
    "mkt": 220000,
-   "mktN": 3,
-   "comps": []
-  },
-  {
-   "id": "k2300007585134",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "ペルレ スモール リング",
-   "desc": "ヴァンクリーフ&アーペル ペルレ スモール リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 220000,
-   "kg": 0.1,
-   "sq": "ペルレ スモール リング",
-   "store": "名駅店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/e86/2300007585134_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-758-5134/",
-   "mkt": 220000,
-   "mktN": 3,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -5569,7 +5586,7 @@
    "jpy": 180000,
    "kg": 0.4,
    "sq": "CAZ101K.BA0842",
-   "store": "梅田店",
+   "store": "心斎橋店",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/76e/2300009264679_1_b.jpg"
    ],
@@ -7341,27 +7358,6 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-346-0714/",
-   "mkt": 100000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2700043899965",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "PRADA",
-   "model": "BN1336",
-   "desc": "プラダ BN1336 バッグ PRADA",
-   "cond": "A",
-   "jpy": 100000,
-   "kg": 1.2,
-   "sq": "BN1336",
-   "store": "【新店】KOMEHYO VINTAGE TOKYO atelier",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/c01/2700043899965_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-389-9965/",
    "mkt": 100000,
    "mktN": 1,
    "comps": []
