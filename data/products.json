@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-10-21",
- "generatedAt": "2026-10-21T19:02:24+00:00",
+ "generatedAt": "2026-10-21T23:48:01+00:00",
  "fx": 0.21254,
  "fxDate": "2026-10-21",
  "counts": {
@@ -127,7 +127,6 @@
    "sq": "５０ｍｍ Ｆ１．４",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/514/2600066002376_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/db5/2600066002376s.jpg"
    ],
    "snap": false,
@@ -197,6 +196,27 @@
    "url": "https://komehyo.jp/product/260-007-314-5387/",
    "mkt": 56525,
    "mktN": 86,
+   "comps": []
+  },
+  {
+   "id": "k2300005478056",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "CELINE",
+   "model": "バッグ",
+   "desc": "【ヴィンテージ】セリーヌ バッグ CELINE",
+   "cond": "B",
+   "jpy": 40000,
+   "kg": 1.2,
+   "sq": "バッグ",
+   "store": "KOMEHYO SHIBUYA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/21a/2300005478056_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-547-8056/",
+   "mkt": 140000,
+   "mktN": 18,
    "comps": []
   },
   {
@@ -300,8 +320,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-811-4128/",
-   "mkt": 320000,
-   "mktN": 11,
+   "mkt": 310500,
+   "mktN": 12,
    "comps": []
   },
   {
@@ -321,8 +341,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-835-8379/",
-   "mkt": 320000,
-   "mktN": 11,
+   "mkt": 310500,
+   "mktN": 12,
    "comps": []
   },
   {
@@ -431,27 +451,6 @@
    "comps": []
   },
   {
-   "id": "k2300005478056",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "CELINE",
-   "model": "バッグ",
-   "desc": "【ヴィンテージ】セリーヌ バッグ CELINE",
-   "cond": "B",
-   "jpy": 40000,
-   "kg": 1.2,
-   "sq": "バッグ",
-   "store": "KOMEHYO SHIBUYA",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/21a/2300005478056_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-547-8056/",
-   "mkt": 105000,
-   "mktN": 16,
-   "comps": []
-  },
-  {
    "id": "k2600075327446",
    "cat": "camera",
    "src": "komehyo",
@@ -470,27 +469,6 @@
    "url": "https://komehyo.jp/product/260-007-532-7446/",
    "mkt": 56525,
    "mktN": 86,
-   "comps": []
-  },
-  {
-   "id": "k2300002991879",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 130000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/748/2300002991879_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-299-1879/",
-   "mkt": 320000,
-   "mktN": 11,
    "comps": []
   },
   {
@@ -515,6 +493,27 @@
    "comps": []
   },
   {
+   "id": "k2300002991879",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
+   "cond": "A",
+   "jpy": 130000,
+   "kg": 0.1,
+   "sq": "カメリア リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/748/2300002991879_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-299-1879/",
+   "mkt": 310500,
+   "mktN": 12,
+   "comps": []
+  },
+  {
    "id": "k2700043971364",
    "cat": "camera",
    "src": "komehyo",
@@ -533,6 +532,27 @@
    "url": "https://komehyo.jp/product/270-004-397-1364/",
    "mkt": 56525,
    "mktN": 86,
+   "comps": []
+  },
+  {
+   "id": "k2700042627118",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "CELINE",
+   "model": "バッグ",
+   "desc": "【ヴィンテージ】セリーヌ バッグ CELINE",
+   "cond": "A",
+   "jpy": 60000,
+   "kg": 1.2,
+   "sq": "バッグ",
+   "store": "KOMEHYO SHIBUYA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/18b/2700042627118_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-262-7118/",
+   "mkt": 140000,
+   "mktN": 18,
    "comps": []
   },
   {
@@ -704,24 +724,109 @@
    "comps": []
   },
   {
-   "id": "k2300004610600",
-   "cat": "ring",
+   "id": "k2600080463467",
+   "cat": "bag",
    "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 160000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "名古屋本館",
+   "brand": "CELINE",
+   "model": "バッグ",
+   "desc": "セリーヌ バッグ CELINE",
+   "cond": "B",
+   "jpy": 70000,
+   "kg": 1.2,
+   "sq": "バッグ",
+   "store": "【新店】KOMEHYO OSAKA SHINSAIBASHI",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/eb6/2300004610600_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/996/2600080463467_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/230-000-461-0600/",
-   "mkt": 320000,
-   "mktN": 11,
+   "url": "https://komehyo.jp/product/260-008-046-3467/",
+   "mkt": 140000,
+   "mktN": 18,
+   "comps": []
+  },
+  {
+   "id": "k2700043820853",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "CELINE",
+   "model": "バッグ",
+   "desc": "セリーヌ バッグ CELINE",
+   "cond": "A",
+   "jpy": 70000,
+   "kg": 1.2,
+   "sq": "バッグ",
+   "store": "KOMEHYO VINTAGE TOKYO",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/c33/2700043820853_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-382-0853/",
+   "mkt": 140000,
+   "mktN": 18,
+   "comps": []
+  },
+  {
+   "id": "k2700042858031",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "CELINE",
+   "model": "バッグ",
+   "desc": "セリーヌ バッグ CELINE",
+   "cond": "A",
+   "jpy": 70000,
+   "kg": 1.2,
+   "sq": "バッグ",
+   "store": "KOMEHYO VINTAGE TOKYO",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/23e/2700042858031_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-285-8031/",
+   "mkt": 140000,
+   "mktN": 18,
+   "comps": []
+  },
+  {
+   "id": "k2700043336835",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "CELINE",
+   "model": "バッグ",
+   "desc": "セリーヌ バッグ CELINE",
+   "cond": "A",
+   "jpy": 70000,
+   "kg": 1.2,
+   "sq": "バッグ",
+   "store": "KOMEHYO VINTAGE TOKYO",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/2c9/2700043336835_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-333-6835/",
+   "mkt": 140000,
+   "mktN": 18,
+   "comps": []
+  },
+  {
+   "id": "k2300005230630",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "CELINE",
+   "model": "バッグ",
+   "desc": "セリーヌ バッグ CELINE",
+   "cond": "A",
+   "jpy": 70000,
+   "kg": 1.2,
+   "sq": "バッグ",
+   "store": "【新店】KOMEHYO VINTAGE TOKYO atelier",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/508/2300005230630_1_b.jpg",
+    "https://img.komehyo.jp/contents/images/goods/508/2300005230630_7_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-523-0630/",
+   "mkt": 140000,
+   "mktN": 18,
    "comps": []
   },
   {
@@ -767,6 +872,27 @@
    "comps": []
   },
   {
+   "id": "k2300004610600",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
+   "cond": "A",
+   "jpy": 160000,
+   "kg": 0.1,
+   "sq": "カメリア リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/eb6/2300004610600_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-461-0600/",
+   "mkt": 310500,
+   "mktN": 12,
+   "comps": []
+  },
+  {
    "id": "k2600070192711",
    "cat": "ring",
    "src": "komehyo",
@@ -788,24 +914,24 @@
    "comps": []
   },
   {
-   "id": "k2700042627118",
+   "id": "k2700042954849",
    "cat": "bag",
    "src": "komehyo",
    "brand": "CELINE",
    "model": "バッグ",
    "desc": "【ヴィンテージ】セリーヌ バッグ CELINE",
    "cond": "A",
-   "jpy": 60000,
+   "jpy": 80000,
    "kg": 1.2,
    "sq": "バッグ",
-   "store": "KOMEHYO SHIBUYA",
+   "store": "KOMEHYO VINTAGE TOKYO",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/18b/2700042627118_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/ce0/2700042954849_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/270-004-262-7118/",
-   "mkt": 105000,
-   "mktN": 16,
+   "url": "https://komehyo.jp/product/270-004-295-4849/",
+   "mkt": 140000,
+   "mktN": 18,
    "comps": []
   },
   {
@@ -1079,112 +1205,6 @@
    "url": "https://komehyo.jp/product/270-004-401-3766/",
    "mkt": 55100,
    "mktN": 53,
-   "comps": []
-  },
-  {
-   "id": "k2600080463467",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "CELINE",
-   "model": "バッグ",
-   "desc": "セリーヌ バッグ CELINE",
-   "cond": "B",
-   "jpy": 70000,
-   "kg": 1.2,
-   "sq": "バッグ",
-   "store": "【新店】KOMEHYO OSAKA SHINSAIBASHI",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/996/2600080463467_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-008-046-3467/",
-   "mkt": 105000,
-   "mktN": 16,
-   "comps": []
-  },
-  {
-   "id": "k2700043820853",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "CELINE",
-   "model": "バッグ",
-   "desc": "セリーヌ バッグ CELINE",
-   "cond": "A",
-   "jpy": 70000,
-   "kg": 1.2,
-   "sq": "バッグ",
-   "store": "KOMEHYO VINTAGE TOKYO",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/c33/2700043820853_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-382-0853/",
-   "mkt": 105000,
-   "mktN": 16,
-   "comps": []
-  },
-  {
-   "id": "k2700042858031",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "CELINE",
-   "model": "バッグ",
-   "desc": "セリーヌ バッグ CELINE",
-   "cond": "A",
-   "jpy": 70000,
-   "kg": 1.2,
-   "sq": "バッグ",
-   "store": "KOMEHYO VINTAGE TOKYO",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/23e/2700042858031_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-285-8031/",
-   "mkt": 105000,
-   "mktN": 16,
-   "comps": []
-  },
-  {
-   "id": "k2700043336835",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "CELINE",
-   "model": "バッグ",
-   "desc": "セリーヌ バッグ CELINE",
-   "cond": "A",
-   "jpy": 70000,
-   "kg": 1.2,
-   "sq": "バッグ",
-   "store": "KOMEHYO VINTAGE TOKYO",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/2c9/2700043336835_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-333-6835/",
-   "mkt": 105000,
-   "mktN": 16,
-   "comps": []
-  },
-  {
-   "id": "k2300005230630",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "CELINE",
-   "model": "バッグ",
-   "desc": "セリーヌ バッグ CELINE",
-   "cond": "A",
-   "jpy": 70000,
-   "kg": 1.2,
-   "sq": "バッグ",
-   "store": "【新店】KOMEHYO VINTAGE TOKYO atelier",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/508/2300005230630_1_b.jpg",
-    "https://img.komehyo.jp/contents/images/goods/508/2300005230630_7_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-523-0630/",
-   "mkt": 105000,
-   "mktN": 16,
    "comps": []
   },
   {
@@ -1524,27 +1544,6 @@
    "comps": []
   },
   {
-   "id": "k2300007543820",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 230000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/0fc/2300007543820_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-754-3820/",
-   "mkt": 320000,
-   "mktN": 11,
-   "comps": []
-  },
-  {
    "id": "k2300008900585",
    "cat": "ring",
    "src": "komehyo",
@@ -1563,6 +1562,27 @@
    "url": "https://komehyo.jp/product/230-000-890-0585/",
    "mkt": 150000,
    "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "k2300007543820",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
+   "cond": "A",
+   "jpy": 230000,
+   "kg": 0.1,
+   "sq": "カメリア リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/0fc/2300007543820_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-754-3820/",
+   "mkt": 310500,
+   "mktN": 12,
    "comps": []
   },
   {
@@ -1689,27 +1709,6 @@
    "url": "https://komehyo.jp/product/260-006-874-1082/",
    "mkt": 210000,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "k2700042954849",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "CELINE",
-   "model": "バッグ",
-   "desc": "【ヴィンテージ】セリーヌ バッグ CELINE",
-   "cond": "A",
-   "jpy": 80000,
-   "kg": 1.2,
-   "sq": "バッグ",
-   "store": "KOMEHYO VINTAGE TOKYO",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/ce0/2700042954849_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-295-4849/",
-   "mkt": 105000,
-   "mktN": 16,
    "comps": []
   },
   {
@@ -2607,7 +2606,6 @@
    "sq": "値下げ ２８ｍｍ Ｆ２．８",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/8e5/2600075321826_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/659/2600075321826s.jpg"
    ],
    "snap": false,
@@ -2782,6 +2780,27 @@
    "url": "https://komehyo.jp/product/246-000-448-8309/",
    "mkt": 327750,
    "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "k2300005146818",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "CELINE",
+   "model": "バッグ",
+   "desc": "【ヴィンテージ】セリーヌ バッグ CELINE",
+   "cond": "A",
+   "jpy": 130000,
+   "kg": 1.2,
+   "sq": "バッグ",
+   "store": "KOMEHYO SHIBUYA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/b73/2300005146818_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-514-6818/",
+   "mkt": 140000,
+   "mktN": 18,
    "comps": []
   },
   {
@@ -3016,24 +3035,24 @@
    "comps": []
   },
   {
-   "id": "k2300007537096",
+   "id": "k2700041489595",
    "cat": "ring",
    "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "ペルレ ミディアム リング",
-   "desc": "ヴァンクリーフ&アーペル ペルレ ミディアム リング Van Cleef & Arpels",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
    "cond": "A",
-   "jpy": 290000,
+   "jpy": 301000,
    "kg": 0.1,
-   "sq": "ペルレ ミディアム リング",
-   "store": "KOMEHYO SHIBUYA",
+   "sq": "カメリア リング",
+   "store": "KOMEHYO GINZA",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/6d0/2300007537096_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/aab/2700041489595_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/230-000-753-7096/",
-   "mkt": 300000,
-   "mktN": 3,
+   "url": "https://komehyo.jp/product/270-004-148-9595/",
+   "mkt": 310500,
+   "mktN": 12,
    "comps": []
   },
   {
@@ -3236,7 +3255,7 @@
    "jpy": 470000,
    "kg": 0.4,
    "sq": "3210.50",
-   "store": "梅田店",
+   "store": "心斎橋店",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/adf/2300008437265_1_b.jpg"
    ],
@@ -4255,69 +4274,6 @@
    "comps": []
   },
   {
-   "id": "k2300008486508",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 320000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "KOMEHYO GINZA",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/9a6/2300008486508_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-848-6508/",
-   "mkt": 320000,
-   "mktN": 11,
-   "comps": []
-  },
-  {
-   "id": "k2300006607035",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 320000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/e09/2300006607035_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-660-7035/",
-   "mkt": 320000,
-   "mktN": 11,
-   "comps": []
-  },
-  {
-   "id": "k2300007693891",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 320000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "KOMEHYO SHIBUYA",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/485/2300007693891_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-769-3891/",
-   "mkt": 320000,
-   "mktN": 11,
-   "comps": []
-  },
-  {
    "id": "k2700043386700",
    "cat": "bag",
    "src": "komehyo",
@@ -4440,7 +4396,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/246-000-465-0171/",
    "mkt": 300000,
-   "mktN": 3,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -4454,14 +4410,14 @@
    "jpy": 300000,
    "kg": 0.1,
    "sq": "ペルレ ミディアム リング",
-   "store": "KOMEHYO GINZA",
+   "store": "KOMEHYO SHIBUYA",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/c47/2300008016606_1_b.jpg"
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-801-6606/",
    "mkt": 300000,
-   "mktN": 3,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -5158,27 +5114,6 @@
    "comps": []
   },
   {
-   "id": "k2300004838981",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "C シグニチャー リング",
-   "desc": "シャネル C シグニチャー リング CHANEL",
-   "cond": "A",
-   "jpy": 230000,
-   "kg": 0.1,
-   "sq": "C シグニチャー リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/ea4/2300004838981_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-483-8981/",
-   "mkt": 230000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "k2300006841798",
    "cat": "watch",
    "src": "komehyo",
@@ -5284,6 +5219,27 @@
    "comps": []
   },
   {
+   "id": "k2300008701717",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "ペルレ スモール リング",
+   "desc": "ヴァンクリーフ&アーペル ペルレ スモール リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 220000,
+   "kg": 0.1,
+   "sq": "ペルレ スモール リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/33b/2300008701717_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-870-1717/",
+   "mkt": 220000,
+   "mktN": 4,
+   "comps": []
+  },
+  {
    "id": "k2300008666429",
    "cat": "ring",
    "src": "komehyo",
@@ -5301,7 +5257,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-866-6429/",
    "mkt": 220000,
-   "mktN": 3,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -5322,7 +5278,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-778-6333/",
    "mkt": 220000,
-   "mktN": 3,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -5343,7 +5299,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-758-5134/",
    "mkt": 220000,
-   "mktN": 3,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -7365,6 +7321,48 @@
    "comps": []
   },
   {
+   "id": "k2300003040316",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "LOUIS VUITTON",
+   "model": "N60008",
+   "desc": "ルイヴィトン ダミエ ドゥオモ N60008 バッグ LOUIS VUITTON",
+   "cond": "B",
+   "jpy": 100000,
+   "kg": 1.2,
+   "sq": "N60008",
+   "store": "名古屋本店BAG＋",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/78c/2300003040316_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-304-0316/",
+   "mkt": 100000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2300008705395",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "GUCCI",
+   "model": "473882",
+   "desc": "グッチ 473882 DMT1N ショルダーバッグ GUCCI",
+   "cond": "A",
+   "jpy": 100000,
+   "kg": 1.2,
+   "sq": "473882",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/a27/2300008705395_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-870-5395/",
+   "mkt": 100000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e15226413416689",
    "cat": "earphones",
    "src": "eearphone",
@@ -8033,7 +8031,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/787855",
    "mkt": 18400,
-   "mktN": 26,
+   "mktN": 27,
    "comps": []
   },
   {
@@ -8261,6 +8259,30 @@
    "comps": []
   },
   {
+   "id": "e9674067280113",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "nwm",
+   "model": "GO フォグブラック",
+   "desc": "nwmGO フォグブラック",
+   "cond": "",
+   "jpy": 8390,
+   "kg": 0.5,
+   "sq": "GO フォグブラック",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/983594_3158465.jpg?v=1784704932&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/983594_3158466.jpg?v=1784704932&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/983594_3158467.jpg?v=1784704932&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/983594_3158468.jpg?v=1784704932&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/756728",
+   "mkt": 9750,
+   "mktN": 3,
+   "comps": []
+  },
+  {
    "id": "e15218272108785",
    "cat": "earphones",
    "src": "eearphone",
@@ -8305,7 +8327,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/785554",
    "mkt": 18400,
-   "mktN": 26,
+   "mktN": 27,
    "comps": []
   },
   {
@@ -8329,7 +8351,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/784039",
    "mkt": 18400,
-   "mktN": 26,
+   "mktN": 27,
    "comps": []
   },
   {
@@ -8353,7 +8375,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/786232",
    "mkt": 18400,
-   "mktN": 26,
+   "mktN": 27,
    "comps": []
   },
   {
@@ -8772,30 +8794,6 @@
    "comps": []
   },
   {
-   "id": "e9789498491121",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Shokz",
-   "model": "OpenComm Black",
-   "desc": "OpenComm Black",
-   "cond": "",
-   "jpy": 7920,
-   "kg": 0.5,
-   "sq": "OpenComm Black",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000108_3239533.jpg?v=1788335250&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000108_3239534.jpg?v=1788335250&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000108_3239535.jpg?v=1788335250&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1000108_3239536.jpg?v=1788335250&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/772848",
-   "mkt": 8510,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e15232525926641",
    "cat": "player",
    "src": "eearphone",
@@ -8936,7 +8934,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/784721",
    "mkt": 18400,
-   "mktN": 26,
+   "mktN": 27,
    "comps": []
   },
   {
@@ -9032,7 +9030,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/789649",
    "mkt": 18400,
-   "mktN": 26,
+   "mktN": 27,
    "comps": []
   },
   {
@@ -9056,30 +9054,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/788508",
    "mkt": 16700,
-   "mktN": 3,
-   "comps": []
-  },
-  {
-   "id": "e15213646708977",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MKFW4J/A",
-   "desc": "AirPods 5 MKFW4J/A",
-   "cond": "",
-   "jpy": 19900,
-   "kg": 0.5,
-   "sq": "MKFW4J/A",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324575.jpg?v=1792058652&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324576.jpg?v=1792058652&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324577.jpg?v=1792058652&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324578.jpg?v=1792058652&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/786375",
-   "mkt": 20900,
    "mktN": 3,
    "comps": []
   },
@@ -9248,7 +9222,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/789050",
    "mkt": 18400,
-   "mktN": 26,
+   "mktN": 27,
    "comps": []
   },
   {
@@ -9272,7 +9246,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/788227",
    "mkt": 18400,
-   "mktN": 26,
+   "mktN": 27,
    "comps": []
   },
   {
@@ -9296,7 +9270,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/785864",
    "mkt": 18400,
-   "mktN": 26,
+   "mktN": 27,
    "comps": []
   },
   {
@@ -9320,7 +9294,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/783984",
    "mkt": 18400,
-   "mktN": 26,
+   "mktN": 27,
    "comps": []
   },
   {
@@ -9800,7 +9774,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/789988",
    "mkt": 18400,
-   "mktN": 26,
+   "mktN": 27,
    "comps": []
   },
   {
@@ -9944,6 +9918,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/787496",
    "mkt": 24100,
+   "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e15213646708977",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MKFW4J/A",
+   "desc": "AirPods 5 MKFW4J/A",
+   "cond": "",
+   "jpy": 19900,
+   "kg": 0.5,
+   "sq": "MKFW4J/A",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324575.jpg?v=1792058652&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324576.jpg?v=1792058652&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324577.jpg?v=1792058652&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324578.jpg?v=1792058652&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/786375",
+   "mkt": 20400,
    "mktN": 2,
    "comps": []
   },
@@ -10784,30 +10782,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/788628",
    "mkt": 97550,
-   "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e15196893872369",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "nwm",
-   "model": "GO フォグブラック",
-   "desc": "nwmGO フォグブラック",
-   "cond": "",
-   "jpy": 9750,
-   "kg": 0.5,
-   "sq": "GO フォグブラック",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010097_3300807.jpg?v=1790930346&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010097_3300808.jpg?v=1790930346&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010097_3300809.jpg?v=1790930346&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010097_3300810.jpg?v=1790930346&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/782678",
-   "mkt": 9775,
    "mktN": 2,
    "comps": []
   },
@@ -14580,6 +14554,30 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/746949",
+   "mkt": 24900,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e9687417979121",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "ASUS",
+   "model": "ROG DELTA II",
+   "desc": "ROG DELTA II",
+   "cond": "",
+   "jpy": 24900,
+   "kg": 0.5,
+   "sq": "ROG DELTA II",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/988054_3327865.jpg?v=1792219285&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/988054_3327866.jpg?v=1792219285&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/988054_3327867.jpg?v=1792219285&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/988054_3327868.jpg?v=1792219285&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/761090",
    "mkt": 24900,
    "mktN": 1,
    "comps": []
