@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-10-22",
- "generatedAt": "2026-10-22T14:12:24+00:00",
+ "generatedAt": "2026-10-22T18:56:36+00:00",
  "fx": 0.21253,
  "fxDate": "2026-10-22",
  "counts": {
@@ -22,13 +22,12 @@
    "sq": "ＥＦ－ＢＰ１",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/cbf/2600071723167_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/b2b/2600071723167s.jpg"
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-172-3167/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -48,8 +47,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-397-1487/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -90,8 +89,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-314-6490/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -111,8 +110,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-314-5974/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -132,8 +131,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-267-6345/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -153,8 +152,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-006-600-2376/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -174,8 +173,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-346-3548/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -195,8 +194,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-317-5847/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -216,8 +215,50 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-314-5387/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
+   "comps": []
+  },
+  {
+   "id": "k2600075329839",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "CANON",
+   "model": "ＥＯＳ ＫＩＳＳ Ｘ５０",
+   "desc": "ＥＯＳ ＫＩＳＳ Ｘ５０ CANON",
+   "cond": "Ｃ",
+   "jpy": 16150,
+   "kg": 1.2,
+   "sq": "ＥＯＳ ＫＩＳＳ Ｘ５０",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/a9b/2600075329839s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-532-9839/",
+   "mkt": 57000,
+   "mktN": 83,
+   "comps": []
+  },
+  {
+   "id": "k2700044083493",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "SONY",
+   "model": "Ｅ５５－２１０ｍｍ Ｆ４．５－６．３ＯＳＳ",
+   "desc": "Ｅ５５－２１０ｍｍ Ｆ４．５－６．３ＯＳＳ SONY",
+   "cond": "Ａ",
+   "jpy": 16150,
+   "kg": 1.2,
+   "sq": "Ｅ５５－２１０ｍｍ Ｆ４．５－６．３ＯＳＳ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/e67/2700044083493s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-408-3493/",
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -239,48 +280,6 @@
    "url": "https://komehyo.jp/product/230-000-547-8056/",
    "mkt": 140000,
    "mktN": 18,
-   "comps": []
-  },
-  {
-   "id": "k2600075329839",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "CANON",
-   "model": "ＥＯＳ ＫＩＳＳ Ｘ５０",
-   "desc": "ＥＯＳ ＫＩＳＳ Ｘ５０ CANON",
-   "cond": "Ｃ",
-   "jpy": 16150,
-   "kg": 1.2,
-   "sq": "ＥＯＳ ＫＩＳＳ Ｘ５０",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/a9b/2600075329839s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-007-532-9839/",
-   "mkt": 56525,
-   "mktN": 84,
-   "comps": []
-  },
-  {
-   "id": "k2700044083493",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "SONY",
-   "model": "Ｅ５５－２１０ｍｍ Ｆ４．５－６．３ＯＳＳ",
-   "desc": "Ｅ５５－２１０ｍｍ Ｆ４．５－６．３ＯＳＳ SONY",
-   "cond": "Ａ",
-   "jpy": 16150,
-   "kg": 1.2,
-   "sq": "Ｅ５５－２１０ｍｍ Ｆ４．５－６．３ＯＳＳ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/e67/2700044083493s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-408-3493/",
-   "mkt": 56525,
-   "mktN": 84,
    "comps": []
   },
   {
@@ -368,27 +367,6 @@
    "comps": []
   },
   {
-   "id": "k2600075326654",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "NIKON",
-   "model": "新入荷 ＮＩＫＯＮ ＡＦ－Ｓ",
-   "desc": "新入荷 ＮＩＫＯＮ ＡＦ－Ｓ ＤＸ３５ｍｍ Ｆ１．８Ｇ 10月19日入荷 NIKON",
-   "cond": "Ｃ",
-   "jpy": 14250,
-   "kg": 1.2,
-   "sq": "新入荷 ＮＩＫＯＮ ＡＦ－Ｓ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/a15/2600075326654s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-007-532-6654/",
-   "mkt": 43400,
-   "mktN": 16,
-   "comps": []
-  },
-  {
    "id": "k2600073188001",
    "cat": "camera",
    "src": "komehyo",
@@ -405,8 +383,29 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-318-8001/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
+   "comps": []
+  },
+  {
+   "id": "k2600075326654",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "NIKON",
+   "model": "新入荷 ＮＩＫＯＮ ＡＦ－Ｓ",
+   "desc": "新入荷 ＮＩＫＯＮ ＡＦ－Ｓ ＤＸ３５ｍｍ Ｆ１．８Ｇ NIKON",
+   "cond": "Ｃ",
+   "jpy": 14250,
+   "kg": 1.2,
+   "sq": "新入荷 ＮＩＫＯＮ ＡＦ－Ｓ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/a15/2600075326654s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-532-6654/",
+   "mkt": 41800,
+   "mktN": 17,
    "comps": []
   },
   {
@@ -426,8 +425,30 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-006-780-3484/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
+   "comps": []
+  },
+  {
+   "id": "k2700044203105",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "FUJIFILM",
+   "model": "ＸＣ１５－４５ｍｍ Ｆ３．５－５．６ ＢＬＡＣＫ",
+   "desc": "ＸＣ１５－４５ｍｍ Ｆ３．５－５．６ ＢＬＡＣＫ FUJIFILM",
+   "cond": "Ｃ",
+   "jpy": 20900,
+   "kg": 1.2,
+   "sq": "ＸＣ１５－４５ｍｍ Ｆ３．５－５．６ ＢＬＡＣＫ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/1de/2700044203105_b.jpg",
+    "https://img.komehyo.jp/contents/images/goods/c20/2700044203105s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-420-3105/",
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -473,27 +494,6 @@
    "comps": []
   },
   {
-   "id": "k2600077912930",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "RICOH",
-   "model": "新入荷 ＣＸ３",
-   "desc": "新入荷 ＣＸ３ RICOH",
-   "cond": "Ｂ",
-   "jpy": 17100,
-   "kg": 1.2,
-   "sq": "新入荷 ＣＸ３",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/d5d/2600077912930s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-007-791-2930/",
-   "mkt": 43400,
-   "mktN": 16,
-   "comps": []
-  },
-  {
    "id": "k2600075327446",
    "cat": "camera",
    "src": "komehyo",
@@ -510,8 +510,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-532-7446/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -533,6 +533,27 @@
    "url": "https://komehyo.jp/product/230-000-299-1879/",
    "mkt": 320000,
    "mktN": 11,
+   "comps": []
+  },
+  {
+   "id": "k2600077912930",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "RICOH",
+   "model": "新入荷 ＣＸ３",
+   "desc": "新入荷 ＣＸ３ RICOH",
+   "cond": "Ｂ",
+   "jpy": 17100,
+   "kg": 1.2,
+   "sq": "新入荷 ＣＸ３",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/d5d/2600077912930s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-791-2930/",
+   "mkt": 41800,
+   "mktN": 17,
    "comps": []
   },
   {
@@ -594,8 +615,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-532-6005/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -889,8 +910,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-408-3202/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -910,8 +931,30 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-314-6988/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
+   "comps": []
+  },
+  {
+   "id": "k2700044238831",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "FUJIFILM",
+   "model": "新入荷 ＸＣ１５－４５ｍｍ Ｆ３．５－５．６",
+   "desc": "新入荷 ＸＣ１５－４５ｍｍ Ｆ３．５－５．６ ＢＬＡＣＫ FUJIFILM",
+   "cond": "Ｂ",
+   "jpy": 20900,
+   "kg": 1.2,
+   "sq": "新入荷 ＸＣ１５－４５ｍｍ Ｆ３．５－５．６",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/955/2700044238831_b.jpg",
+    "https://img.komehyo.jp/contents/images/goods/9f0/2700044238831s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-423-8831/",
+   "mkt": 41800,
+   "mktN": 17,
    "comps": []
   },
   {
@@ -920,7 +963,7 @@
    "src": "komehyo",
    "brand": "CANON",
    "model": "新入荷 ＥＯＳ ＫＩＳＳ",
-   "desc": "新入荷 ＥＯＳ ＫＩＳＳ Ｘ７ 10月19日入荷 CANON",
+   "desc": "新入荷 ＥＯＳ ＫＩＳＳ Ｘ７ CANON",
    "cond": "Ｂ",
    "jpy": 22000,
    "kg": 1.2,
@@ -931,50 +974,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-913-5023/",
-   "mkt": 43400,
-   "mktN": 16,
-   "comps": []
-  },
-  {
-   "id": "k2600073148562",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "NIKON",
-   "model": "新入荷 ＮＩＫＯＮ１ Ｊ５",
-   "desc": "新入荷 ＮＩＫＯＮ１ Ｊ５ 10月19日入荷 NIKON",
-   "cond": "Ｂ",
-   "jpy": 23750,
-   "kg": 1.2,
-   "sq": "新入荷 ＮＩＫＯＮ１ Ｊ５",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/b6e/2600073148562s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-007-314-8562/",
-   "mkt": 43400,
-   "mktN": 16,
-   "comps": []
-  },
-  {
-   "id": "k2700044239050",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "NIKON",
-   "model": "新入荷 １２－２８ｍｍ Ｆ４ＰＲＯ",
-   "desc": "新入荷 ニコン１２－２８ｍｍ Ｆ４ＰＲＯ ＤＸ 10月19日入荷 TOKINA",
-   "cond": "Ｂ",
-   "jpy": 23750,
-   "kg": 1.2,
-   "sq": "新入荷 １２－２８ｍｍ Ｆ４ＰＲＯ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/fdd/2700044239050s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-423-9050/",
-   "mkt": 43400,
-   "mktN": 16,
+   "mkt": 41800,
+   "mktN": 17,
    "comps": []
   },
   {
@@ -996,6 +997,48 @@
    "url": "https://komehyo.jp/product/260-007-019-2711/",
    "mkt": 180000,
    "mktN": 13,
+   "comps": []
+  },
+  {
+   "id": "k2600073148562",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "NIKON",
+   "model": "新入荷 ＮＩＫＯＮ１ Ｊ５",
+   "desc": "新入荷 ＮＩＫＯＮ１ Ｊ５ NIKON",
+   "cond": "Ｂ",
+   "jpy": 23750,
+   "kg": 1.2,
+   "sq": "新入荷 ＮＩＫＯＮ１ Ｊ５",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/b6e/2600073148562s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-314-8562/",
+   "mkt": 41800,
+   "mktN": 17,
+   "comps": []
+  },
+  {
+   "id": "k2700044239050",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "NIKON",
+   "model": "新入荷 １２－２８ｍｍ Ｆ４ＰＲＯ",
+   "desc": "新入荷 ニコン１２－２８ｍｍ Ｆ４ＰＲＯ ＤＸ TOKINA",
+   "cond": "Ｂ",
+   "jpy": 23750,
+   "kg": 1.2,
+   "sq": "新入荷 １２－２８ｍｍ Ｆ４ＰＲＯ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/fdd/2700044239050s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-423-9050/",
+   "mkt": 41800,
+   "mktN": 17,
    "comps": []
   },
   {
@@ -1037,7 +1080,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-495-2342/",
    "mkt": 70000,
-   "mktN": 7,
+   "mktN": 8,
    "comps": []
   },
   {
@@ -1057,30 +1100,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-318-4850/",
-   "mkt": 56525,
-   "mktN": 84,
-   "comps": []
-  },
-  {
-   "id": "k2700044082960",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "FUJIFILM",
-   "model": "ＥＦ－６０",
-   "desc": "ＥＦ－６０ FUJIFILM",
-   "cond": "Ｂ",
-   "jpy": 33250,
-   "kg": 1.2,
-   "sq": "ＥＦ－６０",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/039/2700044082960_b.jpg",
-    "https://img.komehyo.jp/contents/images/goods/386/2700044082960s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-408-2960/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -1100,8 +1121,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-247-7522/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -1264,7 +1285,6 @@
    "sq": "値下げ ＸＣ１５－４５ｍｍ Ｆ３．５－５．６",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/c7a/2700043611956_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/12d/2700043611956s.jpg"
    ],
    "snap": false,
@@ -1290,8 +1310,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-287-2921/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -1311,8 +1331,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-267-6963/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -1332,8 +1352,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-532-0744/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -1353,8 +1373,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-328-6123/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -1374,8 +1394,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-420-2979/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -1458,8 +1478,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-298-6215/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -1521,8 +1541,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-420-3167/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -1542,8 +1562,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-308-7324/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -1585,7 +1605,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-312-5927/",
    "mkt": 70000,
-   "mktN": 7,
+   "mktN": 8,
    "comps": []
   },
   {
@@ -1691,28 +1711,6 @@
    "url": "https://komehyo.jp/product/270-004-239-0630/",
    "mkt": 252500,
    "mktN": 10,
-   "comps": []
-  },
-  {
-   "id": "k2700042487798",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "FUJIFILM",
-   "model": "ＥＦ－Ｘ２０",
-   "desc": "ＥＦ－Ｘ２０ FUJIFILM",
-   "cond": "Ｃ",
-   "jpy": 42750,
-   "kg": 1.2,
-   "sq": "ＥＦ－Ｘ２０",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/ea4/2700042487798_b.jpg",
-    "https://img.komehyo.jp/contents/images/goods/1a0/2700042487798s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-248-7798/",
-   "mkt": 56525,
-   "mktN": 84,
    "comps": []
   },
   {
@@ -1963,8 +1961,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/246-000-465-1802/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -1984,30 +1982,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-318-5673/",
-   "mkt": 56525,
-   "mktN": 84,
-   "comps": []
-  },
-  {
-   "id": "k2700044061095",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "RICOH",
-   "model": "新入荷 ＴＨＥＴＡ Ｖ",
-   "desc": "新入荷 ＴＨＥＴＡ Ｖ 10月19日入荷 RICOH",
-   "cond": "Ａ",
-   "jpy": 35150,
-   "kg": 1.2,
-   "sq": "新入荷 ＴＨＥＴＡ Ｖ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/315/2700044061095_b.jpg",
-    "https://img.komehyo.jp/contents/images/goods/4d9/2700044061095s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-406-1095/",
-   "mkt": 43400,
-   "mktN": 16,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -2053,28 +2029,6 @@
    "comps": []
   },
   {
-   "id": "k2600075327552",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "NIKON",
-   "model": "新入荷 ３５ｍｍ Ｆ１．８ＤＩ",
-   "desc": "新入荷 ニコン３５ｍｍ Ｆ１．８ＤＩ ＶＣ ＵＳＤ Ｆ０１２ 10月22日入荷 TAMRON",
-   "cond": "Ｂ",
-   "jpy": 36000,
-   "kg": 1.2,
-   "sq": "新入荷 ３５ｍｍ Ｆ１．８ＤＩ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/71a/2600075327552_b.jpg",
-    "https://img.komehyo.jp/contents/images/goods/7d2/2600075327552s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-007-532-7552/",
-   "mkt": 43400,
-   "mktN": 16,
-   "comps": []
-  },
-  {
    "id": "k2600074679355",
    "cat": "ring",
    "src": "komehyo",
@@ -2093,6 +2047,27 @@
    "url": "https://komehyo.jp/product/260-007-467-9355/",
    "mkt": 180000,
    "mktN": 13,
+   "comps": []
+  },
+  {
+   "id": "k2700044061095",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "RICOH",
+   "model": "新入荷 ＴＨＥＴＡ Ｖ",
+   "desc": "新入荷 ＴＨＥＴＡ Ｖ RICOH",
+   "cond": "Ａ",
+   "jpy": 35150,
+   "kg": 1.2,
+   "sq": "新入荷 ＴＨＥＴＡ Ｖ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/4d9/2700044061095s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-406-1095/",
+   "mkt": 41800,
+   "mktN": 17,
    "comps": []
   },
   {
@@ -2264,6 +2239,48 @@
    "comps": []
   },
   {
+   "id": "k2700042721199",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "SONY",
+   "model": "Ｅ ７０ｍｍ Ｆ２．８ＤＧ",
+   "desc": "ソニーＥ（Ａ）７０ｍｍ Ｆ２．８ＤＧ ＭＡＣＲＯ SIGMA",
+   "cond": "Ｂ",
+   "jpy": 48450,
+   "kg": 1.2,
+   "sq": "Ｅ ７０ｍｍ Ｆ２．８ＤＧ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/7a6/2700042721199s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-272-1199/",
+   "mkt": 57000,
+   "mktN": 83,
+   "comps": []
+  },
+  {
+   "id": "k2700042872990",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "CANON",
+   "model": "ＥＦ２４－７０ｍｍ Ｆ４Ｌ ＩＳ",
+   "desc": "ＥＦ２４－７０ｍｍ Ｆ４Ｌ ＩＳ ＵＳＭ CANON",
+   "cond": "Ｃ",
+   "jpy": 48450,
+   "kg": 1.2,
+   "sq": "ＥＦ２４－７０ｍｍ Ｆ４Ｌ ＩＳ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/804/2700042872990s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-287-2990/",
+   "mkt": 57000,
+   "mktN": 83,
+   "comps": []
+  },
+  {
    "id": "k2300006927591",
    "cat": "watch",
    "src": "komehyo",
@@ -2290,7 +2307,7 @@
    "src": "komehyo",
    "brand": "PRADA",
    "model": "BL0838",
-   "desc": "新入荷 プラダ BL0838 バッグ 10月19日入荷 PRADA",
+   "desc": "新入荷 プラダ BL0838 バッグ PRADA",
    "cond": "B",
    "jpy": 90000,
    "kg": 1.2,
@@ -2323,49 +2340,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-577-9269/",
    "mkt": 70000,
-   "mktN": 7,
-   "comps": []
-  },
-  {
-   "id": "k2700042721199",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "SONY",
-   "model": "Ｅ ７０ｍｍ Ｆ２．８ＤＧ",
-   "desc": "ソニーＥ（Ａ）７０ｍｍ Ｆ２．８ＤＧ ＭＡＣＲＯ SIGMA",
-   "cond": "Ｂ",
-   "jpy": 48450,
-   "kg": 1.2,
-   "sq": "Ｅ ７０ｍｍ Ｆ２．８ＤＧ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/7a6/2700042721199s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-272-1199/",
-   "mkt": 56525,
-   "mktN": 84,
-   "comps": []
-  },
-  {
-   "id": "k2700042872990",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "CANON",
-   "model": "ＥＦ２４－７０ｍｍ Ｆ４Ｌ ＩＳ",
-   "desc": "ＥＦ２４－７０ｍｍ Ｆ４Ｌ ＩＳ ＵＳＭ CANON",
-   "cond": "Ｃ",
-   "jpy": 48450,
-   "kg": 1.2,
-   "sq": "ＥＦ２４－７０ｍｍ Ｆ４Ｌ ＩＳ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/804/2700042872990s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-287-2990/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mktN": 8,
    "comps": []
   },
   {
@@ -2406,8 +2381,71 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-003-941-2307/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
+   "comps": []
+  },
+  {
+   "id": "k2600075327552",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "NIKON",
+   "model": "新入荷 ３５ｍｍ Ｆ１．８ＤＩ",
+   "desc": "新入荷 ニコン３５ｍｍ Ｆ１．８ＤＩ ＶＣ ＵＳＤ Ｆ０１２ 10月22日入荷 TAMRON",
+   "cond": "Ｂ",
+   "jpy": 36000,
+   "kg": 1.2,
+   "sq": "新入荷 ３５ｍｍ Ｆ１．８ＤＩ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/7d2/2600075327552s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-532-7552/",
+   "mkt": 41800,
+   "mktN": 17,
+   "comps": []
+  },
+  {
+   "id": "k2700044202924",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "LEICA",
+   "model": "Ｄ－ＬＵＸ３",
+   "desc": "Ｄ－ＬＵＸ３ LEICA",
+   "cond": "Ｂ",
+   "jpy": 49400,
+   "kg": 1.2,
+   "sq": "Ｄ－ＬＵＸ３",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/913/2700044202924s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-420-2924/",
+   "mkt": 57000,
+   "mktN": 83,
+   "comps": []
+  },
+  {
+   "id": "k2700042872136",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "FUJIFILM",
+   "model": "ＥＦ－Ｘ２０",
+   "desc": "ＥＦ－Ｘ２０ FUJIFILM",
+   "cond": "Ａ",
+   "jpy": 49400,
+   "kg": 1.2,
+   "sq": "ＥＦ－Ｘ２０",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/d06/2700042872136s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-287-2136/",
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -2479,7 +2517,7 @@
    "src": "komehyo",
    "brand": "SEIKO",
    "model": "6R55-00L0/SBDC215",
-   "desc": "新入荷 セイコー プロスペックス 6R55-00L0/SBDC215 SS 自動巻 10月19日入荷 SEIKO",
+   "desc": "新入荷 セイコー プロスペックス 6R55-00L0/SBDC215 SS 自動巻 SEIKO",
    "cond": "A",
    "jpy": 110000,
    "kg": 0.4,
@@ -2492,48 +2530,6 @@
    "url": "https://komehyo.jp/product/230-000-891-6852/",
    "mkt": 125950,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "k2700044202924",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "LEICA",
-   "model": "Ｄ－ＬＵＸ３",
-   "desc": "Ｄ－ＬＵＸ３ LEICA",
-   "cond": "Ｂ",
-   "jpy": 49400,
-   "kg": 1.2,
-   "sq": "Ｄ－ＬＵＸ３",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/913/2700044202924s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-420-2924/",
-   "mkt": 56525,
-   "mktN": 84,
-   "comps": []
-  },
-  {
-   "id": "k2700042872136",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "FUJIFILM",
-   "model": "ＥＦ－Ｘ２０",
-   "desc": "ＥＦ－Ｘ２０ FUJIFILM",
-   "cond": "Ａ",
-   "jpy": 49400,
-   "kg": 1.2,
-   "sq": "ＥＦ－Ｘ２０",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/d06/2700042872136s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-287-2136/",
-   "mkt": 56525,
-   "mktN": 84,
    "comps": []
   },
   {
@@ -2684,27 +2680,6 @@
    "comps": []
   },
   {
-   "id": "k2300006968860",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "GRAND SEIKO",
-   "model": "9F62-0AB0/SBGX263",
-   "desc": "セイコー グランドセイコー･ヘリテージコレクション 9F62-0AB0/SBGX263 SS クォーツ SEIKO",
-   "cond": "A",
-   "jpy": 300000,
-   "kg": 0.4,
-   "sq": "9F62-0AB0/SBGX263",
-   "store": "KOMEHYO SHINJUKU",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/6d5/2300006968860_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-696-8860/",
-   "mkt": 325000,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "k2700044061354",
    "cat": "camera",
    "src": "komehyo",
@@ -2721,8 +2696,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-406-1354/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -2742,8 +2717,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-532-7637/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -2763,8 +2738,29 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-532-4858/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
+   "comps": []
+  },
+  {
+   "id": "k2300006968860",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "GRAND SEIKO",
+   "model": "9F62-0AB0/SBGX263",
+   "desc": "セイコー グランドセイコー･ヘリテージコレクション 9F62-0AB0/SBGX263 SS クォーツ SEIKO",
+   "cond": "A",
+   "jpy": 300000,
+   "kg": 0.4,
+   "sq": "9F62-0AB0/SBGX263",
+   "store": "KOMEHYO SHINJUKU",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/6d5/2300006968860_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-696-8860/",
+   "mkt": 325000,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -2810,27 +2806,6 @@
    "comps": []
   },
   {
-   "id": "k2600075323028",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "CANON",
-   "model": "値下げ 5％引き ＥＦ２４－１０５ｍｍ",
-   "desc": "値下げ 5％引き ＥＦ２４－１０５ｍｍ Ｆ４Ｌ ＩＳ ＵＳＭ CANON",
-   "cond": "Ｃ",
-   "jpy": 50350,
-   "kg": 1.2,
-   "sq": "値下げ 5％引き ＥＦ２４－１０５ｍｍ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/253/2600075323028s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-007-532-3028/",
-   "mkt": 53675,
-   "mktN": 52,
-   "comps": []
-  },
-  {
    "id": "k2700042872280",
    "cat": "camera",
    "src": "komehyo",
@@ -2847,8 +2822,8 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-287-2280/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
    "comps": []
   },
   {
@@ -2868,8 +2843,29 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-272-1250/",
-   "mkt": 56525,
-   "mktN": 84,
+   "mkt": 57000,
+   "mktN": 83,
+   "comps": []
+  },
+  {
+   "id": "k2600075323028",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "CANON",
+   "model": "値下げ 5％引き ＥＦ２４－１０５ｍｍ",
+   "desc": "値下げ 5％引き ＥＦ２４－１０５ｍｍ Ｆ４Ｌ ＩＳ ＵＳＭ CANON",
+   "cond": "Ｃ",
+   "jpy": 50350,
+   "kg": 1.2,
+   "sq": "値下げ 5％引き ＥＦ２４－１０５ｍｍ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/253/2600075323028s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-007-532-3028/",
+   "mkt": 53675,
+   "mktN": 52,
    "comps": []
   },
   {
@@ -3041,28 +3037,6 @@
    "comps": []
   },
   {
-   "id": "k2700044111387",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "NIKON",
-   "model": "新入荷 １７－３５ｍｍ Ｆ２．８－４ＤＩ",
-   "desc": "新入荷 ニコン１７－３５ｍｍ Ｆ２．８－４ＤＩ ＯＳＤ Ａ０３７ 10月19日入荷 TAMRON",
-   "cond": "Ｂ",
-   "jpy": 41800,
-   "kg": 1.2,
-   "sq": "新入荷 １７－３５ｍｍ Ｆ２．８－４ＤＩ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/ad8/2700044111387_b.jpg",
-    "https://img.komehyo.jp/contents/images/goods/7c0/2700044111387s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-411-1387/",
-   "mkt": 43400,
-   "mktN": 16,
-   "comps": []
-  },
-  {
    "id": "k2600075323042",
    "cat": "camera",
    "src": "komehyo",
@@ -3084,6 +3058,27 @@
    "comps": []
   },
   {
+   "id": "k2700043193742",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "SONY",
+   "model": "Ｅ３５ｍｍ Ｆ１．４ＤＧ ＨＳＭ",
+   "desc": "ソニーＥ３５ｍｍ Ｆ１．４ＤＧ ＨＳＭ（Ａ） SIGMA",
+   "cond": "Ｂ",
+   "jpy": 56050,
+   "kg": 1.2,
+   "sq": "Ｅ３５ｍｍ Ｆ１．４ＤＧ ＨＳＭ",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/f42/2700043193742s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-319-3742/",
+   "mkt": 57000,
+   "mktN": 83,
+   "comps": []
+  },
+  {
    "id": "k2300006798580",
    "cat": "watch",
    "src": "komehyo",
@@ -3102,27 +3097,6 @@
    "url": "https://komehyo.jp/product/230-000-679-8580/",
    "mkt": 375000,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "k2700043193742",
-   "cat": "camera",
-   "src": "komehyo",
-   "brand": "SONY",
-   "model": "Ｅ３５ｍｍ Ｆ１．４ＤＧ ＨＳＭ",
-   "desc": "ソニーＥ３５ｍｍ Ｆ１．４ＤＧ ＨＳＭ（Ａ） SIGMA",
-   "cond": "Ｂ",
-   "jpy": 56050,
-   "kg": 1.2,
-   "sq": "Ｅ３５ｍｍ Ｆ１．４ＤＧ ＨＳＭ",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/f42/2700043193742s.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-319-3742/",
-   "mkt": 56525,
-   "mktN": 84,
    "comps": []
   },
   {
@@ -3404,7 +3378,7 @@
    "src": "komehyo",
    "brand": "OMEGA",
    "model": "3510.50",
-   "desc": "新入荷 【ノーメンテナンス還元価格】オメガ スピードマスター 3510.50 SS 自動巻 10月19日入荷 OMEGA",
+   "desc": "新入荷 【ノーメンテナンス還元価格】オメガ スピードマスター 3510.50 SS 自動巻 OMEGA",
    "cond": "B",
    "jpy": 450000,
    "kg": 0.4,
@@ -3614,7 +3588,7 @@
    "src": "komehyo",
    "brand": "LOUIS VUITTON",
    "model": "M15235",
-   "desc": "新入荷 ルイヴィトン ダストバッグ M15235 バッグ 10月19日入荷 LOUIS VUITTON",
+   "desc": "新入荷 ルイヴィトン ダストバッグ M15235 バッグ LOUIS VUITTON",
    "cond": "A",
    "jpy": 420000,
    "kg": 1.2,
@@ -4386,6 +4360,27 @@
    "comps": []
   },
   {
+   "id": "k2300009105910",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "タグ・ホイヤー",
+   "model": "CBM2110.FC6454",
+   "desc": "【ノーメンテナンス還元価格】タグ･ホイヤー カレラ･キャリバー16クロノグラフ CBM2110.FC6454 SS 自動巻 TAG Heuer",
+   "cond": "B",
+   "jpy": 300000,
+   "kg": 0.4,
+   "sq": "CBM2110.FC6454",
+   "store": "KOMEHYO SHINJUKU",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/8c0/2300009105910_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-910-5910/",
+   "mkt": 300000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2300007603036",
    "cat": "bag",
    "src": "komehyo",
@@ -4853,7 +4848,7 @@
    "src": "komehyo",
    "brand": "GRAND SEIKO",
    "model": "9F62-0AA1/SBGX053",
-   "desc": "新入荷 セイコー グランドセイコー･クォーツ 9F62-0AA1/SBGX053 SS クォーツ 10月19日入荷 SEIKO",
+   "desc": "新入荷 セイコー グランドセイコー･クォーツ 9F62-0AA1/SBGX053 SS クォーツ SEIKO",
    "cond": "A",
    "jpy": 250000,
    "kg": 0.4,
@@ -5189,7 +5184,7 @@
    "src": "komehyo",
    "brand": "GRAND SEIKO",
    "model": "9F62-0AB0/SBGX073",
-   "desc": "新入荷 【ノーメンテナンス還元価格】セイコー グランドセイコー･クォーツ 9F62-0AB0/SBGX073 SS クォーツ 10月19日入荷 SEIKO",
+   "desc": "新入荷 【ノーメンテナンス還元価格】セイコー グランドセイコー･クォーツ 9F62-0AB0/SBGX073 SS クォーツ SEIKO",
    "cond": "B",
    "jpy": 220000,
    "kg": 0.4,
@@ -5777,7 +5772,7 @@
    "src": "komehyo",
    "brand": "タグ・ホイヤー",
    "model": "CAZ101K.BA0842",
-   "desc": "新入荷 タグ･ホイヤー フォーミュラ1クロノグラフ CAZ101K.BA0842 SS クォーツ 10月19日入荷 TAG Heuer",
+   "desc": "新入荷 タグ･ホイヤー フォーミュラ1クロノグラフ CAZ101K.BA0842 SS クォーツ TAG Heuer",
    "cond": "A",
    "jpy": 180000,
    "kg": 0.4,
@@ -6176,7 +6171,7 @@
    "src": "komehyo",
    "brand": "タグ・ホイヤー",
    "model": "CJF2115.BA0594",
-   "desc": "新入荷 【ノーメンテナンス還元価格】タグ･ホイヤー リンククロノ CJF2115.BA0594 SS 自動巻 10月19日入荷 TAG Heuer",
+   "desc": "新入荷 【ノーメンテナンス還元価格】タグ･ホイヤー リンククロノ CJF2115.BA0594 SS 自動巻 TAG Heuer",
    "cond": "B",
    "jpy": 160000,
    "kg": 0.4,
@@ -6682,7 +6677,7 @@
    "src": "komehyo",
    "brand": "SEIKO",
    "model": "6R55-00J0/SBDC203",
-   "desc": "新入荷 セイコー プロスペックス 6R55-00J0/SBDC203 SS 自動巻 10月19日入荷 SEIKO",
+   "desc": "新入荷 セイコー プロスペックス 6R55-00J0/SBDC203 SS 自動巻 SEIKO",
    "cond": "A",
    "jpy": 130000,
    "kg": 0.4,
@@ -6976,7 +6971,7 @@
    "src": "komehyo",
    "brand": "PRADA",
    "model": "BN2011",
-   "desc": "新入荷 プラダ BN2011 バッグ PRADA",
+   "desc": "プラダ BN2011 バッグ PRADA",
    "cond": "A",
    "jpy": 120000,
    "kg": 1.2,
@@ -7333,7 +7328,7 @@
    "src": "komehyo",
    "brand": "タグ・ホイヤー",
    "model": "165.306/1",
-   "desc": "新入荷 【ノーメンテナンス還元価格】タグ･ホイヤー 2000クロノ コンビ 165.306/1 SSxYG 自動巻 10月19日入荷 TAG Heuer",
+   "desc": "新入荷 【ノーメンテナンス還元価格】タグ･ホイヤー 2000クロノ コンビ 165.306/1 SSxYG 自動巻 TAG Heuer",
    "cond": "B",
    "jpy": 100000,
    "kg": 0.4,
@@ -7633,30 +7628,6 @@
    "comps": []
   },
   {
-   "id": "e15229299785969",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MTJV3JA",
-   "desc": "MagSafe充電ケース(USB-C)付きAirPods Pro(第2世代) MTJV3JA",
-   "cond": "",
-   "jpy": 12900,
-   "kg": 0.5,
-   "sq": "MTJV3JA",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016878_3326823.jpg?v=1792203019&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016878_3326824.jpg?v=1792203019&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016878_3326825.jpg?v=1792203019&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016878_3326826.jpg?v=1792203019&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/789324",
-   "mkt": 17800,
-   "mktN": 9,
-   "comps": []
-  },
-  {
    "id": "e9802699636977",
    "cat": "speakers",
    "src": "eearphone",
@@ -7681,6 +7652,30 @@
    "comps": []
   },
   {
+   "id": "e15229299785969",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MTJV3JA",
+   "desc": "MagSafe充電ケース(USB-C)付きAirPods Pro(第2世代) MTJV3JA",
+   "cond": "",
+   "jpy": 12900,
+   "kg": 0.5,
+   "sq": "MTJV3JA",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016878_3326823.jpg?v=1792203019&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016878_3326824.jpg?v=1792203019&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016878_3326825.jpg?v=1792203019&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016878_3326826.jpg?v=1792203019&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/789324",
+   "mkt": 17300,
+   "mktN": 8,
+   "comps": []
+  },
+  {
    "id": "e15217595285745",
    "cat": "earphones",
    "src": "eearphone",
@@ -7702,30 +7697,6 @@
    "url": "https://www.e-earphone.jp/products/787191",
    "mkt": 36800,
    "mktN": 6,
-   "comps": []
-  },
-  {
-   "id": "e15213178323185",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MTJV3JA",
-   "desc": "MagSafe充電ケース(USB-C)付きAirPods Pro(第2世代) MTJV3JA",
-   "cond": "",
-   "jpy": 13400,
-   "kg": 0.5,
-   "sq": "MTJV3JA",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013744_3329092.jpg?v=1792289299&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013744_3329093.jpg?v=1792289299&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013744_3329094.jpg?v=1792289299&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013744_3329095.jpg?v=1792289299&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/786237",
-   "mkt": 17800,
-   "mktN": 9,
    "comps": []
   },
   {
@@ -7798,6 +7769,54 @@
    "url": "https://www.e-earphone.jp/products/791083",
    "mkt": 38250,
    "mktN": 6,
+   "comps": []
+  },
+  {
+   "id": "e15213178323185",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MTJV3JA",
+   "desc": "MagSafe充電ケース(USB-C)付きAirPods Pro(第2世代) MTJV3JA",
+   "cond": "",
+   "jpy": 13400,
+   "kg": 0.5,
+   "sq": "MTJV3JA",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013744_3329092.jpg?v=1792289299&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013744_3329093.jpg?v=1792289299&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013744_3329094.jpg?v=1792289299&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013744_3329095.jpg?v=1792289299&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/786237",
+   "mkt": 17300,
+   "mktN": 8,
+   "comps": []
+  },
+  {
+   "id": "e15204720509169",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "MDR-M1ST",
+   "desc": "MDR-M1ST",
+   "cond": "",
+   "jpy": 17900,
+   "kg": 0.5,
+   "sq": "MDR-M1ST",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013166_3330448.jpg?v=1792307464&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013166_3330449.jpg?v=1792307464&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013166_3330450.jpg?v=1792307464&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013166_3330451.jpg?v=1792307464&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/785691",
+   "mkt": 22900,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -8089,6 +8108,30 @@
    "comps": []
   },
   {
+   "id": "e15219179061489",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Bose",
+   "model": "QuietComfort Ultra Earbuds",
+   "desc": "QuietComfort Ultra Earbuds White Smoke",
+   "cond": "",
+   "jpy": 13500,
+   "kg": 0.5,
+   "sq": "QuietComfort Ultra Earbuds",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015135_3333285.jpg?v=1792403237&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015135_3333286.jpg?v=1792403237&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015135_3333287.jpg?v=1792403237&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015135_3333288.jpg?v=1792403237&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/787598",
+   "mkt": 15600,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "e15204538908913",
    "cat": "earphones",
    "src": "eearphone",
@@ -8182,30 +8225,6 @@
    "url": "https://www.e-earphone.jp/products/789549",
    "mkt": 45200,
    "mktN": 3,
-   "comps": []
-  },
-  {
-   "id": "e15204720509169",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "MDR-M1ST",
-   "desc": "MDR-M1ST",
-   "cond": "",
-   "jpy": 17900,
-   "kg": 0.5,
-   "sq": "MDR-M1ST",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013166_3330448.jpg?v=1792307464&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013166_3330449.jpg?v=1792307464&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013166_3330450.jpg?v=1792307464&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013166_3330451.jpg?v=1792307464&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/785691",
-   "mkt": 20400,
-   "mktN": 2,
    "comps": []
   },
   {
@@ -8350,30 +8369,6 @@
    "url": "https://www.e-earphone.jp/products/790186",
    "mkt": 250400,
    "mktN": 4,
-   "comps": []
-  },
-  {
-   "id": "e15221005189361",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MTJV3JA",
-   "desc": "MagSafe充電ケース(USB-C)付きAirPods Pro(第2世代) MTJV3JA",
-   "cond": "",
-   "jpy": 16300,
-   "kg": 0.5,
-   "sq": "MTJV3JA",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015151_3328348.jpg?v=1792225878&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015151_3328349.jpg?v=1792225878&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015151_3328350.jpg?v=1792225878&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015151_3328351.jpg?v=1792225878&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/787614",
-   "mkt": 17800,
-   "mktN": 9,
    "comps": []
   },
   {
@@ -8617,6 +8612,30 @@
    "comps": []
   },
   {
+   "id": "e15221005189361",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MTJV3JA",
+   "desc": "MagSafe充電ケース(USB-C)付きAirPods Pro(第2世代) MTJV3JA",
+   "cond": "",
+   "jpy": 16300,
+   "kg": 0.5,
+   "sq": "MTJV3JA",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015151_3328348.jpg?v=1792225878&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015151_3328349.jpg?v=1792225878&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015151_3328350.jpg?v=1792225878&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015151_3328351.jpg?v=1792225878&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/787614",
+   "mkt": 17300,
+   "mktN": 8,
+   "comps": []
+  },
+  {
    "id": "e15226525745393",
    "cat": "earphones",
    "src": "eearphone",
@@ -8638,30 +8657,6 @@
    "url": "https://www.e-earphone.jp/products/788894",
    "mkt": 15050,
    "mktN": 4,
-   "comps": []
-  },
-  {
-   "id": "e15203921756401",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MTJV3JA",
-   "desc": "MagSafe充電ケース(USB-C)付きAirPods Pro(第2世代) MTJV3JA",
-   "cond": "",
-   "jpy": 16800,
-   "kg": 0.5,
-   "sq": "MTJV3JA",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012570_3326924.jpg?v=1792204459&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012570_3326925.jpg?v=1792204459&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012570_3326926.jpg?v=1792204459&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012570_3326927.jpg?v=1792204459&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/785098",
-   "mkt": 17800,
-   "mktN": 9,
    "comps": []
   },
   {
@@ -9537,6 +9532,30 @@
    "comps": []
   },
   {
+   "id": "e15217320231153",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "Astell&Kern",
+   "model": "KANN ULTRA",
+   "desc": "KANN ULTRA",
+   "cond": "",
+   "jpy": 92900,
+   "kg": 0.4,
+   "sq": "KANN ULTRA",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014575_3313475.jpg?v=1791533120&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014575_3313476.jpg?v=1791533120&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014575_3313477.jpg?v=1791533120&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014575_3313478.jpg?v=1791533120&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/787057",
+   "mkt": 95900,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "e15240991408369",
    "cat": "earphones",
    "src": "eearphone",
@@ -9582,6 +9601,30 @@
    "url": "https://www.e-earphone.jp/products/789377",
    "mkt": 23500,
    "mktN": 5,
+   "comps": []
+  },
+  {
+   "id": "e15203921756401",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MTJV3JA",
+   "desc": "MagSafe充電ケース(USB-C)付きAirPods Pro(第2世代) MTJV3JA",
+   "cond": "",
+   "jpy": 16800,
+   "kg": 0.5,
+   "sq": "MTJV3JA",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012570_3326924.jpg?v=1792204459&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012570_3326925.jpg?v=1792204459&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012570_3326926.jpg?v=1792204459&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012570_3326927.jpg?v=1792204459&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/785098",
+   "mkt": 17300,
+   "mktN": 8,
    "comps": []
   },
   {
@@ -10809,30 +10852,6 @@
    "comps": []
   },
   {
-   "id": "e15245344440561",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "Astell&Kern",
-   "model": "SP4000",
-   "desc": "A&ultima SP4000 Silver",
-   "cond": "",
-   "jpy": 479000,
-   "kg": 0.4,
-   "sq": "SP4000",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018951_3334441.jpg?v=1792477403&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018951_3334453.jpg?v=1792477403&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018951_3334442.jpg?v=1792477403&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018951_3334443.jpg?v=1792477403&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/791350",
-   "mkt": 479000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e15226416201969",
    "cat": "player",
    "src": "eearphone",
@@ -11525,30 +11544,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/788450",
    "mkt": 118700,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15237330043121",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "Astell&Kern",
-   "model": "KANN ULTRA",
-   "desc": "KANN ULTRA",
-   "cond": "",
-   "jpy": 98900,
-   "kg": 0.4,
-   "sq": "KANN ULTRA",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017555_3336374.jpg?v=1792563373&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017555_3336375.jpg?v=1792563373&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017555_3336376.jpg?v=1792563373&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017555_3336377.jpg?v=1792563373&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/789983",
-   "mkt": 98900,
    "mktN": 1,
    "comps": []
   },
@@ -13440,6 +13435,30 @@
    "comps": []
   },
   {
+   "id": "e10303554650353",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MGYN3J/A",
+   "desc": "AirPods Max MGYN3J/A ワイヤレスヘッドホン グリーン",
+   "cond": "",
+   "jpy": 33600,
+   "kg": 0.5,
+   "sq": "MGYN3J/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009011_3322663.jpg?v=1791972167&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009011_3322664.jpg?v=1791972167&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009011_3322665.jpg?v=1791972167&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009011_3322666.jpg?v=1791972167&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/781627",
+   "mkt": 33600,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e9825413071089",
    "cat": "earphones",
    "src": "eearphone",
@@ -13673,30 +13692,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/786439",
    "mkt": 30900,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15233047789809",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SENNHEISER",
-   "model": "HD 600",
-   "desc": "HD 600",
-   "cond": "",
-   "jpy": 30400,
-   "kg": 0.5,
-   "sq": "HD 600",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017160_3324920.jpg?v=1792119051&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017160_3324921.jpg?v=1792119051&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017160_3324922.jpg?v=1792119051&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017160_3324923.jpg?v=1792119051&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/789596",
-   "mkt": 30400,
    "mktN": 1,
    "comps": []
   },
