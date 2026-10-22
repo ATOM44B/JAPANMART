@@ -1,9 +1,9 @@
 {
  "source": "live",
- "generated": "2026-10-21",
- "generatedAt": "2026-10-21T23:48:01+00:00",
- "fx": 0.21254,
- "fxDate": "2026-10-21",
+ "generated": "2026-10-22",
+ "generatedAt": "2026-10-22T02:13:59+00:00",
+ "fx": 0.21253,
+ "fxDate": "2026-10-22",
  "counts": {
   "live": 650,
   "seed": 0
@@ -7670,8 +7670,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/787612",
-   "mkt": 44150,
-   "mktN": 4,
+   "mkt": 43900,
+   "mktN": 5,
    "comps": []
   },
   {
@@ -9394,30 +9394,6 @@
    "comps": []
   },
   {
-   "id": "e15239161315569",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "KENWOOD",
-   "model": "GLASS Core Pro",
-   "desc": "GLASS Core Pro",
-   "cond": "",
-   "jpy": 32600,
-   "kg": 0.5,
-   "sq": "GLASS Core Pro",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017618_3334202.jpg?v=1792470977&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017618_3334203.jpg?v=1792470977&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017618_3334204.jpg?v=1792470977&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017618_3334205.jpg?v=1792470977&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/790045",
-   "mkt": 33850,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e15240996454641",
    "cat": "earphones",
    "src": "eearphone",
@@ -9970,30 +9946,6 @@
    "comps": []
   },
   {
-   "id": "e15213105479921",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "FIIO",
-   "model": "M27",
-   "desc": "M27 Titanium Alloy",
-   "cond": "",
-   "jpy": 271400,
-   "kg": 0.4,
-   "sq": "M27",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013594_3308146.jpg?v=1791278982&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013594_3308147.jpg?v=1791278982&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013594_3308148.jpg?v=1791278982&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013594_3308149.jpg?v=1791278982&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/786087",
-   "mkt": 277700,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e15219125027057",
    "cat": "earphones",
    "src": "eearphone",
@@ -10282,6 +10234,30 @@
    "comps": []
   },
   {
+   "id": "e15203847405809",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "ONIX",
+   "model": "XM2",
+   "desc": "Tocata XM2",
+   "cond": "",
+   "jpy": 43400,
+   "kg": 0.4,
+   "sq": "XM2",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012300_3313628.jpg?v=1791535339&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012300_3313629.jpg?v=1791535339&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012300_3313630.jpg?v=1791535339&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012300_3313631.jpg?v=1791535339&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/784831",
+   "mkt": 43900,
+   "mktN": 5,
+   "comps": []
+  },
+  {
    "id": "e15241452617969",
    "cat": "earphones",
    "src": "eearphone",
@@ -10471,30 +10447,6 @@
    "url": "https://www.e-earphone.jp/products/786842",
    "mkt": 6850,
    "mktN": 8,
-   "comps": []
-  },
-  {
-   "id": "e15204581015793",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "ONIX",
-   "model": "XM2",
-   "desc": "Tocata XM2",
-   "cond": "",
-   "jpy": 43900,
-   "kg": 0.4,
-   "sq": "XM2",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013043_3321111.jpg?v=1791947208&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013043_3321112.jpg?v=1791947208&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013043_3321113.jpg?v=1791947208&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013043_3321114.jpg?v=1791947208&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/785568",
-   "mkt": 44150,
-   "mktN": 4,
    "comps": []
   },
   {
@@ -10998,6 +10950,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/788511",
    "mkt": 285700,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15228724740337",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "FIIO",
+   "model": "M27",
+   "desc": "M27 Titanium Alloy",
+   "cond": "",
+   "jpy": 284000,
+   "kg": 0.4,
+   "sq": "M27",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016649_3334422.jpg?v=1792477167&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016649_3334423.jpg?v=1792477167&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016649_3334424.jpg?v=1792477167&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016649_3334425.jpg?v=1792477167&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/789095",
+   "mkt": 284000,
    "mktN": 1,
    "comps": []
   },
@@ -12714,6 +12690,30 @@
    "comps": []
   },
   {
+   "id": "e15204581015793",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "ONIX",
+   "model": "XM2",
+   "desc": "Tocata XM2",
+   "cond": "",
+   "jpy": 43900,
+   "kg": 0.4,
+   "sq": "XM2",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013043_3321111.jpg?v=1791947208&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013043_3321112.jpg?v=1791947208&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013043_3321113.jpg?v=1791947208&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013043_3321114.jpg?v=1791947208&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/785568",
+   "mkt": 43900,
+   "mktN": 5,
+   "comps": []
+  },
+  {
    "id": "e9745691115761",
    "cat": "earphones",
    "src": "eearphone",
@@ -13022,6 +13022,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/788859",
    "mkt": 35300,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15226349060337",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "KENWOOD",
+   "model": "GLASS Core Pro",
+   "desc": "GLASS Core Pro",
+   "cond": "",
+   "jpy": 35100,
+   "kg": 0.5,
+   "sq": "GLASS Core Pro",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016311_3330805.jpg?v=1792312524&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016311_3330807.jpg?v=1792312524&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016311_3330808.jpg?v=1792312524&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016311_3330810.jpg?v=1792312524&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/788769",
+   "mkt": 35100,
    "mktN": 1,
    "comps": []
   },
@@ -14267,30 +14291,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/786639",
    "mkt": 27000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15236005691633",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Shokz",
-   "model": "OpenFit Pro Black",
-   "desc": "OpenFit Pro Black",
-   "cond": "",
-   "jpy": 26700,
-   "kg": 0.5,
-   "sq": "OpenFit Pro Black",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017392_3333627.jpg?v=1792463354&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017392_3333628.jpg?v=1792463354&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017392_3333629.jpg?v=1792463354&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017392_3333630.jpg?v=1792463354&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/789820",
-   "mkt": 26700,
    "mktN": 1,
    "comps": []
   },
