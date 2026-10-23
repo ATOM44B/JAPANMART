@@ -1,9 +1,9 @@
 {
  "source": "live",
- "generated": "2026-10-22",
- "generatedAt": "2026-10-22T23:45:43+00:00",
- "fx": 0.21253,
- "fxDate": "2026-10-22",
+ "generated": "2026-10-23",
+ "generatedAt": "2026-10-23T02:19:59+00:00",
+ "fx": 0.21492,
+ "fxDate": "2026-10-23",
  "counts": {
   "live": 650,
   "seed": 0
@@ -1850,7 +1850,6 @@
    "sq": "ＥＦ－Ｘ２０",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/ea4/2700042487798_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/1a0/2700042487798s.jpg"
    ],
    "snap": false,
@@ -7795,30 +7794,6 @@
    "comps": []
   },
   {
-   "id": "e15204720509169",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "MDR-M1ST",
-   "desc": "MDR-M1ST",
-   "cond": "",
-   "jpy": 17900,
-   "kg": 0.5,
-   "sq": "MDR-M1ST",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013166_3330448.jpg?v=1792307464&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013166_3330449.jpg?v=1792307464&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013166_3330450.jpg?v=1792307464&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013166_3330451.jpg?v=1792307464&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/785691",
-   "mkt": 22900,
-   "mktN": 3,
-   "comps": []
-  },
-  {
    "id": "e15229075226865",
    "cat": "earphones",
    "src": "eearphone",
@@ -8179,30 +8154,6 @@
    "comps": []
   },
   {
-   "id": "e15200750764273",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MQD83J/A",
-   "desc": "AirPods Pro (第2世代) MQD83J/A",
-   "cond": "",
-   "jpy": 13100,
-   "kg": 0.5,
-   "sq": "MQD83J/A",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011393_3326961.jpg?v=1792205176&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011393_3326962.jpg?v=1792205176&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011393_3326963.jpg?v=1792205176&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011393_3326964.jpg?v=1792205176&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/783943",
-   "mkt": 15050,
-   "mktN": 4,
-   "comps": []
-  },
-  {
    "id": "e15232525926641",
    "cat": "player",
    "src": "eearphone",
@@ -8224,6 +8175,30 @@
    "url": "https://www.e-earphone.jp/products/789549",
    "mkt": 45200,
    "mktN": 3,
+   "comps": []
+  },
+  {
+   "id": "e15204720509169",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "MDR-M1ST",
+   "desc": "MDR-M1ST",
+   "cond": "",
+   "jpy": 17900,
+   "kg": 0.5,
+   "sq": "MDR-M1ST",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013166_3330448.jpg?v=1792307464&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013166_3330449.jpg?v=1792307464&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013166_3330450.jpg?v=1792307464&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013166_3330451.jpg?v=1792307464&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/785691",
+   "mkt": 20400,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -8416,6 +8391,30 @@
    "url": "https://www.e-earphone.jp/products/786234",
    "mkt": 21050,
    "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e15200750764273",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MQD83J/A",
+   "desc": "AirPods Pro (第2世代) MQD83J/A",
+   "cond": "",
+   "jpy": 13100,
+   "kg": 0.5,
+   "sq": "MQD83J/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011393_3326961.jpg?v=1792205176&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011393_3326962.jpg?v=1792205176&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011393_3326963.jpg?v=1792205176&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011393_3326964.jpg?v=1792205176&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/783943",
+   "mkt": 14200,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -8632,30 +8631,6 @@
    "url": "https://www.e-earphone.jp/products/787614",
    "mkt": 17300,
    "mktN": 8,
-   "comps": []
-  },
-  {
-   "id": "e15226525745393",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MQD83J/A",
-   "desc": "AirPods Pro (第2世代) MQD83J/A",
-   "cond": "",
-   "jpy": 14200,
-   "kg": 0.5,
-   "sq": "MQD83J/A",
-   "store": "",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016436_3330180.jpg?v=1792301958&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016436_3330181.jpg?v=1792301958&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016436_3330182.jpg?v=1792301958&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016436_3330183.jpg?v=1792301958&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/788894",
-   "mkt": 15050,
-   "mktN": 4,
    "comps": []
   },
   {
@@ -9795,6 +9770,30 @@
    "comps": []
   },
   {
+   "id": "e15213646708977",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MKFW4J/A",
+   "desc": "AirPods 5 MKFW4J/A",
+   "cond": "",
+   "jpy": 19900,
+   "kg": 0.5,
+   "sq": "MKFW4J/A",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324575.jpg?v=1792058652&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324576.jpg?v=1792058652&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324577.jpg?v=1792058652&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013881_3324578.jpg?v=1792058652&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/786375",
+   "mkt": 20400,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "e15242794205425",
    "cat": "earphones",
    "src": "eearphone",
@@ -9888,6 +9887,30 @@
    "url": "https://www.e-earphone.jp/products/790010",
    "mkt": 5490,
    "mktN": 3,
+   "comps": []
+  },
+  {
+   "id": "e15241333309681",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "See audio",
+   "model": "Bravery24",
+   "desc": "Bravery24",
+   "cond": "",
+   "jpy": 33400,
+   "kg": 0.5,
+   "sq": "Bravery24",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017945_3330338.jpg?v=1792305737&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017945_3330339.jpg?v=1792305737&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017945_3330340.jpg?v=1792305737&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017945_3330341.jpg?v=1792305737&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/790358",
+   "mkt": 34000,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -10323,6 +10346,30 @@
    "comps": []
   },
   {
+   "id": "e9531396358385",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MGYH3J/A",
+   "desc": "AirPods Max MGYH3J/A ワイヤレスヘッドホン スペースグレイ",
+   "cond": "",
+   "jpy": 43400,
+   "kg": 0.5,
+   "sq": "MGYH3J/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/941178_3322716.jpg?v=1791973631&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/941178_3322717.jpg?v=1791973631&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/941178_3322718.jpg?v=1791973631&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/941178_3322719.jpg?v=1791973631&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/715022",
+   "mkt": 43700,
+   "mktN": 3,
+   "comps": []
+  },
+  {
    "id": "e15226498646257",
    "cat": "earphones",
    "src": "eearphone",
@@ -10512,30 +10559,6 @@
    "url": "https://www.e-earphone.jp/products/787998",
    "mkt": 19200,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e15215191785713",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MKFW4J/A",
-   "desc": "AirPods 5 MKFW4J/A",
-   "cond": "",
-   "jpy": 19800,
-   "kg": 0.5,
-   "sq": "MKFW4J/A",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014257_3334952.jpg?v=1792485793&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014257_3334953.jpg?v=1792485793&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014257_3334954.jpg?v=1792485793&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014257_3334955.jpg?v=1792485793&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/786743",
-   "mkt": 19900,
-   "mktN": 3,
    "comps": []
   },
   {
@@ -10847,6 +10870,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/788835",
    "mkt": 344000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15242419208433",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "qdc",
+   "model": "EMPEROR",
+   "desc": "EMPEROR",
+   "cond": "",
+   "jpy": 327000,
+   "kg": 0.5,
+   "sq": "EMPEROR",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018330_3329778.jpg?v=1792297049&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018330_3329779.jpg?v=1792297049&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018330_3329780.jpg?v=1792297049&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018330_3329781.jpg?v=1792297049&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/790737",
+   "mkt": 327000,
    "mktN": 1,
    "comps": []
   },
@@ -12499,54 +12546,6 @@
    "comps": []
   },
   {
-   "id": "e15228212150513",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Acoustune",
-   "model": "HS1750CU",
-   "desc": "HS1750CU",
-   "cond": "",
-   "jpy": 45900,
-   "kg": 0.5,
-   "sq": "HS1750CU",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016563_3331049.jpg?v=1792314432&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016563_3331050.jpg?v=1792314432&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016563_3331051.jpg?v=1792314432&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016563_3331052.jpg?v=1792314432&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/789015",
-   "mkt": 45900,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15225741574385",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MGYH3J/A",
-   "desc": "AirPods Max MGYH3J/A ワイヤレスヘッドホン スペースグレイ",
-   "cond": "",
-   "jpy": 45700,
-   "kg": 0.5,
-   "sq": "MGYH3J/A",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016141_3326622.jpg?v=1792144711&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016141_3326623.jpg?v=1792144711&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016141_3326624.jpg?v=1792144711&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016141_3326625.jpg?v=1792144711&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/788600",
-   "mkt": 45700,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e15240991146225",
    "cat": "earphones",
    "src": "eearphone",
@@ -12687,6 +12686,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/790643",
    "mkt": 44900,
+   "mktN": 3,
+   "comps": []
+  },
+  {
+   "id": "e9745691115761",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MGYH3J/A",
+   "desc": "AirPods Max MGYH3J/A ワイヤレスヘッドホン スペースグレイ",
+   "cond": "",
+   "jpy": 43700,
+   "kg": 0.5,
+   "sq": "MGYH3J/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/993816_3322621.jpg?v=1791971357&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/993816_3322622.jpg?v=1791971357&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/993816_3322623.jpg?v=1791971357&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/993816_3322624.jpg?v=1791971357&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/766748",
+   "mkt": 43700,
    "mktN": 3,
    "comps": []
   },
@@ -13143,30 +13166,6 @@
    "url": "https://www.e-earphone.jp/products/785099",
    "mkt": 34900,
    "mktN": 3,
-   "comps": []
-  },
-  {
-   "id": "e15242800300273",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "See audio",
-   "model": "Bravery24",
-   "desc": "Bravery24",
-   "cond": "",
-   "jpy": 34600,
-   "kg": 0.5,
-   "sq": "Bravery24",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018702_3333947.jpg?v=1792467431&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018702_3333948.jpg?v=1792467431&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018702_3333949.jpg?v=1792467431&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018702_3333950.jpg?v=1792467431&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/791107",
-   "mkt": 34600,
-   "mktN": 1,
    "comps": []
   },
   {
@@ -13691,6 +13690,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/786439",
    "mkt": 30900,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15233047789809",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SENNHEISER",
+   "model": "HD 600",
+   "desc": "HD 600",
+   "cond": "",
+   "jpy": 30400,
+   "kg": 0.5,
+   "sq": "HD 600",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017160_3324920.jpg?v=1792119051&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017160_3324921.jpg?v=1792119051&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017160_3324922.jpg?v=1792119051&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017160_3324923.jpg?v=1792119051&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/789596",
+   "mkt": 30400,
    "mktN": 1,
    "comps": []
   },
@@ -14556,30 +14579,6 @@
    "url": "https://www.e-earphone.jp/products/785334",
    "mkt": 23500,
    "mktN": 5,
-   "comps": []
-  },
-  {
-   "id": "e15236753326321",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "Astell&Kern",
-   "model": "AK240",
-   "desc": "AK240 256GB ガンメタル(AK240-256GB-ＧＭ)",
-   "cond": "",
-   "jpy": 23500,
-   "kg": 0.4,
-   "sq": "AK240",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017453_3330801.jpg?v=1792312529&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017453_3330802.jpg?v=1792312529&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017453_3330803.jpg?v=1792312529&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017453_3330804.jpg?v=1792312529&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/789881",
-   "mkt": 23500,
-   "mktN": 1,
    "comps": []
   }
  ]
