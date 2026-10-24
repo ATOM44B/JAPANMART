@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-10-24",
- "generatedAt": "2026-10-24T17:43:15+00:00",
+ "generatedAt": "2026-10-24T19:56:43+00:00",
  "fx": 0.21516,
  "fxDate": "2026-10-24",
  "counts": {
@@ -1388,7 +1388,6 @@
    "sq": "ＥＯＳ６Ｄ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/4d6/2700043286123_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/d62/2700043286123s.jpg"
    ],
    "snap": false,
@@ -7598,8 +7597,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/789696",
-   "mkt": 50112,
-   "mktN": 4,
+   "mkt": 48925,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -8552,6 +8551,30 @@
    "url": "https://www.e-earphone.jp/products/789992",
    "mkt": 5710,
    "mktN": 3,
+   "comps": []
+  },
+  {
+   "id": "e15202539962609",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SHURE",
+   "model": "SE215",
+   "desc": "SE215 Special Edition Wireless Blue",
+   "cond": "",
+   "jpy": 5691,
+   "kg": 0.5,
+   "sq": "SE215",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011955_3302261.jpg?v=1791012274&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011955_3302262.jpg?v=1791012274&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011955_3302263.jpg?v=1791012274&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1011955_3302264.jpg?v=1791012274&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/784503",
+   "mkt": 6261,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -9659,30 +9682,6 @@
    "comps": []
   },
   {
-   "id": "e15218868191473",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "iBasso Audio",
-   "model": "DX180",
-   "desc": "DX180 Blue",
-   "cond": "",
-   "jpy": 48925,
-   "kg": 0.4,
-   "sq": "DX180",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014895_3322094.jpg?v=1791964353&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014895_3322095.jpg?v=1791964353&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014895_3322096.jpg?v=1791964353&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014895_3322097.jpg?v=1791964354&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/787361",
-   "mkt": 50112,
-   "mktN": 4,
-   "comps": []
-  },
-  {
    "id": "e15232580321521",
    "cat": "earphones",
    "src": "eearphone",
@@ -9991,30 +9990,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/790345",
    "mkt": 14392,
-   "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e15229065330929",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Shokz",
-   "model": "OpenDots ONE Black",
-   "desc": "OpenDots ONE Black",
-   "cond": "",
-   "jpy": 11495,
-   "kg": 0.5,
-   "sq": "OpenDots ONE Black",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016699_3337711.jpg?v=1792640052&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016699_3337712.jpg?v=1792640052&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016699_3337713.jpg?v=1792640052&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016699_3337714.jpg?v=1792640052&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/789145",
-   "mkt": 11685,
    "mktN": 2,
    "comps": []
   },
@@ -11339,6 +11314,30 @@
    "comps": []
   },
   {
+   "id": "e15196628025585",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "FIIO",
+   "model": "R9",
+   "desc": "R9",
+   "cond": "",
+   "jpy": 148580,
+   "kg": 0.4,
+   "sq": "R9",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009902_3290295.jpg?v=1790473894&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009902_3290296.jpg?v=1790473894&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009902_3290297.jpg?v=1790473894&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1009902_3290298.jpg?v=1790473894&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/782486",
+   "mkt": 148580,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e15242796302577",
    "cat": "earphones",
    "src": "eearphone",
@@ -12336,6 +12335,30 @@
    "url": "https://www.e-earphone.jp/products/790615",
    "mkt": 49210,
    "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15218868191473",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "iBasso Audio",
+   "model": "DX180",
+   "desc": "DX180 Blue",
+   "cond": "",
+   "jpy": 48925,
+   "kg": 0.4,
+   "sq": "DX180",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014895_3322094.jpg?v=1791964353&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014895_3322095.jpg?v=1791964353&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014895_3322096.jpg?v=1791964353&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014895_3322097.jpg?v=1791964354&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/787361",
+   "mkt": 48925,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -14179,30 +14202,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/781371",
    "mkt": 21850,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15245437141233",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Sound Rhyme",
-   "model": "SR6",
-   "desc": "SR6",
-   "cond": "",
-   "jpy": 21660,
-   "kg": 0.5,
-   "sq": "SR6",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018970_3335526.jpg?v=1792549497&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018970_3335527.jpg?v=1792549497&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018970_3335528.jpg?v=1792549497&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018970_3335529.jpg?v=1792549497&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/791368",
-   "mkt": 21660,
    "mktN": 1,
    "comps": []
   },
