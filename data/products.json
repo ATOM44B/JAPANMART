@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-10-25",
- "generatedAt": "2026-10-25T17:57:45+00:00",
+ "generatedAt": "2026-10-25T20:12:15+00:00",
  "fx": 0.21514,
  "fxDate": "2026-10-25",
  "counts": {
@@ -253,7 +253,6 @@
    "sq": "Ｅ５５－２１０ｍｍ Ｆ４．５－６．３ＯＳＳ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/9c5/2700044081628_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/84c/2700044081628s.jpg"
    ],
    "snap": false,
@@ -10043,30 +10042,6 @@
    "comps": []
   },
   {
-   "id": "e15241452617969",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Shokz",
-   "model": "OpenRun Pro Blue",
-   "desc": "OpenRun Pro Blue",
-   "cond": "",
-   "jpy": 8835,
-   "kg": 0.5,
-   "sq": "OpenRun Pro Blue",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018053_3330387.jpg?v=1792306457&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018053_3330388.jpg?v=1792306457&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018053_3330389.jpg?v=1792306457&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018053_3330390.jpg?v=1792306457&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/790464",
-   "mkt": 8930,
-   "mktN": 3,
-   "comps": []
-  },
-  {
    "id": "e15215006056689",
    "cat": "earphones",
    "src": "eearphone",
@@ -10520,6 +10495,30 @@
    "url": "https://www.e-earphone.jp/products/792514",
    "mkt": 196850,
    "mktN": 4,
+   "comps": []
+  },
+  {
+   "id": "e15241452617969",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Shokz",
+   "model": "OpenRun Pro Blue",
+   "desc": "OpenRun Pro Blue",
+   "cond": "",
+   "jpy": 8835,
+   "kg": 0.5,
+   "sq": "OpenRun Pro Blue",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018053_3330387.jpg?v=1792306457&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018053_3330388.jpg?v=1792306457&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018053_3330389.jpg?v=1792306457&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018053_3330390.jpg?v=1792306457&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/790464",
+   "mkt": 8882,
+   "mktN": 2,
    "comps": []
   },
   {
