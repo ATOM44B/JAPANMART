@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-10-27",
- "generatedAt": "2026-10-27T15:01:11+00:00",
+ "generatedAt": "2026-10-27T19:50:11+00:00",
  "fx": 0.21463,
  "fxDate": "2026-10-27",
  "counts": {
@@ -274,7 +274,6 @@
    "sq": "新入荷 Ｅ５５－２１０ｍｍ Ｆ４．５－６．３ＯＳＳ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/4cf/2700044081987_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/4f6/2700044081987s.jpg"
    ],
    "snap": false,
@@ -1052,7 +1051,6 @@
    "sq": "ＥＦ－６０",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/039/2700044082960_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/386/2700044082960s.jpg"
    ],
    "snap": false,
@@ -2642,7 +2640,7 @@
    "src": "komehyo",
    "brand": "GRAND SEIKO",
    "model": "9F62-0AB0/SBGX063",
-   "desc": "新入荷 【ノーメンテナンス還元価格】セイコー グランドセイコー･クォーツ 9F62-0AB0/SBGX063 SS クォーツ 10月24日入荷 SEIKO",
+   "desc": "新入荷 【ノーメンテナンス還元価格】セイコー グランドセイコー･クォーツ 9F62-0AB0/SBGX063 SS クォーツ SEIKO",
    "cond": "B",
    "jpy": 230000,
    "kg": 0.4,
@@ -3210,7 +3208,7 @@
    "src": "komehyo",
    "brand": "OMEGA",
    "model": "3210.50",
-   "desc": "新入荷 オメガ スピードマスターデイト 3210.50 SS 自動巻 OMEGA",
+   "desc": "オメガ スピードマスターデイト 3210.50 SS 自動巻 OMEGA",
    "cond": "A",
    "jpy": 470000,
    "kg": 0.4,
@@ -3462,7 +3460,7 @@
    "src": "komehyo",
    "brand": "OMEGA",
    "model": "2541.80",
-   "desc": "新入荷 オメガ シーマスタープロ 2541.80 SS クォーツ 10月24日入荷 OMEGA",
+   "desc": "新入荷 オメガ シーマスタープロ 2541.80 SS クォーツ OMEGA",
    "cond": "A",
    "jpy": 450000,
    "kg": 0.4,
@@ -4806,7 +4804,7 @@
    "src": "komehyo",
    "brand": "PRADA",
    "model": "2VZ135",
-   "desc": "新入荷 プラダ 2VZ135 リュックサック PRADA",
+   "desc": "プラダ 2VZ135 リュックサック PRADA",
    "cond": "A",
    "jpy": 250000,
    "kg": 1.2,
@@ -5184,7 +5182,7 @@
    "src": "komehyo",
    "brand": "GRAND SEIKO",
    "model": "9F83-0AH0/SBGT035",
-   "desc": "新入荷 【ノーメンテナンス還元価格】セイコー グランドセイコー･クォーツ 9F83-0AH0/SBGT035 SS クォーツ 10月24日入荷 SEIKO",
+   "desc": "新入荷 【ノーメンテナンス還元価格】セイコー グランドセイコー･クォーツ 9F83-0AH0/SBGT035 SS クォーツ SEIKO",
    "cond": "B",
    "jpy": 200000,
    "kg": 0.4,
@@ -6634,7 +6632,7 @@
    "src": "komehyo",
    "brand": "SEIKO",
    "model": "6R27-00G0/SARW013",
-   "desc": "新入荷 セイコー プレザージュ 6R27-00G0/SARW013 SS 自動巻 10月24日入荷 SEIKO",
+   "desc": "新入荷 セイコー プレザージュ 6R27-00G0/SARW013 SS 自動巻 SEIKO",
    "cond": "B",
    "jpy": 120000,
    "kg": 0.4,
@@ -7383,8 +7381,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/791491",
-   "mkt": 86300,
-   "mktN": 7,
+   "mkt": 86000,
+   "mktN": 6,
    "comps": []
   },
   {
@@ -8439,6 +8437,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/792925",
    "mkt": 9390,
+   "mktN": 3,
+   "comps": []
+  },
+  {
+   "id": "e9812531708145",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MHWK4ZA/A",
+   "desc": "AirPods Max 2 MHWK4ZA/A ミッドナイト",
+   "cond": "",
+   "jpy": 66200,
+   "kg": 0.5,
+   "sq": "MHWK4ZA/A",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004625_3314660.jpg?v=1791606376&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004625_3314661.jpg?v=1791606376&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004625_3314662.jpg?v=1791606376&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1004625_3314663.jpg?v=1791606376&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/777279",
+   "mkt": 71900,
    "mktN": 3,
    "comps": []
   },
@@ -9931,30 +9953,6 @@
    "comps": []
   },
   {
-   "id": "e15229366468849",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MKFT4J/A",
-   "desc": "AirPods 5 MKFT4J/A（ワイヤレス充電ケース付き）",
-   "cond": "",
-   "jpy": 22800,
-   "kg": 0.5,
-   "sq": "MKFT4J/A",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016931_3330050.jpg?v=1792299974&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016931_3330051.jpg?v=1792299974&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016931_3330052.jpg?v=1792299974&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016931_3330053.jpg?v=1792299975&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/789377",
-   "mkt": 23150,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e10302950473969",
    "cat": "speakers",
    "src": "eearphone",
@@ -10371,54 +10369,6 @@
    "comps": []
   },
   {
-   "id": "e15241426108657",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bowers & Wilkins",
-   "model": "Px8",
-   "desc": "Px8 S2 オニキス・ブラック",
-   "cond": "",
-   "jpy": 85700,
-   "kg": 0.5,
-   "sq": "Px8",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017989_3336332.jpg?v=1792562237&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017989_3336333.jpg?v=1792562237&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017989_3336334.jpg?v=1792562237&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017989_3336335.jpg?v=1792562237&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/790401",
-   "mkt": 86300,
-   "mktN": 7,
-   "comps": []
-  },
-  {
-   "id": "e15242797842673",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bowers & Wilkins",
-   "model": "Px8",
-   "desc": "Px8 S2 オニキス・ブラック",
-   "cond": "",
-   "jpy": 85700,
-   "kg": 0.5,
-   "sq": "Px8",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018649_3333880.jpg?v=1792466495&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018649_3333881.jpg?v=1792466495&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018649_3333882.jpg?v=1792466495&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018649_3333883.jpg?v=1792466495&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/791054",
-   "mkt": 86300,
-   "mktN": 7,
-   "comps": []
-  },
-  {
    "id": "e15228724707569",
    "cat": "earphones",
    "src": "eearphone",
@@ -10659,6 +10609,54 @@
    "comps": []
   },
   {
+   "id": "e15241426108657",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Bowers & Wilkins",
+   "model": "Px8",
+   "desc": "Px8 S2 オニキス・ブラック",
+   "cond": "",
+   "jpy": 85700,
+   "kg": 0.5,
+   "sq": "Px8",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017989_3336332.jpg?v=1792562237&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017989_3336333.jpg?v=1792562237&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017989_3336334.jpg?v=1792562237&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017989_3336335.jpg?v=1792562237&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/790401",
+   "mkt": 86000,
+   "mktN": 6,
+   "comps": []
+  },
+  {
+   "id": "e15242797842673",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Bowers & Wilkins",
+   "model": "Px8",
+   "desc": "Px8 S2 オニキス・ブラック",
+   "cond": "",
+   "jpy": 85700,
+   "kg": 0.5,
+   "sq": "Px8",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018649_3333880.jpg?v=1792466495&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018649_3333881.jpg?v=1792466495&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018649_3333882.jpg?v=1792466495&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018649_3333883.jpg?v=1792466495&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/791054",
+   "mkt": 86000,
+   "mktN": 6,
+   "comps": []
+  },
+  {
    "id": "e9825432961265",
    "cat": "speakers",
    "src": "eearphone",
@@ -10800,6 +10798,30 @@
    "url": "https://www.e-earphone.jp/products/790717",
    "mkt": 98950,
    "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e15242455318769",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "qdc",
+   "model": "CRAVE",
+   "desc": "CRAVE",
+   "cond": "",
+   "jpy": 429000,
+   "kg": 0.5,
+   "sq": "CRAVE",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018370_3339709.jpg?v=1792727485&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018370_3339710.jpg?v=1792727485&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018370_3339711.jpg?v=1792727485&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018370_3339712.jpg?v=1792727485&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/790775",
+   "mkt": 429000,
+   "mktN": 1,
    "comps": []
   },
   {
@@ -11499,30 +11521,6 @@
    "comps": []
   },
   {
-   "id": "e15241420734705",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bowers & Wilkins",
-   "model": "Px8",
-   "desc": "Px8 S2 オニキス・ブラック",
-   "cond": "",
-   "jpy": 86300,
-   "kg": 0.5,
-   "sq": "Px8",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017978_3336150.jpg?v=1792557917&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017978_3336151.jpg?v=1792557917&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017978_3336152.jpg?v=1792557917&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017978_3336153.jpg?v=1792557917&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/790390",
-   "mkt": 86300,
-   "mktN": 7,
-   "comps": []
-  },
-  {
    "id": "e15250227986673",
    "cat": "earphones",
    "src": "eearphone",
@@ -11719,7 +11717,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/791394",
    "mkt": 71900,
-   "mktN": 2,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -11767,7 +11765,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/784990",
    "mkt": 71900,
-   "mktN": 2,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -12487,7 +12485,31 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/788154",
    "mkt": 44900,
-   "mktN": 1,
+   "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e15241829777649",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Beats by Dr. Dre",
+   "model": "360",
+   "desc": "Beats 360 ブラック",
+   "cond": "",
+   "jpy": 44900,
+   "kg": 0.5,
+   "sq": "360",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018234_3329900.jpg?v=1792298135&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018234_3329901.jpg?v=1792298135&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018234_3329902.jpg?v=1792298135&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018234_3329903.jpg?v=1792298135&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/790643",
+   "mkt": 44900,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -13780,30 +13802,6 @@
    "comps": []
   },
   {
-   "id": "e15253993685233",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "AFUL",
-   "model": "Performer 5+2",
-   "desc": "Performer 5+2 (Performer7)",
-   "cond": "",
-   "jpy": 24900,
-   "kg": 0.5,
-   "sq": "Performer 5+2",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020548_3341951.jpg?v=1792823772&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020548_3341952.jpg?v=1792823772&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020548_3341953.jpg?v=1792823772&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020548_3341954.jpg?v=1792823772&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/792919",
-   "mkt": 24900,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e15254950478065",
    "cat": "earphones",
    "src": "eearphone",
@@ -13968,6 +13966,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/781371",
    "mkt": 23000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15229366468849",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MKFT4J/A",
+   "desc": "AirPods 5 MKFT4J/A（ワイヤレス充電ケース付き）",
+   "cond": "",
+   "jpy": 22800,
+   "kg": 0.5,
+   "sq": "MKFT4J/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016931_3330050.jpg?v=1792299974&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016931_3330051.jpg?v=1792299974&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016931_3330052.jpg?v=1792299974&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016931_3330053.jpg?v=1792299975&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/789377",
+   "mkt": 22800,
    "mktN": 1,
    "comps": []
   },
@@ -14543,30 +14565,6 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/790860",
-   "mkt": 20000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15203977232625",
-   "cat": "speakers",
-   "src": "eearphone",
-   "brand": "Panasonic",
-   "model": "SC GNW30",
-   "desc": "SCｰGNW30 ゲーミングネックスピーカー",
-   "cond": "",
-   "jpy": 20000,
-   "kg": 3.0,
-   "sq": "SC GNW30",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012649_3312342.jpg?v=1791512721&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012649_3312343.jpg?v=1791512721&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012649_3312344.jpg?v=1791512721&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012649_3312345.jpg?v=1791512721&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/785176",
    "mkt": 20000,
    "mktN": 1,
    "comps": []
