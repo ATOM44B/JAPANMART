@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T00:08:47+00:00",
+ "generatedAt": "2026-10-28T09:06:24+00:00",
  "ok": true,
  "live_items": 650,
  "sites": {
@@ -22,7 +22,7 @@
  "photos": {
   "listings_with_photo": 650,
   "listings_without_photo": 0,
-  "from_product_pages": 2,
+  "from_product_pages": 0,
   "examples_without_photo": []
  },
  "refused_by": {
@@ -675,56 +675,56 @@
    "site": "eearphone",
    "cat": "earphones",
    "url": "https://www.e-earphone.jp/collections/43/products.json?limit=250&page=1",
-   "found": 250,
+   "found": 200,
    "note": ""
   },
   {
    "site": "eearphone",
    "cat": "earphones",
    "url": "https://www.e-earphone.jp/collections/44/products.json?limit=250&page=1",
-   "found": 250,
+   "found": 244,
    "note": ""
   },
   {
    "site": "eearphone",
    "cat": "earphones",
    "url": "https://www.e-earphone.jp/collections/used-airpods/products.json?limit=250&page=1",
-   "found": 250,
+   "found": 242,
    "note": ""
   },
   {
    "site": "eearphone",
    "cat": "earphones",
    "url": "https://www.e-earphone.jp/collections/45/products.json?limit=250&page=1",
-   "found": 250,
+   "found": 246,
    "note": ""
   },
   {
    "site": "eearphone",
    "cat": "earphones",
    "url": "https://www.e-earphone.jp/collections/46/products.json?limit=250&page=1",
-   "found": 250,
+   "found": 225,
    "note": ""
   },
   {
    "site": "eearphone",
    "cat": "earphones",
    "url": "https://www.e-earphone.jp/collections/47/products.json?limit=250&page=1",
-   "found": 250,
+   "found": 248,
    "note": ""
   },
   {
    "site": "eearphone",
    "cat": "player",
    "url": "https://www.e-earphone.jp/collections/48/products.json?limit=250&page=1",
-   "found": 250,
+   "found": 227,
    "note": ""
   },
   {
    "site": "eearphone",
    "cat": "speakers",
    "url": "https://www.e-earphone.jp/collections/51/products.json?limit=250&page=1",
-   "found": 250,
+   "found": 247,
    "note": ""
   },
   {
