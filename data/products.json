@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-10-28",
- "generatedAt": "2026-10-28T17:33:32+00:00",
+ "generatedAt": "2026-10-28T21:58:54+00:00",
  "fx": 0.2139,
  "fxDate": "2026-10-28",
  "counts": {
@@ -274,7 +274,6 @@
    "sq": "Ｅ５５－２１０ｍｍ Ｆ４．５－６．３ＯＳＳ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/9c5/2700044081628_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/84c/2700044081628s.jpg"
    ],
    "snap": false,
@@ -428,27 +427,6 @@
    "url": "https://komehyo.jp/product/260-007-318-8001/",
    "mkt": 52250,
    "mktN": 91,
-   "comps": []
-  },
-  {
-   "id": "k2700043867384",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "GRAND SEIKO",
-   "model": "8N65-9010",
-   "desc": "【ノーメンテナンス還元価格】セイコー グランドセイコー 8N65-9010 SS クォーツ SEIKO",
-   "cond": "B",
-   "jpy": 150000,
-   "kg": 0.4,
-   "sq": "8N65-9010",
-   "store": "KOMEHYO SHINJUKU",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/c2f/2700043867384_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-386-7384/",
-   "mkt": 400000,
-   "mktN": 3,
    "comps": []
   },
   {
@@ -851,6 +829,27 @@
    "comps": []
   },
   {
+   "id": "k2700043867384",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "GRAND SEIKO",
+   "model": "8N65-9010",
+   "desc": "【ノーメンテナンス還元価格】セイコー グランドセイコー 8N65-9010 SS クォーツ SEIKO",
+   "cond": "B",
+   "jpy": 150000,
+   "kg": 0.4,
+   "sq": "8N65-9010",
+   "store": "KOMEHYO SHINJUKU",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/c2f/2700043867384_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-386-7384/",
+   "mkt": 275000,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "k2600075328436",
    "cat": "camera",
    "src": "komehyo",
@@ -931,7 +930,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-495-2342/",
    "mkt": 70000,
-   "mktN": 8,
+   "mktN": 7,
    "comps": []
   },
   {
@@ -1456,7 +1455,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-312-5927/",
    "mkt": 70000,
-   "mktN": 8,
+   "mktN": 7,
    "comps": []
   },
   {
@@ -1771,7 +1770,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-506-9698/",
    "mkt": 38000,
-   "mktN": 10,
+   "mktN": 11,
    "comps": []
   },
   {
@@ -1792,7 +1791,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-006-670-8469/",
    "mkt": 38000,
-   "mktN": 10,
+   "mktN": 11,
    "comps": []
   },
   {
@@ -2296,7 +2295,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-577-9269/",
    "mkt": 70000,
-   "mktN": 8,
+   "mktN": 7,
    "comps": []
   },
   {
@@ -2401,7 +2400,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-007-043-4262/",
    "mkt": 38000,
-   "mktN": 10,
+   "mktN": 11,
    "comps": []
   },
   {
@@ -2868,27 +2867,6 @@
    "comps": []
   },
   {
-   "id": "k2300008595811",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "LOUIS VUITTON",
-   "model": "M51902",
-   "desc": "ルイヴィトン モノグラム ソナチネ M51902 バッグ LOUIS VUITTON",
-   "cond": "B",
-   "jpy": 80000,
-   "kg": 1.2,
-   "sq": "M51902",
-   "store": "名古屋本店BAG＋",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/b5c/2300008595811_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-859-5811/",
-   "mkt": 85000,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "k2300008711198",
    "cat": "watch",
    "src": "komehyo",
@@ -3075,6 +3053,27 @@
    "url": "https://komehyo.jp/product/260-007-532-3028/",
    "mkt": 51300,
    "mktN": 48,
+   "comps": []
+  },
+  {
+   "id": "k2300006107788",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "GRAND SEIKO",
+   "model": "9R65-0AA0/SBGA003",
+   "desc": "セイコー グランドセイコー･スプリングドライブ 9R65-0AA0/SBGA003 SS 自動巻 SEIKO",
+   "cond": "A",
+   "jpy": 480000,
+   "kg": 0.4,
+   "sq": "9R65-0AA0/SBGA003",
+   "store": "神戸三宮店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/d10/2300006107788_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-610-7788/",
+   "mkt": 480000,
+   "mktN": 1,
    "comps": []
   },
   {
@@ -3598,48 +3597,6 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-409-7995/",
-   "mkt": 400000,
-   "mktN": 3,
-   "comps": []
-  },
-  {
-   "id": "k2300007804112",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "GRAND SEIKO",
-   "model": "8N65-9010",
-   "desc": "【ノーメンテナンス還元価格】セイコー グランドセイコー･クォーツ コンビ 8N65-9010 SSxYG クォーツ SEIKO",
-   "cond": "B",
-   "jpy": 400000,
-   "kg": 0.4,
-   "sq": "8N65-9010",
-   "store": "【新店】KOMEHYO YOKOHAMA",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/a68/2300007804112_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-780-4112/",
-   "mkt": 400000,
-   "mktN": 3,
-   "comps": []
-  },
-  {
-   "id": "k2300008587038",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "GRAND SEIKO",
-   "model": "8N65-9010",
-   "desc": "【ノーメンテナンス還元価格】セイコー グランドセイコー･クォーツ コンビ 8N65-9010 SSxYG クォーツ SEIKO",
-   "cond": "B",
-   "jpy": 400000,
-   "kg": 0.4,
-   "sq": "8N65-9010",
-   "store": "KOMEHYO SHINJUKU",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/53a/2300008587038_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-858-7038/",
    "mkt": 400000,
    "mktN": 3,
    "comps": []
@@ -4170,6 +4127,27 @@
    "comps": []
   },
   {
+   "id": "k2600080752639",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "ペルレ ミディアム リング",
+   "desc": "ヴァンクリーフ&アーペル ペルレ ミディアム リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 300000,
+   "kg": 0.1,
+   "sq": "ペルレ ミディアム リング",
+   "store": "日本橋店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/860/2600080752639_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-008-075-2639/",
+   "mkt": 300000,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "k2460004650171",
    "cat": "ring",
    "src": "komehyo",
@@ -4187,7 +4165,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/246-000-465-0171/",
    "mkt": 300000,
-   "mktN": 1,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -5010,27 +4988,6 @@
    "comps": []
   },
   {
-   "id": "k2300008666429",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "ペルレ スモール リング",
-   "desc": "ヴァンクリーフ&アーペル ペルレ スモール リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 220000,
-   "kg": 0.1,
-   "sq": "ペルレ スモール リング",
-   "store": "日本橋店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/f9f/2300008666429_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-866-6429/",
-   "mkt": 220000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "k2300006859830",
    "cat": "bag",
    "src": "komehyo",
@@ -5083,7 +5040,7 @@
    "jpy": 200000,
    "kg": 0.4,
    "sq": "6R54-00D0/SBEJ011",
-   "store": "梅田店",
+   "store": "心斎橋店",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/14e/2300009595193_1_b.jpg"
    ],
@@ -6355,6 +6312,27 @@
    "comps": []
   },
   {
+   "id": "k2300009340496",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "LOUIS VUITTON",
+   "model": "M52052",
+   "desc": "ルイヴィトン エピ ポンヌフ M52052 バッグ LOUIS VUITTON",
+   "cond": "A",
+   "jpy": 130000,
+   "kg": 1.2,
+   "sq": "M52052",
+   "store": "名駅店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/3ed/2300009340496_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-934-0496/",
+   "mkt": 130000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2700042895333",
    "cat": "bag",
    "src": "komehyo",
@@ -7358,6 +7336,27 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-663-9364/",
+   "mkt": 90000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2460004581918",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "PRADA",
+   "model": "BN1601",
+   "desc": "プラダ BN1601 バッグ PRADA",
+   "cond": "A",
+   "jpy": 90000,
+   "kg": 1.2,
+   "sq": "BN1601",
+   "store": "名古屋本店BAG＋",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/7fa/2460004581918_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/246-000-458-1918/",
    "mkt": 90000,
    "mktN": 1,
    "comps": []
