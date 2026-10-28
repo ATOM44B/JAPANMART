@@ -1,9 +1,9 @@
 {
  "source": "live",
- "generated": "2026-10-27",
- "generatedAt": "2026-10-27T19:50:11+00:00",
+ "generated": "2026-10-28",
+ "generatedAt": "2026-10-28T00:08:47+00:00",
  "fx": 0.21463,
- "fxDate": "2026-10-27",
+ "fxDate": "2026-10-28",
  "counts": {
   "live": 650,
   "seed": 0
@@ -1910,7 +1910,7 @@
    "jpy": 73000,
    "kg": 0.1,
    "sq": "トゥージュール リング",
-   "store": "KOMEHYO GINZA",
+   "store": "【新店】KOMEHYO VINTAGE TOKYO atelier",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/e15/2600074584949_1_b.jpg"
    ],
@@ -2477,7 +2477,7 @@
    "jpy": 120000,
    "kg": 0.4,
    "sq": "コンステレーションクロノメーター SS 自動巻",
-   "store": "大宮東口店",
+   "store": "KOMEHYO SHIBUYA",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/d94/2300006842900_1_b.jpg"
    ],
@@ -3707,27 +3707,6 @@
    "comps": []
   },
   {
-   "id": "k2300008084667",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "GRAND SEIKO",
-   "model": "8N65-9000/SBGG002",
-   "desc": "【ノーメンテナンス還元価格】セイコー グランドセイコー･クォーツ コンビ 8N65-9000/SBGG002 SSxYG クォーツ SEIKO",
-   "cond": "B",
-   "jpy": 400000,
-   "kg": 0.4,
-   "sq": "8N65-9000/SBGG002",
-   "store": "KOMEHYO SHIBUYA",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/ff6/2300008084667_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-808-4667/",
-   "mkt": 400000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "k2300008422797",
    "cat": "watch",
    "src": "komehyo",
@@ -3765,27 +3744,6 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-829-6923/",
-   "mkt": 400000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2700044070868",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "新入荷 バッグ 10月27日入荷",
-   "desc": "新入荷 シャネル バッグ 10月27日入荷 CHANEL",
-   "cond": "A",
-   "jpy": 400000,
-   "kg": 1.2,
-   "sq": "新入荷 バッグ 10月27日入荷",
-   "store": "【新店】KOMEHYO VINTAGE TOKYO atelier",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/57b/2700044070868_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-407-0868/",
    "mkt": 400000,
    "mktN": 1,
    "comps": []
@@ -4228,6 +4186,27 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-338-6700/",
    "mkt": 310000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2300008246270",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "GRAND SEIKO",
+   "model": "9S55-0010/SBGR001",
+   "desc": "【ノーメンテナンス還元価格】セイコー グランドセイコー･オートマティック 9S55-0010/SBGR001 SS 自動巻 SEIKO",
+   "cond": "B",
+   "jpy": 300000,
+   "kg": 0.4,
+   "sq": "9S55-0010/SBGR001",
+   "store": "梅田店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/821/2300008246270_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-824-6270/",
+   "mkt": 300000,
    "mktN": 1,
    "comps": []
   },
@@ -7359,6 +7338,27 @@
    "url": "https://komehyo.jp/product/270-004-325-1749/",
    "mkt": 95000,
    "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2300007340825",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "GUCCI",
+   "model": "113014",
+   "desc": "グッチ 113014 バッグ GUCCI",
+   "cond": "A",
+   "jpy": 95000,
+   "kg": 1.2,
+   "sq": "113014",
+   "store": "KOMEHYO VINTAGE TOKYO",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/093/2300007340825_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-734-0825/",
+   "mkt": 95000,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -10801,30 +10801,6 @@
    "comps": []
   },
   {
-   "id": "e15242455318769",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "qdc",
-   "model": "CRAVE",
-   "desc": "CRAVE",
-   "cond": "",
-   "jpy": 429000,
-   "kg": 0.5,
-   "sq": "CRAVE",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018370_3339709.jpg?v=1792727485&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018370_3339710.jpg?v=1792727485&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018370_3339711.jpg?v=1792727485&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018370_3339712.jpg?v=1792727485&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/790775",
-   "mkt": 429000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e15248727179505",
    "cat": "earphones",
    "src": "eearphone",
@@ -13081,6 +13057,30 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/790727",
+   "mkt": 31900,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15242418258161",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Campfire Audio",
+   "model": "POLARIS II",
+   "desc": "POLARIS II",
+   "cond": "",
+   "jpy": 31900,
+   "kg": 0.5,
+   "sq": "POLARIS II",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018328_3338558.jpg?v=1792655895&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018328_3338559.jpg?v=1792655895&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018328_3338560.jpg?v=1792655895&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018328_3338561.jpg?v=1792655895&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/790735",
    "mkt": 31900,
    "mktN": 1,
    "comps": []
