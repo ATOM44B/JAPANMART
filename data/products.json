@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-10-30",
- "generatedAt": "2026-10-30T17:24:11+00:00",
+ "generatedAt": "2026-10-30T21:46:26+00:00",
  "fx": 0.21361,
  "fxDate": "2026-10-30",
  "counts": {
@@ -2458,7 +2458,6 @@
    "sq": "新入荷 ＰＬＡＮＡＲ５０ｍｍ Ｆ１．４ＺＦ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/1de/2700042873096_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/3b2/2700042873096s.jpg"
    ],
    "snap": false,
@@ -3136,7 +3135,28 @@
    "snap": false,
    "url": "https://komehyo.jp/product/246-000-465-0188/",
    "mkt": 480000,
-   "mktN": 1,
+   "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "k2600083313974",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "新入荷 ペルレ シニアチュール",
+   "desc": "新入荷 ヴァンクリーフ&アーペル ペルレ シニアチュール リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 480000,
+   "kg": 0.1,
+   "sq": "新入荷 ペルレ シニアチュール",
+   "store": "名駅店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/726/2600083313974_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/260-008-331-3974/",
+   "mkt": 480000,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -3493,6 +3513,27 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-969-3141/",
    "mkt": 430000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2700044210547",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "GRAND SEIKO",
+   "model": "9S65-00F0/SBGR269",
+   "desc": "セイコー グランドセイコー･スポーツコレクション 9S65-00F0/SBGR269 SS 自動巻 SEIKO",
+   "cond": "A",
+   "jpy": 420000,
+   "kg": 0.4,
+   "sq": "9S65-00F0/SBGR269",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/f74/2700044210547_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-421-0547/",
+   "mkt": 420000,
    "mktN": 1,
    "comps": []
   },
@@ -4316,27 +4357,6 @@
    "comps": []
   },
   {
-   "id": "k2300009449465",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "OMEGA",
-   "model": "2263.80",
-   "desc": "新入荷 【ノーメンテナンス還元価格】オメガ シーマスタープロ 2263.80 SS クォーツ OMEGA",
-   "cond": "B",
-   "jpy": 270000,
-   "kg": 0.4,
-   "sq": "2263.80",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/993/2300009449465_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-944-9465/",
-   "mkt": 270000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "k2700039542172",
    "cat": "watch",
    "src": "komehyo",
@@ -4563,27 +4583,6 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-885-6592/",
-   "mkt": 250000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2700044070462",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "GRAND SEIKO",
-   "model": "9F82-0AF0/SBGV221",
-   "desc": "【ノーメンテナンス還元価格】セイコー グランドセイコー･ヘリテージコレクション 9F82-0AF0/SBGV221 SS クォーツ SEIKO",
-   "cond": "B",
-   "jpy": 250000,
-   "kg": 0.4,
-   "sq": "9F82-0AF0/SBGV221",
-   "store": "KOMEHYO SHINJUKU",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/edf/2700044070462_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-407-0462/",
    "mkt": 250000,
    "mktN": 1,
    "comps": []
@@ -4921,28 +4920,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-866-6429/",
    "mkt": 220000,
-   "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "k2300007786333",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "ペルレ スモール リング",
-   "desc": "ヴァンクリーフ&アーペル ペルレ スモール リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 220000,
-   "kg": 0.1,
-   "sq": "ペルレ スモール リング",
-   "store": "心斎橋店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/131/2300007786333_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-778-6333/",
-   "mkt": 220000,
-   "mktN": 2,
+   "mktN": 1,
    "comps": []
   },
   {
@@ -5151,27 +5129,6 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-877-2656/",
-   "mkt": 200000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2460004614500",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "PRADA",
-   "model": "1BZ039",
-   "desc": "プラダ 1BZ039 リュックサック PRADA",
-   "cond": "A",
-   "jpy": 200000,
-   "kg": 1.2,
-   "sq": "1BZ039",
-   "store": "名古屋本店BAG＋",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/fb6/2460004614500_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/246-000-461-4500/",
    "mkt": 200000,
    "mktN": 1,
    "comps": []
@@ -5565,7 +5522,7 @@
    "jpy": 170000,
    "kg": 1.2,
    "sq": "BZ0039",
-   "store": "名駅店",
+   "store": "名古屋本店BAG＋",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/8d0/2300007966483_1_b.jpg"
    ],
@@ -5733,7 +5690,7 @@
    "jpy": 170000,
    "kg": 0.1,
    "sq": "マトラッセ リング",
-   "store": "【新店】KOMEHYO YOKOHAMA",
+   "store": "KOMEHYO SHINJUKU WOMEN",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/824/2300008407336_1_b.jpg"
    ],
@@ -6291,6 +6248,27 @@
    "comps": []
   },
   {
+   "id": "k2300009340496",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "LOUIS VUITTON",
+   "model": "M52052",
+   "desc": "ルイヴィトン エピ ポンヌフ M52052 バッグ LOUIS VUITTON",
+   "cond": "A",
+   "jpy": 130000,
+   "kg": 1.2,
+   "sq": "M52052",
+   "store": "名駅店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/3ed/2300009340496_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-934-0496/",
+   "mkt": 130000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2700042895333",
    "cat": "bag",
    "src": "komehyo",
@@ -6538,27 +6516,6 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-008-367-8240/",
-   "mkt": 120000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2600083679759",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "LOUIS VUITTON",
-   "model": "M51900",
-   "desc": "ルイヴィトン モノグラム レシタル M51900 バッグ LOUIS VUITTON",
-   "cond": "B",
-   "jpy": 120000,
-   "kg": 1.2,
-   "sq": "M51900",
-   "store": "名古屋本店BAG＋",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/565/2600083679759_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/260-008-367-9759/",
    "mkt": 120000,
    "mktN": 1,
    "comps": []
@@ -7299,6 +7256,27 @@
    "comps": []
   },
   {
+   "id": "k2700043909367",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "PRADA",
+   "model": "BR3993",
+   "desc": "プラダ BR3993 バッグ PRADA",
+   "cond": "A",
+   "jpy": 90000,
+   "kg": 1.2,
+   "sq": "BR3993",
+   "store": "神戸三宮店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/565/2700043909367_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-390-9367/",
+   "mkt": 90000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2300007845801",
    "cat": "bag",
    "src": "komehyo",
@@ -7359,6 +7337,28 @@
    "url": "https://komehyo.jp/product/230-000-462-4317/",
    "mkt": 90000,
    "mktN": 5,
+   "comps": []
+  },
+  {
+   "id": "k2700043521064",
+   "cat": "camera",
+   "src": "komehyo",
+   "brand": "LEICA",
+   "model": "ＩＩＩＦ ＢＯＤＹレッドシンクロ セルフ付き",
+   "desc": "ＩＩＩＦ ＢＯＤＹレッドシンクロ セルフ付き LEICA",
+   "cond": "Ｃ",
+   "jpy": 86450,
+   "kg": 1.2,
+   "sq": "ＩＩＩＦ ＢＯＤＹレッドシンクロ セルフ付き",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/eea/2700043521064_b.jpg",
+    "https://img.komehyo.jp/contents/images/goods/0ac/2700043521064s.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-352-1064/",
+   "mkt": 86450,
+   "mktN": 1,
    "comps": []
   },
   {
@@ -13112,30 +13112,6 @@
    "comps": []
   },
   {
-   "id": "e15253991457009",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "DUNU-TOPSOUND",
-   "model": "DaVinci",
-   "desc": "DaVinci",
-   "cond": "",
-   "jpy": 30900,
-   "kg": 0.5,
-   "sq": "DaVinci",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020523_3344150.jpg?v=1792916292&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020523_3344151.jpg?v=1792916292&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020523_3344152.jpg?v=1792916292&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020523_3344153.jpg?v=1792916292&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/792894",
-   "mkt": 30900,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e15215362736369",
    "cat": "earphones",
    "src": "eearphone",
@@ -13707,30 +13683,6 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/790218",
-   "mkt": 24900,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15254950478065",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Austrian Audio",
-   "model": "Hi-X60",
-   "desc": "Hi-X60",
-   "cond": "",
-   "jpy": 24900,
-   "kg": 0.5,
-   "sq": "Hi-X60",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020838_3342211.jpg?v=1792827901&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020838_3342213.jpg?v=1792827901&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020838_3342215.jpg?v=1792827901&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020838_3342217.jpg?v=1792827901&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/793191",
    "mkt": 24900,
    "mktN": 1,
    "comps": []
@@ -14573,6 +14525,54 @@
    "url": "https://www.e-earphone.jp/products/794681",
    "mkt": 19900,
    "mktN": 3,
+   "comps": []
+  },
+  {
+   "id": "e15264966934769",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "AVIOT",
+   "model": "TE-ZX1",
+   "desc": "TE-ZX1 ピエール中野コラボモデル",
+   "cond": "",
+   "jpy": 19900,
+   "kg": 0.5,
+   "sq": "TE-ZX1",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022067_3349159.jpg?v=1793176691&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022067_3349160.jpg?v=1793176691&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022067_3349161.jpg?v=1793176691&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022067_3349162.jpg?v=1793176691&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/794404",
+   "mkt": 19900,
+   "mktN": 3,
+   "comps": []
+  },
+  {
+   "id": "e15264997834993",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SteelSeries",
+   "model": "Arctis Nova 7",
+   "desc": "Arctis Nova 7 Wireless Gen 2",
+   "cond": "",
+   "jpy": 19900,
+   "kg": 0.5,
+   "sq": "Arctis Nova 7",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022099_3348370.jpg?v=1793167394&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022099_3348371.jpg?v=1793167394&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022099_3348372.jpg?v=1793167394&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022099_3348373.jpg?v=1793167394&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/794437",
+   "mkt": 19900,
+   "mktN": 1,
    "comps": []
   }
  ]
