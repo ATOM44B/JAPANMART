@@ -1,9 +1,9 @@
 {
  "source": "live",
- "generated": "2026-10-30",
- "generatedAt": "2026-10-30T21:46:26+00:00",
- "fx": 0.21361,
- "fxDate": "2026-10-30",
+ "generated": "2026-10-31",
+ "generatedAt": "2026-10-31T03:01:12+00:00",
+ "fx": 0.21435,
+ "fxDate": "2026-10-31",
  "counts": {
   "live": 650,
   "seed": 0
@@ -4504,27 +4504,6 @@
    "comps": []
   },
   {
-   "id": "k2700039584790",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "SEIKO",
-   "model": "6R54-00F0/SARH001",
-   "desc": "セイコー プレザージュ 6R54-00F0/SARH001 SS 自動巻 SEIKO",
-   "cond": "New",
-   "jpy": 250800,
-   "kg": 0.4,
-   "sq": "6R54-00F0/SARH001",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/c5d/2700039584790_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-003-958-4790/",
-   "mkt": 250800,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "k2300007526434",
    "cat": "watch",
    "src": "komehyo",
@@ -7352,12 +7331,32 @@
    "sq": "ＩＩＩＦ ＢＯＤＹレッドシンクロ セルフ付き",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/eea/2700043521064_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/0ac/2700043521064s.jpg"
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-352-1064/",
    "mkt": 86450,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2300005230623",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "GUCCI",
+   "model": "137385",
+   "desc": "値下げ 5％引き グッチ 137385 バッグ GUCCI",
+   "cond": "A",
+   "jpy": 85500,
+   "kg": 1.2,
+   "sq": "137385",
+   "store": "天神店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/984/2300005230623_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-523-0623/",
+   "mkt": 85500,
    "mktN": 1,
    "comps": []
   },
@@ -7479,6 +7478,30 @@
    "url": "https://www.e-earphone.jp/products/786224",
    "mkt": 13650,
    "mktN": 4,
+   "comps": []
+  },
+  {
+   "id": "e15204025598193",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "WH-1000XM6",
+   "desc": "WH-1000XM6 LM ミッドナイトブルー",
+   "cond": "",
+   "jpy": 33600,
+   "kg": 0.5,
+   "sq": "WH-1000XM6",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012827_3334792.jpg?v=1792483514&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012827_3334793.jpg?v=1792483514&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012827_3334794.jpg?v=1792483514&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012827_3334795.jpg?v=1792483514&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/785353",
+   "mkt": 45650,
+   "mktN": 10,
    "comps": []
   },
   {
@@ -7746,30 +7769,6 @@
    "comps": []
   },
   {
-   "id": "e15212994855153",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "WH-1000XM6",
-   "desc": "WH-1000XM6 BM ブラック",
-   "cond": "",
-   "jpy": 38400,
-   "kg": 0.5,
-   "sq": "WH-1000XM6",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013454_3330426.jpg?v=1792307239&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013454_3330427.jpg?v=1792307239&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013454_3330428.jpg?v=1792307239&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013454_3330429.jpg?v=1792307239&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/785980",
-   "mkt": 45800,
-   "mktN": 10,
-   "comps": []
-  },
-  {
    "id": "e15212969853169",
    "cat": "earphones",
    "src": "eearphone",
@@ -7791,6 +7790,30 @@
    "url": "https://www.e-earphone.jp/products/785959",
    "mkt": 19300,
    "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e15212994855153",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "WH-1000XM6",
+   "desc": "WH-1000XM6 BM ブラック",
+   "cond": "",
+   "jpy": 38400,
+   "kg": 0.5,
+   "sq": "WH-1000XM6",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013454_3330426.jpg?v=1792307239&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013454_3330427.jpg?v=1792307239&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013454_3330428.jpg?v=1792307239&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013454_3330429.jpg?v=1792307239&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/785980",
+   "mkt": 45650,
+   "mktN": 10,
    "comps": []
   },
   {
@@ -9017,30 +9040,6 @@
    "comps": []
   },
   {
-   "id": "e15265839087857",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "WH-1000XM6",
-   "desc": "WH-1000XM6 BM ブラック",
-   "cond": "",
-   "jpy": 43900,
-   "kg": 0.5,
-   "sq": "WH-1000XM6",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022162_3350199.jpg?v=1793248996&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022162_3350200.jpg?v=1793248996&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022162_3350201.jpg?v=1793248996&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022162_3350202.jpg?v=1793248996&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/794507",
-   "mkt": 45800,
-   "mktN": 10,
-   "comps": []
-  },
-  {
    "id": "e15261216637169",
    "cat": "earphones",
    "src": "eearphone",
@@ -9134,6 +9133,30 @@
    "url": "https://www.e-earphone.jp/products/787597",
    "mkt": 18100,
    "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e15265839087857",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "WH-1000XM6",
+   "desc": "WH-1000XM6 BM ブラック",
+   "cond": "",
+   "jpy": 43900,
+   "kg": 0.5,
+   "sq": "WH-1000XM6",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022162_3350199.jpg?v=1793248996&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022162_3350200.jpg?v=1793248996&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022162_3350201.jpg?v=1793248996&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022162_3350202.jpg?v=1793248996&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/794507",
+   "mkt": 45650,
+   "mktN": 10,
    "comps": []
   },
   {
@@ -9377,30 +9400,6 @@
    "comps": []
   },
   {
-   "id": "e15213934641393",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "WH-1000XM6",
-   "desc": "WH-1000XM6 LM ミッドナイトブルー",
-   "cond": "",
-   "jpy": 44400,
-   "kg": 0.5,
-   "sq": "WH-1000XM6",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014004_3331575.jpg?v=1792375656&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014004_3331576.jpg?v=1792375656&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014004_3331577.jpg?v=1792375656&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014004_3331578.jpg?v=1792375656&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/786498",
-   "mkt": 45800,
-   "mktN": 10,
-   "comps": []
-  },
-  {
    "id": "e9830534119665",
    "cat": "earphones",
    "src": "eearphone",
@@ -9542,6 +9541,30 @@
    "url": "https://www.e-earphone.jp/products/781901",
    "mkt": 18000,
    "mktN": 33,
+   "comps": []
+  },
+  {
+   "id": "e15213934641393",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "WH-1000XM6",
+   "desc": "WH-1000XM6 LM ミッドナイトブルー",
+   "cond": "",
+   "jpy": 44400,
+   "kg": 0.5,
+   "sq": "WH-1000XM6",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014004_3331575.jpg?v=1792375656&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014004_3331576.jpg?v=1792375656&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014004_3331577.jpg?v=1792375656&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014004_3331578.jpg?v=1792375656&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/786498",
+   "mkt": 45650,
+   "mktN": 10,
    "comps": []
   },
   {
@@ -10296,30 +10319,6 @@
    "comps": []
   },
   {
-   "id": "e15250224021745",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "WH-1000XM6",
-   "desc": "WH-1000XM6 LM ミッドナイトブルー",
-   "cond": "",
-   "jpy": 45500,
-   "kg": 0.5,
-   "sq": "WH-1000XM6",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1019392_3338011.jpg?v=1792644255&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1019392_3338012.jpg?v=1792644255&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1019392_3338013.jpg?v=1792644255&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1019392_3338014.jpg?v=1792644255&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/791774",
-   "mkt": 45800,
-   "mktN": 10,
-   "comps": []
-  },
-  {
    "id": "e15252070269169",
    "cat": "earphones",
    "src": "eearphone",
@@ -10509,6 +10508,30 @@
    "url": "https://www.e-earphone.jp/products/784581",
    "mkt": 28300,
    "mktN": 21,
+   "comps": []
+  },
+  {
+   "id": "e15250224021745",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "WH-1000XM6",
+   "desc": "WH-1000XM6 LM ミッドナイトブルー",
+   "cond": "",
+   "jpy": 45500,
+   "kg": 0.5,
+   "sq": "WH-1000XM6",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1019392_3338011.jpg?v=1792644255&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1019392_3338012.jpg?v=1792644255&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1019392_3338013.jpg?v=1792644255&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1019392_3338014.jpg?v=1792644255&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/791774",
+   "mkt": 45650,
+   "mktN": 10,
    "comps": []
   },
   {
@@ -11472,6 +11495,30 @@
    "comps": []
   },
   {
+   "id": "e15222424764657",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "FIIO",
+   "model": "M33",
+   "desc": "M33 R2R Blue",
+   "cond": "",
+   "jpy": 89900,
+   "kg": 0.4,
+   "sq": "M33",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015992_3340633.jpg?v=1792746978&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015992_3340634.jpg?v=1792746978&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015992_3340635.jpg?v=1792746978&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015992_3340636.jpg?v=1792746978&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/788449",
+   "mkt": 89900,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e15256492769521",
    "cat": "earphones",
    "src": "eearphone",
@@ -12320,54 +12367,6 @@
    "comps": []
   },
   {
-   "id": "e15228067709169",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "WH-1000XM6",
-   "desc": "WH-1000XM6 BM ブラック",
-   "cond": "",
-   "jpy": 45800,
-   "kg": 0.5,
-   "sq": "WH-1000XM6",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016500_3336682.jpg?v=1792569855&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016500_3336683.jpg?v=1792569855&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016500_3336684.jpg?v=1792569855&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016500_3336685.jpg?v=1792569855&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/788958",
-   "mkt": 45800,
-   "mktN": 10,
-   "comps": []
-  },
-  {
-   "id": "e15246557708529",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "WH-1000XM6",
-   "desc": "WH-1000XM6 SM プラチナシルバー",
-   "cond": "",
-   "jpy": 45800,
-   "kg": 0.5,
-   "sq": "WH-1000XM6",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1019101_3336028.jpg?v=1792555224&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1019101_3336029.jpg?v=1792555224&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1019101_3336030.jpg?v=1792555224&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1019101_3336031.jpg?v=1792555224&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/791494",
-   "mkt": 45800,
-   "mktN": 10,
-   "comps": []
-  },
-  {
    "id": "e15254602940657",
    "cat": "earphones",
    "src": "eearphone",
@@ -12484,30 +12483,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/790296",
    "mkt": 44500,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15254903324913",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Acoustune",
-   "model": "HS1750CU",
-   "desc": "HS1750CU",
-   "cond": "",
-   "jpy": 44300,
-   "kg": 0.5,
-   "sq": "HS1750CU",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020752_3346651.jpg?v=1793082673&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020752_3346652.jpg?v=1793082673&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020752_3346653.jpg?v=1793082673&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020752_3346654.jpg?v=1793082673&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/793106",
-   "mkt": 44300,
    "mktN": 1,
    "comps": []
   },
@@ -13539,6 +13514,29 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/792841",
+   "mkt": 26900,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15239791542513",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "G4 Audio",
+   "model": "ARAYA DNA+1",
+   "desc": "ARAYA DNA+1",
+   "cond": "",
+   "jpy": 26900,
+   "kg": 0.5,
+   "sq": "ARAYA DNA+1",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017876_3341330.jpg?v=1792812683&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017876_3341331.jpg?v=1792812683&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017876_3341332.jpg?v=1792812683&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/790291",
    "mkt": 26900,
    "mktN": 1,
    "comps": []
