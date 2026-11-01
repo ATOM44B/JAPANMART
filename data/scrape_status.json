@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T23:51:51+00:00",
+ "generatedAt": "2026-11-01T02:57:05+00:00",
  "ok": true,
  "live_items": 650,
  "sites": {
@@ -22,7 +22,7 @@
  "photos": {
   "listings_with_photo": 650,
   "listings_without_photo": 0,
-  "from_product_pages": 16,
+  "from_product_pages": 9,
   "examples_without_photo": []
  },
  "refused_by": {
@@ -717,7 +717,7 @@
    "site": "eearphone",
    "cat": "player",
    "url": "https://www.e-earphone.jp/collections/48/products.json?limit=250&page=1",
-   "found": 194,
+   "found": 193,
    "note": ""
   },
   {
