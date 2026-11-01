@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-11-01",
- "generatedAt": "2026-11-01T17:22:13+00:00",
+ "generatedAt": "2026-11-01T21:27:51+00:00",
  "fx": 0.21434,
  "fxDate": "2026-11-01",
  "counts": {
@@ -211,7 +211,6 @@
    "sq": "新入荷 Ｅ５５－２１０ｍｍ Ｆ４．５－６．３ＯＳＳ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/4cf/2700044081987_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/4f6/2700044081987s.jpg"
    ],
    "snap": false,
@@ -506,7 +505,6 @@
    "sq": "新入荷 ＸＣ１５－４５ｍｍ Ｆ３．５－５．６",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/40c/2700044279001_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/1f1/2700044279001s.jpg"
    ],
    "snap": false,
@@ -822,7 +820,6 @@
    "sq": "新入荷 ＥＯＳ ＫＩＳＳ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/cd5/2600073143468_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/16c/2600073143468s.jpg"
    ],
    "snap": false,
@@ -6389,7 +6386,6 @@
    "sq": "新入荷 ＶＬＯＧＣＡＭ ＺＶ－Ｅ１０",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/29b/2700044348974_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/d73/2700044348974s.jpg"
    ],
    "snap": false,
@@ -7530,6 +7526,102 @@
    "url": "https://www.e-earphone.jp/products/790979",
    "mkt": 23700,
    "mktN": 3,
+   "comps": []
+  },
+  {
+   "id": "e15203794026737",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Bowers & Wilkins",
+   "model": "Px7",
+   "desc": "Px7 S2e オーシャン・ブルー",
+   "cond": "",
+   "jpy": 29400,
+   "kg": 0.5,
+   "sq": "Px7",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012222_3343179.jpg?v=1792897765&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012222_3343180.jpg?v=1792897765&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012222_3343181.jpg?v=1792897765&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012222_3343182.jpg?v=1792897765&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/784755",
+   "mkt": 38000,
+   "mktN": 8,
+   "comps": []
+  },
+  {
+   "id": "e15242799513841",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Bowers & Wilkins",
+   "model": "Px7",
+   "desc": "Px7 S2e アンスラサイト・ブラック",
+   "cond": "",
+   "jpy": 29400,
+   "kg": 0.5,
+   "sq": "Px7",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018678_3333809.jpg?v=1792465865&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018678_3333810.jpg?v=1792465865&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018678_3333811.jpg?v=1792465865&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018678_3333812.jpg?v=1792465865&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/791083",
+   "mkt": 38000,
+   "mktN": 8,
+   "comps": []
+  },
+  {
+   "id": "e15252082721009",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Bowers & Wilkins",
+   "model": "Px7",
+   "desc": "Px7 S2e アンスラサイト・ブラック",
+   "cond": "",
+   "jpy": 29900,
+   "kg": 0.5,
+   "sq": "Px7",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020264_3340468.jpg?v=1792744694&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020264_3340469.jpg?v=1792744694&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020264_3340470.jpg?v=1792744694&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020264_3340471.jpg?v=1792744694&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/792645",
+   "mkt": 38000,
+   "mktN": 8,
+   "comps": []
+  },
+  {
+   "id": "e15229075226865",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Bowers & Wilkins",
+   "model": "Px7",
+   "desc": "Px7 S2e アンスラサイト・ブラック",
+   "cond": "",
+   "jpy": 29900,
+   "kg": 0.5,
+   "sq": "Px7",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016703_3333492.jpg?v=1792461812&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016703_3333493.jpg?v=1792461812&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016703_3333494.jpg?v=1792461812&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016703_3333495.jpg?v=1792461812&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/789149",
+   "mkt": 38000,
+   "mktN": 8,
    "comps": []
   },
   {
@@ -9745,54 +9837,6 @@
    "url": "https://www.e-earphone.jp/products/781901",
    "mkt": 17800,
    "mktN": 33,
-   "comps": []
-  },
-  {
-   "id": "e15203794026737",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bowers & Wilkins",
-   "model": "Px7",
-   "desc": "Px7 S2e オーシャン・ブルー",
-   "cond": "",
-   "jpy": 29400,
-   "kg": 0.5,
-   "sq": "Px7",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012222_3343179.jpg?v=1792897765&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012222_3343180.jpg?v=1792897765&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012222_3343181.jpg?v=1792897765&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1012222_3343182.jpg?v=1792897765&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/784755",
-   "mkt": 29900,
-   "mktN": 7,
-   "comps": []
-  },
-  {
-   "id": "e15242799513841",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bowers & Wilkins",
-   "model": "Px7",
-   "desc": "Px7 S2e アンスラサイト・ブラック",
-   "cond": "",
-   "jpy": 29400,
-   "kg": 0.5,
-   "sq": "Px7",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018678_3333809.jpg?v=1792465865&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018678_3333810.jpg?v=1792465865&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018678_3333811.jpg?v=1792465865&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018678_3333812.jpg?v=1792465865&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/791083",
-   "mkt": 29900,
-   "mktN": 7,
    "comps": []
   },
   {
@@ -13459,30 +13503,6 @@
    "comps": []
   },
   {
-   "id": "e15252082721009",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bowers & Wilkins",
-   "model": "Px7",
-   "desc": "Px7 S2e アンスラサイト・ブラック",
-   "cond": "",
-   "jpy": 29900,
-   "kg": 0.5,
-   "sq": "Px7",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020264_3340468.jpg?v=1792744694&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020264_3340469.jpg?v=1792744694&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020264_3340470.jpg?v=1792744694&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020264_3340471.jpg?v=1792744694&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/792645",
-   "mkt": 29900,
-   "mktN": 7,
-   "comps": []
-  },
-  {
    "id": "e15228640461041",
    "cat": "earphones",
    "src": "eearphone",
@@ -13504,30 +13524,6 @@
    "url": "https://www.e-earphone.jp/products/789071",
    "mkt": 29900,
    "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15229075226865",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bowers & Wilkins",
-   "model": "Px7",
-   "desc": "Px7 S2e アンスラサイト・ブラック",
-   "cond": "",
-   "jpy": 29900,
-   "kg": 0.5,
-   "sq": "Px7",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016703_3333492.jpg?v=1792461812&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016703_3333493.jpg?v=1792461812&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016703_3333494.jpg?v=1792461812&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1016703_3333495.jpg?v=1792461812&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/789149",
-   "mkt": 29900,
-   "mktN": 7,
    "comps": []
   },
   {
