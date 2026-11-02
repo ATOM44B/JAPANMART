@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T03:04:54+00:00",
+ "generatedAt": "2026-11-02T14:02:44+00:00",
  "ok": true,
  "live_items": 650,
  "sites": {
@@ -22,7 +22,7 @@
  "photos": {
   "listings_with_photo": 650,
   "listings_without_photo": 0,
-  "from_product_pages": 5,
+  "from_product_pages": 13,
   "examples_without_photo": []
  },
  "refused_by": {
@@ -31,6 +31,12 @@
    "server": "awselb/2.0",
    "content_type": "text/html",
    "reply_starts_with": "<html> <head><title>403 Forbidden</title></head> <body> <center><h1>403 Forbidden</h1></center> </body> </html> <!-- a padding to disable MSIE and Chrome friendly error page --> <!-- a padding "
+  },
+  "komehyo.jp": {
+   "status": 500,
+   "server": "Apache",
+   "content_type": "text/html;charset=UTF-8",
+   "reply_starts_with": "<!doctype html> <html lang=\"ja\"> <head prefix=\"og: http://ogp.me/ns# article: http://ogp.me/ns/article#\"> <meta charset=\"UTF-8\"> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"> <meta name=\""
   }
  },
  "queries": [
@@ -675,7 +681,7 @@
    "site": "eearphone",
    "cat": "earphones",
    "url": "https://www.e-earphone.jp/collections/43/products.json?limit=250&page=1",
-   "found": 98,
+   "found": 160,
    "note": ""
   },
   {
@@ -689,35 +695,35 @@
    "site": "eearphone",
    "cat": "earphones",
    "url": "https://www.e-earphone.jp/collections/used-airpods/products.json?limit=250&page=1",
-   "found": 235,
+   "found": 237,
    "note": ""
   },
   {
    "site": "eearphone",
    "cat": "earphones",
    "url": "https://www.e-earphone.jp/collections/45/products.json?limit=250&page=1",
-   "found": 143,
+   "found": 159,
    "note": ""
   },
   {
    "site": "eearphone",
    "cat": "earphones",
    "url": "https://www.e-earphone.jp/collections/46/products.json?limit=250&page=1",
-   "found": 187,
+   "found": 197,
    "note": ""
   },
   {
    "site": "eearphone",
    "cat": "earphones",
    "url": "https://www.e-earphone.jp/collections/47/products.json?limit=250&page=1",
-   "found": 199,
+   "found": 205,
    "note": ""
   },
   {
    "site": "eearphone",
    "cat": "player",
    "url": "https://www.e-earphone.jp/collections/48/products.json?limit=250&page=1",
-   "found": 188,
+   "found": 196,
    "note": ""
   },
   {
@@ -892,7 +898,7 @@
    "site": "komehyo",
    "cat": "camera",
    "url": "https://komehyo.jp/camera/?q=%E3%83%AA%E3%82%B3%E3%83%BC",
-   "found": 9,
+   "found": 10,
    "note": ""
   },
   {
