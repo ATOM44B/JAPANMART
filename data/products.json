@@ -1,9 +1,9 @@
 {
  "source": "live",
- "generated": "2026-11-05",
- "generatedAt": "2026-11-05T19:12:01+00:00",
- "fx": 0.21238,
- "fxDate": "2026-11-05",
+ "generated": "2026-11-06",
+ "generatedAt": "2026-11-06T01:15:27+00:00",
+ "fx": 0.21176,
+ "fxDate": "2026-11-06",
  "counts": {
   "live": 650,
   "seed": 0
@@ -1954,7 +1954,6 @@
    "sq": "ＥＦ－Ｘ２０",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/ea4/2700042487798_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/1a0/2700042487798s.jpg"
    ],
    "snap": false,
@@ -2195,7 +2194,7 @@
    "comps": []
   },
   {
-   "id": "k2300007449276",
+   "id": "k2700043691828",
    "cat": "ring",
    "src": "komehyo",
    "brand": "CARTIER",
@@ -2205,12 +2204,12 @@
    "jpy": 160000,
    "kg": 0.1,
    "sq": "ルイ ヴァンドーム リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
+   "store": "KOMEHYO GINZA",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/509/2300007449276_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/460/2700043691828_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/230-000-744-9276/",
+   "url": "https://komehyo.jp/product/270-004-369-1828/",
    "mkt": 190000,
    "mktN": 12,
    "comps": []
@@ -2249,7 +2248,6 @@
    "sq": "新入荷 Ｅ３５ｍｍ Ｆ２ＤＧ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/d75/2600075314637_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/84a/2600075314637s.jpg"
    ],
    "snap": false,
@@ -2815,7 +2813,7 @@
    "jpy": 400000,
    "kg": 0.1,
    "sq": "ボルデュック リング",
-   "store": "梅田店",
+   "store": "心斎橋店",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/5d7/2300003037965_1_b.jpg"
    ],
@@ -7312,7 +7310,6 @@
    "sq": "ＩＩＩＦ ＢＯＤＹレッドシンクロ セルフ付き",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/eea/2700043521064_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/0ac/2700043521064s.jpg"
    ],
    "snap": false,
@@ -7657,30 +7654,6 @@
    "url": "https://www.e-earphone.jp/products/791739",
    "mkt": 37400,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e15196831285489",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Shokz",
-   "model": "OpenRun Mini Black",
-   "desc": "OpenRun Mini Black",
-   "cond": "",
-   "jpy": 7600,
-   "kg": 0.5,
-   "sq": "OpenRun Mini Black",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010015_3292376.jpg?v=1790565433&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010015_3292377.jpg?v=1790565433&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010015_3292378.jpg?v=1790565433&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010015_3292379.jpg?v=1790565433&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/782596",
-   "mkt": 9960,
-   "mktN": 3,
    "comps": []
   },
   {
@@ -8905,6 +8878,30 @@
    "comps": []
   },
   {
+   "id": "e15284292288753",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "Astell&Kern",
+   "model": "SP3000T",
+   "desc": "A&ultima SP3000T",
+   "cond": "",
+   "jpy": 208145,
+   "kg": 0.4,
+   "sq": "SP3000T",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024641_3361327.jpg?v=1793682395&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024641_3361328.jpg?v=1793682395&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024641_3361329.jpg?v=1793682395&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024641_3361330.jpg?v=1793682395&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/796938",
+   "mkt": 222400,
+   "mktN": 4,
+   "comps": []
+  },
+  {
    "id": "e15250933842161",
    "cat": "speakers",
    "src": "eearphone",
@@ -8998,6 +8995,30 @@
    "url": "https://www.e-earphone.jp/products/785308",
    "mkt": 7942,
    "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e15215285960945",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "Astell&Kern",
+   "model": "SP3000T",
+   "desc": "A&ultima SP3000T",
+   "cond": "",
+   "jpy": 210700,
+   "kg": 0.4,
+   "sq": "SP3000T",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014342_3350835.jpg?v=1793262448&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014342_3350836.jpg?v=1793262448&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014342_3350837.jpg?v=1793262448&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014342_3350838.jpg?v=1793262448&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/786825",
+   "mkt": 222400,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -9601,6 +9622,30 @@
    "comps": []
   },
   {
+   "id": "e10302907482353",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Shokz",
+   "model": "OpenRun Mini Black",
+   "desc": "OpenRun Mini Black",
+   "cond": "",
+   "jpy": 9960,
+   "kg": 0.5,
+   "sq": "OpenRun Mini Black",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008683_3292171.jpg?v=1790562972&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008683_3292172.jpg?v=1790562972&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008683_3292173.jpg?v=1790562972&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008683_3292174.jpg?v=1790562972&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/781299",
+   "mkt": 10180,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "e15274182902001",
    "cat": "player",
    "src": "eearphone",
@@ -9958,30 +10003,6 @@
    "url": "https://www.e-earphone.jp/products/795424",
    "mkt": 15105,
    "mktN": 4,
-   "comps": []
-  },
-  {
-   "id": "e15284292288753",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "Astell&Kern",
-   "model": "SP3000T",
-   "desc": "A&ultima SP3000T",
-   "cond": "",
-   "jpy": 208145,
-   "kg": 0.4,
-   "sq": "SP3000T",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024641_3361327.jpg?v=1793682395&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024641_3361328.jpg?v=1793682395&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024641_3361329.jpg?v=1793682395&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024641_3361330.jpg?v=1793682395&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/796938",
-   "mkt": 210700,
-   "mktN": 3,
    "comps": []
   },
   {
@@ -10993,30 +11014,6 @@
    "comps": []
   },
   {
-   "id": "e15215285960945",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "Astell&Kern",
-   "model": "SP3000T",
-   "desc": "A&ultima SP3000T",
-   "cond": "",
-   "jpy": 210700,
-   "kg": 0.4,
-   "sq": "SP3000T",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014342_3350835.jpg?v=1793262448&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014342_3350836.jpg?v=1793262448&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014342_3350837.jpg?v=1793262448&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014342_3350838.jpg?v=1793262448&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/786825",
-   "mkt": 210700,
-   "mktN": 3,
-   "comps": []
-  },
-  {
    "id": "e15275825103089",
    "cat": "earphones",
    "src": "eearphone",
@@ -11037,6 +11034,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/795460",
    "mkt": 172710,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e9776638787825",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "SHANLING",
+   "model": "SCD1.3",
+   "desc": "SCD1.3 ブラック",
+   "cond": "",
+   "jpy": 160550,
+   "kg": 0.4,
+   "sq": "SCD1.3",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/996163_3351014.jpg?v=1793265040&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/996163_3351015.jpg?v=1793265040&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/996163_3351016.jpg?v=1793265040&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/996163_3351017.jpg?v=1793265040&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/769054",
+   "mkt": 160550,
    "mktN": 1,
    "comps": []
   },
@@ -11085,30 +11106,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/795691",
    "mkt": 154470,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15280411377905",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "FIIO",
-   "model": "R9",
-   "desc": "R9",
-   "cond": "",
-   "jpy": 149815,
-   "kg": 0.4,
-   "sq": "R9",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024122_3359499.jpg?v=1793595446&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024122_3359500.jpg?v=1793595447&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024122_3359501.jpg?v=1793595447&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024122_3359502.jpg?v=1793595447&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/796439",
-   "mkt": 149815,
    "mktN": 1,
    "comps": []
   },
@@ -12310,30 +12307,6 @@
    "comps": []
   },
   {
-   "id": "e15244459376881",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "audio-technica",
-   "model": "ATH-WP900",
-   "desc": "ATH-WP900",
-   "cond": "",
-   "jpy": 37715,
-   "kg": 0.5,
-   "sq": "ATH-WP900",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018884_3351570.jpg?v=1793327059&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018884_3351571.jpg?v=1793327059&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018884_3351572.jpg?v=1793327059&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018884_3351573.jpg?v=1793327059&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/791283",
-   "mkt": 37715,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e15202637807857",
    "cat": "earphones",
    "src": "eearphone",
@@ -12742,30 +12715,6 @@
    "comps": []
   },
   {
-   "id": "e15267202040049",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SENNHEISER",
-   "model": "HD 660S",
-   "desc": "HD 660S",
-   "cond": "",
-   "jpy": 30900,
-   "kg": 0.5,
-   "sq": "HD 660S",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022332_3357720.jpg?v=1793520259&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022332_3357721.jpg?v=1793520259&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022332_3357722.jpg?v=1793520259&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022332_3357723.jpg?v=1793520259&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/794674",
-   "mkt": 30900,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e15248831414513",
    "cat": "speakers",
    "src": "eearphone",
@@ -12838,6 +12787,30 @@
    "comps": []
   },
   {
+   "id": "e15267202040049",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SENNHEISER",
+   "model": "HD 660S",
+   "desc": "HD 660S",
+   "cond": "",
+   "jpy": 29355,
+   "kg": 0.5,
+   "sq": "HD 660S",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022332_3357720.jpg?v=1793520259&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022332_3357721.jpg?v=1793520259&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022332_3357722.jpg?v=1793520259&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022332_3357723.jpg?v=1793520259&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/794674",
+   "mkt": 29355,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e15250893308145",
    "cat": "earphones",
    "src": "eearphone",
@@ -12906,30 +12879,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/794777",
    "mkt": 28500,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15274311221489",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SIVGA",
-   "model": "Nightingale Pro",
-   "desc": "Nightingale Pro",
-   "cond": "",
-   "jpy": 28405,
-   "kg": 0.5,
-   "sq": "Nightingale Pro",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022931_3357198.jpg?v=1793518882&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022931_3357199.jpg?v=1793518882&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022931_3357200.jpg?v=1793518882&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022931_3357201.jpg?v=1793518882&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/795270",
-   "mkt": 28405,
    "mktN": 1,
    "comps": []
   },
@@ -14563,6 +14512,54 @@
    "url": "https://www.e-earphone.jp/products/793834",
    "mkt": 18905,
    "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15239736361201",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Shokz",
+   "model": "OpenRun Pro 2",
+   "desc": "OpenRun Pro 2 Black",
+   "cond": "",
+   "jpy": 18810,
+   "kg": 0.5,
+   "sq": "OpenRun Pro 2",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017818_3331655.jpg?v=1792376678&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017818_3331656.jpg?v=1792376678&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017818_3331657.jpg?v=1792376678&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017818_3331658.jpg?v=1792376678&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/790233",
+   "mkt": 18810,
+   "mktN": 9,
+   "comps": []
+  },
+  {
+   "id": "e15204535304433",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Shokz",
+   "model": "OpenRun Pro 2",
+   "desc": "OpenRun Pro 2 Blue",
+   "cond": "",
+   "jpy": 18810,
+   "kg": 0.5,
+   "sq": "OpenRun Pro 2",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013000_3306247.jpg?v=1791187872&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013000_3306248.jpg?v=1791187872&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013000_3306249.jpg?v=1791187872&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1013000_3306250.jpg?v=1791187872&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/785525",
+   "mkt": 18810,
+   "mktN": 9,
    "comps": []
   }
  ]
