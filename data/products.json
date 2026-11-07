@@ -1,9 +1,9 @@
 {
  "source": "live",
- "generated": "2026-11-06",
- "generatedAt": "2026-11-06T18:39:05+00:00",
+ "generated": "2026-11-07",
+ "generatedAt": "2026-11-07T00:29:54+00:00",
  "fx": 0.21176,
- "fxDate": "2026-11-06",
+ "fxDate": "2026-11-07",
  "counts": {
   "live": 650,
   "seed": 0
@@ -2962,7 +2962,6 @@
    "sq": "Ｌ４５ｍｍ Ｆ２．８ＤＧ ＤＮ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/c42/2700044083110_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/0ec/2700044083110s.jpg"
    ],
    "snap": false,
@@ -2984,7 +2983,6 @@
    "sq": "Ｌ４５ｍｍ Ｆ２．８ＤＧ ＤＮ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/d89/2700044083233_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/fcd/2700044083233s.jpg"
    ],
    "snap": false,
@@ -3006,7 +3004,6 @@
    "sq": "ＥＦ３５ｍｍ Ｆ２ＩＳ ＵＳＭ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/a6e/2700044272521_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/057/2700044272521s.jpg"
    ],
    "snap": false,
@@ -3028,7 +3025,6 @@
    "sq": "３５ｍｍ Ｆ１．４ＤＧ ＨＳＭ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/214/2700044061354_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/532/2700044061354s.jpg"
    ],
    "snap": false,
@@ -3050,7 +3046,6 @@
    "sq": "Ｅ ７０ｍｍ Ｆ２．８ＤＧ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/765/2600075323042_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/a2e/2600075323042s.jpg"
    ],
    "snap": false,
@@ -3072,7 +3067,6 @@
    "sq": "ＸＦ２３ｍｍ Ｆ１．４Ｒ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/efb/2600075327637_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/bc1/2600075327637s.jpg"
    ],
    "snap": false,
@@ -3094,7 +3088,6 @@
    "sq": "ＸＦ２３ｍｍ Ｆ１．４Ｒ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/a40/2600075324858_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/9aa/2600075324858s.jpg"
    ],
    "snap": false,
@@ -6540,7 +6533,6 @@
    "sq": "新入荷 ＶＬＯＧＣＡＭ ＺＶ－Ｅ１０",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/ae9/2700044386518_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/645/2700044386518s.jpg"
    ],
    "snap": false,
@@ -9532,30 +9524,6 @@
    "comps": []
   },
   {
-   "id": "e15279159148785",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "FIIO",
-   "model": "JM21",
-   "desc": "JM21 Blue",
-   "cond": "",
-   "jpy": 21900,
-   "kg": 0.4,
-   "sq": "JM21",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023340_3361238.jpg?v=1793686828&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023340_3361239.jpg?v=1793686828&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023340_3361240.jpg?v=1793686828&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023340_3361241.jpg?v=1793686828&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/795662",
-   "mkt": 22600,
-   "mktN": 3,
-   "comps": []
-  },
-  {
    "id": "e15250899042545",
    "cat": "earphones",
    "src": "eearphone",
@@ -9721,6 +9689,30 @@
    "url": "https://www.e-earphone.jp/products/794049",
    "mkt": 51700,
    "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e15259577352433",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "iBasso Audio",
+   "model": "DX180",
+   "desc": "DX180 Black",
+   "cond": "",
+   "jpy": 53000,
+   "kg": 0.4,
+   "sq": "DX180",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021533_3352020.jpg?v=1793333357&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021533_3352021.jpg?v=1793333357&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021533_3352022.jpg?v=1793333357&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021533_3352023.jpg?v=1793333357&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/793882",
+   "mkt": 54200,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -10060,6 +10052,30 @@
    "comps": []
   },
   {
+   "id": "e15279159148785",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "FIIO",
+   "model": "JM21",
+   "desc": "JM21 Blue",
+   "cond": "",
+   "jpy": 21900,
+   "kg": 0.4,
+   "sq": "JM21",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023340_3361238.jpg?v=1793686828&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023340_3361239.jpg?v=1793686828&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023340_3361240.jpg?v=1793686828&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023340_3361241.jpg?v=1793686828&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/795662",
+   "mkt": 22250,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "e15280335028465",
    "cat": "player",
    "src": "eearphone",
@@ -10200,30 +10216,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/795388",
    "mkt": 16500,
-   "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e15259577352433",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "iBasso Audio",
-   "model": "DX180",
-   "desc": "DX180 Black",
-   "cond": "",
-   "jpy": 53000,
-   "kg": 0.4,
-   "sq": "DX180",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021533_3352020.jpg?v=1793333357&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021533_3352021.jpg?v=1793333357&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021533_3352022.jpg?v=1793333357&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021533_3352023.jpg?v=1793333357&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/793882",
-   "mkt": 53650,
    "mktN": 2,
    "comps": []
   },
@@ -11668,6 +11660,30 @@
    "comps": []
   },
   {
+   "id": "e15256158273777",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "FOSTEX",
+   "model": "T60RPmk2ai",
+   "desc": "T60RPmk2ai",
+   "cond": "",
+   "jpy": 69000,
+   "kg": 0.5,
+   "sq": "T60RPmk2ai",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020941_3346868.jpg?v=1793088323&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020941_3346869.jpg?v=1793088323&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020941_3346870.jpg?v=1793088323&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020941_3346871.jpg?v=1793088323&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/793294",
+   "mkt": 69000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e15279381086449",
    "cat": "player",
    "src": "eearphone",
@@ -11836,6 +11852,30 @@
    "comps": []
   },
   {
+   "id": "e15254601564401",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "iBasso Audio",
+   "model": "DX180",
+   "desc": "DX180 Green",
+   "cond": "",
+   "jpy": 54200,
+   "kg": 0.4,
+   "sq": "DX180",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020655_3352068.jpg?v=1793333837&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020655_3352069.jpg?v=1793333837&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020655_3352070.jpg?v=1793333837&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020655_3352071.jpg?v=1793333837&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/793015",
+   "mkt": 54200,
+   "mktN": 3,
+   "comps": []
+  },
+  {
    "id": "e9540417388785",
    "cat": "earphones",
    "src": "eearphone",
@@ -11952,30 +11992,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/788411",
    "mkt": 48400,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15256467341553",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "MDR-Z7M2",
-   "desc": "MDR-Z7M2 Q",
-   "cond": "",
-   "jpy": 48000,
-   "kg": 0.5,
-   "sq": "MDR-Z7M2",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021030_3359071.jpg?v=1793589490&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021030_3359072.jpg?v=1793589490&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021030_3359073.jpg?v=1793589490&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021030_3359074.jpg?v=1793589490&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/793381",
-   "mkt": 48000,
    "mktN": 1,
    "comps": []
   },
@@ -13825,30 +13841,6 @@
    "url": "https://www.e-earphone.jp/products/784560",
    "mkt": 22700,
    "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15250312233201",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "FIIO",
-   "model": "JM21",
-   "desc": "JM21 Blue",
-   "cond": "",
-   "jpy": 22600,
-   "kg": 0.4,
-   "sq": "JM21",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1019810_3365637.jpg?v=1793846537&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1019810_3365638.jpg?v=1793846537&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1019810_3365639.jpg?v=1793846537&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1019810_3365640.jpg?v=1793846537&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/792191",
-   "mkt": 22600,
-   "mktN": 3,
    "comps": []
   },
   {
