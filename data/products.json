@@ -1,9 +1,9 @@
 {
  "source": "live",
- "generated": "2026-11-07",
- "generatedAt": "2026-11-07T21:11:35+00:00",
- "fx": 0.21186,
- "fxDate": "2026-11-07",
+ "generated": "2026-11-08",
+ "generatedAt": "2026-11-08T03:01:57+00:00",
+ "fx": 0.2119,
+ "fxDate": "2026-11-08",
  "counts": {
   "live": 650,
   "seed": 0
@@ -2110,6 +2110,27 @@
    "comps": []
   },
   {
+   "id": "k2300009333610",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "SEIKO",
+   "model": "6R5H-00E0/SART011",
+   "desc": "セイコー プレザージュ 6R5H-00E0/SART011 SS 自動巻 SEIKO",
+   "cond": "A",
+   "jpy": 180000,
+   "kg": 0.4,
+   "sq": "6R5H-00E0/SART011",
+   "store": "KOMEHYO SHINJUKU",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/f61/2300009333610_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-933-3610/",
+   "mkt": 211000,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "k2700042627118",
    "cat": "bag",
    "src": "komehyo",
@@ -2275,27 +2296,6 @@
    "url": "https://komehyo.jp/product/260-007-318-5673/",
    "mkt": 55000,
    "mktN": 143,
-   "comps": []
-  },
-  {
-   "id": "k2300008916852",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "SEIKO",
-   "model": "6R55-00L0/SBDC215",
-   "desc": "セイコー プロスペックス 6R55-00L0/SBDC215 SS 自動巻 SEIKO",
-   "cond": "A",
-   "jpy": 110000,
-   "kg": 0.4,
-   "sq": "6R55-00L0/SBDC215",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/807/2300008916852_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-891-6852/",
-   "mkt": 125950,
-   "mktN": 2,
    "comps": []
   },
   {
@@ -2593,27 +2593,6 @@
    "comps": []
   },
   {
-   "id": "k2300006841798",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "SEIKO",
-   "model": "6R54-00P0/SBEJ029",
-   "desc": "セイコー プロスペックス 6R54-00P0/SBEJ029 SS 自動巻 SEIKO",
-   "cond": "A",
-   "jpy": 220000,
-   "kg": 0.4,
-   "sq": "6R54-00P0/SBEJ029",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/933/2300006841798_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-684-1798/",
-   "mkt": 237600,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "k2700042721199",
    "cat": "camera",
    "src": "komehyo",
@@ -2729,7 +2708,7 @@
    "jpy": 180000,
    "kg": 0.1,
    "sq": "リング",
-   "store": "自由が丘店",
+   "store": "KOMEHYO SHINJUKU WOMEN",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/d45/2300008185852_1_b.jpg"
    ],
@@ -2821,6 +2800,27 @@
    "url": "https://komehyo.jp/product/230-000-923-9868/",
    "mkt": 240000,
    "mktN": 4,
+   "comps": []
+  },
+  {
+   "id": "k2300008031326",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "OMEGA",
+   "model": "3513.50",
+   "desc": "新入荷 オメガ スピードマスターデイト 3513.50 SS 自動巻 OMEGA",
+   "cond": "A",
+   "jpy": 360000,
+   "kg": 0.4,
+   "sq": "3513.50",
+   "store": "心斎橋店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/6a0/2300008031326_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-803-1326/",
+   "mkt": 375000,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -2950,27 +2950,6 @@
    "comps": []
   },
   {
-   "id": "k2300002756416",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "ロマンス リング",
-   "desc": "ヴァンクリーフ&アーペル ロマンス リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 400000,
-   "kg": 0.1,
-   "sq": "ロマンス リング",
-   "store": "名駅店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/ed0/2300002756416_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-275-6416/",
-   "mkt": 410000,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "k2300007489401",
    "cat": "watch",
    "src": "komehyo",
@@ -3055,27 +3034,6 @@
    "comps": []
   },
   {
-   "id": "k2460004650188",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "ペルレ シニアチュール リング",
-   "desc": "ヴァンクリーフ&アーペル ペルレ シニアチュール リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 480000,
-   "kg": 0.1,
-   "sq": "ペルレ シニアチュール リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/acd/2460004650188_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/246-000-465-0188/",
-   "mkt": 480000,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "k2600083313974",
    "cat": "ring",
    "src": "komehyo",
@@ -3092,6 +3050,27 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/260-008-331-3974/",
+   "mkt": 480000,
+   "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "k2700044076099",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "ペルレ シニアチュール リング",
+   "desc": "ヴァンクリーフ&アーペル ペルレ シニアチュール リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 480000,
+   "kg": 0.1,
+   "sq": "ペルレ シニアチュール リング",
+   "store": "名駅店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/a96/2700044076099_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-407-6099/",
    "mkt": 480000,
    "mktN": 2,
    "comps": []
@@ -3559,6 +3538,48 @@
    "comps": []
   },
   {
+   "id": "k2300007770325",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "ロマンス リング",
+   "desc": "ヴァンクリーフ&アーペル ロマンス リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 420000,
+   "kg": 0.1,
+   "sq": "ロマンス リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/bbf/2300007770325_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-777-0325/",
+   "mkt": 420000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2300009026383",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "フェリシテ リング",
+   "desc": "ヴァンクリーフ&アーペル フェリシテ リング Van Cleef & Arpels",
+   "cond": "A",
+   "jpy": 420000,
+   "kg": 0.1,
+   "sq": "フェリシテ リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/784/2300009026383_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-902-6383/",
+   "mkt": 420000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2700042947469",
    "cat": "ring",
    "src": "komehyo",
@@ -3702,6 +3723,27 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-602-9271/",
    "mkt": 400000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2300007501851",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "LOUIS VUITTON",
+   "model": "M15235",
+   "desc": "値下げ 5％引き ルイヴィトン ダストバッグ M15235 バッグ LOUIS VUITTON",
+   "cond": "A",
+   "jpy": 399000,
+   "kg": 1.2,
+   "sq": "M15235",
+   "store": "KOMEHYO SHIBUYA",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/6ea/2300007501851_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-750-1851/",
+   "mkt": 399000,
    "mktN": 1,
    "comps": []
   },
@@ -3934,27 +3976,6 @@
    "url": "https://komehyo.jp/product/270-004-384-8116/",
    "mkt": 360000,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "k2300008031326",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "OMEGA",
-   "model": "3513.50",
-   "desc": "新入荷 オメガ スピードマスターデイト 3513.50 SS 自動巻 OMEGA",
-   "cond": "A",
-   "jpy": 360000,
-   "kg": 0.4,
-   "sq": "3513.50",
-   "store": "心斎橋店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/6a0/2300008031326_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-803-1326/",
-   "mkt": 360000,
-   "mktN": 1,
    "comps": []
   },
   {
@@ -4756,6 +4777,27 @@
    "comps": []
   },
   {
+   "id": "k2700042572357",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "SEIKO",
+   "model": "SART013",
+   "desc": "セイコー プレザージュ SART013 SS 自動巻 SEIKO",
+   "cond": "New",
+   "jpy": 236500,
+   "kg": 0.4,
+   "sq": "SART013",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/145/2700042572357_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-257-2357/",
+   "mkt": 236500,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2700037135253",
    "cat": "watch",
    "src": "komehyo",
@@ -4773,6 +4815,27 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-003-713-5253/",
    "mkt": 230000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2300006841798",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "SEIKO",
+   "model": "6R54-00P0/SBEJ029",
+   "desc": "セイコー プロスペックス 6R54-00P0/SBEJ029 SS 自動巻 SEIKO",
+   "cond": "A",
+   "jpy": 220000,
+   "kg": 0.4,
+   "sq": "6R54-00P0/SBEJ029",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/933/2300006841798_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-684-1798/",
+   "mkt": 220000,
    "mktN": 1,
    "comps": []
   },
@@ -5319,27 +5382,6 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-003-906-5589/",
    "mkt": 181500,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2300009333610",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "SEIKO",
-   "model": "6R5H-00E0/SART011",
-   "desc": "セイコー プレザージュ 6R5H-00E0/SART011 SS 自動巻 SEIKO",
-   "cond": "A",
-   "jpy": 180000,
-   "kg": 0.4,
-   "sq": "6R5H-00E0/SART011",
-   "store": "KOMEHYO SHINJUKU",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/f61/2300009333610_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-933-3610/",
-   "mkt": 180000,
    "mktN": 1,
    "comps": []
   },
@@ -6101,27 +6143,6 @@
    "comps": []
   },
   {
-   "id": "k2700041550707",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "SEIKO",
-   "model": "6R55-00L0/SBDC217",
-   "desc": "セイコー プロスペックス 6R55-00L0/SBDC217 SS 自動巻 SEIKO",
-   "cond": "New",
-   "jpy": 141900,
-   "kg": 0.4,
-   "sq": "6R55-00L0/SBDC217",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/9c1/2700041550707_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-155-0707/",
-   "mkt": 141900,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "k2300009890595",
    "cat": "watch",
    "src": "komehyo",
@@ -6180,6 +6201,27 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-096-5748/",
+   "mkt": 136400,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2700039065633",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "SEIKO",
+   "model": "6R55-00H0/SARX121",
+   "desc": "セイコー プレザージュ 6R55-00H0/SARX121 SS 自動巻 SEIKO",
+   "cond": "New",
+   "jpy": 136400,
+   "kg": 0.4,
+   "sq": "6R55-00H0/SARX121",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/5bd/2700039065633_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-003-906-5633/",
    "mkt": 136400,
    "mktN": 1,
    "comps": []
@@ -6306,27 +6348,6 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-934-0496/",
-   "mkt": 130000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2300009169028",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "LOUIS VUITTON",
-   "model": "M52082",
-   "desc": "ルイヴィトン エピ ジャスミン M52082 バッグ LOUIS VUITTON",
-   "cond": "A",
-   "jpy": 130000,
-   "kg": 1.2,
-   "sq": "M52082",
-   "store": "梅田店",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/85a/2300009169028_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-916-9028/",
    "mkt": 130000,
    "mktN": 1,
    "comps": []
@@ -6857,6 +6878,27 @@
    "comps": []
   },
   {
+   "id": "k2300008916852",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "SEIKO",
+   "model": "6R55-00L0/SBDC215",
+   "desc": "セイコー プロスペックス 6R55-00L0/SBDC215 SS 自動巻 SEIKO",
+   "cond": "A",
+   "jpy": 110000,
+   "kg": 0.4,
+   "sq": "6R55-00L0/SBDC215",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/807/2300008916852_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-891-6852/",
+   "mkt": 110000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2300009119566",
    "cat": "bag",
    "src": "komehyo",
@@ -7319,45 +7361,27 @@
    "comps": []
   },
   {
-   "id": "k2700043909367",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "PRADA",
-   "model": "BR3993",
-   "desc": "プラダ BR3993 バッグ PRADA",
-   "cond": "A",
-   "jpy": 90000,
-   "kg": 1.2,
-   "sq": "BR3993",
-   "store": "【新店】KOMEHYO VINTAGE TOKYO atelier",
+   "id": "e15219024560369",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Bowers & Wilkins",
+   "model": "Px8",
+   "desc": "Px8 ロイヤルバーガンディ",
+   "cond": "",
+   "jpy": 35600,
+   "kg": 0.5,
+   "sq": "Px8",
+   "store": "日本橋",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/565/2700043909367_1_b.jpg"
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014994_3364879.jpg?v=1793783691&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014994_3364880.jpg?v=1793783691&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014994_3364881.jpg?v=1793783691&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014994_3364882.jpg?v=1793783691&width=700"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/270-004-390-9367/",
-   "mkt": 90000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2300007845801",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "PRADA",
-   "model": "BR4249",
-   "desc": "プラダ BR4249 バッグ PRADA",
-   "cond": "A",
-   "jpy": 90000,
-   "kg": 1.2,
-   "sq": "BR4249",
-   "store": "【新店】KOMEHYO VINTAGE TOKYO atelier",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/afa/2300007845801_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-784-5801/",
-   "mkt": 90000,
-   "mktN": 1,
+   "url": "https://www.e-earphone.jp/products/787457",
+   "mkt": 82400,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -7404,32 +7428,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/795453",
-   "mkt": 9220,
-   "mktN": 5,
-   "comps": []
-  },
-  {
-   "id": "e15219024560369",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bowers & Wilkins",
-   "model": "Px8",
-   "desc": "Px8 ロイヤルバーガンディ",
-   "cond": "",
-   "jpy": 35600,
-   "kg": 0.5,
-   "sq": "Px8",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014994_3364879.jpg?v=1793783691&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014994_3364880.jpg?v=1793783691&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014994_3364881.jpg?v=1793783691&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014994_3364882.jpg?v=1793783691&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/787457",
-   "mkt": 59000,
-   "mktN": 2,
+   "mkt": 9350,
+   "mktN": 6,
    "comps": []
   },
   {
@@ -7816,30 +7816,6 @@
    "comps": []
   },
   {
-   "id": "e15288761024753",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "WF-1000XM4",
-   "desc": "WF-1000XM4 BM ブラック",
-   "cond": "",
-   "jpy": 6090,
-   "kg": 0.5,
-   "sq": "WF-1000XM4",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025438_3367665.jpg?v=1793935128&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025438_3367666.jpg?v=1793935128&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025438_3367667.jpg?v=1793935128&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025438_3367668.jpg?v=1793935128&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/797688",
-   "mkt": 7390,
-   "mktN": 3,
-   "comps": []
-  },
-  {
    "id": "e15284283998449",
    "cat": "earphones",
    "src": "eearphone",
@@ -7912,6 +7888,30 @@
    "comps": []
   },
   {
+   "id": "e15256171610353",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MLWK3J/A",
+   "desc": "Apple AirPods Pro MLWK3J/A (2021/Magsafe)",
+   "cond": "",
+   "jpy": 7900,
+   "kg": 0.5,
+   "sq": "MLWK3J/A",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020947_3347016.jpg?v=1793090357&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020947_3347017.jpg?v=1793090357&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020947_3347018.jpg?v=1793090357&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020947_3347019.jpg?v=1793090357&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/793300",
+   "mkt": 9350,
+   "mktN": 6,
+   "comps": []
+  },
+  {
    "id": "e15254950314225",
    "cat": "earphones",
    "src": "eearphone",
@@ -7981,30 +7981,6 @@
    "url": "https://www.e-earphone.jp/products/793885",
    "mkt": 21500,
    "mktN": 3,
-   "comps": []
-  },
-  {
-   "id": "e15256171610353",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MLWK3J/A",
-   "desc": "Apple AirPods Pro MLWK3J/A (2021/Magsafe)",
-   "cond": "",
-   "jpy": 7900,
-   "kg": 0.5,
-   "sq": "MLWK3J/A",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020947_3347016.jpg?v=1793090357&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020947_3347017.jpg?v=1793090357&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020947_3347018.jpg?v=1793090357&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020947_3347019.jpg?v=1793090357&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/793300",
-   "mkt": 9220,
-   "mktN": 5,
    "comps": []
   },
   {
@@ -8344,27 +8320,6 @@
    "comps": []
   },
   {
-   "id": "e15274285465841",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bose",
-   "model": "QuietComfort SC Headphones",
-   "desc": "QuietComfort SC Headphones",
-   "cond": "",
-   "jpy": 26100,
-   "kg": 0.5,
-   "sq": "QuietComfort SC Headphones",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022897_3358820.jpg?v=1793586621&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/795236",
-   "mkt": 29000,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e15282395513073",
    "cat": "player",
    "src": "eearphone",
@@ -8629,6 +8584,30 @@
    "comps": []
   },
   {
+   "id": "e15215285960945",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "Astell&Kern",
+   "model": "SP3000T",
+   "desc": "A&ultima SP3000T",
+   "cond": "",
+   "jpy": 210700,
+   "kg": 0.4,
+   "sq": "SP3000T",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014342_3350835.jpg?v=1793262448&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014342_3350836.jpg?v=1793262448&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014342_3350837.jpg?v=1793262448&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014342_3350838.jpg?v=1793262448&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/786825",
+   "mkt": 226600,
+   "mktN": 4,
+   "comps": []
+  },
+  {
    "id": "e15241818439921",
    "cat": "earphones",
    "src": "eearphone",
@@ -8719,8 +8698,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/796470",
-   "mkt": 231850,
-   "mktN": 6,
+   "mkt": 231800,
+   "mktN": 5,
    "comps": []
   },
   {
@@ -9127,32 +9106,8 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/794834",
-   "mkt": 231850,
-   "mktN": 6,
-   "comps": []
-  },
-  {
-   "id": "e15215285960945",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "Astell&Kern",
-   "model": "SP3000T",
-   "desc": "A&ultima SP3000T",
-   "cond": "",
-   "jpy": 210700,
-   "kg": 0.4,
-   "sq": "SP3000T",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014342_3350835.jpg?v=1793262448&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014342_3350836.jpg?v=1793262448&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014342_3350837.jpg?v=1793262448&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1014342_3350838.jpg?v=1793262448&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/786825",
-   "mkt": 219100,
-   "mktN": 3,
+   "mkt": 231800,
+   "mktN": 5,
    "comps": []
   },
   {
@@ -9300,6 +9255,54 @@
    "comps": []
   },
   {
+   "id": "e15284292288753",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "Astell&Kern",
+   "model": "SP3000T",
+   "desc": "A&ultima SP3000T",
+   "cond": "",
+   "jpy": 219100,
+   "kg": 0.4,
+   "sq": "SP3000T",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024641_3361327.jpg?v=1793682395&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024641_3361328.jpg?v=1793682395&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024641_3361329.jpg?v=1793682395&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024641_3361330.jpg?v=1793682395&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/796938",
+   "mkt": 226600,
+   "mktN": 4,
+   "comps": []
+  },
+  {
+   "id": "e15222349758705",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "DUNU-TOPSOUND",
+   "model": "DaVinci",
+   "desc": "DaVinci",
+   "cond": "",
+   "jpy": 23500,
+   "kg": 0.5,
+   "sq": "DaVinci",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015861_3320641.jpg?v=1791884177&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015861_3320642.jpg?v=1791884177&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015861_3320643.jpg?v=1791884177&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1015861_3320644.jpg?v=1791884177&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/788319",
+   "mkt": 24300,
+   "mktN": 4,
+   "comps": []
+  },
+  {
    "id": "e15233051558129",
    "cat": "speakers",
    "src": "eearphone",
@@ -9320,30 +9323,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/789611",
    "mkt": 9200,
-   "mktN": 3,
-   "comps": []
-  },
-  {
-   "id": "e15273912729841",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "DUNU-TOPSOUND",
-   "model": "DaVinci",
-   "desc": "DaVinci",
-   "cond": "",
-   "jpy": 23900,
-   "kg": 0.5,
-   "sq": "DaVinci",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022758_3355074.jpg?v=1793430492&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022758_3355075.jpg?v=1793430492&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022758_3355076.jpg?v=1793430492&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022758_3355077.jpg?v=1793430492&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/795100",
-   "mkt": 24700,
    "mktN": 3,
    "comps": []
   },
@@ -9708,6 +9687,30 @@
    "comps": []
   },
   {
+   "id": "e15284297400561",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "WF-1000XM4",
+   "desc": "WF-1000XM4 BM ブラック",
+   "cond": "",
+   "jpy": 7390,
+   "kg": 0.5,
+   "sq": "WF-1000XM4",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024643_3367179.jpg?v=1793873666&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024643_3367181.jpg?v=1793873666&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024643_3367183.jpg?v=1793873666&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024643_3367185.jpg?v=1793873666&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/796940",
+   "mkt": 7545,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "e15282472190193",
    "cat": "earphones",
    "src": "eearphone",
@@ -9876,6 +9879,30 @@
    "comps": []
   },
   {
+   "id": "e15273912729841",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "DUNU-TOPSOUND",
+   "model": "DaVinci",
+   "desc": "DaVinci",
+   "cond": "",
+   "jpy": 23900,
+   "kg": 0.5,
+   "sq": "DaVinci",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022758_3355074.jpg?v=1793430492&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022758_3355075.jpg?v=1793430492&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022758_3355076.jpg?v=1793430492&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022758_3355077.jpg?v=1793430492&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/795100",
+   "mkt": 24300,
+   "mktN": 4,
+   "comps": []
+  },
+  {
    "id": "e15279507767537",
    "cat": "earphones",
    "src": "eearphone",
@@ -9945,6 +9972,30 @@
    "url": "https://www.e-earphone.jp/products/781421",
    "mkt": 16650,
    "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e15259702690033",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MLWK3J/A",
+   "desc": "Apple AirPods Pro MLWK3J/A (2021/Magsafe)",
+   "cond": "",
+   "jpy": 9220,
+   "kg": 0.5,
+   "sq": "MLWK3J/A",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021694_3349150.jpg?v=1793176588&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021694_3349151.jpg?v=1793176588&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021694_3349152.jpg?v=1793176588&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021694_3349153.jpg?v=1793176588&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/794043",
+   "mkt": 9350,
+   "mktN": 6,
    "comps": []
   },
   {
@@ -10556,30 +10607,6 @@
    "comps": []
   },
   {
-   "id": "e15250730320113",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MKFT4J/A",
-   "desc": "AirPods 5 MKFT4J/A（ワイヤレス充電ケース付き）",
-   "cond": "",
-   "jpy": 22700,
-   "kg": 0.5,
-   "sq": "MKFT4J/A",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020028_3344689.jpg?v=1792923136&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020028_3344690.jpg?v=1792923136&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020028_3344691.jpg?v=1792923136&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020028_3344692.jpg?v=1792923136&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/792410",
-   "mkt": 22750,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e15279042199793",
    "cat": "player",
    "src": "eearphone",
@@ -10601,30 +10628,6 @@
    "url": "https://www.e-earphone.jp/products/795630",
    "mkt": 245200,
    "mktN": 3,
-   "comps": []
-  },
-  {
-   "id": "e15284461207793",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "NW-WM1ZM2",
-   "desc": "NW-WM1ZM2",
-   "cond": "",
-   "jpy": 231800,
-   "kg": 0.4,
-   "sq": "NW-WM1ZM2",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024687_3363165.jpg?v=1793765518&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024687_3363166.jpg?v=1793765518&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024687_3363167.jpg?v=1793765518&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024687_3363168.jpg?v=1793765518&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/796982",
-   "mkt": 231850,
-   "mktN": 6,
    "comps": []
   },
   {
@@ -10892,27 +10895,27 @@
    "comps": []
   },
   {
-   "id": "e15284292288753",
+   "id": "e15284461207793",
    "cat": "player",
    "src": "eearphone",
-   "brand": "Astell&Kern",
-   "model": "SP3000T",
-   "desc": "A&ultima SP3000T",
+   "brand": "SONY",
+   "model": "NW-WM1ZM2",
+   "desc": "NW-WM1ZM2",
    "cond": "",
-   "jpy": 219100,
+   "jpy": 231800,
    "kg": 0.4,
-   "sq": "SP3000T",
-   "store": "秋葉原",
+   "sq": "NW-WM1ZM2",
+   "store": "名古屋",
    "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024641_3361327.jpg?v=1793682395&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024641_3361328.jpg?v=1793682395&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024641_3361329.jpg?v=1793682395&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024641_3361330.jpg?v=1793682395&width=700"
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024687_3363165.jpg?v=1793765518&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024687_3363166.jpg?v=1793765518&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024687_3363167.jpg?v=1793765518&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024687_3363168.jpg?v=1793765518&width=700"
    ],
    "snap": false,
-   "url": "https://www.e-earphone.jp/products/796938",
-   "mkt": 219100,
-   "mktN": 3,
+   "url": "https://www.e-earphone.jp/products/796982",
+   "mkt": 231800,
+   "mktN": 5,
    "comps": []
   },
   {
@@ -11249,6 +11252,30 @@
    "url": "https://www.e-earphone.jp/products/796944",
    "mkt": 84900,
    "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15280359309553",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Bowers & Wilkins",
+   "model": "Px8",
+   "desc": "Px8 S2 オニキス・ブラック",
+   "cond": "",
+   "jpy": 82400,
+   "kg": 0.5,
+   "sq": "Px8",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023926_3364460.jpg?v=1793780662&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023926_3364461.jpg?v=1793780662&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023926_3364462.jpg?v=1793780662&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023926_3364463.jpg?v=1793780662&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/796245",
+   "mkt": 82400,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -11636,26 +11663,26 @@
    "comps": []
   },
   {
-   "id": "e15284304904433",
+   "id": "e15282491425009",
    "cat": "earphones",
    "src": "eearphone",
    "brand": "SENNHEISER",
    "model": "HDB 630",
    "desc": "HDB 630 LUNAR SILVER",
    "cond": "",
-   "jpy": 62900,
+   "jpy": 61900,
    "kg": 0.5,
    "sq": "HDB 630",
-   "store": "秋葉原",
+   "store": "名古屋",
    "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024646_3367653.jpg?v=1793934985&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024646_3367654.jpg?v=1793934985&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024646_3367655.jpg?v=1793934985&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024646_3367656.jpg?v=1793934985&width=700"
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024598_3367804.jpg?v=1793937133&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024598_3367805.jpg?v=1793937133&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024598_3367806.jpg?v=1793937133&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024598_3367807.jpg?v=1793937133&width=700"
    ],
    "snap": false,
-   "url": "https://www.e-earphone.jp/products/796943",
-   "mkt": 62900,
+   "url": "https://www.e-earphone.jp/products/796896",
+   "mkt": 61900,
    "mktN": 1,
    "comps": []
   },
@@ -11948,6 +11975,30 @@
    "comps": []
   },
   {
+   "id": "e15256467341553",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "MDR-Z7M2",
+   "desc": "MDR-Z7M2 Q",
+   "cond": "",
+   "jpy": 48000,
+   "kg": 0.5,
+   "sq": "MDR-Z7M2",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021030_3359071.jpg?v=1793589490&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021030_3359072.jpg?v=1793589490&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021030_3359073.jpg?v=1793589490&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1021030_3359074.jpg?v=1793589490&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/793381",
+   "mkt": 48000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e15242807050481",
    "cat": "earphones",
    "src": "eearphone",
@@ -12016,30 +12067,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/791272",
    "mkt": 43400,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15282491457777",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "FIIO",
-   "model": "M21",
-   "desc": "M21 Dark Blue",
-   "cond": "",
-   "jpy": 42900,
-   "kg": 0.4,
-   "sq": "M21",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024599_3365168.jpg?v=1793785929&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024599_3365169.jpg?v=1793785929&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024599_3365170.jpg?v=1793785929&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024599_3365171.jpg?v=1793785929&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/796897",
-   "mkt": 42900,
    "mktN": 1,
    "comps": []
   },
@@ -12403,30 +12430,6 @@
    "comps": []
   },
   {
-   "id": "e15267379118321",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "AKG",
-   "model": "N5005",
-   "desc": "AKG N5005",
-   "cond": "",
-   "jpy": 34100,
-   "kg": 0.5,
-   "sq": "N5005",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022359_3357055.jpg?v=1793509214&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022359_3357056.jpg?v=1793509214&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022359_3357057.jpg?v=1793509214&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022359_3357058.jpg?v=1793509214&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/794701",
-   "mkt": 34100,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e15250898583793",
    "cat": "player",
    "src": "eearphone",
@@ -12520,6 +12523,30 @@
    "url": "https://www.e-earphone.jp/products/797496",
    "mkt": 32200,
    "mktN": 3,
+   "comps": []
+  },
+  {
+   "id": "e15274305388785",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Bose",
+   "model": "QuietComfort SC Headphones",
+   "desc": "QuietComfort SC Headphones (第2世代)",
+   "cond": "",
+   "jpy": 31900,
+   "kg": 0.5,
+   "sq": "QuietComfort SC Headphones",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022913_3358684.jpg?v=1793585845&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022913_3358685.jpg?v=1793585845&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022913_3358686.jpg?v=1793585845&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022913_3358687.jpg?v=1793585845&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/795252",
+   "mkt": 31900,
+   "mktN": 1,
    "comps": []
   },
   {
@@ -13459,30 +13486,6 @@
    "comps": []
   },
   {
-   "id": "e15273482322161",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "DUNU-TOPSOUND",
-   "model": "DaVinci",
-   "desc": "DaVinci",
-   "cond": "",
-   "jpy": 24700,
-   "kg": 0.5,
-   "sq": "DaVinci",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022703_3358418.jpg?v=1793526855&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022703_3358419.jpg?v=1793526855&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022703_3358420.jpg?v=1793526855&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022703_3358421.jpg?v=1793526855&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/795045",
-   "mkt": 24700,
-   "mktN": 3,
-   "comps": []
-  },
-  {
    "id": "e15282392563953",
    "cat": "earphones",
    "src": "eearphone",
@@ -13747,6 +13750,54 @@
    "comps": []
   },
   {
+   "id": "e10302931992817",
+   "cat": "speakers",
+   "src": "eearphone",
+   "brand": "Kanto Audio",
+   "model": "YU2",
+   "desc": "YU2 マットホワイト",
+   "cond": "",
+   "jpy": 23000,
+   "kg": 3.0,
+   "sq": "YU2",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008755_3285713.jpg?v=1790238501&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008755_3285714.jpg?v=1790238501&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008755_3285715.jpg?v=1790238501&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008755_3285716.jpg?v=1790238501&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/781371",
+   "mkt": 23000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15250730320113",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MKFT4J/A",
+   "desc": "AirPods 5 MKFT4J/A（ワイヤレス充電ケース付き）",
+   "cond": "",
+   "jpy": 22700,
+   "kg": 0.5,
+   "sq": "MKFT4J/A",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020028_3344689.jpg?v=1792923136&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020028_3344690.jpg?v=1792923136&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020028_3344691.jpg?v=1792923136&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1020028_3344692.jpg?v=1792923136&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/792410",
+   "mkt": 22700,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e15202610839793",
    "cat": "speakers",
    "src": "eearphone",
@@ -13983,30 +14034,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/786762",
    "mkt": 21900,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15242508927217",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "SHANLING",
-   "model": "M1 Plus Silver",
-   "desc": "M1 Plus Silver",
-   "cond": "",
-   "jpy": 21800,
-   "kg": 0.4,
-   "sq": "M1 Plus Silver",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018400_3356635.jpg?v=1793504652&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018400_3356637.jpg?v=1793504652&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018400_3356639.jpg?v=1793504652&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018400_3356641.jpg?v=1793504652&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/790805",
-   "mkt": 21800,
    "mktN": 1,
    "comps": []
   },
@@ -14534,30 +14561,6 @@
    ],
    "snap": false,
    "url": "https://www.e-earphone.jp/products/794230",
-   "mkt": 19300,
-   "mktN": 9,
-   "comps": []
-  },
-  {
-   "id": "e15231913230577",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Shokz",
-   "model": "OpenRun Pro 2",
-   "desc": "OpenRun Pro 2 Mini Black",
-   "cond": "",
-   "jpy": 19300,
-   "kg": 0.5,
-   "sq": "OpenRun Pro 2",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017044_3343014.jpg?v=1792894573&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017044_3343015.jpg?v=1792894573&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017044_3343016.jpg?v=1792894573&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1017044_3343017.jpg?v=1792894573&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/789479",
    "mkt": 19300,
    "mktN": 9,
    "comps": []
