@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-11-12",
- "generatedAt": "2026-11-12T14:10:14+00:00",
+ "generatedAt": "2026-11-12T21:39:16+00:00",
  "fx": 0.21149,
  "fxDate": "2026-11-12",
  "counts": {
@@ -1413,7 +1413,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-008-385-6785/",
    "mkt": 70000,
-   "mktN": 15,
+   "mktN": 14,
    "comps": []
   },
   {
@@ -1434,7 +1434,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-397-2606/",
    "mkt": 70000,
-   "mktN": 15,
+   "mktN": 14,
    "comps": []
   },
   {
@@ -1553,7 +1553,7 @@
    "jpy": 300000,
    "kg": 0.4,
    "sq": "9S65-00B0/SBGR053",
-   "store": "KOMEHYO SHINJUKU",
+   "store": "梅田店",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/2d8/2300008705401_1_b.jpg"
    ],
@@ -2152,6 +2152,27 @@
    "comps": []
   },
   {
+   "id": "k2300005230623",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "GUCCI",
+   "model": "137385",
+   "desc": "グッチ 137385 バッグ GUCCI",
+   "cond": "A",
+   "jpy": 90000,
+   "kg": 1.2,
+   "sq": "137385",
+   "store": "天神店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/984/2300005230623_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-523-0623/",
+   "mkt": 105000,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "k2700043876300",
    "cat": "bag",
    "src": "komehyo",
@@ -2169,7 +2190,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-387-6300/",
    "mkt": 70000,
-   "mktN": 15,
+   "mktN": 14,
    "comps": []
   },
   {
@@ -2190,7 +2211,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-262-7118/",
    "mkt": 70000,
-   "mktN": 15,
+   "mktN": 14,
    "comps": []
   },
   {
@@ -2708,7 +2729,7 @@
    "jpy": 180000,
    "kg": 0.4,
    "sq": "WAZ2011.BA0842",
-   "store": "名古屋本館",
+   "store": "KOMEHYO SHINJUKU",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/815/2300008243064_1_b.jpg"
    ],
@@ -3207,7 +3228,7 @@
    "src": "komehyo",
    "brand": "VAN CLEEF & ARPELS",
    "model": "新入荷 ペルレ シニアチュール",
-   "desc": "新入荷 ヴァンクリーフ&アーペル ペルレ シニアチュール リング 11月09日入荷 Van Cleef & Arpels",
+   "desc": "新入荷 ヴァンクリーフ&アーペル ペルレ シニアチュール リング Van Cleef & Arpels",
    "cond": "A",
    "jpy": 480000,
    "kg": 0.1,
@@ -3401,7 +3422,7 @@
    "jpy": 450000,
    "kg": 0.4,
    "sq": "3510.50",
-   "store": "名古屋本館",
+   "store": "KOMEHYO SHINJUKU",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/ea6/2300008787032_1_b.jpg"
    ],
@@ -6741,7 +6762,7 @@
    "jpy": 120000,
    "kg": 0.4,
    "sq": "166.067",
-   "store": "名古屋本館",
+   "store": "KOMEHYO SHINJUKU",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/d69/2600083678240_1_b.jpg"
    ],
@@ -7340,27 +7361,6 @@
    "comps": []
   },
   {
-   "id": "k2300007340818",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "GUCCI",
-   "model": "113014",
-   "desc": "グッチ 113014 バッグ GUCCI",
-   "cond": "A",
-   "jpy": 95000,
-   "kg": 1.2,
-   "sq": "113014",
-   "store": "KOMEHYO VINTAGE TOKYO",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/7bd/2300007340818_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-734-0818/",
-   "mkt": 95000,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e15279476998385",
    "cat": "earphones",
    "src": "eearphone",
@@ -7910,30 +7910,6 @@
    "comps": []
   },
   {
-   "id": "e15291103707377",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "Astell&Kern",
-   "model": "SP3000",
-   "desc": "A&ultima SP3000 Silver",
-   "cond": "",
-   "jpy": 284700,
-   "kg": 0.4,
-   "sq": "SP3000",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025990_3377175.jpg?v=1794296242&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025990_3377176.jpg?v=1794296242&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025990_3377177.jpg?v=1794296242&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025990_3377178.jpg?v=1794296242&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/798231",
-   "mkt": 345450,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e15293848453361",
    "cat": "earphones",
    "src": "eearphone",
@@ -7955,6 +7931,30 @@
    "url": "https://www.e-earphone.jp/products/798408",
    "mkt": 17700,
    "mktN": 18,
+   "comps": []
+  },
+  {
+   "id": "e15291103707377",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "Astell&Kern",
+   "model": "SP3000",
+   "desc": "A&ultima SP3000 Silver",
+   "cond": "",
+   "jpy": 284700,
+   "kg": 0.4,
+   "sq": "SP3000",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025990_3377175.jpg?v=1794296242&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025990_3377176.jpg?v=1794296242&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025990_3377177.jpg?v=1794296242&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025990_3377178.jpg?v=1794296242&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/798231",
+   "mkt": 343800,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -8051,6 +8051,30 @@
    "url": "https://www.e-earphone.jp/products/797099",
    "mkt": 45400,
    "mktN": 9,
+   "comps": []
+  },
+  {
+   "id": "e15280383820017",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MME73J/A",
+   "desc": "Airpods MME73J/A 3rd Generation",
+   "cond": "",
+   "jpy": 6640,
+   "kg": 0.5,
+   "sq": "MME73J/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023998_3366063.jpg?v=1793853629&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023998_3366064.jpg?v=1793853629&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023998_3366065.jpg?v=1793853629&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023998_3366066.jpg?v=1793853629&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/796317",
+   "mkt": 7835,
+   "mktN": 4,
    "comps": []
   },
   {
@@ -8389,54 +8413,6 @@
    "comps": []
   },
   {
-   "id": "e15266929115377",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MTJV3JA",
-   "desc": "MagSafe充電ケース(USB-C)付きAirPods Pro(第2世代) MTJV3JA",
-   "cond": "",
-   "jpy": 15200,
-   "kg": 0.5,
-   "sq": "MTJV3JA",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022223_3351393.jpg?v=1793269336&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022223_3351394.jpg?v=1793269336&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022223_3351395.jpg?v=1793269336&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022223_3351396.jpg?v=1793269336&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/794565",
-   "mkt": 16650,
-   "mktN": 4,
-   "comps": []
-  },
-  {
-   "id": "e15280383820017",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MME73J/A",
-   "desc": "Airpods MME73J/A 3rd Generation",
-   "cond": "",
-   "jpy": 6640,
-   "kg": 0.5,
-   "sq": "MME73J/A",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023998_3366063.jpg?v=1793853629&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023998_3366064.jpg?v=1793853629&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023998_3366065.jpg?v=1793853629&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023998_3366066.jpg?v=1793853629&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/796317",
-   "mkt": 7240,
-   "mktN": 3,
-   "comps": []
-  },
-  {
    "id": "e15285427077361",
    "cat": "earphones",
    "src": "eearphone",
@@ -8482,6 +8458,54 @@
    "url": "https://www.e-earphone.jp/products/796410",
    "mkt": 45400,
    "mktN": 9,
+   "comps": []
+  },
+  {
+   "id": "e15291007566065",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MME73J/A",
+   "desc": "Airpods MME73J/A 3rd Generation",
+   "cond": "",
+   "jpy": 7240,
+   "kg": 0.5,
+   "sq": "MME73J/A",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025935_3375467.jpg?v=1794223316&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025935_3375468.jpg?v=1794223316&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025935_3375469.jpg?v=1794223316&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025935_3375470.jpg?v=1794223316&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/798176",
+   "mkt": 7835,
+   "mktN": 4,
+   "comps": []
+  },
+  {
+   "id": "e15266929115377",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MTJV3JA",
+   "desc": "MagSafe充電ケース(USB-C)付きAirPods Pro(第2世代) MTJV3JA",
+   "cond": "",
+   "jpy": 15200,
+   "kg": 0.5,
+   "sq": "MTJV3JA",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022223_3351393.jpg?v=1793269336&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022223_3351394.jpg?v=1793269336&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022223_3351395.jpg?v=1793269336&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022223_3351396.jpg?v=1793269336&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/794565",
+   "mkt": 16400,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -10219,30 +10243,6 @@
    "comps": []
   },
   {
-   "id": "e15296347144433",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MTJV3JA",
-   "desc": "MagSafe充電ケース(USB-C)付きAirPods Pro(第2世代) MTJV3JA",
-   "cond": "",
-   "jpy": 16400,
-   "kg": 0.5,
-   "sq": "MTJV3JA",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1026467_3376597.jpg?v=1794286145&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1026467_3376598.jpg?v=1794286145&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1026467_3376599.jpg?v=1794286145&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1026467_3376600.jpg?v=1794286145&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/798693",
-   "mkt": 16650,
-   "mktN": 4,
-   "comps": []
-  },
-  {
    "id": "e15250272780529",
    "cat": "earphones",
    "src": "eearphone",
@@ -10407,30 +10407,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/789582",
    "mkt": 117400,
-   "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e15294172463345",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "FIIO",
-   "model": "M21",
-   "desc": "M21 Titanium Gold",
-   "cond": "",
-   "jpy": 41900,
-   "kg": 0.4,
-   "sq": "M21",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1026377_3377106.jpg?v=1794294914&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1026377_3377107.jpg?v=1794294914&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1026377_3377108.jpg?v=1794294914&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1026377_3377109.jpg?v=1794294914&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/798603",
-   "mkt": 42400,
    "mktN": 2,
    "comps": []
   },
@@ -11091,6 +11067,30 @@
    "comps": []
   },
   {
+   "id": "e9565922066673",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "Astell&Kern",
+   "model": "SP3000",
+   "desc": "A&ultima SP3000 Copper",
+   "cond": "",
+   "jpy": 343800,
+   "kg": 0.4,
+   "sq": "SP3000",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/949440_2982040.jpg?v=1777449806&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/949440_2982052.jpg?v=1777449806&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/949440_2982041.jpg?v=1777449806&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/949440_2982042.jpg?v=1777449806&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/723156",
+   "mkt": 343800,
+   "mktN": 3,
+   "comps": []
+  },
+  {
    "id": "e15296361496817",
    "cat": "earphones",
    "src": "eearphone",
@@ -11615,6 +11615,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/798475",
    "mkt": 105600,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e9596602941681",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "FIIO",
+   "model": "M17",
+   "desc": "M17",
+   "cond": "",
+   "jpy": 104500,
+   "kg": 0.4,
+   "sq": "M17",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/960462_3025680.jpg?v=1779082004&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/960462_3025681.jpg?v=1779082004&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/960462_3025682.jpg?v=1779082004&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/960462_3025683.jpg?v=1779082004&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/734044",
+   "mkt": 104500,
    "mktN": 1,
    "comps": []
   },
@@ -12827,6 +12851,30 @@
    "comps": []
   },
   {
+   "id": "e15294172463345",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "FIIO",
+   "model": "M21",
+   "desc": "M21 Titanium Gold",
+   "cond": "",
+   "jpy": 41900,
+   "kg": 0.4,
+   "sq": "M21",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1026377_3377106.jpg?v=1794294914&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1026377_3377107.jpg?v=1794294914&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1026377_3377108.jpg?v=1794294914&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1026377_3377109.jpg?v=1794294914&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/798603",
+   "mkt": 41900,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e15288869748977",
    "cat": "earphones",
    "src": "eearphone",
@@ -13494,30 +13542,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/796912",
    "mkt": 34700,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15298724823281",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "RHA",
-   "model": "CL2",
-   "desc": "CL2 Planar",
-   "cond": "",
-   "jpy": 34500,
-   "kg": 0.5,
-   "sq": "CL2",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1027261_3376969.jpg?v=1794291727&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1027261_3376961.jpg?v=1794291546&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1027261_3376926.jpg?v=1794290779&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1027261_3376927.jpg?v=1794290779&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/799480",
-   "mkt": 34500,
    "mktN": 1,
    "comps": []
   },
@@ -14548,30 +14572,6 @@
    "url": "https://www.e-earphone.jp/products/796328",
    "mkt": 22000,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e10303046549745",
-   "cat": "speakers",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "SRS-XG300",
-   "desc": "SRS-XG300 B ブラック",
-   "cond": "",
-   "jpy": 22000,
-   "kg": 3.0,
-   "sq": "SRS-XG300",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008938_3308442.jpg?v=1791339019&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008938_3308443.jpg?v=1791339019&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008938_3308444.jpg?v=1791339019&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1008938_3308445.jpg?v=1791339019&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/781554",
-   "mkt": 22000,
-   "mktN": 1,
    "comps": []
   }
  ]
