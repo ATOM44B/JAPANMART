@@ -1,7 +1,7 @@
 {
  "source": "live",
  "generated": "2026-11-14",
- "generatedAt": "2026-11-14T12:39:55+00:00",
+ "generatedAt": "2026-11-14T19:34:33+00:00",
  "fx": 0.21196,
  "fxDate": "2026-11-14",
  "counts": {
@@ -2395,7 +2395,6 @@
    "sq": "新入荷 ＸＦ２３ｍｍ Ｆ１．４Ｒ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/ade/2700044461895_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/4a6/2700044461895s.jpg"
    ],
    "snap": false,
@@ -2417,7 +2416,6 @@
    "sq": "新入荷 ＸＦ２３ｍｍ Ｆ１．４Ｒ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/aed/2600075330941_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/dac/2600075330941s.jpg"
    ],
    "snap": false,
@@ -3251,7 +3249,7 @@
    "src": "komehyo",
    "brand": "GRAND SEIKO",
    "model": "9F61-0AN0/SBGX343",
-   "desc": "新入荷 セイコー グランドセイコー･スポーツコレクション 9F61-0AN0/SBGX343 SS クォーツ SEIKO",
+   "desc": "セイコー グランドセイコー･スポーツコレクション 9F61-0AN0/SBGX343 SS クォーツ SEIKO",
    "cond": "A",
    "jpy": 470000,
    "kg": 0.4,
@@ -3440,7 +3438,7 @@
    "src": "komehyo",
    "brand": "OMEGA",
    "model": "2542.80",
-   "desc": "新入荷 オメガ シーマスタープロ 2542.80 SS クォーツ OMEGA",
+   "desc": "オメガ シーマスタープロ 2542.80 SS クォーツ OMEGA",
    "cond": "A",
    "jpy": 450000,
    "kg": 0.4,
@@ -3524,7 +3522,7 @@
    "src": "komehyo",
    "brand": "LOUIS VUITTON",
    "model": "BB M54294",
-   "desc": "新入荷 ルイヴィトン カプシーヌBB M54294 バッグ 11月11日入荷 LOUIS VUITTON",
+   "desc": "新入荷 ルイヴィトン カプシーヌBB M54294 バッグ LOUIS VUITTON",
    "cond": "A",
    "jpy": 450000,
    "kg": 1.2,
@@ -5225,7 +5223,7 @@
    "src": "komehyo",
    "brand": "OMEGA",
    "model": "5250.50.07",
-   "desc": "新入荷 【ノーメンテナンス還元価格】オメガ ダイナミック 5250.50.07 SS 自動巻 OMEGA",
+   "desc": "【ノーメンテナンス還元価格】オメガ ダイナミック 5250.50.07 SS 自動巻 OMEGA",
    "cond": "B",
    "jpy": 200000,
    "kg": 0.4,
@@ -5372,7 +5370,7 @@
    "src": "komehyo",
    "brand": "FENDI",
    "model": "8BH414",
-   "desc": "新入荷 フェンディ フェンディ オリガミ MEDIUM 8BH414 A984 ショルダーバッグ 11月11日入荷 FENDI",
+   "desc": "新入荷 フェンディ フェンディ オリガミ MEDIUM 8BH414 A984 ショルダーバッグ FENDI",
    "cond": "A",
    "jpy": 200000,
    "kg": 1.2,
@@ -6171,7 +6169,7 @@
    "src": "komehyo",
    "brand": "PRADA",
    "model": "B2185B",
-   "desc": "新入荷 プラダ B2185B バッグ 11月11日入荷 PRADA",
+   "desc": "新入荷 プラダ B2185B バッグ PRADA",
    "cond": "A",
    "jpy": 150000,
    "kg": 1.2,
@@ -6696,7 +6694,7 @@
    "src": "komehyo",
    "brand": "OMEGA",
    "model": "1512.40",
-   "desc": "新入荷 【ノーメンテナンス還元価格】オメガ コンステレーション 1512.40 SS クォーツ 11月11日入荷 OMEGA",
+   "desc": "新入荷 【ノーメンテナンス還元価格】オメガ コンステレーション 1512.40 SS クォーツ OMEGA",
    "cond": "B",
    "jpy": 120000,
    "kg": 0.4,
@@ -7200,7 +7198,7 @@
    "src": "komehyo",
    "brand": "PRADA",
    "model": "BN2106",
-   "desc": "新入荷 プラダ BN2106 バッグ 11月11日入荷 PRADA",
+   "desc": "新入荷 プラダ BN2106 バッグ PRADA",
    "cond": "A",
    "jpy": 100000,
    "kg": 1.2,
@@ -8009,30 +8007,6 @@
    "comps": []
   },
   {
-   "id": "e15303373816049",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "FIIO",
-   "model": "JM21",
-   "desc": "JM21 Blue",
-   "cond": "",
-   "jpy": 21900,
-   "kg": 0.4,
-   "sq": "JM21",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1028028_3381506.jpg?v=1794482607&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1028028_3381507.jpg?v=1794482607&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1028028_3381508.jpg?v=1794482607&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1028028_3381509.jpg?v=1794482607&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/800230",
-   "mkt": 25900,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "e15254620143857",
    "cat": "earphones",
    "src": "eearphone",
@@ -8221,6 +8195,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/791453",
    "mkt": 5585,
+   "mktN": 2,
+   "comps": []
+  },
+  {
+   "id": "e15298530377969",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "FIIO",
+   "model": "M23",
+   "desc": "M23",
+   "cond": "",
+   "jpy": 69800,
+   "kg": 0.4,
+   "sq": "M23",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1027024_3378412.jpg?v=1794367687&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1027024_3378414.jpg?v=1794367687&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1027024_3378416.jpg?v=1794367687&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1027024_3378418.jpg?v=1794367687&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/799243",
+   "mkt": 79350,
    "mktN": 2,
    "comps": []
   },
@@ -9062,6 +9060,30 @@
    "comps": []
   },
   {
+   "id": "e15290742898929",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "FIIO",
+   "model": "Snowsky ECHO NANO",
+   "desc": "Snowsky ECHO NANO White",
+   "cond": "",
+   "jpy": 10400,
+   "kg": 0.4,
+   "sq": "Snowsky ECHO NANO",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025771_3370782.jpg?v=1794033861&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025771_3370783.jpg?v=1794033861&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025771_3370784.jpg?v=1794033861&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025771_3370785.jpg?v=1794033861&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/798011",
+   "mkt": 10900,
+   "mktN": 4,
+   "comps": []
+  },
+  {
    "id": "e15298666103025",
    "cat": "earphones",
    "src": "eearphone",
@@ -9374,30 +9396,6 @@
    "comps": []
   },
   {
-   "id": "e15304531542257",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "FIIO",
-   "model": "M23",
-   "desc": "M23",
-   "cond": "",
-   "jpy": 67400,
-   "kg": 0.4,
-   "sq": "M23",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1028154_3381471.jpg?v=1794481517&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1028154_3381472.jpg?v=1794481517&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1028154_3381473.jpg?v=1794481517&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1028154_3381475.jpg?v=1794481517&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/800357",
-   "mkt": 69800,
-   "mktN": 3,
-   "comps": []
-  },
-  {
    "id": "e15296347144433",
    "cat": "earphones",
    "src": "eearphone",
@@ -9634,30 +9632,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/789611",
    "mkt": 9150,
-   "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "e15245464600817",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "SONY",
-   "model": "MDR-Z7M2",
-   "desc": "MDR-Z7M2 Q",
-   "cond": "",
-   "jpy": 47400,
-   "kg": 0.5,
-   "sq": "MDR-Z7M2",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018997_3374315.jpg?v=1794193625&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018997_3374316.jpg?v=1794193625&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018997_3374317.jpg?v=1794193625&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018997_3374318.jpg?v=1794193625&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/791395",
-   "mkt": 48650,
    "mktN": 2,
    "comps": []
   },
@@ -10806,6 +10780,30 @@
    "comps": []
   },
   {
+   "id": "e15287381295345",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "水月雨 (MOONDROP)",
+   "model": "蘭 II -",
+   "desc": "蘭 II - POP",
+   "cond": "",
+   "jpy": 5310,
+   "kg": 0.5,
+   "sq": "蘭 II -",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025326_3375180.jpg?v=1794211573&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025326_3375181.jpg?v=1794211573&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025326_3375182.jpg?v=1794211573&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025326_3375183.jpg?v=1794211573&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/797594",
+   "mkt": 5350,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "e15250932990193",
    "cat": "earphones",
    "src": "eearphone",
@@ -10971,6 +10969,30 @@
    "url": "https://www.e-earphone.jp/products/799254",
    "mkt": 29800,
    "mktN": 7,
+   "comps": []
+  },
+  {
+   "id": "e15196893872369",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "nwm",
+   "model": "GO フォグブラック",
+   "desc": "nwmGO フォグブラック",
+   "cond": "",
+   "jpy": 6536,
+   "kg": 0.5,
+   "sq": "GO フォグブラック",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010097_3300807.jpg?v=1790930346&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010097_3300808.jpg?v=1790930346&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010097_3300809.jpg?v=1790930346&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1010097_3300810.jpg?v=1790930346&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/782678",
+   "mkt": 6555,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -11474,6 +11496,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/798766",
    "mkt": 170000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15290767442161",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "iBasso Audio",
+   "model": "DX270",
+   "desc": "DX270 GRY",
+   "cond": "",
+   "jpy": 169500,
+   "kg": 0.4,
+   "sq": "DX270",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025794_3370377.jpg?v=1794026488&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025794_3370378.jpg?v=1794026488&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025794_3370379.jpg?v=1794026488&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025794_3370380.jpg?v=1794026488&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/798035",
+   "mkt": 169500,
    "mktN": 1,
    "comps": []
   },
@@ -12206,30 +12252,6 @@
    "comps": []
   },
   {
-   "id": "e15298530377969",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "FIIO",
-   "model": "M23",
-   "desc": "M23",
-   "cond": "",
-   "jpy": 69800,
-   "kg": 0.4,
-   "sq": "M23",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1027024_3378412.jpg?v=1794367687&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1027024_3378414.jpg?v=1794367687&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1027024_3378416.jpg?v=1794367687&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1027024_3378418.jpg?v=1794367687&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/799243",
-   "mkt": 69800,
-   "mktN": 3,
-   "comps": []
-  },
-  {
    "id": "e15287424057585",
    "cat": "earphones",
    "src": "eearphone",
@@ -12710,6 +12732,30 @@
    "comps": []
   },
   {
+   "id": "e15280412590321",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "AUDEZE",
+   "model": "MM-100",
+   "desc": "MM-100",
+   "cond": "",
+   "jpy": 53900,
+   "kg": 0.5,
+   "sq": "MM-100",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024146_3368105.jpg?v=1793940913&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024146_3368106.jpg?v=1793940913&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024146_3368107.jpg?v=1793940913&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024146_3368108.jpg?v=1793940913&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/796463",
+   "mkt": 53900,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "e15204510695665",
    "cat": "earphones",
    "src": "eearphone",
@@ -13114,6 +13160,30 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/797760",
    "mkt": 47900,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "e15245464600817",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "SONY",
+   "model": "MDR-Z7M2",
+   "desc": "MDR-Z7M2 Q",
+   "cond": "",
+   "jpy": 47400,
+   "kg": 0.5,
+   "sq": "MDR-Z7M2",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018997_3374315.jpg?v=1794193625&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018997_3374316.jpg?v=1794193625&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018997_3374317.jpg?v=1794193625&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1018997_3374318.jpg?v=1794193625&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/791395",
+   "mkt": 47400,
    "mktN": 1,
    "comps": []
   },
@@ -14050,30 +14120,6 @@
    "comps": []
   },
   {
-   "id": "e15280363831537",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bowers & Wilkins",
-   "model": "Px8/T",
-   "desc": "Px8/T タン",
-   "cond": "",
-   "jpy": 32800,
-   "kg": 0.5,
-   "sq": "Px8/T",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023940_3375896.jpg?v=1794276495&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023940_3375897.jpg?v=1794276495&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023940_3375898.jpg?v=1794276495&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1023940_3375899.jpg?v=1794276495&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/796259",
-   "mkt": 32800,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "e15303373848817",
    "cat": "earphones",
    "src": "eearphone",
@@ -14526,54 +14572,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/797909",
    "mkt": 27700,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15290303545585",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Bose",
-   "model": "QuietComfort Ultra Headphones",
-   "desc": "QuietComfort Ultra Headphones LUNAR BLUE",
-   "cond": "",
-   "jpy": 27500,
-   "kg": 0.5,
-   "sq": "QuietComfort Ultra Headphones",
-   "store": "秋葉原",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025603_3375880.jpg?v=1794276255&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025603_3375881.jpg?v=1794276255&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025603_3375882.jpg?v=1794276255&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025603_3375883.jpg?v=1794276255&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/797851",
-   "mkt": 27500,
-   "mktN": 5,
-   "comps": []
-  },
-  {
-   "id": "e15296301760753",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "AFUL",
-   "model": "4.4mm",
-   "desc": "PERFORMER 8（4.4mm)",
-   "cond": "",
-   "jpy": 27400,
-   "kg": 0.5,
-   "sq": "4.4mm",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1026455_3376233.jpg?v=1794281240&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1026455_3376234.jpg?v=1794281240&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1026455_3376235.jpg?v=1794281240&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1026455_3376236.jpg?v=1794281240&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/798681",
-   "mkt": 27400,
    "mktN": 1,
    "comps": []
   }
