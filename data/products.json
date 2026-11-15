@@ -1,9 +1,9 @@
 {
  "source": "live",
- "generated": "2026-11-14",
- "generatedAt": "2026-11-14T19:34:33+00:00",
+ "generated": "2026-11-15",
+ "generatedAt": "2026-11-15T00:30:06+00:00",
  "fx": 0.21196,
- "fxDate": "2026-11-14",
+ "fxDate": "2026-11-15",
  "counts": {
   "live": 650,
   "seed": 0
@@ -283,48 +283,6 @@
    "comps": []
   },
   {
-   "id": "k2300008114128",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 100000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/102/2300008114128_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-811-4128/",
-   "mkt": 320000,
-   "mktN": 9,
-   "comps": []
-  },
-  {
-   "id": "k2300008358379",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 100000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/15e/2300008358379_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-835-8379/",
-   "mkt": 320000,
-   "mktN": 9,
-   "comps": []
-  },
-  {
    "id": "k2600077912930",
    "cat": "camera",
    "src": "komehyo",
@@ -535,24 +493,45 @@
    "comps": []
   },
   {
-   "id": "k2300002991879",
+   "id": "k2300008114128",
    "cat": "ring",
    "src": "komehyo",
    "brand": "CHANEL",
    "model": "カメリア リング",
    "desc": "シャネル カメリア リング CHANEL",
    "cond": "A",
-   "jpy": 130000,
+   "jpy": 100000,
+   "kg": 0.1,
+   "sq": "カメリア リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/102/2300008114128_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-811-4128/",
+   "mkt": 240000,
+   "mktN": 8,
+   "comps": []
+  },
+  {
+   "id": "k2300008358379",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
+   "cond": "A",
+   "jpy": 100000,
    "kg": 0.1,
    "sq": "カメリア リング",
    "store": "KOMEHYO SHINJUKU WOMEN",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/748/2300002991879_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/15e/2300008358379_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/230-000-299-1879/",
-   "mkt": 320000,
-   "mktN": 9,
+   "url": "https://komehyo.jp/product/230-000-835-8379/",
+   "mkt": 240000,
+   "mktN": 8,
    "comps": []
   },
   {
@@ -703,27 +682,6 @@
    "comps": []
   },
   {
-   "id": "k2300004610600",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 160000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/eb6/2300004610600_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-461-0600/",
-   "mkt": 320000,
-   "mktN": 9,
-   "comps": []
-  },
-  {
    "id": "k2300009122238",
    "cat": "ring",
    "src": "komehyo",
@@ -741,7 +699,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-912-2238/",
    "mkt": 170000,
-   "mktN": 9,
+   "mktN": 10,
    "comps": []
   },
   {
@@ -763,6 +721,27 @@
    "url": "https://komehyo.jp/product/270-004-408-3202/",
    "mkt": 56000,
    "mktN": 139,
+   "comps": []
+  },
+  {
+   "id": "k2300002991879",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
+   "cond": "A",
+   "jpy": 130000,
+   "kg": 0.1,
+   "sq": "カメリア リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/748/2300002991879_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-299-1879/",
+   "mkt": 240000,
+   "mktN": 8,
    "comps": []
   },
   {
@@ -825,7 +804,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-919-0589/",
    "mkt": 170000,
-   "mktN": 9,
+   "mktN": 10,
    "comps": []
   },
   {
@@ -1035,7 +1014,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-742-0787/",
    "mkt": 170000,
-   "mktN": 9,
+   "mktN": 10,
    "comps": []
   },
   {
@@ -1099,6 +1078,27 @@
    "url": "https://komehyo.jp/product/270-004-406-1095/",
    "mkt": 56000,
    "mktN": 139,
+   "comps": []
+  },
+  {
+   "id": "k2300004610600",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "カメリア リング",
+   "desc": "シャネル カメリア リング CHANEL",
+   "cond": "A",
+   "jpy": 160000,
+   "kg": 0.1,
+   "sq": "カメリア リング",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/eb6/2300004610600_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-461-0600/",
+   "mkt": 240000,
+   "mktN": 8,
    "comps": []
   },
   {
@@ -1309,27 +1309,6 @@
    "url": "https://komehyo.jp/product/260-007-533-0835/",
    "mkt": 62500,
    "mktN": 10,
-   "comps": []
-  },
-  {
-   "id": "k2300007676221",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "PRADA",
-   "model": "1BG422",
-   "desc": "プラダ 1BG422 バッグ PRADA",
-   "cond": "B",
-   "jpy": 100000,
-   "kg": 1.2,
-   "sq": "1BG422",
-   "store": "名古屋本店BAG＋",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/d7f/2300007676221_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-767-6221/",
-   "mkt": 145000,
-   "mktN": 2,
    "comps": []
   },
   {
@@ -1994,7 +1973,7 @@
    "jpy": 150000,
    "kg": 1.2,
    "sq": "グッチ",
-   "store": "【新店】KOMEHYO OSAKA SHINSAIBASHI",
+   "store": "【新店】KOMEHYO FUKUOKA TENJIN",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/a11/2300006568435_1_b.jpg"
    ],
@@ -2372,7 +2351,7 @@
    "jpy": 220000,
    "kg": 0.4,
    "sq": "200",
-   "store": "名古屋本館",
+   "store": "KOMEHYO SHIBUYA",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/12b/2700043885012_1_b.jpg"
    ],
@@ -2443,6 +2422,27 @@
    "url": "https://komehyo.jp/product/270-004-405-7197/",
    "mkt": 90000,
    "mktN": 3,
+   "comps": []
+  },
+  {
+   "id": "k2300009209441",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "LOUIS VUITTON",
+   "model": "M52782",
+   "desc": "ルイヴィトン エピ ジャスミン M52782 バッグ LOUIS VUITTON",
+   "cond": "A",
+   "jpy": 130000,
+   "kg": 1.2,
+   "sq": "M52782",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/536/2300009209441_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-920-9441/",
+   "mkt": 145000,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -2866,27 +2866,6 @@
    "comps": []
   },
   {
-   "id": "k2300005165215",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "タグ・ホイヤー",
-   "model": "WBN201A.BA0640",
-   "desc": "値下げ 5％引き タグ･ホイヤー カレラ･キャリバー7ツインタイムデイト WBN201A.BA0640 SS 自動巻 TAG Heuer",
-   "cond": "A",
-   "jpy": 360000,
-   "kg": 0.4,
-   "sq": "WBN201A.BA0640",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/112/2300005165215_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-516-5215/",
-   "mkt": 370000,
-   "mktN": 2,
-   "comps": []
-  },
-  {
    "id": "k2300007384737",
    "cat": "ring",
    "src": "komehyo",
@@ -3223,27 +3202,6 @@
    "comps": []
   },
   {
-   "id": "k2300006469879",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "LOUIS VUITTON",
-   "model": "BB M94635",
-   "desc": "値下げ 5％引き ルイヴィトン カプシーヌBB M94635 バッグ LOUIS VUITTON",
-   "cond": "A",
-   "jpy": 475000,
-   "kg": 1.2,
-   "sq": "BB M94635",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/48d/2300006469879_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-646-9879/",
-   "mkt": 475000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "k2300009088626",
    "cat": "watch",
    "src": "komehyo",
@@ -3422,7 +3380,7 @@
    "jpy": 450000,
    "kg": 0.4,
    "sq": "3510.50",
-   "store": "【新店】KOMEHYO OSAKA SHINSAIBASHI",
+   "store": "名古屋本館",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/200/2300008183520_1_b.jpg"
    ],
@@ -3664,6 +3622,27 @@
    "comps": []
   },
   {
+   "id": "k2300007501851",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "LOUIS VUITTON",
+   "model": "M15235",
+   "desc": "ルイヴィトン ダストバッグ M15235 バッグ LOUIS VUITTON",
+   "cond": "A",
+   "jpy": 420000,
+   "kg": 1.2,
+   "sq": "M15235",
+   "store": "【新店】KOMEHYO OSAKA SHINSAIBASHI",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/6ea/2300007501851_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-750-1851/",
+   "mkt": 420000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2300008069336",
    "cat": "ring",
    "src": "komehyo",
@@ -3779,7 +3758,7 @@
    "jpy": 400000,
    "kg": 0.4,
    "sq": "WBG1350.FC6418",
-   "store": "名古屋本館",
+   "store": "KOMEHYO SHIBUYA",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/df0/2300008296923_1_b.jpg"
    ],
@@ -3807,27 +3786,6 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-602-9271/",
    "mkt": 400000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2300007501851",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "LOUIS VUITTON",
-   "model": "M15235",
-   "desc": "値下げ 5％引き ルイヴィトン ダストバッグ M15235 バッグ LOUIS VUITTON",
-   "cond": "A",
-   "jpy": 399000,
-   "kg": 1.2,
-   "sq": "M15235",
-   "store": "【新店】KOMEHYO OSAKA SHINSAIBASHI",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/6ea/2300007501851_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-750-1851/",
-   "mkt": 399000,
    "mktN": 1,
    "comps": []
   },
@@ -3884,7 +3842,7 @@
    "jpy": 380000,
    "kg": 0.4,
    "sq": "9S65-00B0/SBGR053",
-   "store": "【新店】KOMEHYO OSAKA SHINSAIBASHI",
+   "store": "名古屋本館",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/838/2700044097995_1_b.jpg"
    ],
@@ -3932,6 +3890,27 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-971-6574/",
+   "mkt": 380000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2700040825172",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "タグ・ホイヤー",
+   "model": "WBN201A.BA0640",
+   "desc": "タグ･ホイヤー カレラ･キャリバー7ツインタイムデイト WBN201A.BA0640 SS 自動巻 TAG Heuer",
+   "cond": "A",
+   "jpy": 380000,
+   "kg": 0.4,
+   "sq": "WBN201A.BA0640",
+   "store": "天神店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/b1d/2700040825172_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-082-5172/",
    "mkt": 380000,
    "mktN": 1,
    "comps": []
@@ -3997,27 +3976,6 @@
    "url": "https://komehyo.jp/product/230-000-851-3860/",
    "mkt": 370000,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "k2300007565730",
-   "cat": "watch",
-   "src": "komehyo",
-   "brand": "SEIKO",
-   "model": "6S78-0A10",
-   "desc": "【ノーメンテナンス還元価格】セイコー クレドールフェニックス 6S78-0A10 SS 自動巻 SEIKO",
-   "cond": "B",
-   "jpy": 360000,
-   "kg": 0.4,
-   "sq": "6S78-0A10",
-   "store": "KOMEHYO SHIBUYA",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/53d/2300007565730_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-756-5730/",
-   "mkt": 360000,
-   "mktN": 1,
    "comps": []
   },
   {
@@ -4147,6 +4105,27 @@
    "comps": []
   },
   {
+   "id": "k2300007565730",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "SEIKO",
+   "model": "6S78-0A10",
+   "desc": "値下げ 5％引き 【ノーメンテナンス還元価格】セイコー クレドールフェニックス 6S78-0A10 SS 自動巻 SEIKO",
+   "cond": "B",
+   "jpy": 342000,
+   "kg": 0.4,
+   "sq": "6S78-0A10",
+   "store": "梅田店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/53d/2300007565730_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-756-5730/",
+   "mkt": 342000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2700043885203",
    "cat": "watch",
    "src": "komehyo",
@@ -4186,48 +4165,6 @@
    "url": "https://komehyo.jp/product/270-004-431-0766/",
    "mkt": 320000,
    "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2300008486508",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 320000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "KOMEHYO GINZA",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/9a6/2300008486508_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-848-6508/",
-   "mkt": 320000,
-   "mktN": 9,
-   "comps": []
-  },
-  {
-   "id": "k2300006607035",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "CHANEL",
-   "model": "カメリア リング",
-   "desc": "シャネル カメリア リング CHANEL",
-   "cond": "A",
-   "jpy": 320000,
-   "kg": 0.1,
-   "sq": "カメリア リング",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/e09/2300006607035_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-660-7035/",
-   "mkt": 320000,
-   "mktN": 9,
    "comps": []
   },
   {
@@ -4399,27 +4336,6 @@
    "comps": []
   },
   {
-   "id": "k2300008847941",
-   "cat": "ring",
-   "src": "komehyo",
-   "brand": "VAN CLEEF & ARPELS",
-   "model": "ペルレ ミディアム リング",
-   "desc": "ヴァンクリーフ&アーペル ペルレ ミディアム リング Van Cleef & Arpels",
-   "cond": "A",
-   "jpy": 300000,
-   "kg": 0.1,
-   "sq": "ペルレ ミディアム リング",
-   "store": "【新店】KOMEHYO YOKOHAMA",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/0ba/2300008847941_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-884-7941/",
-   "mkt": 300000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
    "id": "k2700037873155",
    "cat": "watch",
    "src": "komehyo",
@@ -4493,7 +4409,7 @@
    "jpy": 280000,
    "kg": 0.4,
    "sq": "WAJ2150.BA0870",
-   "store": "KOMEHYO SHINJUKU",
+   "store": "梅田店",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/185/2300008561168_1_b.jpg"
    ],
@@ -4604,6 +4520,27 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-339-9618/",
+   "mkt": 260000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2700043774989",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "LOUIS VUITTON",
+   "model": "M54347",
+   "desc": "ルイヴィトン ミラ M54347 バッグ LOUIS VUITTON",
+   "cond": "A",
+   "jpy": 260000,
+   "kg": 1.2,
+   "sq": "M54347",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/cf9/2700043774989_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/270-004-377-4989/",
    "mkt": 260000,
    "mktN": 1,
    "comps": []
@@ -4724,7 +4661,7 @@
    "jpy": 250000,
    "kg": 0.4,
    "sq": "9F62-0AB0/SBGX059",
-   "store": "名古屋本館",
+   "store": "KOMEHYO SHIBUYA",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/854/2300008856592_1_b.jpg"
    ],
@@ -4836,27 +4773,6 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-317-2808/",
    "mkt": 250000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2700043774989",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "LOUIS VUITTON",
-   "model": "M54347",
-   "desc": "値下げ 5％引き ルイヴィトン ミラ M54347 バッグ LOUIS VUITTON",
-   "cond": "A",
-   "jpy": 247000,
-   "kg": 1.2,
-   "sq": "M54347",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/cf9/2700043774989_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/270-004-377-4989/",
-   "mkt": 247000,
    "mktN": 1,
    "comps": []
   },
@@ -5008,6 +4924,48 @@
    "comps": []
   },
   {
+   "id": "k2300006469862",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "LOUIS VUITTON",
+   "model": "M68773",
+   "desc": "ルイヴィトン LOUIS VUITTON 2054 アシンメトリカル スリングバッグ M68773 ショルダーバッグ LOUIS VUITTON",
+   "cond": "A",
+   "jpy": 230000,
+   "kg": 1.2,
+   "sq": "M68773",
+   "store": "名古屋本館",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/2c2/2300006469862_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-646-9862/",
+   "mkt": 230000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2300007430939",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "LOUIS VUITTON",
+   "model": "モノグラム トレヴィ PM",
+   "desc": "ルイヴィトン モノグラム トレヴィ PM バッグ LOUIS VUITTON",
+   "cond": "A",
+   "jpy": 230000,
+   "kg": 1.2,
+   "sq": "モノグラム トレヴィ PM",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/9ca/2300007430939_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-743-0939/",
+   "mkt": 230000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2300009808439",
    "cat": "ring",
    "src": "komehyo",
@@ -5088,7 +5046,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-922-0392/",
    "mkt": 220000,
-   "mktN": 2,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -5109,49 +5067,28 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-793-7735/",
    "mkt": 220000,
-   "mktN": 2,
+   "mktN": 3,
    "comps": []
   },
   {
-   "id": "k2300006469862",
-   "cat": "bag",
+   "id": "k2300008799653",
+   "cat": "ring",
    "src": "komehyo",
-   "brand": "LOUIS VUITTON",
-   "model": "M68773",
-   "desc": "値下げ 5％引き ルイヴィトン LOUIS VUITTON 2054 アシンメトリカル スリングバッグ M68773 ショルダーバッグ LOUIS VUITTON",
+   "brand": "VAN CLEEF & ARPELS",
+   "model": "ペルレ スモール リング",
+   "desc": "ヴァンクリーフ&アーペル ペルレ スモール リング Van Cleef & Arpels",
    "cond": "A",
-   "jpy": 218500,
-   "kg": 1.2,
-   "sq": "M68773",
-   "store": "名古屋本館",
+   "jpy": 220000,
+   "kg": 0.1,
+   "sq": "ペルレ スモール リング",
+   "store": "日本橋店",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/2c2/2300006469862_1_b.jpg"
+    "https://img.komehyo.jp/contents/images/goods/494/2300008799653_1_b.jpg"
    ],
    "snap": false,
-   "url": "https://komehyo.jp/product/230-000-646-9862/",
-   "mkt": 218500,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "k2300007430939",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "LOUIS VUITTON",
-   "model": "値下げ 5％引き モノグラム",
-   "desc": "値下げ 5％引き ルイヴィトン モノグラム トレヴィ PM バッグ LOUIS VUITTON",
-   "cond": "A",
-   "jpy": 218500,
-   "kg": 1.2,
-   "sq": "値下げ 5％引き モノグラム",
-   "store": "KOMEHYO SHINJUKU WOMEN",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/9ca/2300007430939_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-743-0939/",
-   "mkt": 218500,
-   "mktN": 1,
+   "url": "https://komehyo.jp/product/230-000-879-9653/",
+   "mkt": 220000,
+   "mktN": 3,
    "comps": []
   },
   {
@@ -5491,6 +5428,27 @@
    "comps": []
   },
   {
+   "id": "k2300009456876",
+   "cat": "watch",
+   "src": "komehyo",
+   "brand": "タグ・ホイヤー",
+   "model": "CV2010.BA0786",
+   "desc": "【ノーメンテナンス還元価格】タグ･ホイヤー カレラタキメータクロノグラフ CV2010.BA0786 SS 自動巻 TAG Heuer",
+   "cond": "B",
+   "jpy": 180000,
+   "kg": 0.4,
+   "sq": "CV2010.BA0786",
+   "store": "【新店】KOMEHYO OSAKA SHINSAIBASHI",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/e7d/2300009456876_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-945-6876/",
+   "mkt": 180000,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "k2300010039372",
    "cat": "watch",
    "src": "komehyo",
@@ -5508,7 +5466,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-001-003-9372/",
    "mkt": 180000,
-   "mktN": 1,
+   "mktN": 2,
    "comps": []
   },
   {
@@ -5718,7 +5676,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-899-5864/",
    "mkt": 170000,
-   "mktN": 9,
+   "mktN": 10,
    "comps": []
   },
   {
@@ -5739,7 +5697,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-388-9560/",
    "mkt": 170000,
-   "mktN": 9,
+   "mktN": 10,
    "comps": []
   },
   {
@@ -5760,7 +5718,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-388-9553/",
    "mkt": 170000,
-   "mktN": 9,
+   "mktN": 10,
    "comps": []
   },
   {
@@ -5781,7 +5739,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-752-5772/",
    "mkt": 170000,
-   "mktN": 9,
+   "mktN": 10,
    "comps": []
   },
   {
@@ -5802,7 +5760,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-564-6585/",
    "mkt": 170000,
-   "mktN": 9,
+   "mktN": 10,
    "comps": []
   },
   {
@@ -5816,14 +5774,35 @@
    "jpy": 170000,
    "kg": 0.1,
    "sq": "マトラッセ リング",
-   "store": "KOMEHYO SHINJUKU WOMEN",
+   "store": "青山店",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/157/2300008817470_1_b.jpg"
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-881-7470/",
    "mkt": 170000,
-   "mktN": 9,
+   "mktN": 10,
+   "comps": []
+  },
+  {
+   "id": "k2300008407336",
+   "cat": "ring",
+   "src": "komehyo",
+   "brand": "CHANEL",
+   "model": "マトラッセ リング",
+   "desc": "シャネル マトラッセ リング CHANEL",
+   "cond": "A",
+   "jpy": 170000,
+   "kg": 0.1,
+   "sq": "マトラッセ リング",
+   "store": "KOMEHYO SHINJUKU WOMEN",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/824/2300008407336_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-840-7336/",
+   "mkt": 170000,
+   "mktN": 10,
    "comps": []
   },
   {
@@ -6434,27 +6413,6 @@
    "url": "https://komehyo.jp/product/230-000-949-9873/",
    "mkt": 130000,
    "mktN": 2,
-   "comps": []
-  },
-  {
-   "id": "k2300009209441",
-   "cat": "bag",
-   "src": "komehyo",
-   "brand": "LOUIS VUITTON",
-   "model": "M52782",
-   "desc": "ルイヴィトン エピ ジャスミン M52782 バッグ LOUIS VUITTON",
-   "cond": "A",
-   "jpy": 130000,
-   "kg": 1.2,
-   "sq": "M52782",
-   "store": "名古屋本館",
-   "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/536/2300009209441_1_b.jpg"
-   ],
-   "snap": false,
-   "url": "https://komehyo.jp/product/230-000-920-9441/",
-   "mkt": 130000,
-   "mktN": 1,
    "comps": []
   },
   {
@@ -7172,6 +7130,27 @@
    "comps": []
   },
   {
+   "id": "k2300008562530",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "PRADA",
+   "model": "BR3215",
+   "desc": "プラダ BR3215 バッグ PRADA",
+   "cond": "A",
+   "jpy": 100000,
+   "kg": 1.2,
+   "sq": "BR3215",
+   "store": "梅田店",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/dc9/2300008562530_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-856-2530/",
+   "mkt": 100000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
    "id": "k2700043460714",
    "cat": "bag",
    "src": "komehyo",
@@ -7209,6 +7188,27 @@
    ],
    "snap": false,
    "url": "https://komehyo.jp/product/230-000-935-3823/",
+   "mkt": 100000,
+   "mktN": 1,
+   "comps": []
+  },
+  {
+   "id": "k2300007676221",
+   "cat": "bag",
+   "src": "komehyo",
+   "brand": "PRADA",
+   "model": "1BG422",
+   "desc": "プラダ 1BG422 バッグ PRADA",
+   "cond": "B",
+   "jpy": 100000,
+   "kg": 1.2,
+   "sq": "1BG422",
+   "store": "名古屋本店BAG＋",
+   "imgs": [
+    "https://img.komehyo.jp/contents/images/goods/d7f/2300007676221_1_b.jpg"
+   ],
+   "snap": false,
+   "url": "https://komehyo.jp/product/230-000-767-6221/",
    "mkt": 100000,
    "mktN": 1,
    "comps": []
@@ -11092,6 +11092,30 @@
    "comps": []
   },
   {
+   "id": "e15290767442161",
+   "cat": "player",
+   "src": "eearphone",
+   "brand": "iBasso Audio",
+   "model": "DX270",
+   "desc": "DX270 GRY",
+   "cond": "",
+   "jpy": 169500,
+   "kg": 0.4,
+   "sq": "DX270",
+   "store": "日本橋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025794_3370377.jpg?v=1794026488&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025794_3370378.jpg?v=1794026488&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025794_3370379.jpg?v=1794026488&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025794_3370380.jpg?v=1794026488&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/798035",
+   "mkt": 169650,
+   "mktN": 2,
+   "comps": []
+  },
+  {
    "id": "e15284753727729",
    "cat": "earphones",
    "src": "eearphone",
@@ -11496,30 +11520,6 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/798766",
    "mkt": 170000,
-   "mktN": 1,
-   "comps": []
-  },
-  {
-   "id": "e15290767442161",
-   "cat": "player",
-   "src": "eearphone",
-   "brand": "iBasso Audio",
-   "model": "DX270",
-   "desc": "DX270 GRY",
-   "cond": "",
-   "jpy": 169500,
-   "kg": 0.4,
-   "sq": "DX270",
-   "store": "日本橋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025794_3370377.jpg?v=1794026488&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025794_3370378.jpg?v=1794026488&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025794_3370379.jpg?v=1794026488&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025794_3370380.jpg?v=1794026488&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/798035",
-   "mkt": 169500,
    "mktN": 1,
    "comps": []
   },
