@@ -1,9 +1,9 @@
 {
  "source": "live",
- "generated": "2026-11-22",
- "generatedAt": "2026-11-22T18:48:21+00:00",
- "fx": 0.21367,
- "fxDate": "2026-11-22",
+ "generated": "2026-11-23",
+ "generatedAt": "2026-11-23T01:14:54+00:00",
+ "fx": 0.21378,
+ "fxDate": "2026-11-23",
  "counts": {
   "live": 650,
   "seed": 0
@@ -673,7 +673,6 @@
    "sq": "新入荷 ＥＯＳ６Ｄ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/ed6/2600075331207_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/031/2600075331207s.jpg"
    ],
    "snap": false,
@@ -1288,7 +1287,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/260-008-385-6785/",
    "mkt": 70000,
-   "mktN": 8,
+   "mktN": 7,
    "comps": []
   },
   {
@@ -1309,7 +1308,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-397-2606/",
    "mkt": 70000,
-   "mktN": 8,
+   "mktN": 7,
    "comps": []
   },
   {
@@ -2044,7 +2043,7 @@
    "snap": false,
    "url": "https://komehyo.jp/product/270-004-426-2669/",
    "mkt": 70000,
-   "mktN": 8,
+   "mktN": 7,
    "comps": []
   },
   {
@@ -2270,7 +2269,6 @@
    "sq": "新入荷 ＸＦ１６ｍｍ Ｆ１．４Ｒ",
    "store": "名古屋本館",
    "imgs": [
-    "https://img.komehyo.jp/contents/images/goods/b8e/2700044459939_b.jpg",
     "https://img.komehyo.jp/contents/images/goods/8ef/2700044459939s.jpg"
    ],
    "snap": false,
@@ -2941,7 +2939,7 @@
    "jpy": 240000,
    "kg": 0.4,
    "sq": "6R54-00P0/SBEJ029",
-   "store": "梅田店",
+   "store": "心斎橋店",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/68d/2300010396246_1_b.jpg"
    ],
@@ -3949,7 +3947,7 @@
    "jpy": 350000,
    "kg": 0.4,
    "sq": "9F61-0AG0/SBGX319",
-   "store": "梅田店",
+   "store": "心斎橋店",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/e0a/2300009688871_1_b.jpg"
    ],
@@ -4180,7 +4178,7 @@
    "jpy": 300000,
    "kg": 0.4,
    "sq": "PVD WAR1113.BA0602",
-   "store": "梅田店",
+   "store": "【新店】KOMEHYO FUKUOKA TENJIN",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/74e/2300010299493_1_b.jpg"
    ],
@@ -6280,7 +6278,7 @@
    "jpy": 130000,
    "kg": 0.4,
    "sq": "1512.30",
-   "store": "梅田店",
+   "store": "【新店】KOMEHYO FUKUOKA TENJIN",
    "imgs": [
     "https://img.komehyo.jp/contents/images/goods/d24/2300009606981_1_b.jpg"
    ],
@@ -8126,7 +8124,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/802249",
    "mkt": 27200,
-   "mktN": 9,
+   "mktN": 7,
    "comps": []
   },
   {
@@ -9114,6 +9112,30 @@
    "comps": []
   },
   {
+   "id": "e15273510273265",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MWP22J/A",
+   "desc": "AirPods Pro MWP22J/A",
+   "cond": "",
+   "jpy": 4950,
+   "kg": 0.5,
+   "sq": "MWP22J/A",
+   "store": "名古屋",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022713_3357542.jpg?v=1793517132&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022713_3357543.jpg?v=1793517132&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022713_3357544.jpg?v=1793517132&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022713_3357545.jpg?v=1793517132&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/795055",
+   "mkt": 5225,
+   "mktN": 4,
+   "comps": []
+  },
+  {
    "id": "e15259581186289",
    "cat": "earphones",
    "src": "eearphone",
@@ -9546,6 +9568,30 @@
    "comps": []
   },
   {
+   "id": "e15282434867441",
+   "cat": "earphones",
+   "src": "eearphone",
+   "brand": "Apple",
+   "model": "MWP22J/A",
+   "desc": "AirPods Pro MWP22J/A",
+   "cond": "",
+   "jpy": 5040,
+   "kg": 0.5,
+   "sq": "MWP22J/A",
+   "store": "秋葉原",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024475_3368933.jpg?v=1793953765&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024475_3368934.jpg?v=1793953765&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024475_3368935.jpg?v=1793953765&width=700",
+    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1024475_3368936.jpg?v=1793953765&width=700"
+   ],
+   "snap": false,
+   "url": "https://www.e-earphone.jp/products/796782",
+   "mkt": 5225,
+   "mktN": 4,
+   "comps": []
+  },
+  {
    "id": "e15302929121521",
    "cat": "earphones",
    "src": "eearphone",
@@ -9661,7 +9707,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/801563",
    "mkt": 27200,
-   "mktN": 9,
+   "mktN": 7,
    "comps": []
   },
   {
@@ -9685,7 +9731,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/799418",
    "mkt": 27200,
-   "mktN": 9,
+   "mktN": 7,
    "comps": []
   },
   {
@@ -10152,30 +10198,6 @@
    ]
   },
   {
-   "id": "e15273510273265",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MWP22J/A",
-   "desc": "AirPods Pro MWP22J/A",
-   "cond": "",
-   "jpy": 4950,
-   "kg": 0.5,
-   "sq": "MWP22J/A",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022713_3357542.jpg?v=1793517132&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022713_3357543.jpg?v=1793517132&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022713_3357544.jpg?v=1793517132&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1022713_3357545.jpg?v=1793517132&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/795055",
-   "mkt": 5040,
-   "mktN": 3,
-   "comps": []
-  },
-  {
    "id": "e15199493914865",
    "cat": "speakers",
    "src": "eearphone",
@@ -10340,7 +10362,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/801660",
    "mkt": 7240,
-   "mktN": 4,
+   "mktN": 5,
    "comps": []
   },
   {
@@ -10917,30 +10939,6 @@
    "url": "https://www.e-earphone.jp/products/801888",
    "mkt": 24900,
    "mktN": 5,
-   "comps": []
-  },
-  {
-   "id": "e15291034304753",
-   "cat": "earphones",
-   "src": "eearphone",
-   "brand": "Apple",
-   "model": "MFHP4J/A",
-   "desc": "AirPods Pro 3 MFHP4J/A",
-   "cond": "",
-   "jpy": 27100,
-   "kg": 0.5,
-   "sq": "MFHP4J/A",
-   "store": "名古屋",
-   "imgs": [
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025965_3371911.jpg?v=1794103335&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025965_3371912.jpg?v=1794103335&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025965_3371913.jpg?v=1794103335&width=700",
-    "https://cdn.shopify.com/s/files/1/0700/2990/2065/files/1025965_3371914.jpg?v=1794103335&width=700"
-   ],
-   "snap": false,
-   "url": "https://www.e-earphone.jp/products/798206",
-   "mkt": 27200,
-   "mktN": 9,
    "comps": []
   },
   {
@@ -14547,7 +14545,7 @@
    "snap": false,
    "url": "https://www.e-earphone.jp/products/798844",
    "mkt": 27200,
-   "mktN": 9,
+   "mktN": 7,
    "comps": []
   },
   {
