@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T07:24:16+00:00",
+ "generatedAt": "2026-11-24T19:47:58+00:00",
  "ok": true,
  "live_items": 650,
  "sites": {
@@ -22,7 +22,7 @@
  "photos": {
   "listings_with_photo": 650,
   "listings_without_photo": 0,
-  "from_product_pages": 0,
+  "from_product_pages": 7,
   "examples_without_photo": []
  },
  "refused_by": {
@@ -682,7 +682,7 @@
    "site": "eearphone",
    "cat": "earphones",
    "url": "https://www.e-earphone.jp/collections/44/products.json?limit=250&page=1",
-   "found": 243,
+   "found": 240,
    "note": ""
   },
   {
@@ -724,7 +724,7 @@
    "site": "eearphone",
    "cat": "speakers",
    "url": "https://www.e-earphone.jp/collections/51/products.json?limit=250&page=1",
-   "found": 250,
+   "found": 222,
    "note": ""
   },
   {
