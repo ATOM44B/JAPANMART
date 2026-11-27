@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T03:22:33+00:00",
+ "generatedAt": "2026-11-27T15:46:36+00:00",
  "ok": true,
  "live_items": 650,
  "sites": {
@@ -22,7 +22,7 @@
  "photos": {
   "listings_with_photo": 650,
   "listings_without_photo": 0,
-  "from_product_pages": 4,
+  "from_product_pages": 19,
   "examples_without_photo": []
  },
  "refused_by": {
@@ -31,12 +31,6 @@
    "server": "awselb/2.0",
    "content_type": "text/html",
    "reply_starts_with": "<html> <head><title>403 Forbidden</title></head> <body> <center><h1>403 Forbidden</h1></center> </body> </html> <!-- a padding to disable MSIE and Chrome friendly error page --> <!-- a padding "
-  },
-  "komehyo.jp": {
-   "status": 500,
-   "server": "Apache",
-   "content_type": "text/html;charset=UTF-8",
-   "reply_starts_with": "<!doctype html> <html lang=\"ja\"> <head prefix=\"og: http://ogp.me/ns# article: http://ogp.me/ns/article#\"> <meta charset=\"UTF-8\"> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"> <meta name=\""
   }
  },
  "queries": [
@@ -688,7 +682,7 @@
    "site": "eearphone",
    "cat": "earphones",
    "url": "https://www.e-earphone.jp/collections/44/products.json?limit=250&page=1",
-   "found": 242,
+   "found": 240,
    "note": ""
   },
   {
@@ -730,7 +724,7 @@
    "site": "eearphone",
    "cat": "speakers",
    "url": "https://www.e-earphone.jp/collections/51/products.json?limit=250&page=1",
-   "found": 219,
+   "found": 216,
    "note": ""
   },
   {
